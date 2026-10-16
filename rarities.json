@@ -1,0 +1,45 @@
+{
+  "rarities": [
+    {
+      "id": 0,
+      "label": "Common"
+    },
+    {
+      "id": 1,
+      "label": "Uncommon"
+    },
+    {
+      "id": 2,
+      "label": "Rare"
+    },
+    {
+      "id": 3,
+      "label": "Very Rare"
+    },
+    {
+      "id": 4,
+      "label": "Import"
+    },
+    {
+      "id": 5,
+      "label": "Exotic"
+    },
+    {
+      "id": 6,
+      "label": "Black Market"
+    },
+    {
+      "id": 7,
+      "label": "Premium"
+    },
+    {
+      "id": 8,
+      "label": "Limited"
+    },
+    {
+      "id": 9,
+      "label": "Legacy"
+    }
+  ],
+  "schema_version": 1
+}
