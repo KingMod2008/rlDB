@@ -1,0 +1,10 @@
+{
+    "version":  "2026.10.17.1044",
+    "url":  "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.17.1044.zip",
+    "sha256":  "054c61745f6639f47961d785bee8eaa8e246d60d05c60ded9feaf4a1377d6108",
+    "bytes":  34388292,
+    "exe_sha256":  "24ac378badaf64bcdc2398e3ea3c09bf220f2f6c182af8323f40cffea9326cb5",
+    "setup_url":  "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.17.1044.exe",
+    "setup_sha256":  "70d97e07b24141952760738a661a99b871ef8ff5ce6019831b625164f0a7c03d",
+    "setup_bytes":  66560
+}

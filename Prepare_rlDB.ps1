@@ -29,11 +29,11 @@ if ($destinationRoot -ne $databaseRoot) {
             if (Test-Path -LiteralPath $cleanupPath) { Remove-Item -LiteralPath $cleanupPath -Force -Recurse }
         }
     }
-    foreach ($file in 'items.json','titles.json','paints.json','rarities.json','manifest.json','README.md','Update_rlDB.bat','Prepare_rlDB.ps1') {
+    foreach ($file in 'items.json','titles.json','paints.json','rarities.json','manifest.json','README.md','Update_rlDB.bat','Prepare_rlDB.ps1','Publish_KingMod.bat','Publish_KingMod.ps1','KingMod-Setup.exe') {
         $sourceFile = Join-Path $databaseRoot $file
         if (Test-Path -LiteralPath $sourceFile) { Copy-Item -LiteralPath $sourceFile -Destination (Join-Path $destinationRoot $file) -Force }
     }
-    foreach ($folder in 'images','catalogs') {
+    foreach ($folder in 'images','catalogs','releases') {
         $sourceFolder = Join-Path $databaseRoot $folder
         if (Test-Path -LiteralPath $sourceFolder) {
             & robocopy $sourceFolder (Join-Path $destinationRoot $folder) /E /R:2 /W:1 /NFL /NDL /NJH /NJS | Out-Null
