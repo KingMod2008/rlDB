@@ -40,11 +40,11 @@ local function refresh_local_primary_id()
     if not eos_identity_key then
         if os.time() - last_identity_lookup < 2 then return end
         last_identity_lookup = os.time()
-        eos_identity_key = hebnix.eos_token_async(hebnix.detected_platform())
+        eos_identity_key = kingmod.eos_token_async(kingmod.detected_platform())
         return
     end
 
-    local token = hebnix.eos_result(eos_identity_key)
+    local token = kingmod.eos_result(eos_identity_key)
     if token == false then
         eos_identity_key = nil
         return
@@ -195,7 +195,7 @@ function plugin.on_game_event(event_type, event)
         
         -- StatsAPI doesn't send the gamemode string, so we must pull it from the Launch.log
         -- to properly detect Private Matches where the Playlist ID is just '6'.
-        local log_info = hebnix.parse_launch_log(false)
+        local log_info = kingmod.parse_launch_log(false)
         local raw_gamemode = ""
         local log_playlist = 0
         
@@ -321,7 +321,7 @@ function plugin.on_tick()
 end
 
 function plugin.on_overlay(draw, w, h)
-    if not in_game or is_replay or match_ended or not hebnix.get_bool("heatseeker_enable_overlay", true) then 
+    if not in_game or is_replay or match_ended or not kingmod.get_bool("heatseeker_enable_overlay", true) then 
         return 
     end
 

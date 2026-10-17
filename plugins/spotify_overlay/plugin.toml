@@ -1,6 +1,6 @@
 name = "Spotify Overlay"
-author = "nixvio64"
-version = "1.0.2"
+author = "rlsdk"
+version = "1.0.3"
 entry = "main.lua"
 
 

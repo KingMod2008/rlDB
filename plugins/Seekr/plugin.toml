@@ -1,5 +1,5 @@
 name = "Seekr"
-author = "Hebbins"
-version = "1.0.69"
+author = "rlsdk"
+version = "1.0.70"
 entry = "main.lua"
 plugin_id = "f735028efecd7ee116766a748c81f28f"

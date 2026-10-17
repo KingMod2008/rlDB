@@ -14,7 +14,7 @@ end
 local function reload_saves()
     saves = {}
     save_lookup = {}
-    for _, account in ipairs(hebnix.find_save_accounts()) do
+    for _, account in ipairs(kingmod.find_save_accounts()) do
         local label = string.format("%s  (%s)", account.display_name, account.account_id)
         table.insert(saves, label)
         save_lookup[label] = account.path
@@ -32,7 +32,7 @@ local function load_settings()
         status = "Choose a save file first."
         return
     end
-    local result = hebnix.load_save_configuration(selected_path)
+    local result = kingmod.load_save_configuration(selected_path)
     if result.error then
         status = "Could not read save: " .. result.error
         return
@@ -40,7 +40,7 @@ local function load_settings()
     settings = result.values or {}
     for _, value in ipairs(settings) do
         if value.editor_kind ~= "read_only" then
-            hebnix.set(setting_key(value), value.value)
+            kingmod.set(setting_key(value), value.value)
         end
     end
     status = string.format("Loaded %d settings. Rocket League must be closed to edit or restore.", #settings)
@@ -89,7 +89,7 @@ local function render_setting(ui, value)
         end
 
         if row.button("Apply " .. value.name) then
-            local result = hebnix.update_save_configuration(selected_path, value.id, input)
+            local result = kingmod.update_save_configuration(selected_path, value.id, input)
             if result.error then
                 status = "Not changed: " .. result.error
             else
@@ -140,12 +140,12 @@ function plugin.on_settings(ui)
     ui.space(8)
     ui.heading("Backups")
     if ui.button("Create backup beside save") then
-        local result = hebnix.backup_save_configuration(selected_path)
+        local result = kingmod.backup_save_configuration(selected_path)
         status = result.error and ("Backup failed: " .. result.error) or ("Backup: " .. result.backup)
     end
     local restore_path = ui.text_input("save_inspector_restore_path", "Full path to a .save or .bak backup")
     if ui.button("Restore selected backup") then
-        local result = hebnix.restore_save_configuration(selected_path, restore_path)
+        local result = kingmod.restore_save_configuration(selected_path, restore_path)
         if result.error then
             status = "Restore failed: " .. result.error
         else

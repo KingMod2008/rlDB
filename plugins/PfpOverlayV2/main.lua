@@ -9,11 +9,11 @@
 
 local plugin = {}
 
-local PLUGIN_DIR = hebnix.plugin_dir()
+local PLUGIN_DIR = kingmod.plugin_dir()
 
 -- only logs when "debug logs" is on in settings, so the console stays quiet
 local function dlog(msg)
-    if hebnix.get_bool("debug_logs", false) then hebnix.log(msg) end
+    if kingmod.get_bool("debug_logs", false) then kingmod.log(msg) end
 end
 
 -- ==========================================
@@ -27,7 +27,7 @@ local function read_overrides_file()
     if not f then return nil end
     local content = f:read("*a")
     f:close()
-    local ok, decoded = pcall(hebnix.json_decode, content)
+    local ok, decoded = pcall(kingmod.json_decode, content)
     if ok and type(decoded) == "table" then return decoded end
     return nil
 end
@@ -38,8 +38,8 @@ local function write_overrides_file(tbl)
     table.sort(keys)
     local lines = {}
     for i, k in ipairs(keys) do
-        local ok_k, jk = pcall(hebnix.json_encode, k)
-        local ok_v, jv = pcall(hebnix.json_encode, tbl[k])
+        local ok_k, jk = pcall(kingmod.json_encode, k)
+        local ok_v, jv = pcall(kingmod.json_encode, tbl[k])
         if ok_k and ok_v then
             lines[#lines + 1] = "  " .. jk .. ": " .. jv .. (i < #keys and "," or "")
         end
@@ -65,16 +65,16 @@ local function load_overrides()
 end
 
 -- "hebnix" (default) or "manual". epic has no manual method, so it
--- always goes through hebnix.
+-- always goes through kingmod.
 local function platform_priority(platform)
-    if platform == "steam" then return hebnix.get_string("priority_steam", "hebnix") end
-    if platform:find("xbox") then return hebnix.get_string("priority_xboxone", "hebnix") end
-    if platform:find("ps") then return hebnix.get_string("priority_psn", "hebnix") end
+    if platform == "steam" then return kingmod.get_string("priority_steam", "hebnix") end
+    if platform:find("xbox") then return kingmod.get_string("priority_xboxone", "hebnix") end
+    if platform:find("ps") then return kingmod.get_string("priority_psn", "hebnix") end
     return "hebnix"
 end
 
-local function steam_api_key() return hebnix.get_string("steam_api_key", "") end
-local function xbox_api_key() return hebnix.get_string("xbox_api_key", "") end
+local function steam_api_key() return kingmod.get_string("steam_api_key", "") end
+local function xbox_api_key() return kingmod.get_string("xbox_api_key", "") end
 
 -- ==========================================
 -- Match state, same as the PlatformDisplay plugin - which playlist is
@@ -136,7 +136,7 @@ local ui_scale_pending_key = nil
 
 local function refresh_detected_ui_scale()
     if ui_scale_pending_key then
-        local summary = hebnix.save_summary_result(ui_scale_pending_key)
+        local summary = kingmod.save_summary_result(ui_scale_pending_key)
         if summary == nil or summary == "pending" then return end
         ui_scale_pending_key = nil
         if type(summary) == "table" and summary.ui_scale and summary.ui_scale > 0 then
@@ -147,29 +147,29 @@ local function refresh_detected_ui_scale()
             -- somewhere sensible, and tell the user why in the settings.
             local why = type(summary) == "table" and summary.error or "no interface scale in save data"
             dlog("PfpOverlayV2: save data fetch failed (" .. tostring(why) .. "), auto-detect off, scale 100%")
-            hebnix.set("ui_scale_auto_detect", false)
-            hebnix.set("rl_ui_scale_percent", "100")
-            hebnix.set("ui_scale_autodisabled", true)
+            kingmod.set("ui_scale_auto_detect", false)
+            kingmod.set("rl_ui_scale_percent", "100")
+            kingmod.set("ui_scale_autodisabled", true)
         end
         return
     end
 
-    if not hebnix.get_bool("ui_scale_auto_detect", true) then return end
+    if not kingmod.get_bool("ui_scale_auto_detect", true) then return end
     if os.time() - last_ui_scale_check < 5 then return end
     last_ui_scale_check = os.time()
-    hebnix.clear_save_summary_cache()
-    ui_scale_pending_key = hebnix.load_save_summary_async()
+    kingmod.clear_save_summary_cache()
+    ui_scale_pending_key = kingmod.load_save_summary_async()
 end
 
 local function ui_scale()
-    if hebnix.get_bool("ui_scale_auto_detect", true) and detected_ui_scale then
+    if kingmod.get_bool("ui_scale_auto_detect", true) and detected_ui_scale then
         return detected_ui_scale
     end
     -- manual field is a percentage ("75" = 75%, same as RL's own slider)
-    local raw = hebnix.get_string("rl_ui_scale_percent", "")
+    local raw = kingmod.get_string("rl_ui_scale_percent", "")
     if raw == "" then
         -- field from before it was a percentage held a decimal (0.75)
-        local old = tonumber(hebnix.get_string("rl_ui_scale", ""))
+        local old = tonumber(kingmod.get_string("rl_ui_scale", ""))
         if old and old > 0 then return old end
         return REFERENCE_UI_SCALE
     end
@@ -298,8 +298,8 @@ local function get_goal_nameplate_slot(screen_w, screen_h)
     local x, y, w, h = GOAL_NAMEPLATE_REFERENCE_SLOT[1], GOAL_NAMEPLATE_REFERENCE_SLOT[2],
         GOAL_NAMEPLATE_REFERENCE_SLOT[3], GOAL_NAMEPLATE_REFERENCE_SLOT[4]
     y = y + quad(NAMEPLATE_EXTRA_Y_QUAD, ui_scale())
-    x = x + hebnix.get_number("goal_nameplate_x_nudge", 0)
-    y = y + hebnix.get_number("goal_nameplate_y_nudge", 0)
+    x = x + kingmod.get_number("goal_nameplate_x_nudge", 0)
+    y = y + kingmod.get_number("goal_nameplate_y_nudge", 0)
     return scale_slot(x, y, w, h, NAMEPLATE_UI_QUAD, screen_w, screen_h)
 end
 
@@ -314,17 +314,17 @@ end
 local players = {}
 local player_order = {}
 local roster_seq = 0
-local pending_tracker = {} -- key -> true, players awaiting a hebnix.stats_result
+local pending_tracker = {} -- key -> true, players awaiting a kingmod.stats_result
 
 local last_goal = nil -- { scorer_name, scorer_key, timestamp } or nil
 
 local function refresh_match_playlist()
     if not match_log_key then
-        hebnix.clear_launch_log()
-        match_log_key = hebnix.parse_launch_log_async(false)
+        kingmod.clear_launch_log()
+        match_log_key = kingmod.parse_launch_log_async(false)
         return
     end
-    local info = hebnix.launch_log_result(match_log_key)
+    local info = kingmod.launch_log_result(match_log_key)
     if type(info) ~= "table" then return end
     match_log_key = nil
     if type(info.session) == "table" then my_id = info.session.primary_id end
@@ -346,7 +346,7 @@ local function parse_platform(pid)
 end
 
 local function is_bot_id(pid)
-    return pid == "" or hebnix.is_bot(pid)
+    return pid == "" or kingmod.is_bot(pid)
 end
 
 -- real players are keyed by their platform id. bots (and anyone without
@@ -404,7 +404,7 @@ local function start_avatar_download(key, avatar_url, source)
     local p = players[key]
     if not p then return end
     download_requests[avatar_url] = { key = key, source = source }
-    hebnix.http_download_async(avatar_url, avatar_url, {})
+    kingmod.http_download_async(avatar_url, avatar_url, {})
     p.status = "downloading avatar image"
 end
 
@@ -424,7 +424,7 @@ local identity_pending_key = nil
 
 local function refresh_local_identity()
     if identity_pending_key then
-        local log = hebnix.launch_log_result(identity_pending_key)
+        local log = kingmod.launch_log_result(identity_pending_key)
         if log == nil or log == "pending" then return end
         identity_pending_key = nil
         local session = log and log.session
@@ -440,22 +440,22 @@ local function refresh_local_identity()
 
     if os.time() - last_identity_check < 5 then return end
     last_identity_check = os.time()
-    hebnix.clear_launch_log()
-    identity_pending_key = hebnix.parse_launch_log_async(false)
+    kingmod.clear_launch_log()
+    identity_pending_key = kingmod.parse_launch_log_async(false)
 end
 
 -- ==========================================
--- CDN avatar uploads (pubapi.hebnix.com) - lets epic players, who have
+-- CDN avatar uploads (pubapi.kingmod.com) - lets epic players, who have
 -- no public avatar api, contribute their own avatar to a shared CDN
 -- other clients can look up. Locked to local_epic_id so this can only
 -- ever upload the account actually running the client - overrides.json
 -- (below) stays the place for setting anyone else's avatar. Uses
--- hebnix.http_multipart_post_async, which sends the file as raw bytes
+-- kingmod.http_multipart_post_async, which sends the file as raw bytes
 -- (not base64), so this costs exactly the file's own size on the wire.
 -- ==========================================
 
-local CDN_UPLOAD_URL = "https://pubapi.hebnix.com/rocket-profiles/upload"
-local CDN_LOOKUP_URL = "https://pubapi.hebnix.com/rocket-profiles/images"
+local CDN_UPLOAD_URL = "https://pubapi.kingmod.com/rocket-profiles/upload"
+local CDN_LOOKUP_URL = "https://pubapi.kingmod.com/rocket-profiles/images"
 
 -- req_id -> platform_id, for on_http_upload_response
 local pending_uploads = {}
@@ -480,7 +480,7 @@ function plugin.upload_profile_image(image_path)
     pending_uploads[req_id] = local_epic_id
     pending_upload_paths[req_id] = image_path
     upload_status[local_epic_id] = "uploading"
-    hebnix.http_multipart_post_async(
+    kingmod.http_multipart_post_async(
         req_id,
         CDN_UPLOAD_URL,
         { platform_id = local_epic_id },
@@ -499,15 +499,15 @@ local REUPLOAD_MIN_AGE_SECONDS = 90 * 60
 local function reupload_last_avatar()
     if not reupload_pending or not local_epic_id then return end
     reupload_pending = false
-    local path = hebnix.get_string("last_uploaded_avatar", "")
-    if path == "" or hebnix.get_string("last_uploaded_avatar_id", "") ~= local_epic_id then
+    local path = kingmod.get_string("last_uploaded_avatar", "")
+    if path == "" or kingmod.get_string("last_uploaded_avatar_id", "") ~= local_epic_id then
         -- nothing uploaded yet with this account, use the image picked in settings
-        path = hebnix.get_string("cdn_upload_asset", "")
+        path = kingmod.get_string("cdn_upload_asset", "")
         if path == "" then return end
         if not path:match("^assets[\\/]") then path = "assets/" .. path end
     end
-    local last = math.max(hebnix.get_number("last_uploaded_at", 0),
-        hebnix.get_number("last_reupload_attempt_at", 0))
+    local last = math.max(kingmod.get_number("last_uploaded_at", 0),
+        kingmod.get_number("last_reupload_attempt_at", 0))
     local age = os.time() - last
     local age_min = math.floor(age / 60)
     local wait_min = math.floor(REUPLOAD_MIN_AGE_SECONDS / 60)
@@ -520,7 +520,7 @@ local function reupload_last_avatar()
     dlog(string.format(
         "PfpOverlayV2: re-uploading last avatar %s, last upload was %d min ago",
         path, age_min))
-    hebnix.set("last_reupload_attempt_at", os.time())
+    kingmod.set("last_reupload_attempt_at", os.time())
     plugin.upload_profile_image(path)
 end
 
@@ -534,11 +534,11 @@ function plugin.on_http_upload_response(req_id, status, body)
     if status == 200 or status == 201 then
         upload_status[platform_id] = "ok"
         if uploaded_path then
-            hebnix.set("last_uploaded_avatar", uploaded_path)
-            hebnix.set("last_uploaded_avatar_id", platform_id)
-            hebnix.set("last_uploaded_at", os.time())
+            kingmod.set("last_uploaded_avatar", uploaded_path)
+            kingmod.set("last_uploaded_avatar_id", platform_id)
+            kingmod.set("last_uploaded_at", os.time())
         end
-        local ok, data = pcall(hebnix.json_decode, body)
+        local ok, data = pcall(kingmod.json_decode, body)
         local image_url = (ok and type(data) == "table") and data.image or nil
         dlog("PfpOverlayV2: CDN upload for " .. platform_id .. " succeeded" ..
             (image_url and (" -> " .. image_url) or ""))
@@ -571,9 +571,9 @@ local function flush_epic_lookups()
         table.insert(ids, platform_id)
     end
 
-    local body = hebnix.json_encode({ platform_ids = ids })
+    local body = kingmod.json_encode({ platform_ids = ids })
     dlog("PfpOverlayV2: CDN lookup request body=" .. tostring(body))
-    hebnix.http_post_async(CDN_LOOKUP_REQ_ID, CDN_LOOKUP_URL, body,
+    kingmod.http_post_async(CDN_LOOKUP_REQ_ID, CDN_LOOKUP_URL, body,
         { ["Content-Type"] = "application/json" })
 end
 
@@ -603,7 +603,7 @@ local function handle_cdn_lookup_response(status, body)
         return
     end
 
-    local ok, data = pcall(hebnix.json_decode, body)
+    local ok, data = pcall(kingmod.json_decode, body)
     if not ok then
         dlog("PfpOverlayV2: CDN lookup response failed to json_decode: " .. tostring(data))
     end
@@ -644,7 +644,7 @@ local function manual_fetch_steam(pid)
     local url = "https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v2/?key="
         .. key .. "&steamids=" .. p.platform_id
     pending_requests[url] = { pid = pid, kind = "metadata" }
-    hebnix.http_get_async(url, url, {})
+    kingmod.http_get_async(url, url, {})
     p.status = "fetching (steam, manual)"
 end
 
@@ -656,7 +656,7 @@ local function manual_fetch_xbox(pid)
     local gamertag = p.name:gsub(" ", "%%20")
     local url = "https://api.xbl.io/v2/search/" .. gamertag
     pending_requests[url] = { pid = pid, kind = "metadata" }
-    hebnix.http_get_async(url, url, { ["X-Authorization"] = key, ["Accept"] = "application/json" })
+    kingmod.http_get_async(url, url, { ["X-Authorization"] = key, ["Accept"] = "application/json" })
     p.status = "fetching (xbox, manual)"
 end
 
@@ -664,7 +664,7 @@ end
 -- then keeps it refreshed. client id/secret below are public constants
 -- used by every reverse-engineered PSN tool, not real secrets.
 --
--- Needs hebnix.http_get_no_redirect_async: the NPSSO exchange is a GET
+-- Needs kingmod.http_get_no_redirect_async: the NPSSO exchange is a GET
 -- that 302s with the auth code in the Location header, which must not
 -- be auto-followed.
 local PSN_OAUTH_CLIENT_ID = "09515159-7237-4370-9b40-3806e67c0891"
@@ -680,20 +680,20 @@ local PSN_TOKEN_EXPIRY_MARGIN_SECONDS = 60
 -- own file instead of settings.toml since it gets rewritten every refresh
 local PSN_TOKEN_PATH = PLUGIN_DIR .. "/psn_tokens.json"
 
-local function psn_npsso() return hebnix.get_string("psn_npsso", "") end
+local function psn_npsso() return kingmod.get_string("psn_npsso", "") end
 
 local function load_psn_tokens()
     local f = io.open(PSN_TOKEN_PATH, "r")
     if not f then return {} end
     local content = f:read("*a")
     f:close()
-    local ok, decoded = pcall(hebnix.json_decode, content)
+    local ok, decoded = pcall(kingmod.json_decode, content)
     if ok and type(decoded) == "table" then return decoded end
     return {}
 end
 
 local function save_psn_tokens(tokens)
-    local ok, encoded = pcall(hebnix.json_encode, tokens)
+    local ok, encoded = pcall(kingmod.json_encode, tokens)
     if not ok then return end
     local f = io.open(PSN_TOKEN_PATH, "w")
     if not f then return end
@@ -723,7 +723,7 @@ local function psn_form_encode(form)
 end
 
 local function psn_basic_auth_header()
-    return "Basic " .. hebnix.base64_encode(PSN_OAUTH_CLIENT_ID .. ":" .. PSN_OAUTH_CLIENT_SECRET)
+    return "Basic " .. kingmod.base64_encode(PSN_OAUTH_CLIENT_ID .. ":" .. PSN_OAUTH_CLIENT_SECRET)
 end
 
 -- only one token refresh/bootstrap runs at a time, everyone else waits
@@ -757,7 +757,7 @@ local function psn_start_refresh(refresh_token)
         refresh_token = refresh_token,
         scope = PSN_OAUTH_SCOPE,
     })
-    hebnix.http_post_async("psn_token_refresh", PSN_OAUTH_TOKEN_URL, body, {
+    kingmod.http_post_async("psn_token_refresh", PSN_OAUTH_TOKEN_URL, body, {
         ["Authorization"] = psn_basic_auth_header(),
         ["Content-Type"] = "application/x-www-form-urlencoded",
     })
@@ -768,7 +768,7 @@ local function psn_start_bootstrap(npsso)
         "&response_type=code&scope=" .. url_encode(PSN_OAUTH_SCOPE) ..
         "&redirect_uri=" .. url_encode(PSN_OAUTH_REDIRECT_URI)
     local url = PSN_OAUTH_AUTHORIZE_URL .. "?" .. query
-    hebnix.http_get_no_redirect_async("psn_authorize", url, { ["Cookie"] = "npsso=" .. npsso })
+    kingmod.http_get_no_redirect_async("psn_authorize", url, { ["Cookie"] = "npsso=" .. npsso })
 end
 
 -- call this instead of fetch_psn_profile directly; uses a cached token
@@ -820,7 +820,7 @@ local function handle_psn_token_response(status, body, is_bootstrap)
         return
     end
 
-    local ok, data = pcall(hebnix.json_decode, body)
+    local ok, data = pcall(kingmod.json_decode, body)
     if not ok or type(data) ~= "table" or not data.access_token then
         psn_token_flow_failed("bad token response")
         return
@@ -861,7 +861,7 @@ local function handle_psn_authorize_redirect(status, location)
         code = code,
         redirect_uri = PSN_OAUTH_REDIRECT_URI,
     })
-    hebnix.http_post_async("psn_token_bootstrap", PSN_OAUTH_TOKEN_URL, body, {
+    kingmod.http_post_async("psn_token_bootstrap", PSN_OAUTH_TOKEN_URL, body, {
         ["Authorization"] = psn_basic_auth_header(),
         ["Content-Type"] = "application/x-www-form-urlencoded",
     })
@@ -885,7 +885,7 @@ fetch_psn_profile = function(pid)
     local username = url_encode(p.name)
     local url = string.format(PSN_PROFILE_URL_FMT, username) .. "?fields=avatarUrls"
     pending_requests[url] = { pid = pid, kind = "psn_profile" }
-    hebnix.http_get_async(url, url, { ["Authorization"] = "Bearer " .. access_token })
+    kingmod.http_get_async(url, url, { ["Authorization"] = "Bearer " .. access_token })
     p.status = "fetching (psn, manual)"
 end
 
@@ -911,7 +911,7 @@ function plugin.on_http_response(url, status, body)
         return
     end
 
-    local ok, data = pcall(hebnix.json_decode, body)
+    local ok, data = pcall(kingmod.json_decode, body)
     if not ok or type(data) ~= "table" then
         p.status = "bad json response"
         return
@@ -966,12 +966,12 @@ local function process_tracker_stats(key, stats)
 end
 
 -- poll every pending tracker lookup once per tick. pending_tracker maps
--- the stats lookup key (hebnix.stats_result's key) to our player key -
+-- the stats lookup key (kingmod.stats_result's key) to our player key -
 -- these differ for test fetches, which use fetch_profile_async's own
 -- "platform:identifier" key instead of a real match PrimaryId.
 local function poll_tracker_results()
     for stats_key, player_key in pairs(pending_tracker) do
-        local result = hebnix.stats_result(stats_key)
+        local result = kingmod.stats_result(stats_key)
         if result ~= nil and result ~= "pending" then
             pending_tracker[stats_key] = nil
             process_tracker_stats(player_key, result)
@@ -983,7 +983,7 @@ end
 -- resolve_avatar, so a steam player with an override still shows
 local STEAM_HIDDEN_STATUS = "hidden (steam)"
 local function steam_hidden(p)
-    return p.platform == "steam" and not p.test and hebnix.get_bool("hide_steam_profiles", false)
+    return p.platform == "steam" and not p.test and kingmod.get_bool("hide_steam_profiles", false)
 end
 
 local function resolve_avatar(key)
@@ -1022,7 +1022,7 @@ local function resolve_avatar(key)
             " but no key/npsso configured, falling back to hebnix")
     end
 
-    hebnix.fetch_stats_async(p.raw_pid, p.name)
+    kingmod.fetch_stats_async(p.raw_pid, p.name)
     pending_tracker[p.raw_pid] = key
     p.status = "fetching (hebnix)"
 end
@@ -1136,7 +1136,7 @@ local function update_players(data)
         -- a state update can lag the GoalReplayStart event and still say false,
         -- which used to end the replay early and fade the pfp out
         local stale = game.bReplay == false and last_goal and last_goal.replay_event_at
-            and hebnix.monotonic_seconds() - last_goal.replay_event_at < 1.5
+            and kingmod.monotonic_seconds() - last_goal.replay_event_at < 1.5
         if not stale then is_replay = game.bReplay == true end
     end
 
@@ -1267,12 +1267,12 @@ end
 local avatar_assets = {}
 
 local function refresh_avatar_assets()
-    avatar_assets = hebnix.list_assets() or {}
+    avatar_assets = kingmod.list_assets() or {}
 end
 
 function plugin.on_load()
-    hebnix.log("PfpOverlayV2 loaded")
-    hebnix.refresh_action_binds()
+    kingmod.log("PfpOverlayV2 loaded")
+    kingmod.refresh_action_binds()
     refresh_avatar_assets()
     reupload_pending = true
 end
@@ -1322,7 +1322,7 @@ function plugin.on_game_event(event_type, event)
             scorer_key = scorer_key or fallback
         end
         last_goal = { scorer_name = scorer_name, scorer_key = scorer_key, timestamp = os.time(),
-            goal_at = hebnix.monotonic_seconds() }
+            goal_at = kingmod.monotonic_seconds() }
         dlog("PfpOverlayV2: GoalScored by " .. scorer_name .. " (matched key: " .. tostring(scorer_key) .. ")")
     elseif event_type == "MatchCreated" or event_type == "MatchInitialized" then
         in_match = true
@@ -1342,13 +1342,13 @@ function plugin.on_game_event(event_type, event)
     elseif event_type == "GoalReplayStart" then
         is_replay = true
         if last_goal and not last_goal.replay_event_at then
-            last_goal.replay_event_at = hebnix.monotonic_seconds()
+            last_goal.replay_event_at = kingmod.monotonic_seconds()
         end
     elseif event_type == "GoalReplayEnd" then
         is_replay = false
     elseif event_type == "MatchEnded" then
         match_ended = true
-        match_ended_at = hebnix.monotonic_seconds()
+        match_ended_at = kingmod.monotonic_seconds()
         winner_team = tonumber(data.WinnerTeamNum)
     elseif event_type == "GameLeft" or event_type == "MatchDestroyed" then
         match_ended = false
@@ -1375,7 +1375,7 @@ local scoreboard_fade_was_held = false
 local scoreboard_fade_from = nil
 
 -- ==========================================
--- Pause menu detection (hebnix.screen)
+-- Pause menu detection (kingmod.screen)
 -- ==========================================
 -- RL shows the scoreboard behind the pause menu, but nothing in the Stats API
 -- says the menu is open. so look at a few spots of the menu on screen and
@@ -1410,14 +1410,14 @@ for _, set in pairs(MENU_SETS) do
 end
 -- older builds added spots from stray presses (often mid-screen), which
 -- replaced the built-in ones. clear them once, the built-in ones work for everyone
-if hebnix.get_number("menu_spots_rev", 0) < 1 then
+if kingmod.get_number("menu_spots_rev", 0) < 1 then
     for _, set in pairs(MENU_SETS) do
-        if hebnix.get_string(set.key, "") ~= "" then
-            hebnix.log("PfpOverlayV2: cleared old custom " .. set.label .. " points, using built-in")
-            hebnix.set(set.key, "")
+        if kingmod.get_string(set.key, "") ~= "" then
+            kingmod.log("PfpOverlayV2: cleared old custom " .. set.label .. " points, using built-in")
+            kingmod.set(set.key, "")
         end
     end
-    hebnix.set("menu_spots_rev", 1)
+    kingmod.set("menu_spots_rev", 1)
 end
 local menu_last_check = 0
 local menu_armed_until = 0
@@ -1429,7 +1429,7 @@ local scoreboard_from_menu = false
 local function menu_any() return menu_open or menu_open_dim end
 
 local function rl_size()
-    local rect = hebnix.rocket_league_window_rect()
+    local rect = kingmod.rocket_league_window_rect()
     if not rect then return nil end
     return rect.right - rect.left, rect.bottom - rect.top
 end
@@ -1454,9 +1454,9 @@ local MENU_DEFAULT_SPOTS = {
 
 -- only the spots the player calibrated themselves, empty when using the defaults
 local function menu_custom_spots(set)
-    local raw = hebnix.get_string(set.key, "")
+    local raw = kingmod.get_string(set.key, "")
     if raw == "" then return {} end
-    local ok, spots = pcall(hebnix.json_decode, raw)
+    local ok, spots = pcall(kingmod.json_decode, raw)
     if not ok or type(spots) ~= "table" then return {} end
     -- spots saved as window fractions were taken at 100% interface scale
     local w, h = rl_size()
@@ -1470,7 +1470,7 @@ local function menu_custom_spots(set)
                 migrated = true
             end
         end
-        if migrated then hebnix.set(set.key, hebnix.json_encode(spots)) end
+        if migrated then kingmod.set(set.key, kingmod.json_encode(spots)) end
     end
     return spots
 end
@@ -1490,40 +1490,40 @@ end
 
 -- returns a message for the settings page
 local function add_menu_spot_at_cursor(set)
-    if not hebnix.screen then return "this Hebnix version can't read the screen" end
+    if not kingmod.screen then return "this Hebnix version can't read the screen" end
     local w, h = rl_size()
-    local cx, cy = hebnix.screen.cursor()
+    local cx, cy = kingmod.screen.cursor()
     if not w or not cx then return "Rocket League isn't open" end
     local half = MENU_SPOT_SIZE / 2
-    local r, g, b = hebnix.screen.average(cx - half, cy - half, MENU_SPOT_SIZE, MENU_SPOT_SIZE)
+    local r, g, b = kingmod.screen.average(cx - half, cy - half, MENU_SPOT_SIZE, MENU_SPOT_SIZE)
     if not r then return "no screen frame yet (Borderless or Windowed only), press it again" end
     local spots = menu_custom_spots(set)
     if #spots >= MENU_MAX_SPOTS then table.remove(spots, 1) end
     local u = menu_unit()
     spots[#spots + 1] = { ox = cx / u, oy = (h - cy) / u, r = r, g = g, b = b }
-    hebnix.set(set.key, hebnix.json_encode(spots))
+    kingmod.set(set.key, kingmod.json_encode(spots))
     return string.format("added spot %d at %d,%d (rgb %d %d %d)", #spots, cx, cy, r, g, b)
 end
 
 local function update_menu_binds(set)
-    local calib = hebnix.get_string(set.bind, "")
+    local calib = kingmod.get_string(set.bind, "")
     if calib ~= "" then
-        local pressed = hebnix.is_bind_pressed(calib)
+        local pressed = kingmod.is_bind_pressed(calib)
         -- only while calibrating, so a stray press in game can't add a spot
         if pressed and not set.was_pressed
-            and hebnix.monotonic_seconds() < (set.calib_until or 0) then
+            and kingmod.monotonic_seconds() < (set.calib_until or 0) then
             set.msg = add_menu_spot_at_cursor(set)
         end
         set.was_pressed = pressed
     end
     if set.capturing then
-        local status, bind_result = hebnix.capture_bind_result()
+        local status, bind_result = kingmod.capture_bind_result()
         if status == "done" then
-            hebnix.set(set.bind, bind_result)
+            kingmod.set(set.bind, bind_result)
             set.capturing = false
             -- the key that set the bind is still down, don't take it as a press
             set.was_pressed = true
-            set.calib_until = hebnix.monotonic_seconds() + 120
+            set.calib_until = kingmod.monotonic_seconds() + 120
         elseif status == "timeout" then
             set.capturing = false
         end
@@ -1532,11 +1532,11 @@ end
 
 -- rl's own pause binds plus the usual defaults, which may not be in its bind file
 local function menu_pause_pressed()
-    for _, b in ipairs(hebnix.get_action_binds("togglemidgamemenu")) do
-        if hebnix.is_bind_pressed(b) then return true end
+    for _, b in ipairs(kingmod.get_action_binds("togglemidgamemenu")) do
+        if kingmod.is_bind_pressed(b) then return true end
     end
     for _, b in ipairs(MENU_PAUSE_FALLBACK) do
-        if hebnix.is_bind_pressed(b) then return true end
+        if kingmod.is_bind_pressed(b) then return true end
     end
     return false
 end
@@ -1548,7 +1548,7 @@ local function menu_set_matches(set, w, h)
     local all = true
     for i, s in ipairs(spots) do
         local x, y, sw, sh = menu_spot_rect(s, w, h)
-        local share = hebnix.screen.match_color(x, y, sw, sh, s.r, s.g, s.b, MENU_TOLERANCE)
+        local share = kingmod.screen.match_color(x, y, sw, sh, s.r, s.g, s.b, MENU_TOLERANCE)
         set.shares[i] = share
         if not share or share < MENU_MIN_SHARE then all = false end
     end
@@ -1559,17 +1559,17 @@ local function update_menu_detection()
     update_menu_binds(MENU_SETS.normal)
     update_menu_binds(MENU_SETS.dim)
 
-    if not hebnix.screen or not (hebnix.get_bool("menu_pfp", true)
-        or hebnix.get_bool("menu_scoreboard", false) or match_ended) then
+    if not kingmod.screen or not (kingmod.get_bool("menu_pfp", true)
+        or kingmod.get_bool("menu_scoreboard", false) or match_ended) then
         for _, set in pairs(MENU_SETS) do set.open, set.votes = false, 0 end
         menu_open, menu_open_dim = false, false
         return
     end
-    local now = hebnix.monotonic_seconds()
+    local now = kingmod.monotonic_seconds()
     local normal, dim = MENU_SETS.normal, MENU_SETS.dim
     -- the plugin's own roster flag can miss modes like freeplay, hebnix's is set by any game update
-    local in_game = in_match or hebnix.in_match()
-    local gated = in_game and hebnix.get_bool("menu_pause_gate", true)
+    local in_game = in_match or kingmod.in_match()
+    local gated = in_game and kingmod.get_bool("menu_pause_gate", true)
 
     -- the pause press is polled every tick so a quick tap is never missed
     local pressed = gated and menu_pause_pressed()
@@ -1595,7 +1595,7 @@ local function update_menu_detection()
         end
     end
 
-    local interval = 1 / math.max(1, hebnix.get_number("menu_check_hz", 60))
+    local interval = 1 / math.max(1, kingmod.get_number("menu_check_hz", 60))
     if now - menu_last_check < interval then return end
     menu_last_check = now
 
@@ -1652,7 +1652,7 @@ local function draw_menu_debug(draw, w, h)
         "pfpoverlayv2 debug overlay  —  menu_open=" .. tostring(menu_open)
             .. "  menu_open_dim=" .. tostring(menu_open_dim)
             .. "  winner=" .. tostring(winner_team)
-            .. "  armed=" .. tostring(hebnix.monotonic_seconds() < menu_armed_until),
+            .. "  armed=" .. tostring(kingmod.monotonic_seconds() < menu_armed_until),
         { color = "#00ff00ff", size = 16 })
 end
 
@@ -1669,10 +1669,10 @@ local function scoreboard_fade_opacity()
     end
     if scoreboard_fade_was_held then
         scoreboard_fade_was_held = false
-        scoreboard_fade_from = hebnix.monotonic_seconds()
+        scoreboard_fade_from = kingmod.monotonic_seconds()
     end
     if not scoreboard_fade_from then return nil end
-    local elapsed = hebnix.monotonic_seconds() - scoreboard_fade_from
+    local elapsed = kingmod.monotonic_seconds() - scoreboard_fade_from
     if elapsed >= SCOREBOARD_FADE_SECONDS then
         scoreboard_fade_from = nil
         return nil
@@ -1691,9 +1691,9 @@ function plugin.on_tick()
     refresh_detected_ui_scale()
     flush_epic_lookups()
 
-    local bind = hebnix.get_string("overlay_toggle_bind", "")
+    local bind = kingmod.get_string("overlay_toggle_bind", "")
     if bind ~= "" then
-        local pressed = hebnix.is_bind_pressed(bind)
+        local pressed = kingmod.is_bind_pressed(bind)
         if pressed and not toggle_was_pressed then
             overlay_visible = not overlay_visible
         end
@@ -1701,33 +1701,33 @@ function plugin.on_tick()
     end
 
     if capturing_bind then
-        local status, bind_result = hebnix.capture_bind_result()
+        local status, bind_result = kingmod.capture_bind_result()
         if status == "done" then
-            hebnix.set("overlay_toggle_bind", bind_result)
+            kingmod.set("overlay_toggle_bind", bind_result)
             capturing_bind = false
         elseif status == "timeout" then
             capturing_bind = false
         end
     end
 
-    if hebnix.get_bool("scoreboard_auto_detect", true) then
-        scoreboard_held = hebnix.is_action_pressed("togglescoreboard")
+    if kingmod.get_bool("scoreboard_auto_detect", true) then
+        scoreboard_held = kingmod.is_action_pressed("togglescoreboard")
     else
-        local sb_bind = hebnix.get_string("scoreboard_button", "")
-        scoreboard_held = sb_bind ~= "" and hebnix.is_bind_pressed(sb_bind)
+        local sb_bind = kingmod.get_string("scoreboard_button", "")
+        scoreboard_held = sb_bind ~= "" and kingmod.is_bind_pressed(sb_bind)
     end
 
     update_menu_detection()
     -- the pause menu only shows the scoreboard pfps if asked to, it doesn't
     -- always show rl's scoreboard behind it
-    local menu_board = menu_any() and hebnix.get_bool("menu_scoreboard", false)
+    local menu_board = menu_any() and kingmod.get_bool("menu_scoreboard", false)
     scoreboard_from_menu = menu_board and not scoreboard_held
     scoreboard_held = scoreboard_held or menu_board
 
     if scoreboard_capturing_bind then
-        local status, bind_result = hebnix.capture_bind_result()
+        local status, bind_result = kingmod.capture_bind_result()
         if status == "done" then
-            hebnix.set("scoreboard_button", bind_result)
+            kingmod.set("scoreboard_button", bind_result)
             scoreboard_capturing_bind = false
         elseif status == "timeout" then
             scoreboard_capturing_bind = false
@@ -1782,12 +1782,12 @@ local function draw_debug_stack(draw)
             .. "  screen=" .. (sb_screen or "?") .. "  menu_open=" .. tostring(menu_open)
             .. "  menu_open_dim=" .. tostring(menu_open_dim)
             .. "  winner=" .. tostring(winner_team)
-            .. "  armed=" .. tostring(hebnix.monotonic_seconds() < menu_armed_until)
+            .. "  armed=" .. tostring(kingmod.monotonic_seconds() < menu_armed_until)
             .. "  scoreboard: " .. sb_gate,
         { color = "#00ff00ff", size = 16 })
     for _, pid in ipairs(player_order) do
         local p = players[pid]
-        local tag = hebnix.platform_tag(p.raw_pid or pid)
+        local tag = kingmod.platform_tag(p.raw_pid or pid)
         if p.avatar_path then
             pcall(function()
                 draw_avatar(draw, p.avatar_path, AVATAR_START_X, y, AVATAR_SIZE, AVATAR_SIZE)
@@ -1868,16 +1868,16 @@ local function draw_scoreboard_avatars(draw, w, h)
     local post = match_ended
     local post_slide = 1 -- 0 = centred where the board first shows, 1 = slid right
     -- end-of-match board is unfinished, off unless ticked
-    if post and not hebnix.get_bool("post_board", false) then
+    if post and not kingmod.get_bool("post_board", false) then
         sb_gate = "hidden, end-of-match board turned off"
         return
     end
     if post then
-        local t = hebnix.monotonic_seconds() - match_ended_at
-        local slide_at = hebnix.get_number("post_board_slide", POST.slide)
+        local t = kingmod.monotonic_seconds() - match_ended_at
+        local slide_at = kingmod.get_number("post_board_slide", POST.slide)
         if menu_any() and t >= MENU_PFP_POST_DELAY then
             post_slide = 1
-        elseif t >= hebnix.get_number("post_board_show", POST.show)
+        elseif t >= kingmod.get_number("post_board_show", POST.show)
             and t < slide_at + POST.slide_time + 1 then
             -- not picked up by the menu colours yet, go by the clock
             local k = math.max(0, math.min(1, (t - slide_at) / POST.slide_time))
@@ -1897,11 +1897,11 @@ local function draw_scoreboard_avatars(draw, w, h)
     if not opacity then sb_gate = "hidden, scoreboard not held" return end
     sb_gate = "drawing"
 
-    local hide_self = hebnix.get_bool("scoreboard_hide_self", false)
-    local show_ghosts = hebnix.get_bool("scoreboard_show_ghosts", true)
-    local vignette = hebnix.get_bool("scoreboard_vignette", false)
-        and hebnix.get_number("scoreboard_vignette_strength", 60) / 100 or 0
-    local scale_mult = ui_scale() * hebnix.get_number("scoreboard_display_scale", 100) / 100
+    local hide_self = kingmod.get_bool("scoreboard_hide_self", false)
+    local show_ghosts = kingmod.get_bool("scoreboard_show_ghosts", true)
+    local vignette = kingmod.get_bool("scoreboard_vignette", false)
+        and kingmod.get_number("scoreboard_vignette_strength", 60) / 100 or 0
+    local scale_mult = ui_scale() * kingmod.get_number("scoreboard_display_scale", 100) / 100
 
     local blues, oranges, ghosts = 0, 0, 0
     for _, p in ipairs(list) do
@@ -1914,20 +1914,20 @@ local function draw_scoreboard_avatars(draw, w, h)
     end
 
     local mutator_edge = (not post and shows_mutator_strip())
-        and hebnix.get_number("scoreboard_mutator_edge", MUTATOR_EDGE) or 0
+        and kingmod.get_number("scoreboard_mutator_edge", MUTATOR_EDGE) or 0
     local x_offset
     if post then
-        local x_end = hebnix.get_number("scoreboard_x_offset_post", POST.x)
+        local x_end = kingmod.get_number("scoreboard_x_offset_post", POST.x)
         x_offset = POST.x_start + (x_end - POST.x_start) * post_slide
     elseif scoreboard_from_menu then
-        x_offset = hebnix.get_number("scoreboard_x_offset_menu", X_OFFSET)
+        x_offset = kingmod.get_number("scoreboard_x_offset_menu", X_OFFSET)
     elseif shown_first_open then
-        x_offset = hebnix.get_number("scoreboard_x_offset_first", X_OFFSET_FIRST)
+        x_offset = kingmod.get_number("scoreboard_x_offset_first", X_OFFSET_FIRST)
     else
-        x_offset = hebnix.get_number("scoreboard_x_offset", X_OFFSET)
+        x_offset = kingmod.get_number("scoreboard_x_offset", X_OFFSET)
     end
     local replay_shift = (is_replay and not post)
-        and hebnix.get_number("scoreboard_replay_shift", REPLAY_SHIFT) or 0
+        and kingmod.get_number("scoreboard_replay_shift", REPLAY_SHIFT) or 0
     -- orange won: its team is the top block on the end-of-match board
     local flip = post and winner_team == 1
     local layout
@@ -1936,14 +1936,14 @@ local function draw_scoreboard_avatars(draw, w, h)
     else
         layout = sb_layout(w, h, scale_mult, x_offset, mutator_edge, blues, oranges, replay_shift)
     end
-    local y_nudge = hebnix.get_number("scoreboard_y_nudge", 0) * layout.scale
+    local y_nudge = kingmod.get_number("scoreboard_y_nudge", 0) * layout.scale
     if post then
         -- move the whole board so the top row starts at the fixed height
-        y_nudge = y_nudge + hebnix.get_number("scoreboard_y_top_post", POST.y) * (h / 1080)
+        y_nudge = y_nudge + kingmod.get_number("scoreboard_y_top_post", POST.y) * (h / 1080)
             - layout.blue_y
     end
     local pfp_x = layout.centre
-        + hebnix.get_number("scoreboard_icon_x", ICON_COL) * layout.scale
+        + kingmod.get_number("scoreboard_icon_x", ICON_COL) * layout.scale
     layout.first_open = shown_first_open
     layout.replay = is_replay
     layout.blues = blues
@@ -2008,7 +2008,7 @@ local function draw_goal_nameplate(draw, w, h)
     -- 0.01-0.08s later than the event, so it never sets the start.
     -- the pfp copies that instead of popping in, and fades out once the replay
     -- ends or is skipped
-    local now = hebnix.monotonic_seconds()
+    local now = kingmod.monotonic_seconds()
     if is_replay and not last_goal.replay_at
         and now - (last_goal.goal_at or 0) >= GOAL_NAMEPLATE_DELAY_SECONDS - 0.5 then
         last_goal.replay_at = now
@@ -2020,15 +2020,15 @@ local function draw_goal_nameplate(draw, w, h)
     end
     if not last_goal.replay_at then return end
 
-    local dt = now - last_goal.replay_at - hebnix.get_number("goal_fade_delay", 0.2)
+    local dt = now - last_goal.replay_at - kingmod.get_number("goal_fade_delay", 0.2)
     if dt <= 0 then return end
     -- vanilla box fades in with an ease-out quad over ~0.38s (measured at 120 fps)
-    local fade_in = hebnix.get_number("goal_fade_in_time", 0.38)
+    local fade_in = kingmod.get_number("goal_fade_in_time", 0.38)
     local k = fade_in <= 0 and 1 or math.min(1, dt / fade_in)
     local alpha = 1 - (1 - k) * (1 - k)
     if last_goal.replay_end_at then
         local out = now - last_goal.replay_end_at
-        local fade_out = math.max(0.01, hebnix.get_number("goal_fade_out", 0.4))
+        local fade_out = math.max(0.01, kingmod.get_number("goal_fade_out", 0.4))
         if out >= fade_out then return end
         alpha = alpha * (1 - out / fade_out)
     end
@@ -2062,19 +2062,19 @@ local function draw_menu_pfp(draw, w, h)
         if p and my_id ~= nil and p.raw_pid == my_id and p.avatar_path
             and p.avatar_path ~= menu_pfp_path then
             menu_pfp_path = p.avatar_path
-            hebnix.set("menu_pfp_path", menu_pfp_path)
+            kingmod.set("menu_pfp_path", menu_pfp_path)
         end
     end
     if not menu_any() then return end
     -- right after the match ends the profile stays hidden
-    if match_ended and hebnix.monotonic_seconds() - match_ended_at < MENU_PFP_POST_DELAY then return end
-    if not hebnix.get_bool("menu_pfp", true) then return end
-    if not menu_pfp_path then menu_pfp_path = hebnix.get_string("menu_pfp_path", "") end
+    if match_ended and kingmod.monotonic_seconds() - match_ended_at < MENU_PFP_POST_DELAY then return end
+    if not kingmod.get_bool("menu_pfp", true) then return end
+    if not menu_pfp_path then menu_pfp_path = kingmod.get_string("menu_pfp_path", "") end
     if menu_pfp_path == "" then return end
     local u = (h / 1080) * ui_scale()
-    local size = hebnix.get_number("menu_pfp_size", MENU_PFP.size) * u
-    local x = hebnix.get_number("menu_pfp_left", MENU_PFP.x) * u
-    local y = h - hebnix.get_number("menu_pfp_up", MENU_PFP.y) * u
+    local size = kingmod.get_number("menu_pfp_size", MENU_PFP.size) * u
+    local x = kingmod.get_number("menu_pfp_left", MENU_PFP.x) * u
+    local y = h - kingmod.get_number("menu_pfp_up", MENU_PFP.y) * u
     pcall(function()
         draw_avatar(draw, menu_pfp_path, x, y, size, size)
         -- the game dims the whole menu behind things like settings, so dim ours the same
@@ -2099,10 +2099,10 @@ local MVP_PFP = { x = -208, up = 271, size = 67, start = 3.5, finish = 8.33,
     anim_up = 57, anim_time = 0.98 }
 
 local function draw_mvp_pfp(draw, w, h)
-    if not match_ended or not hebnix.get_bool("mvp_pfp", false) then return end
-    local elapsed = hebnix.monotonic_seconds() - match_ended_at
-    if elapsed < hebnix.get_number("mvp_start", MVP_PFP.start)
-        or elapsed > hebnix.get_number("mvp_end", MVP_PFP.finish) then
+    if not match_ended or not kingmod.get_bool("mvp_pfp", false) then return end
+    local elapsed = kingmod.monotonic_seconds() - match_ended_at
+    if elapsed < kingmod.get_number("mvp_start", MVP_PFP.start)
+        or elapsed > kingmod.get_number("mvp_end", MVP_PFP.finish) then
         return
     end
     -- the mvp is the best score on the winning team
@@ -2116,18 +2116,18 @@ local function draw_mvp_pfp(draw, w, h)
     end
     if not p or p.is_bot or not p.avatar_path then return end
     local u = (h / 1080) * ui_scale()
-    local size = hebnix.get_number("mvp_pfp_size", MVP_PFP.size) * u
-    local x = w / 2 + hebnix.get_number("mvp_pfp_x", MVP_PFP.x) * u
+    local size = kingmod.get_number("mvp_pfp_size", MVP_PFP.size) * u
+    local x = w / 2 + kingmod.get_number("mvp_pfp_x", MVP_PFP.x) * u
     -- the box's top edge sits at the same screen height at any interface scale,
     -- only its size and its distance from the centre follow the scale
-    local y = h - hebnix.get_number("mvp_pfp_up", MVP_PFP.up) * (h / 1080)
+    local y = h - kingmod.get_number("mvp_pfp_up", MVP_PFP.up) * (h / 1080)
     -- the vanilla box eases down exponentially (measured off a 120 fps recording)
-    local dt = elapsed - hebnix.get_number("mvp_start", MVP_PFP.start)
-    local tau = math.max(0.05, hebnix.get_number("mvp_drop_tau", MVP_PFP.anim_time))
+    local dt = elapsed - kingmod.get_number("mvp_start", MVP_PFP.start)
+    local tau = math.max(0.05, kingmod.get_number("mvp_drop_tau", MVP_PFP.anim_time))
     -- the drop distance barely changes with the interface scale: 76px at 1440p
     -- at 100% and ~74px at 75% (checked against a recording with the pfp drawn,
     -- 68px left it 5px low for the first half second). 51 + 6 * scale, 1080p px
-    local drop = hebnix.get_number("mvp_drop_up", MVP_PFP.anim_up) * (51 + 6 * ui_scale()) / 57
+    local drop = kingmod.get_number("mvp_drop_up", MVP_PFP.anim_up) * (51 + 6 * ui_scale()) / 57
     y = y - drop * math.exp(-math.max(0, dt) / tau) * (h / 1080)
     pcall(function() draw_avatar(draw, p.avatar_path, x, y, size, size) end)
 end
@@ -2151,19 +2151,19 @@ local last_hide_steam = nil
 local function menu_spot_controls(ui, set, title)
     ui.colored_label("#aaaaaa", title)
     local sfx = set == MENU_SETS.dim and " (dim)" or ""
-    local calib = hebnix.get_string(set.bind, "")
+    local calib = kingmod.get_string(set.bind, "")
     ui.horizontal(function()
         ui.label("calibrate bind: " .. (calib ~= "" and calib or "(none set)"))
         if set.capturing then
             ui.colored_label("#d35400", "press any key/button...")
         else
             if ui.button("set" .. sfx) then
-                if hebnix.capture_bind_async(10) then
+                if kingmod.capture_bind_async(10) then
                     set.capturing = true
                 end
             end
             if calib ~= "" and ui.button("clear" .. sfx) then
-                hebnix.set(set.bind, "")
+                kingmod.set(set.bind, "")
             end
         end
     end)
@@ -2172,13 +2172,13 @@ local function menu_spot_controls(ui, set, title)
         ui.label((custom > 0 and (custom .. " custom spot(s)") or "built-in spots")
             .. ", " .. set.label .. " " .. (set.open and "OPEN" or "closed"))
         if custom > 0 and ui.button("reset to built-in" .. sfx) then
-            hebnix.set(set.key, "")
+            kingmod.set(set.key, "")
             set.shares = {}
             set.msg = nil
         end
     end)
     if calib ~= "" then
-        local left = (set.calib_until or 0) - hebnix.monotonic_seconds()
+        local left = (set.calib_until or 0) - kingmod.monotonic_seconds()
         ui.horizontal(function()
             if left > 0 then
                 ui.colored_label("#d35400", string.format("calibrating, %ds left", math.ceil(left)))
@@ -2186,7 +2186,7 @@ local function menu_spot_controls(ui, set, title)
             else
                 ui.label("bind does nothing until you start calibrating")
                 if ui.button("calibrate for 2 min" .. sfx) then
-                    set.calib_until = hebnix.monotonic_seconds() + 120
+                    set.calib_until = kingmod.monotonic_seconds() + 120
                 end
             end
         end)
@@ -2215,27 +2215,27 @@ function plugin.on_settings(ui)
     local ui_scale_auto_detect = ui.checkbox("ui_scale_auto_detect",
         "auto-detect from RL's own save file (recommended)", true)
     if ui_scale_auto_detect then
-        hebnix.set("ui_scale_autodisabled", false)
+        kingmod.set("ui_scale_autodisabled", false)
         if detected_ui_scale then
             ui.label(string.format("detected: %g%%", math.floor(detected_ui_scale * 1000 + 0.5) / 10))
         else
             ui.colored_label("#d35400", "couldn't read interface scale from RL's save file yet.")
         end
     else
-        if hebnix.get_bool("ui_scale_autodisabled", false) then
+        if kingmod.get_bool("ui_scale_autodisabled", false) then
             ui.colored_label("#d35400",
                 "couldn't read RL's save data, so auto-detect was turned off and the scale set to 100%.")
             ui.colored_label("#d35400",
                 "set the percentage below to match RL, or tick auto-detect to try again.")
         end
-        if hebnix.get_string("rl_ui_scale_percent", "") == "" then
-            local old = tonumber(hebnix.get_string("rl_ui_scale", ""))
-            hebnix.set("rl_ui_scale_percent",
+        if kingmod.get_string("rl_ui_scale_percent", "") == "" then
+            local old = tonumber(kingmod.get_string("rl_ui_scale", ""))
+            kingmod.set("rl_ui_scale_percent",
                 string.format("%g", math.floor(((old and old > 0) and old or REFERENCE_UI_SCALE) * 1000 + 0.5) / 10))
         end
         ui.text_input("rl_ui_scale_percent", "RL interface scale (%)", "75")
         ui.label("type a percentage like RL's slider: 75 = 75%, 100 = 100% (not 0.75 / 1.0).")
-        local pct = tonumber((hebnix.get_string("rl_ui_scale_percent", ""):gsub("%s*%%%s*$", "")))
+        local pct = tonumber((kingmod.get_string("rl_ui_scale_percent", ""):gsub("%s*%%%s*$", "")))
         if not pct or pct <= 0 then
             ui.colored_label("#c0392b", "not a valid percentage, using 75%.")
         elseif pct < 50 or pct > 100 then
@@ -2249,7 +2249,7 @@ function plugin.on_settings(ui)
     local auto_detect = ui.checkbox("scoreboard_auto_detect",
         "auto-detect from RL's own bindings (recommended)", true)
     if auto_detect then
-        local detected = hebnix.get_action_binds("togglescoreboard")
+        local detected = kingmod.get_action_binds("togglescoreboard")
         if #detected == 0 then
             ui.colored_label("#d35400", "no scoreboard bind found in your RL settings yet.")
         else
@@ -2257,33 +2257,33 @@ function plugin.on_settings(ui)
                 ui.label("detected:")
                 for _, b in ipairs(detected) do
                     ui.bind_icon(b, {height = 20})
-                    ui.label(b .. " " .. hebnix.bind_type_label(b))
+                    ui.label(b .. " " .. kingmod.bind_type_label(b))
                 end
             end)
         end
         if ui.button("refresh from RL settings") then
-            hebnix.refresh_action_binds()
+            kingmod.refresh_action_binds()
         end
     else
         ui.label("bind whatever shows RL's scoreboard (hold tab on keyboard,")
         ui.label("view/select on controller).")
-        local sb_bind = hebnix.get_string("scoreboard_button", "")
+        local sb_bind = kingmod.get_string("scoreboard_button", "")
         ui.horizontal(function()
             ui.label("bind: " .. (sb_bind ~= "" and sb_bind or "(none set)"))
             if sb_bind ~= "" then
                 ui.bind_icon(sb_bind, {height = 20})
-                ui.label(hebnix.bind_type_label(sb_bind))
+                ui.label(kingmod.bind_type_label(sb_bind))
             end
             if scoreboard_capturing_bind then
                 ui.colored_label("#d35400", "press any key/button...")
             else
                 if ui.button("set") then
-                    if hebnix.capture_bind_async(10) then
+                    if kingmod.capture_bind_async(10) then
                         scoreboard_capturing_bind = true
                     end
                 end
                 if ui.button("clear") then
-                    hebnix.set("scoreboard_button", "")
+                    kingmod.set("scoreboard_button", "")
                 end
             end
         end)
@@ -2291,8 +2291,8 @@ function plugin.on_settings(ui)
 
     ui.space(8)
     ui.space(8)
-    if not hebnix.screen then
-        ui.colored_label("#d35400", "menu detection needs a Hebnix version with screen reading (hebnix.screen).")
+    if not kingmod.screen then
+        ui.colored_label("#d35400", "menu detection needs a Hebnix version with screen reading (kingmod.screen).")
     else
         ui.checkbox("menu_scoreboard", "show scoreboard pfps while the pause menu is open", false)
         ui.checkbox("menu_pfp", "show my pfp on the profile card (main menu and pause menu)", true)
@@ -2303,7 +2303,7 @@ function plugin.on_settings(ui)
     ui.checkbox("scoreboard_show_ghosts", "Show players who left, dimmed", true)
     ui.checkbox("scoreboard_hide_self", "Hide my own pfp", false)
     ui.checkbox("scoreboard_vignette", "Vignette around pfps (dark soft edge)", false)
-    if hebnix.get_bool("scoreboard_vignette", false) then
+    if kingmod.get_bool("scoreboard_vignette", false) then
         ui.slider("scoreboard_vignette_strength", "Vignette strength", 10, 100, 60)
     end
 
@@ -2320,7 +2320,7 @@ function plugin.on_settings(ui)
     local cdn_upload_asset = ui.combo_box("cdn_upload_asset", "Avatar image", avatar_assets)
     ui.horizontal(function()
         if ui.button("Open Assets Folder") then
-            hebnix.open_path(PLUGIN_DIR .. "/assets")
+            kingmod.open_path(PLUGIN_DIR .. "/assets")
         end
         if ui.button("Refresh Assets Folder") then
             refresh_avatar_assets()
@@ -2359,14 +2359,14 @@ function plugin.on_settings(ui)
         if override_platform == "epic" and local_epic_id then
             if ui.button("use own id") then
                 override_id_gen = override_id_gen + 1
-                hebnix.set("override_add_id_" .. tostring(override_id_gen), local_epic_id)
+                kingmod.set("override_add_id_" .. tostring(override_id_gen), local_epic_id)
             end
         end
     end)
     local override_asset = ui.combo_box("override_add_asset", "Avatar image", avatar_assets)
     ui.horizontal(function()
         if ui.button("Open Assets Folder") then
-            hebnix.open_path(PLUGIN_DIR .. "/assets")
+            kingmod.open_path(PLUGIN_DIR .. "/assets")
         end
         if ui.button("Refresh Assets Folder") then
             refresh_avatar_assets()
@@ -2410,7 +2410,7 @@ function plugin.on_settings(ui)
     ui.space(6)
     if ui.button("open overrides.json") then
         if not read_overrides_file() then write_overrides_file(load_overrides()) end
-        hebnix.open_url(OVERRIDES_PATH)
+        kingmod.open_url(OVERRIDES_PATH)
     end
     ui.label(OVERRIDES_PATH)
 
@@ -2491,7 +2491,7 @@ function plugin.on_settings(ui)
                     p.status = "no manual method for " .. test_platform
                 end
             else
-                local stats_key = hebnix.fetch_profile_async(test_platform, identifier)
+                local stats_key = kingmod.fetch_profile_async(test_platform, identifier)
                 if stats_key then
                     pending_tracker[stats_key] = key
                     p.status = "fetching (hebnix)"
@@ -2529,7 +2529,7 @@ function plugin.on_settings(ui)
     end
     for _, pid in ipairs(player_order) do
         local p = players[pid]
-        local tag = hebnix.platform_tag(p.raw_pid or pid)
+        local tag = kingmod.platform_tag(p.raw_pid or pid)
         local id_str = p.platform_id
         ui.horizontal(function()
             if p.avatar_path then
@@ -2552,7 +2552,7 @@ function plugin.on_settings(ui)
 
     ui.space(12)
     ui.colored_label("#aaaaaa", "Menu detection")
-    if not hebnix.screen then
+    if not kingmod.screen then
         ui.label("needs a Hebnix version with screen reading.")
     else
         ui.label("The built-in points work for everyone. Only recalibrate if the menu")
@@ -2577,9 +2577,9 @@ function plugin.on_settings(ui)
     ui.slider("menu_pfp_up", "pfp y (top edge, up from the bottom)", 0, 400, MENU_PFP.y)
     ui.slider("menu_pfp_size", "pfp size", 10, 200, MENU_PFP.size)
     if ui.button("reset main menu pfp") then
-        hebnix.set("menu_pfp_left", MENU_PFP.x)
-        hebnix.set("menu_pfp_up", MENU_PFP.y)
-        hebnix.set("menu_pfp_size", MENU_PFP.size)
+        kingmod.set("menu_pfp_left", MENU_PFP.x)
+        kingmod.set("menu_pfp_up", MENU_PFP.y)
+        kingmod.set("menu_pfp_size", MENU_PFP.size)
     end
 
     ui.space(12)
@@ -2608,23 +2608,23 @@ function plugin.on_settings(ui)
     ui.colored_label("#aaaaaa", "Debug overlay")
     ui.label("An on-screen list of tracked players and their fetch status,")
     ui.label("for troubleshooting - not the scoreboard pfps themselves.")
-    local bind = hebnix.get_string("overlay_toggle_bind", "")
+    local bind = kingmod.get_string("overlay_toggle_bind", "")
     ui.horizontal(function()
         ui.label("toggle bind: " .. (bind ~= "" and bind or "(none — always visible)"))
         if bind ~= "" then
             ui.bind_icon(bind, {height = 20})
-            ui.label(hebnix.bind_type_label(bind))
+            ui.label(kingmod.bind_type_label(bind))
         end
         if capturing_bind then
             ui.colored_label("#d35400", "press any key/button...")
         else
             if ui.button("set") then
-                if hebnix.capture_bind_async(10) then
+                if kingmod.capture_bind_async(10) then
                     capturing_bind = true
                 end
             end
             if ui.button("clear") then
-                hebnix.set("overlay_toggle_bind", "")
+                kingmod.set("overlay_toggle_bind", "")
             end
         end
     end)

@@ -49,11 +49,11 @@ local function reset_state()
     }
 end
 
-local function mono() return hebnix.monotonic_seconds() end
+local function mono() return kingmod.monotonic_seconds() end
 
 local function b64url(bytes)
     if not bytes then return nil end
-    local s = hebnix.base64_encode(bytes)
+    local s = kingmod.base64_encode(bytes)
     s = s:gsub("%+", "-")
     s = s:gsub("/", "_")
     s = s:gsub("=", "")
@@ -185,14 +185,14 @@ local function parse_dbrts(bytes)
 end
 
 local function dpop_proof(htm, htu, nonce)
-    local pub = hebnix.p256_public(S.pem)
+    local pub = kingmod.p256_public(S.pem)
     if not pub or #pub < 65 then return nil end
     local jwk = { kty = "EC", crv = "P-256", x = b64url(pub:sub(2, 33)), y = b64url(pub:sub(34, 65)) }
-    local header = hebnix.json_encode({ typ = "dpop+jwt", alg = "ES256", jwk = jwk })
+    local header = kingmod.json_encode({ typ = "dpop+jwt", alg = "ES256", jwk = jwk })
     local payload = { htu = htu, htm = htm, jti = b64url(rand_bytes(16)), iat = os.time() }
     if nonce then payload.nonce = nonce end
-    local si = b64url(header) .. "." .. b64url(hebnix.json_encode(payload))
-    local sig = hebnix.p256_sign(S.pem, si)
+    local si = b64url(header) .. "." .. b64url(kingmod.json_encode(payload))
+    local sig = kingmod.p256_sign(S.pem, si)
     if not sig then return nil end
     return si .. "." .. b64url(sig)
 end
@@ -267,7 +267,7 @@ local function send_refresh()
     S.refresh_pending = true
     local body = "grant_type=refresh_token&refresh_token=" .. urlencode(S.refresh_token)
         .. "&client_id=" .. CLIENT_ID
-    hebnix.http_request_async("refresh", "POST", TOKEN_URL, body, {
+    kingmod.http_request_async("refresh", "POST", TOKEN_URL, body, {
         ["Content-Type"] = "application/x-www-form-urlencoded",
         ["DPoP"] = proof,
         ["Accept"] = "application/json",
@@ -275,7 +275,7 @@ local function send_refresh()
 end
 
 local function send_client_token()
-    hebnix.http_request_async("ct", "POST", CT_URL, build_ct_request(), {
+    kingmod.http_request_async("ct", "POST", CT_URL, build_ct_request(), {
         ["Content-Type"] = "application/x-protobuf",
         ["Accept"] = "application/x-protobuf",
     })
@@ -285,12 +285,12 @@ local function poll_cluster()
     if S.cluster_pending or not S.conn_id or not S.access then return end
     S.cluster_pending = true
     local url = "https://" .. SPCLIENT .. "/connect-state/v1/devices/" .. S.device_id
-    local body = hebnix.json_encode({
+    local body = kingmod.json_encode({
         member_type = "CONNECT_STATE",
         device = { device_info = { capabilities = {
             can_be_player = false, hidden = true, needs_full_player_state = true } } },
     })
-    hebnix.http_request_async("cluster", "PUT", url, body, {
+    kingmod.http_request_async("cluster", "PUT", url, body, {
         ["Authorization"] = "Bearer " .. S.access,
         ["X-Spotify-Connection-Id"] = S.conn_id,
         ["client-token"] = S.client_token,
@@ -318,7 +318,7 @@ local function parse_lrc(s)
 end
 
 local function request_lyrics()
-    if not hebnix.get_bool("spotify_overlay_lyrics", true) then return end
+    if not kingmod.get_bool("spotify_overlay_lyrics", true) then return end
     if not S.now or not S.now.track_uri then return end
     if not S.now.title or not S.now.artist then return end
     if S.lyrics_uri == S.now.track_uri then return end
@@ -328,7 +328,7 @@ local function request_lyrics()
         .. "&track_name=" .. urlencode(S.now.title)
         .. "&album_name=" .. urlencode(S.now.album or "")
         .. "&duration=" .. tostring(math.floor((S.now.duration_ms or 0) / 1000))
-    hebnix.http_request_async("lrc:" .. S.now.track_uri, "GET", LRC_GET .. q, nil,
+    kingmod.http_request_async("lrc:" .. S.now.track_uri, "GET", LRC_GET .. q, nil,
         { ["User-Agent"] = LRC_UA })
 end
 
@@ -340,17 +340,17 @@ local function apply_cluster(cl)
 
     if uri ~= S.last_uri then
         S.last_uri = uri
-        hebnix.clear_asset_dir("temp")
+        kingmod.clear_asset_dir("temp")
         S.cover_file = nil
         S.lyrics = nil
         S.lyrics_uri = nil
         local cover = img_url(md.image_xlarge_url or md.image_large_url or md.image_url)
         if cover then
             S.cover_pending = true
-            hebnix.http_download_async("cover", cover, nil)
+            kingmod.http_download_async("cover", cover, nil)
         end
         if uri and uri:sub(1, 14) == "spotify:track:" and not S.meta_cache[uri] then
-            hebnix.http_request_async("track", "POST", EXTMETA_URL, build_extmeta(uri), {
+            kingmod.http_request_async("track", "POST", EXTMETA_URL, build_extmeta(uri), {
                 ["Authorization"] = "Bearer " .. S.access,
                 ["client-token"] = S.client_token,
                 ["Accept"] = "application/protobuf",
@@ -377,7 +377,7 @@ local function apply_cluster(cl)
     else
         local base = pos_at_ts
         if playing and server_ts > 0 then
-            local drift = hebnix.unix_millis() - server_ts
+            local drift = kingmod.unix_millis() - server_ts
             if drift >= 0 and drift < 3600000 then base = pos_at_ts + drift end
         end
         S.now = {
@@ -408,12 +408,12 @@ function plugin.on_http_result(id, status, body, headers)
     if id == "refresh" then
         S.refresh_pending = false
         local h = {}
-        pcall(function() h = hebnix.json_decode(headers) or {} end)
+        pcall(function() h = kingmod.json_decode(headers) or {} end)
         if h["dpop-nonce"] and h["dpop-nonce"] ~= S.nonce then
             S.nonce = h["dpop-nonce"]
         end
         if status == 200 then
-            local ok, j = pcall(hebnix.json_decode, body)
+            local ok, j = pcall(kingmod.json_decode, body)
             if ok and j and j.access_token then
                 S.access = j.access_token
                 S.access_exp = mono() + (tonumber(j.expires_in) or 3600)
@@ -445,12 +445,12 @@ function plugin.on_http_result(id, status, body, headers)
     elseif id == "cluster" then
         S.cluster_pending = false
         if status == 200 then
-            local ok, cl = pcall(hebnix.json_decode, body)
+            local ok, cl = pcall(kingmod.json_decode, body)
             if ok and cl then apply_cluster(cl) end
         elseif status == 401 then
             S.access = nil
             S.conn_id = nil
-            hebnix.ws_close("dealer")
+            kingmod.ws_close("dealer")
             S.phase = "need_token"
             send_refresh()
         end
@@ -475,7 +475,7 @@ function plugin.on_http_result(id, status, body, headers)
         if S.now and S.now.track_uri == uri then
             local synced
             if status == 200 and #body > 0 then
-                local ok, j = pcall(hebnix.json_decode, body)
+                local ok, j = pcall(kingmod.json_decode, body)
                 if ok and type(j) == "table" then synced = j.syncedLyrics end
             end
             if type(synced) == "string" and #synced > 0 then
@@ -483,14 +483,14 @@ function plugin.on_http_result(id, status, body, headers)
             elseif S.now.title and S.now.artist then
                 local q = "?track_name=" .. urlencode(S.now.title)
                     .. "&artist_name=" .. urlencode(S.now.artist)
-                hebnix.http_request_async("lrcs:" .. uri, "GET", LRC_SEARCH .. q, nil,
+                kingmod.http_request_async("lrcs:" .. uri, "GET", LRC_SEARCH .. q, nil,
                     { ["User-Agent"] = LRC_UA })
             end
         end
     elseif id:sub(1, 5) == "lrcs:" then
         local uri = id:sub(6)
         if S.now and S.now.track_uri == uri and status == 200 and #body > 0 then
-            local ok, j = pcall(hebnix.json_decode, body)
+            local ok, j = pcall(kingmod.json_decode, body)
             if ok and type(j) == "table" then
                 for _, item in ipairs(j) do
                     if type(item.syncedLyrics) == "string" and #item.syncedLyrics > 0 then
@@ -508,9 +508,9 @@ function plugin.on_http_download_response(id, status, body)
         S.cover_pending = false
         if status == 200 and body and #body > 0 then
             local fname = "cover_" .. hex(6) .. ".jpg"
-            if hebnix.write_asset("temp/" .. fname, body) then
+            if kingmod.write_asset("temp/" .. fname, body) then
                 S.cover_file = fname
-                local pal = hebnix.image_palette("temp/" .. fname)
+                local pal = kingmod.image_palette("temp/" .. fname)
                 if pal then S.palette = pal end
             end
         end
@@ -523,7 +523,7 @@ end
 
 function plugin.on_ws_message(id, data)
     if id ~= "dealer" then return end
-    local ok, msg = pcall(hebnix.json_decode, data)
+    local ok, msg = pcall(kingmod.json_decode, data)
     if not ok or type(msg) ~= "table" then return end
     local h = msg.headers
     if type(h) == "table" then
@@ -553,13 +553,13 @@ end
 local function detect_client_version()
     local appdata = os.getenv("APPDATA")
     if not appdata then return nil end
-    local prefs = hebnix.read_file(appdata .. "\\Spotify\\prefs")
+    local prefs = kingmod.read_file(appdata .. "\\Spotify\\prefs")
     if not prefs then return nil end
     return prefs:match('app%.last%-launched%-version="([^"]+)"')
 end
 
 local function load_device_id()
-    local dir = hebnix.plugin_dir and hebnix.plugin_dir()
+    local dir = kingmod.plugin_dir and kingmod.plugin_dir()
     if not dir then return hex(20) end
     local path = dir .. "\\device_id"
     local f = io.open(path, "rb")
@@ -576,13 +576,13 @@ end
 
 function plugin.on_load()
     reset_state()
-    hebnix.write_asset("temp/.keep", "")
-    hebnix.clear_asset_dir("temp")
+    kingmod.write_asset("temp/.keep", "")
+    kingmod.clear_asset_dir("temp")
     math.randomseed(os.time() + math.floor(mono() * 1000))
     S.device_id = load_device_id()
     CLIENT_VERSION = detect_client_version() or CLIENT_VERSION
-    if not hebnix.get_bool("spotify_overlay_disclaimer_ack", false) then
-        hebnix.window.open({
+    if not kingmod.get_bool("spotify_overlay_disclaimer_ack", false) then
+        kingmod.window.open({
             title = "Spotify Overlay",
             width = 400,
             height = 250,
@@ -603,14 +603,14 @@ function plugin.on_window(ui)
     ui.label("Spotify could flag or action an account for non-official access.")
     ui.space(10)
     if ui.button("OK") then
-        hebnix.set("spotify_overlay_disclaimer_ack", true)
-        hebnix.window.close()
+        kingmod.set("spotify_overlay_disclaimer_ack", true)
+        kingmod.window.close()
     end
 end
 
 function plugin.on_unload()
-    if S.device_id then hebnix.ws_close("dealer") end
-    hebnix.clear_asset_dir("temp")
+    if S.device_id then kingmod.ws_close("dealer") end
+    kingmod.clear_asset_dir("temp")
     reset_state()
 end
 
@@ -618,12 +618,12 @@ function plugin.on_tick()
     local nowt = mono()
     if nowt - S.last_proc_check >= 2.0 then
         S.last_proc_check = nowt
-        S.spotify_running = hebnix.process_running("Spotify.exe")
+        S.spotify_running = kingmod.process_running("Spotify.exe")
     end
 
     if S.phase == "init" then
         local path = (os.getenv("LOCALAPPDATA") or "") .. "\\Spotify\\dbrts"
-        local bytes = hebnix.read_file(path)
+        local bytes = kingmod.read_file(path)
         if not bytes then
             S.phase = "error"
             S.err = "can't read Spotify login (is Spotify installed & logged in?) make sure you didn't use qr code to log into your spotify account"
@@ -642,7 +642,7 @@ function plugin.on_tick()
         if t - (S.last_connect or 0) >= 3.0 then
             S.last_connect = t
             S.conn_id = nil
-            hebnix.ws_connect_async("dealer", DEALER .. (S.access or ""))
+            kingmod.ws_connect_async("dealer", DEALER .. (S.access or ""))
             S.phase = "connect_wait"
         end
     elseif S.phase == "poll" then
@@ -656,7 +656,7 @@ function plugin.on_tick()
         end
         if t - S.last_ping >= PING then
             S.last_ping = t
-            hebnix.ws_send("dealer", '{"type":"ping"}')
+            kingmod.ws_send("dealer", '{"type":"ping"}')
         end
     end
 end
@@ -707,7 +707,7 @@ local BORDER_OFF = {
 
 local function scroll_text(draw, s, x, y, size, color, cl, cw)
     s = s or ""
-    local tw = hebnix.measure_text(s, size, true)
+    local tw = kingmod.measure_text(s, size, true)
     if tw <= cw then
         draw.text(x, y, s, { color = color, size = size, bold = true })
         return
@@ -720,11 +720,11 @@ local function scroll_text(draw, s, x, y, size, color, cl, cw)
 end
 
 function plugin.on_overlay(draw, w, h)
-    if not hebnix.get_bool("spotify_overlay_enabled", true) then return end
-    if hebnix.get_bool("spotify_overlay_only_when_open", true) and not S.spotify_running then return end
+    if not kingmod.get_bool("spotify_overlay_enabled", true) then return end
+    if kingmod.get_bool("spotify_overlay_only_when_open", true) and not S.spotify_running then return end
     if not S.now then return end
 
-    local s = hebnix.get_number("spotify_overlay_scale", 100) / 100
+    local s = kingmod.get_number("spotify_overlay_scale", 100) / 100
     local p = S.palette or DEFAULT_PALETTE
 
     local art = 130 * s
@@ -733,20 +733,20 @@ function plugin.on_overlay(draw, w, h)
     local panel_h = art
     local prog_h = 5 * s
     local prog_gap = 6 * s
-    local lyrics_on = hebnix.get_bool("spotify_overlay_lyrics", true)
-    local lyr_scale = hebnix.get_number("spotify_overlay_lyrics_scale", 100) / 100
+    local lyrics_on = kingmod.get_bool("spotify_overlay_lyrics", true)
+    local lyr_scale = kingmod.get_number("spotify_overlay_lyrics_scale", 100) / 100
     local lyr_size = 15 * s * lyr_scale
     local row_h = lyr_size * 1.45
     local block_h = lyrics_on and (row_h * 3) or 0
     local lyr_gap = lyrics_on and (10 * s) or 0
     local above = lyrics_on
-        and hebnix.get_string("spotify_overlay_lyrics_pos", "Below card") == "Above card"
+        and kingmod.get_string("spotify_overlay_lyrics_pos", "Below card") == "Above card"
     local top_reserve = above and (block_h + lyr_gap) or 0
     local card_w = art + gap + panel_w
     local card_h = panel_h + prog_gap + prog_h + (lyrics_on and (block_h + lyr_gap) or 0)
     local margin = 24 * s
 
-    local corner = hebnix.get_string("spotify_overlay_corner", "Bottom Left")
+    local corner = kingmod.get_string("spotify_overlay_corner", "Bottom Left")
     local x, y
     if corner == "Bottom Right" then
         x, y = w - card_w - margin, h - card_h - margin
@@ -760,7 +760,7 @@ function plugin.on_overlay(draw, w, h)
 
     local cy0 = y + top_reserve
 
-    if hebnix.get_bool("spotify_overlay_show_cover", true) and S.cover_file then
+    if kingmod.get_bool("spotify_overlay_show_cover", true) and S.cover_file then
         draw.image("assets/temp/" .. S.cover_file, x, cy0, art, art, { opacity = 1.0, radius = 10 * s })
     else
         draw.rect(x, cy0, art, art, { color = p.dark, filled = true, radius = 10 * s })
@@ -811,22 +811,22 @@ function plugin.on_overlay(draw, w, h)
     end
 
     if lyrics_on and S.lyrics and #S.lyrics > 0 then
-        local offset = hebnix.get_number("spotify_overlay_lyrics_offset", 0)
+        local offset = kingmod.get_number("spotify_overlay_lyrics_offset", 0)
         local idx = lyric_index((pos + offset) / 1000)
         if idx ~= S.lyric_i then
             S.lyric_i = idx
             S.lyric_t0 = mono()
         end
         local base_color = p.text
-        if not hebnix.get_bool("spotify_overlay_lyrics_auto_color", true) then
-            base_color = hebnix.get_string("spotify_overlay_lyrics_color", "#ffffff")
+        if not kingmod.get_bool("spotify_overlay_lyrics_auto_color", true) then
+            base_color = kingmod.get_string("spotify_overlay_lyrics_color", "#ffffff")
         end
-        local border = hebnix.get_number("spotify_overlay_lyrics_border", 0) * s
+        local border = kingmod.get_number("spotify_overlay_lyrics_border", 0) * s
         local border_color = opposite(base_color)
-        if not hebnix.get_bool("spotify_overlay_lyrics_border_auto", true) then
-            border_color = hebnix.get_string("spotify_overlay_lyrics_border_color", "#000000")
+        if not kingmod.get_bool("spotify_overlay_lyrics_border_auto", true) then
+            border_color = kingmod.get_string("spotify_overlay_lyrics_border_color", "#000000")
         end
-        local anim = hebnix.get_string("spotify_overlay_lyrics_anim", "Slide")
+        local anim = kingmod.get_string("spotify_overlay_lyrics_anim", "Slide")
         local p_a = anim == "None" and 1.0 or math.min(1.0, (mono() - S.lyric_t0) / 0.30)
 
         local region_top = above and y or (by + prog_h + lyr_gap)

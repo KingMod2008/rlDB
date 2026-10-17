@@ -1,5 +1,5 @@
 name = "Event Viewer"
-author = "Hebbins"
-version = "1.0.0"
+author = "rlsdk"
+version = "1.0.1"
 entry = "main.lua"
 plugin_id = "8423c4a8bef14de6d9910225be9db371"

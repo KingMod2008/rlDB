@@ -120,7 +120,7 @@ local function update_players(event)
     for _, player in ipairs(source) do
         local id = tostring(player.PrimaryId or player.primary_id or "")
         local name = tostring(player.Name or player.name or "Unknown")
-        local key = (id == "" or hebnix.is_bot(id)) and ("bot:" .. name) or id
+        local key = (id == "" or kingmod.is_bot(id)) and ("bot:" .. name) or id
         if roster[key] then overlap = overlap + 1 end
     end
     if had and overlap == 0 then
@@ -131,7 +131,7 @@ local function update_players(event)
     local seen = {}
     for _, player in ipairs(source) do
         local primary_id = tostring(player.PrimaryId or player.primary_id or "")
-        local is_bot = primary_id == "" or hebnix.is_bot(primary_id)
+        local is_bot = primary_id == "" or kingmod.is_bot(primary_id)
         local name = tostring(player.Name or player.name or "Unknown")
         local key = is_bot and ("bot:" .. name) or primary_id
         seen[key] = true
@@ -200,7 +200,7 @@ local function mark_left(event)
     if type(data) ~= "table" then return end
     local id = tostring(data.PrimaryId or data.primary_id or "")
     local name = tostring(data.PlayerName or data.player_name or "")
-    local key = (id == "" or hebnix.is_bot(id)) and ("bot:" .. name) or id
+    local key = (id == "" or kingmod.is_bot(id)) and ("bot:" .. name) or id
     local entry = roster[key]
     if entry then
         entry.left = true
@@ -239,11 +239,11 @@ end
 
 local function refresh_playlist()
     if not log_key then
-        hebnix.clear_launch_log()
-        log_key = hebnix.parse_launch_log_async(false)
+        kingmod.clear_launch_log()
+        log_key = kingmod.parse_launch_log_async(false)
         return
     end
-    local info = hebnix.launch_log_result(log_key)
+    local info = kingmod.launch_log_result(log_key)
     if type(info) ~= "table" then return end
     if type(info.session) == "table" then my_id = info.session.primary_id end
     if type(info.game) ~= "table" then return end
@@ -359,7 +359,7 @@ function plugin.on_tick()
     if in_match and not current_playlist then refresh_playlist() end
 
     if in_match then
-        local held = hebnix.is_action_pressed("scoreboard")
+        local held = kingmod.is_action_pressed("scoreboard")
         if held and not scoreboard_was_held then
             in_first_open = first_tab_pending
             first_tab_pending = false
@@ -373,7 +373,7 @@ end
 function plugin.on_overlay(draw, w, h)
     if not in_match or match_ended or #players == 0 or freeplay then return end
 
-    local held = hebnix.is_action_pressed("scoreboard")
+    local held = kingmod.is_action_pressed("scoreboard")
     local opacity = 1.0
     if held then
         was_drawing = true
@@ -382,10 +382,10 @@ function plugin.on_overlay(draw, w, h)
     else
         if was_drawing then
             was_drawing = false
-            fade_from = hebnix.monotonic_seconds()
+            fade_from = kingmod.monotonic_seconds()
         end
         if not fade_from then return end
-        local elapsed = hebnix.monotonic_seconds() - fade_from
+        local elapsed = kingmod.monotonic_seconds() - fade_from
         if elapsed >= FADE_SECONDS then
             fade_from = nil
             return
@@ -393,13 +393,13 @@ function plugin.on_overlay(draw, w, h)
         opacity = 1.0 - elapsed / FADE_SECONDS
     end
 
-    local style = hebnix.get_string("platform_display_style", "Square")
+    local style = kingmod.get_string("platform_display_style", "Square")
     local dir = STYLE_DIRS[style] or STYLE_DIRS.Square
-    local hide_steam = hebnix.get_bool("platform_display_hide_steam", false)
-    local hide_self = hebnix.get_bool("platform_display_hide_self", false)
-    local show_ghosts = hebnix.get_bool("platform_display_show_ghosts", true)
-    local ui_scale = (hebnix.ui_scale and hebnix.ui_scale() or 1.0)
-        * hebnix.get_number("platform_display_display_scale", 100) / 100
+    local hide_steam = kingmod.get_bool("platform_display_hide_steam", false)
+    local hide_self = kingmod.get_bool("platform_display_hide_self", false)
+    local show_ghosts = kingmod.get_bool("platform_display_show_ghosts", true)
+    local ui_scale = (kingmod.ui_scale and kingmod.ui_scale() or 1.0)
+        * kingmod.get_number("platform_display_display_scale", 100) / 100
 
     local list = sorted_players()
     local blues, oranges, ghosts = 0, 0, 0
@@ -413,16 +413,16 @@ function plugin.on_overlay(draw, w, h)
     end
 
     local mutator_edge = shows_mutator_strip()
-        and hebnix.get_number("platform_display_mutator_edge", MUTATOR_EDGE) or 0
+        and kingmod.get_number("platform_display_mutator_edge", MUTATOR_EDGE) or 0
     local x_offset = shown_first_open
-        and hebnix.get_number("platform_display_x_offset_first", X_OFFSET_FIRST)
-        or hebnix.get_number("platform_display_x_offset", X_OFFSET)
+        and kingmod.get_number("platform_display_x_offset_first", X_OFFSET_FIRST)
+        or kingmod.get_number("platform_display_x_offset", X_OFFSET)
     local replay_shift = in_replay
-        and hebnix.get_number("platform_display_replay_shift", REPLAY_SHIFT) or 0
+        and kingmod.get_number("platform_display_replay_shift", REPLAY_SHIFT) or 0
     local layout = sb_layout(w, h, ui_scale, x_offset, mutator_edge, blues, oranges, replay_shift)
-    local y_nudge = hebnix.get_number("platform_display_y_nudge", 0) * layout.scale
+    local y_nudge = kingmod.get_number("platform_display_y_nudge", 0) * layout.scale
     local icon_x = layout.centre
-        + hebnix.get_number("platform_display_icon_x", ICON_COL) * layout.scale
+        + kingmod.get_number("platform_display_icon_x", ICON_COL) * layout.scale
     layout.first_open = shown_first_open
     layout.replay = in_replay
     layout.blues = blues
@@ -469,7 +469,7 @@ function plugin.on_settings(ui)
             .. (shows_mutator_strip() and ", board shifted" or ""))
         ui.label("Display scale has no home in the save, match it to the game.")
         ui.label(string.format("Interface scale: %.2f, read from the save",
-            hebnix.ui_scale and hebnix.ui_scale() or 1.0))
+            kingmod.ui_scale and kingmod.ui_scale() or 1.0))
         ui.slider("platform_display_display_scale", "Display scale", 90, 100, 100)
         ui.label("Below are 1080p pixels, they scale with the resolution.")
         ui.label("Set X offset in a plain match first, the strip edge only bites when it overlaps.")

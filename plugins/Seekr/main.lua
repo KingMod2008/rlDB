@@ -61,19 +61,19 @@ local function number(value, fallback)
 end
 
 local function setting(key, fallback)
-    return hebnix.get_string(key, fallback or "")
+    return kingmod.get_string(key, fallback or "")
 end
 
 local function save_auth()
-    hebnix.set("discord_id", discord_id)
-    hebnix.set("loader_key", loader_key)
-    hebnix.set("username", discord_username)
-    hebnix.set("role", discord_role)
+    kingmod.set("discord_id", discord_id)
+    kingmod.set("loader_key", loader_key)
+    kingmod.set("username", discord_username)
+    kingmod.set("role", discord_role)
 end
 
 local function detailed_log(message)
-    if hebnix.get_bool("seekr_detailed_logging", false) then
-        hebnix.log("[Seekr] " .. message)
+    if kingmod.get_bool("seekr_detailed_logging", false) then
+        kingmod.log("[Seekr] " .. message)
     end
 end
 
@@ -84,7 +84,7 @@ local function url_encode(value)
 end
 
 local function decode_json(body)
-    local ok, result = pcall(hebnix.json_decode, body or "")
+    local ok, result = pcall(kingmod.json_decode, body or "")
     if ok and type(result) == "table" then return result end
     return nil
 end
@@ -114,14 +114,14 @@ local function perform_logout()
     current_uploader_id = "0"
     save_auth()
     status = "Pending login"
-    hebnix.log("[Seekr] Logged out successfully.")
+    kingmod.log("[Seekr] Logged out successfully.")
 end
 
 local function start_oauth()
     if oauth_pending then return end
     status = "Contacting Auth Servers..."
     oauth_pending = true
-    hebnix.http_get_async("seekr_oauth_init", BASE_URL .. "/api/listener/init", {})
+    kingmod.http_get_async("seekr_oauth_init", BASE_URL .. "/api/listener/init", {})
 end
 
 local function refresh_log(force)
@@ -129,7 +129,7 @@ local function refresh_log(force)
     if not force and now < next_log_refresh then return end
     next_log_refresh = now + 5
 
-    local parsed = hebnix.parse_launch_log(false)
+    local parsed = kingmod.parse_launch_log(false)
     local game = parsed and parsed.game
     if type(game) ~= "table" then return end
 
@@ -227,7 +227,7 @@ local function request_player_stats(platform_id)
     if tracker_pending[platform_id] then return tracker_pending[platform_id] end
     local platform, account_id = profile_identity(platform_id)
     if not platform or not account_id then return nil end
-    local request_key = hebnix.fetch_profile_async(platform, account_id)
+    local request_key = kingmod.fetch_profile_async(platform, account_id)
     if request_key then tracker_pending[platform_id] = request_key end
     return request_key
 end
@@ -235,7 +235,7 @@ end
 local function read_player_stats(platform_id)
     local request_key = tracker_pending[platform_id]
     if not request_key then return nil end
-    local result = hebnix.stats_result(request_key)
+    local result = kingmod.stats_result(request_key)
     if result == nil or result == "pending" then return nil end
 
     local ranks = type(result) == "table" and result.ranks or nil
@@ -427,16 +427,16 @@ local function dispatch_telemetry(event, force_finish)
 
     local state = force_finish and "FINISHED" or "LIVE"
     local payload = extract_payload(event, state)
-    local json = hebnix.json_encode(payload)
-    local compressed = hebnix.zlib_compress(json)
-    local encoded = hebnix.base64_encode(compressed)
+    local json = kingmod.json_encode(payload)
+    local compressed = kingmod.zlib_compress(json)
+    local encoded = kingmod.base64_encode(compressed)
     local timestamp = tostring(now)
-    local signature = hebnix.crypto_hmac_sha256(loader_key, timestamp .. "." .. encoded)
+    local signature = kingmod.crypto_hmac_sha256(loader_key, timestamp .. "." .. encoded)
     local headers = auth_headers(timestamp, signature)
     headers["Content-Type"] = "text/plain"
     upload_sequence = upload_sequence + 1
     local request_id = "seekr_upload:" .. tostring(upload_sequence) .. ":" .. state
-    hebnix.http_post_async(request_id, BASE_URL .. "/api/listener/upload", encoded, headers)
+    kingmod.http_post_async(request_id, BASE_URL .. "/api/listener/upload", encoded, headers)
     last_upload_time = now
 end
 
@@ -453,9 +453,9 @@ end
 local function send_heartbeat()
     if not authenticated() or heartbeat_pending then return end
     local timestamp = tostring(os.time())
-    local signature = hebnix.crypto_hmac_sha256(loader_key, timestamp .. ".heartbeat")
+    local signature = kingmod.crypto_hmac_sha256(loader_key, timestamp .. ".heartbeat")
     heartbeat_pending = true
-    hebnix.http_get_async(
+    kingmod.http_get_async(
         "seekr_heartbeat",
         BASE_URL .. "/api/listener/heartbeat",
         auth_headers(timestamp, signature)
@@ -470,7 +470,7 @@ function plugin.on_load()
     refresh_log(true)
     status = authenticated() and "Authenticated" or "Pending login"
     if authenticated() then
-        hebnix.log("[Seekr] Profile synchronized: " .. discord_username .. " (" .. discord_role .. ")")
+        kingmod.log("[Seekr] Profile synchronized: " .. discord_username .. " (" .. discord_role .. ")")
     end
 end
 
@@ -491,7 +491,7 @@ function plugin.on_tick()
         oauth_pending = true
         oauth_next_poll = now + 3
         local url = BASE_URL .. "/api/listener/poll?session_id=" .. url_encode(oauth_session)
-        hebnix.http_get_async("seekr_oauth_poll", url, {})
+        kingmod.http_get_async("seekr_oauth_poll", url, {})
     end
 
     if authenticated() and now >= next_heartbeat then
@@ -578,7 +578,7 @@ function plugin.on_http_response(request_id, http_status, body)
         oauth_deadline = os.time() + 300
         oauth_next_poll = os.time()
         status = "Action Required (Check Browser)"
-        hebnix.open_url(tostring(response.auth_url))
+        kingmod.open_url(tostring(response.auth_url))
         return
     end
 
@@ -599,7 +599,7 @@ function plugin.on_http_response(request_id, http_status, body)
             save_auth()
             oauth_session = nil
             status = "Authenticated"
-            hebnix.log("[Seekr] Login verified via stream handshake.")
+            kingmod.log("[Seekr] Login verified via stream handshake.")
         end
         return
     end
@@ -613,7 +613,7 @@ function plugin.on_http_response(request_id, http_status, body)
         local response = decode_json(body)
         if response and response.user_status == "banned" then
             status = "Account Banned"
-            hebnix.log("[Seekr] Account banned; tracking halted.")
+            kingmod.log("[Seekr] Account banned; tracking halted.")
             perform_logout()
             status = "Account Banned"
         elseif response and response.username and tostring(response.username) ~= discord_username then

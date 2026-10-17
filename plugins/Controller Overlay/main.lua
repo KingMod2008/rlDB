@@ -9,22 +9,22 @@ local POSITIONS = {
 }
 
 local function push_controller()
-    local controllers = hebnix.controllers()
+    local controllers = kingmod.controllers()
     local controller = controllers and controllers[1] or nil
-    hebnix.overlay.send({
+    kingmod.overlay.send({
         controller = controller,
-        controller_type = hebnix.get_string("controller_type", "Xbox"),
-        position = hebnix.get_string("controller_position", "Bottom right"),
-        scale = hebnix.get_number("controller_scale", 0.5),
-        margin_top = hebnix.get_number("controller_margin_top", 28),
-        margin_bottom = hebnix.get_number("controller_margin_bottom", 28),
-        margin_left = hebnix.get_number("controller_margin_left", 28),
-        margin_right = hebnix.get_number("controller_margin_right", 28),
+        controller_type = kingmod.get_string("controller_type", "Xbox"),
+        position = kingmod.get_string("controller_position", "Bottom right"),
+        scale = kingmod.get_number("controller_scale", 0.5),
+        margin_top = kingmod.get_number("controller_margin_top", 28),
+        margin_bottom = kingmod.get_number("controller_margin_bottom", 28),
+        margin_left = kingmod.get_number("controller_margin_left", 28),
+        margin_right = kingmod.get_number("controller_margin_right", 28),
     })
 end
 
 function plugin.on_load()
-    hebnix.log("Controller overlay loaded")
+    kingmod.log("Controller overlay loaded")
     push_controller()
 end
 

@@ -20,14 +20,14 @@ local function safe_call(fn, ...)
 end
 
 local function capture_api()
-    return hebnix.capture
+    return kingmod.capture
 end
 
 local function refresh_windows()
     local cap = capture_api()
     if not cap then
         windows = {}
-        status = "hebnix.capture is unavailable"
+        status = "kingmod.capture is unavailable"
         return
     end
 
@@ -93,24 +93,24 @@ local function start_capture(id)
         return
     end
 
-    local fps = hebnix.get_number("ww_fps", 30)
+    local fps = kingmod.get_number("ww_fps", 30)
 
     local handle, err
 
     if type(cap.start) == "function" then
         handle, err = safe_call(cap.start, id, {
             fps = fps,
-            cursor = hebnix.get_bool("ww_cursor", false)
+            cursor = kingmod.get_bool("ww_cursor", false)
         })
     elseif type(cap.create) == "function" then
         handle, err = safe_call(cap.create, id, {
             fps = fps,
-            cursor = hebnix.get_bool("ww_cursor", false)
+            cursor = kingmod.get_bool("ww_cursor", false)
         })
     elseif type(cap.open) == "function" then
         handle, err = safe_call(cap.open, id, {
             fps = fps,
-            cursor = hebnix.get_bool("ww_cursor", false)
+            cursor = kingmod.get_bool("ww_cursor", false)
         })
     end
 
@@ -121,7 +121,7 @@ local function start_capture(id)
 
     capture_handle = handle
     selected_id = tostring(id)
-    hebnix.set("ww_selected_id", selected_id)
+    kingmod.set("ww_selected_id", selected_id)
     status = "Capturing"
 end
 
@@ -184,17 +184,17 @@ local function draw_capture(draw, frame, x, y, w, h, opacity)
 end
 
 function plugin.on_load()
-    hebnix.window.open({
+    kingmod.window.open({
         title = "Window Widget",
         width = 620,
         height = 560,
         opacity = 0.96
     })
 
-    selected_id = hebnix.get_string("ww_selected_id", "")
+    selected_id = kingmod.get_string("ww_selected_id", "")
     refresh_windows()
 
-    hebnix.log("[Window Widget] loaded")
+    kingmod.log("[Window Widget] loaded")
 end
 
 function plugin.on_settings(ui)
@@ -329,7 +329,7 @@ function plugin.on_window(ui)
         end
     else
         if ui.button("Start Capture") then
-            local stored = hebnix.get_string(
+            local stored = kingmod.get_string(
                 "ww_selected_id",
                 ""
             )
@@ -343,10 +343,10 @@ function plugin.on_window(ui)
     end
 
     if ui.button("Open / Close Widget") then
-        if hebnix.window.is_open() then
-            hebnix.window.close()
+        if kingmod.window.is_open() then
+            kingmod.window.close()
         else
-            hebnix.window.open()
+            kingmod.window.open()
         end
     end
 
@@ -356,7 +356,7 @@ function plugin.on_window(ui)
 end
 
 function plugin.on_tick()
-    if not hebnix.get_bool("ww_enabled", true) then
+    if not kingmod.get_bool("ww_enabled", true) then
         return
     end
 
@@ -366,7 +366,7 @@ function plugin.on_tick()
 end
 
 function plugin.on_overlay(draw)
-    if not hebnix.get_bool("ww_enabled", true) then
+    if not kingmod.get_bool("ww_enabled", true) then
         return
     end
 
@@ -376,12 +376,12 @@ function plugin.on_overlay(draw)
         return
     end
 
-    local x = hebnix.get_number("ww_x", 40)
-    local y = hebnix.get_number("ww_y", 40)
-    local w = hebnix.get_number("ww_width", 640)
-    local h = hebnix.get_number("ww_height", 360)
+    local x = kingmod.get_number("ww_x", 40)
+    local y = kingmod.get_number("ww_y", 40)
+    local w = kingmod.get_number("ww_width", 640)
+    local h = kingmod.get_number("ww_height", 360)
     local opacity =
-        hebnix.get_number("ww_opacity", 100) / 100
+        kingmod.get_number("ww_opacity", 100) / 100
 
     if not draw_capture(
         draw,
@@ -395,8 +395,8 @@ end
 
 function plugin.on_unload()
     stop_capture()
-    hebnix.window.close()
-    hebnix.log("[Window Widget] unloaded")
+    kingmod.window.close()
+    kingmod.log("[Window Widget] unloaded")
 end
 
 return plugin

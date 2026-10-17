@@ -1,35 +1,37 @@
 [
     {
+        "author":  "rlsdk",
         "name":  "Ball Speed",
         "files":  [
                       {
                           "path":  "plugins/BallSpeed/main.lua",
-                          "sha256":  "351afb1725c321c952ebb329d3aca4abbab3bc9a5624e369ab556c0036c4b8e8",
-                          "bytes":  5885
+                          "sha256":  "3fcde41923dabffc3b1e6327a6a10a3ab6c94a9126d9543a5cf5af257033745f",
+                          "bytes":  6087
                       },
                       {
                           "path":  "plugins/BallSpeed/plugin.toml",
-                          "sha256":  "7643f1ec4631562abf50a042b53596b12aafccf5e7d5ae626a35f58d2f69f4f9",
+                          "sha256":  "5e3380ee7376424e58876c1859ed6b5475bc2842a2cbf5155358486011b6ebad",
                           "bytes":  126
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.1",
+        "version_number":  "1.0.2",
         "plugin_id":  "BallSpeed",
         "folder":  "plugins/BallSpeed"
     },
     {
+        "author":  "rlsdk",
         "name":  "Controller Overlay",
         "files":  [
                       {
                           "path":  "plugins/Controller Overlay/main.lua",
-                          "sha256":  "86f1bce7f87e602d2ecb6a939fb79110de70197e4743ebdbab8ad16f170dc499",
-                          "bytes":  1719
+                          "sha256":  "f8dd0970688d639da64a95a56b5a5402b5c63cadf98461007cbc7dac5ba9ab2b",
+                          "bytes":  1777
                       },
                       {
                           "path":  "plugins/Controller Overlay/plugin.toml",
-                          "sha256":  "3db740bb1a8d88cfe036c10add566d75705312b187f54137c253c66a9c5de439",
-                          "bytes":  131
+                          "sha256":  "06b3c4977bb202d0ff6fa11dde9b61627745a518786fc2c69a3beddadb55d3bf",
+                          "bytes":  134
                       },
                       {
                           "path":  "plugins/Controller Overlay/assets/controller-v4.css",
@@ -133,21 +135,22 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.0",
+        "version_number":  "1.0.1",
         "plugin_id":  "Controller Overlay",
         "folder":  "plugins/Controller Overlay"
     },
     {
+        "author":  "rlsdk",
         "name":  "Crossbar Sounds",
         "files":  [
                       {
                           "path":  "plugins/Custom Crossbar Sounds/main.lua",
-                          "sha256":  "c17bf3a841e93172feef830d0f8811dc001bb17cbbe0f8af85065d26bb6cd0bf",
-                          "bytes":  3440
+                          "sha256":  "6d5eb844a808315dd359f9847c1d1182b049f3c4026c9b0113365475fc197b7f",
+                          "bytes":  3476
                       },
                       {
                           "path":  "plugins/Custom Crossbar Sounds/plugin.toml",
-                          "sha256":  "74f1b65ea617b2b4931d613d7746d3b91a406faca47a9e60c96aa69cc6641bad",
+                          "sha256":  "5b440d879dde970312450365485e53a836199157bea2c5ac6234a9adcc92300e",
                           "bytes":  131
                       },
                       {
@@ -157,41 +160,43 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.3",
+        "version_number":  "1.0.4",
         "plugin_id":  "Custom Crossbar Sounds",
         "folder":  "plugins/Custom Crossbar Sounds"
     },
     {
+        "author":  "rlsdk",
         "name":  "Event Viewer",
         "files":  [
                       {
                           "path":  "plugins/Event Viewer/main.lua",
-                          "sha256":  "f98b30f9318ad963c966025e369fcae6eac7369393d9ab37c3320d8a05dab3d3",
-                          "bytes":  5022
+                          "sha256":  "11b505dbb7654f767f9d33881a2447df6a32d0e23b0ec363aaacc18bdfb408c3",
+                          "bytes":  5187
                       },
                       {
                           "path":  "plugins/Event Viewer/plugin.toml",
-                          "sha256":  "92d7fc69e0d5e7c2f26eb24b9ff4113929bb8b82bc483d3b15a1002c5765d994",
-                          "bytes":  125
+                          "sha256":  "271f1a059253cfb277b9a26873dba8441e7a2fa6e4ee12eb3c951d36ebb1b4a1",
+                          "bytes":  128
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.0",
+        "version_number":  "1.0.1",
         "plugin_id":  "Event Viewer",
         "folder":  "plugins/Event Viewer"
     },
     {
+        "author":  "rlsdk",
         "name":  "FPS Booster",
         "files":  [
                       {
                           "path":  "plugins/FPSBooster/main.lua",
-                          "sha256":  "f1c4ab789b01ea2224be2761cd3db4ad43a45ae5426e616b101d70bf25d26b6f",
-                          "bytes":  24387
+                          "sha256":  "f04f8b3cd35ad3908540850ee282d76a54271f0525b9b043a55924bb2402fb4e",
+                          "bytes":  24451
                       },
                       {
                           "path":  "plugins/FPSBooster/plugin.toml",
-                          "sha256":  "c8fe29bccc00dfb3b27fa1d65c4b00462273f6cd749a6d779eac57a036a95cca",
-                          "bytes":  129
+                          "sha256":  "4d53c5af9d8bed734cf67b946ba08a3e35a8763c56e4693644db938cfe327e11",
+                          "bytes":  127
                       },
                       {
                           "path":  "plugins/FPSBooster/ReadME.MD",
@@ -230,22 +235,23 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "3.1.1",
+        "version_number":  "3.1.2",
         "plugin_id":  "FPSBooster",
         "folder":  "plugins/FPSBooster"
     },
     {
+        "author":  "rlsdk",
         "name":  "Grinder",
         "files":  [
                       {
                           "path":  "plugins/grinder/main.lua",
-                          "sha256":  "8f026e5e1935e0401b30c81595b830869abb15fd29af1e0e826bf7c745c62666",
-                          "bytes":  17855
+                          "sha256":  "a7308a31733ebcb1f2fe296e0528c8836a214168f4440bf7d58ab13371f1daff",
+                          "bytes":  17911
                       },
                       {
                           "path":  "plugins/grinder/plugin.toml",
-                          "sha256":  "fe2d18f1f83ef8cb820edb31e4f2284872644343c046245b4ba110ae9666cac2",
-                          "bytes":  124
+                          "sha256":  "6a20f9f722a04f20a28ea9d9fc8969073c1cacdad2fb64126da2d03ff297e185",
+                          "bytes":  123
                       },
                       {
                           "path":  "plugins/grinder/assets/divisions/0.png",
@@ -409,41 +415,43 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.1",
+        "version_number":  "1.0.2",
         "plugin_id":  "grinder",
         "folder":  "plugins/grinder"
     },
     {
+        "author":  "rlsdk",
         "name":  "Heatseeker Utils",
         "files":  [
                       {
                           "path":  "plugins/HeatseekerUtils/main.lua",
-                          "sha256":  "8730b08d33d9bdb9784e60f8cc9290a6311571aadb66958f949addb067654e65",
-                          "bytes":  14836
+                          "sha256":  "9fd013424dc4a221dfb8dada4b34aafcd794da72b6e7fea1d7387f780d251138",
+                          "bytes":  14891
                       },
                       {
                           "path":  "plugins/HeatseekerUtils/plugin.toml",
-                          "sha256":  "fb96bdf20ebca5c242378abf46f33bc0951f04cad94bb82f8a46996ec1479113",
+                          "sha256":  "bd17eba2648bc110bb014fc3127679021e1101aa9d1bbd19299cc84b55d6e1ff",
                           "bytes":  132
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.3",
+        "version_number":  "1.0.4",
         "plugin_id":  "HeatseekerUtils",
         "folder":  "plugins/HeatseekerUtils"
     },
     {
+        "author":  "rlsdk",
         "name":  "Hebs HUD",
         "files":  [
                       {
                           "path":  "plugins/Hebs HUD/main.lua",
-                          "sha256":  "c08073a97409a48d276dc5e9577793f45bfdb8192a93667ed71b074cb03cd959",
-                          "bytes":  15922
+                          "sha256":  "83bbda66304b024b85929d2e3db7a723e6748bf46f3e85bb37179b5ded49775c",
+                          "bytes":  16319
                       },
                       {
                           "path":  "plugins/Hebs HUD/plugin.toml",
-                          "sha256":  "24b3d83adf4aa6c4609604a9953b430f71f8e39438da21997bb12882b6b593d6",
-                          "bytes":  121
+                          "sha256":  "81eda22052458fbcb3dac3f94463b1040da4c730e53ccdb24ae6424b21bd68c8",
+                          "bytes":  124
                       },
                       {
                           "path":  "plugins/Hebs HUD/assets/ranks/0.png",
@@ -562,22 +570,23 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.2",
+        "version_number":  "1.0.3",
         "plugin_id":  "Hebs HUD",
         "folder":  "plugins/Hebs HUD"
     },
     {
+        "author":  "rlsdk",
         "name":  "InGameRank",
         "files":  [
                       {
                           "path":  "plugins/ingame_rank/main.lua",
-                          "sha256":  "22f9569eb54d0b2865d2d5f95af0e7d306ab9c40553a91db2d5621dabc4917a7",
-                          "bytes":  32177
+                          "sha256":  "ab34dcaaba43d80f89ade4e7664e61daec5c580b14fd5e9a9ca34de712faaf5d",
+                          "bytes":  32232
                       },
                       {
                           "path":  "plugins/ingame_rank/plugin.toml",
-                          "sha256":  "796ea974e5a72911d04714eb81143196155003b9b225a044511895c782f55070",
-                          "bytes":  127
+                          "sha256":  "3f404b770f09f2677294ecb37f5edd3b84a97953fad01535c8643bc3c29391b8",
+                          "bytes":  126
                       },
                       {
                           "path":  "plugins/ingame_rank/assets/divisions/0.png",
@@ -791,22 +800,23 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "4.0.1",
+        "version_number":  "4.0.2",
         "plugin_id":  "ingame_rank",
         "folder":  "plugins/ingame_rank"
     },
     {
+        "author":  "rlsdk",
         "name":  "Media Overlay",
         "files":  [
                       {
                           "path":  "plugins/media_overlay/main.lua",
-                          "sha256":  "1595adfe0158c5cbbd885e9fb66e8d0e5aa09c5111ef3b3f2115f1cbc27a79b1",
-                          "bytes":  62248
+                          "sha256":  "4dc0ffd33ae34770cd0201b060b93fd7511c3fb8faf5a99b2b8cd6f9620e90df",
+                          "bytes":  63859
                       },
                       {
                           "path":  "plugins/media_overlay/plugin.toml",
-                          "sha256":  "4a792be9232d33c20b4c866a547081a7957345731135390bbf9b1e299d8786dd",
-                          "bytes":  265
+                          "sha256":  "82a1c6b161c80b8c0076c137ecdc9c73de493f683ba4fd85c93bd802ed89e3fa",
+                          "bytes":  268
                       },
                       {
                           "path":  "plugins/media_overlay/assets/lyrics/a.txt",
@@ -815,22 +825,23 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.2",
+        "version_number":  "1.0.3",
         "plugin_id":  "media_overlay",
         "folder":  "plugins/media_overlay"
     },
     {
+        "author":  "rlsdk",
         "name":  "PfpOverlayV2",
         "files":  [
                       {
                           "path":  "plugins/PfpOverlayV2/main.lua",
-                          "sha256":  "7f3b6d12e217aad9b084822a1d161e4010bbf50a4c352a036d2ca17344d07df1",
-                          "bytes":  109521
+                          "sha256":  "c3d28fd4e40681d99be6a7e1b04d97c0ce757d1fc3da2c7ccf24e3f63024ae45",
+                          "bytes":  112387
                       },
                       {
                           "path":  "plugins/PfpOverlayV2/plugin.toml",
-                          "sha256":  "42f003886deba5ef0cf06d75d16fb692820a96057d815638c825dfb70a16e81d",
-                          "bytes":  131
+                          "sha256":  "8d1ff4520b41b75d916f6140ebe8561f15a265705317ae1e739e5775d22a6bf4",
+                          "bytes":  130
                       },
                       {
                           "path":  "plugins/PfpOverlayV2/assets/cache/hi.txt",
@@ -839,21 +850,22 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "3.0.1",
+        "version_number":  "3.0.2",
         "plugin_id":  "PfpOverlayV2",
         "folder":  "plugins/PfpOverlayV2"
     },
     {
+        "author":  "rlsdk",
         "name":  "Platform Display",
         "files":  [
                       {
                           "path":  "plugins/PlatformDisplay/main.lua",
-                          "sha256":  "7c3d961587e0e1b91c64fd3def08601c05c62cd9d8b86a792173ea11139dd5b5",
-                          "bytes":  16941
+                          "sha256":  "5506bcc942c41321305d7d9c13c70c4c5f266ae2358fe9a9ec37d32aefcdcf0a",
+                          "bytes":  16966
                       },
                       {
                           "path":  "plugins/PlatformDisplay/plugin.toml",
-                          "sha256":  "48c066ab099733da6965d0ff512079c1fef13dfccffee73717b825b71b3c2259",
+                          "sha256":  "3b80cf5e1cb19ec2e3c440309a2fc5911eeb25cc943412f06f4d616527fec6f5",
                           "bytes":  132
                       },
                       {
@@ -948,22 +960,23 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.2",
+        "version_number":  "1.0.3",
         "plugin_id":  "PlatformDisplay",
         "folder":  "plugins/PlatformDisplay"
     },
     {
+        "author":  "rlsdk",
         "name":  "Post Match Analysis",
         "files":  [
                       {
                           "path":  "plugins/Post Match Analysis/main.lua",
-                          "sha256":  "36880bfe36b98789061c13c829602bb260de81308051a095b7212764a1cf6c24",
-                          "bytes":  31565
+                          "sha256":  "928239347239e20b23a2f1d03079b5463590c7f632fbc6d9ef41cdedb76f7e6b",
+                          "bytes":  32308
                       },
                       {
                           "path":  "plugins/Post Match Analysis/plugin.toml",
-                          "sha256":  "0a62064ce80c7e3dd33a2250b36ab14cb1bbb88dbcc792e91359f53847a97bf1",
-                          "bytes":  237
+                          "sha256":  "1a368da317d1fb83efebcaf007d0a5bce3e35dc35f313b4bd3491b27ee057d7c",
+                          "bytes":  241
                       },
                       {
                           "path":  "plugins/Post Match Analysis/assets/matches.json",
@@ -1147,41 +1160,43 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.0",
+        "version_number":  "1.0.1",
         "plugin_id":  "Post Match Analysis",
         "folder":  "plugins/Post Match Analysis"
     },
     {
+        "author":  "rlsdk",
         "name":  "QuickChat",
         "files":  [
                       {
                           "path":  "plugins/QuickChat/main.lua",
-                          "sha256":  "edb300898c184fdc66f4562a7d5a0378fb6b2cb45ad4ce0da0ca6536112b8681",
-                          "bytes":  14105
+                          "sha256":  "9c6ae0898c2f93fe18abfbb75481e6b9100d8656c413b8c643aac47cb08818c2",
+                          "bytes":  14530
                       },
                       {
                           "path":  "plugins/QuickChat/plugin.toml",
-                          "sha256":  "5f9846b2be09cf17e6c505fbfe389aee08d2b1f8f81d3e217ae359eb1903a0f8",
-                          "bytes":  127
+                          "sha256":  "362f27dae16c826e8a8e4d03441c35cf919cf5ddf1fdc6ff6fcaad3fce51a2a4",
+                          "bytes":  125
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.3.0",
+        "version_number":  "1.3.1",
         "plugin_id":  "QuickChat",
         "folder":  "plugins/QuickChat"
     },
     {
+        "author":  "rlsdk",
         "name":  "RankViewer",
         "files":  [
                       {
                           "path":  "plugins/RankViewer/main.lua",
-                          "sha256":  "66e6481851543a187c8ca6f79b58e33c931346ad8ae4cb4fb94b64faa6689ce0",
-                          "bytes":  10374
+                          "sha256":  "4bae2ef50a74fb4a9dab117c9295d270201b5da5d6e74f09388398c1e9646b2e",
+                          "bytes":  10382
                       },
                       {
                           "path":  "plugins/RankViewer/plugin.toml",
-                          "sha256":  "ea8c0be731109b2ab7b1804a4f7d85936b42aa6d89859206fe99bacfa3503f48",
-                          "bytes":  123
+                          "sha256":  "ffe3dbebb9c149ed7860277b992ff13055d3c1266c0b17204383bb971cc2fc7b",
+                          "bytes":  126
                       },
                       {
                           "path":  "plugins/RankViewer/assets/RankNumbers/10.json",
@@ -1345,79 +1360,83 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.1.0",
+        "version_number":  "1.1.1",
         "plugin_id":  "RankViewer",
         "folder":  "plugins/RankViewer"
     },
     {
+        "author":  "rlsdk",
         "name":  "Save Inspector",
         "files":  [
                       {
                           "path":  "plugins/Save Inspector/main.lua",
-                          "sha256":  "647d1bc463492dbf0948527b32ee9706ce28fe29634bfdd6420b4bed9ee3afee",
-                          "bytes":  5367
+                          "sha256":  "e9e313a6bef66189bfdeed8ed5fc5a7d73774403cb4691bd490e15ab8e3a3d66",
+                          "bytes":  5531
                       },
                       {
                           "path":  "plugins/Save Inspector/plugin.toml",
-                          "sha256":  "83ad08b5a297701d336170fe6a4de10f2bb0681c1532ab5d6bb8c866d01753b5",
-                          "bytes":  125
+                          "sha256":  "f89b09dfceca236b7c6cfce91c978447e3e88b52f2e4453d147785637e5e24cb",
+                          "bytes":  130
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.0",
+        "version_number":  "1.0.1",
         "plugin_id":  "Save Inspector",
         "folder":  "plugins/Save Inspector"
     },
     {
+        "author":  "rlsdk",
         "name":  "Seekr",
         "files":  [
                       {
                           "path":  "plugins/Seekr/main.lua",
-                          "sha256":  "ecfd4a83c1820e85e0e6f36666c4ce26e844061d692ce9b3506397c543c2b844",
-                          "bytes":  23514
+                          "sha256":  "8bb713247413bfdbe508e81bb281582dc71107ccc2c39fea7e341c7dd19179c1",
+                          "bytes":  24196
                       },
                       {
                           "path":  "plugins/Seekr/plugin.toml",
-                          "sha256":  "a1d2a0909d6a627948888d46a1f5d97bacbaebb9fdad8ebf1a834d1d5959aae7",
-                          "bytes":  119
+                          "sha256":  "c4c2414eb143a370a7b3f58d1e15834d74228f49fdc7019abd59caa8fba32b9d",
+                          "bytes":  122
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.69",
+        "version_number":  "1.0.70",
         "plugin_id":  "Seekr",
         "folder":  "plugins/Seekr"
     },
     {
+        "author":  "rlsdk",
         "name":  "Spotify Overlay",
         "files":  [
                       {
                           "path":  "plugins/spotify_overlay/main.lua",
-                          "sha256":  "9d71ea78ff069cdde34c09e55aef674e741089d45feb841cb5a441b0fd506221",
-                          "bytes":  33366
+                          "sha256":  "fded98b3216852881832952f760b1dd7aa70151ca97b14b5a48497f8b55774d6",
+                          "bytes":  33423
                       },
                       {
                           "path":  "plugins/spotify_overlay/plugin.toml",
-                          "sha256":  "ef2a634bd4fa37ef43a4d8bacb497d4781a1328de90e59b544ee8df5d6fedb97",
-                          "bytes":  213
+                          "sha256":  "7d943ff7b582affab37dbf7e227d6cd3ae14fe75c6aa9e850323ae9d1c6402c1",
+                          "bytes":  212
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.2",
+        "version_number":  "1.0.3",
         "plugin_id":  "spotify_overlay",
         "folder":  "plugins/spotify_overlay"
     },
     {
+        "author":  "rlsdk",
         "name":  "Team Boost",
         "files":  [
                       {
                           "path":  "plugins/Team Boost/main.lua",
-                          "sha256":  "d050afb0aac3a1e0f5f29cafa31527b232c318544cc867851821172df39c2f4a",
-                          "bytes":  5335
+                          "sha256":  "b0a586702a308e725a9150c54806ed7b4b706b142a01d01ae3fb4efb4b64b00f",
+                          "bytes":  5495
                       },
                       {
                           "path":  "plugins/Team Boost/plugin.toml",
-                          "sha256":  "8b6ea67127cd075444d2a1fd5c474bcee4d0d347f471da7046ef27c9995bba70",
-                          "bytes":  123
+                          "sha256":  "446c15b5ab9d532b64404f52b080ee8854a9281fb1b6b23307a5f6a819e1741c",
+                          "bytes":  126
                       },
                       {
                           "path":  "plugins/Team Boost/assets/team-boost.html",
@@ -1426,11 +1445,12 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.0",
+        "version_number":  "1.0.1",
         "plugin_id":  "Team Boost",
         "folder":  "plugins/Team Boost"
     },
     {
+        "author":  "rlsdk",
         "name":  "Window Widget",
         "files":  [
                       {
@@ -1440,13 +1460,13 @@
                       },
                       {
                           "path":  "plugins/WindowWidget_Final/main.lua",
-                          "sha256":  "c0d9a619ac623117feda36ce9502df3612fdef298fe6fc70b6c412db28bc068e",
-                          "bytes":  8899
+                          "sha256":  "a5ab0f2b41ebb528fff9aa9410fb95a8da9f01f384b6d62298a687b5552e3354",
+                          "bytes":  9324
                       },
                       {
                           "path":  "plugins/WindowWidget_Final/plugin.toml",
-                          "sha256":  "0a0577a475f6792c8abca46e43f2d7026bf3dbc43bef847cc34a5c92cd2eefbf",
-                          "bytes":  129
+                          "sha256":  "e5b06930a82d870070d3e54973cc9ac41f56ad22da55acc8721a9897317a64e7",
+                          "bytes":  131
                       },
                       {
                           "path":  "plugins/WindowWidget_Final/README.md",
@@ -1455,7 +1475,7 @@
                       }
                   ],
         "short_description":  "KingMod plugin",
-        "version_number":  "1.0.0",
+        "version_number":  "1.0.1",
         "plugin_id":  "WindowWidget_Final",
         "folder":  "plugins/WindowWidget_Final"
     }

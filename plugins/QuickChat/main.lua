@@ -2,7 +2,7 @@
 -- automatically on an in-game event (goal, demo, save, etc), instead of
 -- typing them out in game every time.
 --
--- uses hebnix.chat.send(channel, message), which taps whatever key you've
+-- uses kingmod.chat.send(channel, message), which taps whatever key you've
 -- actually got that channel bound to, types the message, and hits enter.
 -- works while playing, since sending chat isn't a competitive advantage.
 
@@ -10,7 +10,7 @@ local plugin = {}
 
 -- only logs when "debug logs" is on in settings, so the console stays quiet
 local function dlog(msg)
-    if hebnix.get_bool("debug_logs", false) then hebnix.log(msg) end
+    if kingmod.get_bool("debug_logs", false) then kingmod.log(msg) end
 end
 
 local CHANNELS = { "global", "team", "party" }
@@ -56,12 +56,12 @@ local pending_goal = nil -- {scorer_shortcut=, scorer_team=, pre_scores=, ts=}
 -- persistence
 
 local function save_chats()
-    hebnix.set("chats", hebnix.json_encode(chats))
+    kingmod.set("chats", kingmod.json_encode(chats))
 end
 
 local function load_chats()
-    local raw = hebnix.get_string("chats", "[]")
-    local ok, decoded = pcall(hebnix.json_decode, raw)
+    local raw = kingmod.get_string("chats", "[]")
+    local ok, decoded = pcall(kingmod.json_decode, raw)
     chats = (ok and type(decoded) == "table") and decoded or {}
 
     -- backfill ids for entries saved before "id" existed
@@ -95,7 +95,7 @@ local function fire_chats_for(trigger)
             if chat.progress >= need then
                 chat.progress = 0
                 -- same unfocused-throws hazard as the bind-press path below
-                pcall(hebnix.chat.send, chat.channel, chat.text)
+                pcall(kingmod.chat.send, chat.channel, chat.text)
             end
         end
     end
@@ -175,7 +175,7 @@ local function update_team_scores(update_state)
             end
         end
         -- drop it if we somehow never see the score change land
-        if pending_goal and hebnix.monotonic_seconds() - pending_goal.ts > 5 then
+        if pending_goal and kingmod.monotonic_seconds() - pending_goal.ts > 5 then
             pending_goal = nil
         end
     end
@@ -189,7 +189,7 @@ local function handle_goal_scored(d)
         scorer_shortcut = scorer.Shortcut,
         scorer_team = scorer.TeamNum,
         pre_scores = team_scores,
-        ts = hebnix.monotonic_seconds(),
+        ts = kingmod.monotonic_seconds(),
     }
 end
 
@@ -231,8 +231,8 @@ end
 
 function plugin.on_load()
     load_chats()
-    log_key = hebnix.parse_launch_log_async(false)
-    hebnix.log("QuickChat loaded, " .. #chats .. " saved message(s)")
+    log_key = kingmod.parse_launch_log_async(false)
+    kingmod.log("QuickChat loaded, " .. #chats .. " saved message(s)")
 end
 
 function plugin.on_game_event(event_type, event)
@@ -267,7 +267,7 @@ end
 function plugin.on_tick()
     -- resolve local player's identity once, from Launch.log
     if local_username == nil and log_key then
-        local res = hebnix.launch_log_result(log_key)
+        local res = kingmod.launch_log_result(log_key)
         if res ~= nil and res ~= "pending" then
             local session = res.session or {}
             local_username = session.username
@@ -278,7 +278,7 @@ function plugin.on_tick()
 
     -- poll an in-flight bind capture
     if capture_index ~= nil then
-        local status, bind = hebnix.capture_bind_result()
+        local status, bind = kingmod.capture_bind_result()
         if status == "done" then
             chats[capture_index].bind = bind
             save_chats()
@@ -287,7 +287,7 @@ function plugin.on_tick()
             -- completes; mark it as already-held so the fire-on-press loop
             -- below doesn't treat that as a fresh press and try to send
             -- immediately (usually while focus is still on Hebnix's own
-            -- settings window, not Rocket League, which hebnix.chat.send
+            -- settings window, not Rocket League, which kingmod.chat.send
             -- rejects outright and crashes the whole plugin on).
             held_binds[capture_index] = true
             capture_index = nil
@@ -299,16 +299,16 @@ function plugin.on_tick()
 
     -- fire any chat whose bind is freshly pressed. only while connected to
     -- RL, so this can't fire into some other focused app.
-    if not hebnix.rl_connected() then
+    if not kingmod.rl_connected() then
         held_binds = {}
         return
     end
     for i, chat in ipairs(chats) do
         local bind = chat.bind
         if bind and bind ~= "" then
-            local down = hebnix.is_bind_pressed(bind)
+            local down = kingmod.is_bind_pressed(bind)
             if down and not held_binds[i] then
-                -- hebnix.chat.send throws (not just returns false) if RL isn't
+                -- kingmod.chat.send throws (not just returns false) if RL isn't
                 -- focused when this fires - e.g. the bind key is still held
                 -- while alt-tabbed back to Hebnix's own Settings window, or
                 -- shared with some other app's shortcut. rl_connected() only
@@ -316,7 +316,7 @@ function plugin.on_tick()
                 -- so this can happen on any freshly-pressed bind, not just
                 -- right after capture. an uncaught error here force-disables
                 -- the whole plugin, so pcall it instead of letting it crash.
-                pcall(hebnix.chat.send, chat.channel, chat.text)
+                pcall(kingmod.chat.send, chat.channel, chat.text)
             end
             held_binds[i] = down
         end
@@ -342,7 +342,7 @@ function plugin.on_settings(ui)
                 ui.colored_label("#d35400", "press a key...")
             elseif ui.button("Set bind") then
                 capture_index = i
-                hebnix.capture_bind_async(10)
+                kingmod.capture_bind_async(10)
             end
             if ui.button("Remove") then
                 table.remove(chats, i)
@@ -352,8 +352,8 @@ function plugin.on_settings(ui)
         ui.horizontal(function()
             local trigger_key = "trigger_" .. chat.id
             local wanted = chat.trigger or "off"
-            if hebnix.get_string(trigger_key, "") ~= wanted then
-                hebnix.set(trigger_key, wanted)
+            if kingmod.get_string(trigger_key, "") ~= wanted then
+                kingmod.set(trigger_key, wanted)
             end
             local trigger = ui.combo_box(trigger_key, "On event", TRIGGERS)
             if trigger ~= wanted then
@@ -364,8 +364,8 @@ function plugin.on_settings(ui)
             if trigger ~= "off" then
                 local count_key = "count_" .. chat.id
                 local wanted_count = chat.count or 1
-                if hebnix.get_number(count_key, 0) ~= wanted_count then
-                    hebnix.set(count_key, wanted_count)
+                if kingmod.get_number(count_key, 0) ~= wanted_count then
+                    kingmod.set(count_key, wanted_count)
                 end
                 local count = math.floor(ui.slider(count_key, "fire after", 1, 20, wanted_count) + 0.5)
                 if count ~= wanted_count then
@@ -389,7 +389,7 @@ function plugin.on_settings(ui)
         })
         next_id = next_id + 1
         save_chats()
-        hebnix.set("new_text", "")
+        kingmod.set("new_text", "")
     end
 
     ui.space(6)

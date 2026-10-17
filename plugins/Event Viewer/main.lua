@@ -9,7 +9,7 @@ local selected_payload = "{}"
 local sequence = 0
 
 local function pretty_json(value)
-    local ok, encoded = pcall(hebnix.json_encode, value)
+    local ok, encoded = pcall(kingmod.json_encode, value)
     if not ok then return "{\"error\":\"payload could not be encoded\"}" end
     local output, indent, quoted, escaped = {}, 0, false, false
     for index = 1, #encoded do
@@ -88,7 +88,7 @@ local function selected_event(history)
 end
 
 function plugin.on_load()
-    hebnix.log("Event Viewer loaded")
+    kingmod.log("Event Viewer loaded")
 end
 
 function plugin.on_game_event(event_type, event)
@@ -111,14 +111,14 @@ function plugin.on_settings(ui)
     ui.heading("Event Viewer")
     ui.label("Inspect Hebnix game events and their payloads.")
     if ui.button("Open Event Viewer") then
-        hebnix.window.open({ title = "Event Viewer", width = 760, height = 620, opacity = 0.96 })
+        kingmod.window.open({ title = "Event Viewer", width = 760, height = 620, opacity = 0.96 })
     end
 end
 
 function plugin.on_window(ui)
     ui.heading("Event Viewer")
     if ui.button("Close Event Viewer") then
-        hebnix.window.close()
+        kingmod.window.close()
         return
     end
 

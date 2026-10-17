@@ -135,7 +135,7 @@ local function format_bind_name(bind)
 end
 
 local function manual_controller_press()
-    for _, pad in ipairs(hebnix.controllers() or {}) do
+    for _, pad in ipairs(kingmod.controllers() or {}) do
         for _, button in ipairs(BUTTONS) do
             if pad[button] then return "pad_" .. button end
         end
@@ -146,10 +146,10 @@ end
 local function bind_pressed(bind)
     if not bind or bind == "" then return false end
     if string.sub(bind, 1, 4) ~= "pad_" then
-        return hebnix.is_bind_pressed(bind)
+        return kingmod.is_bind_pressed(bind)
     end
     local button = string.sub(bind, 5)
-    for _, pad in ipairs(hebnix.controllers() or {}) do
+    for _, pad in ipairs(kingmod.controllers() or {}) do
         if pad[button] then return true end
     end
     return false
@@ -171,10 +171,9 @@ local function profile_identity(primary_id)
 end
 
 local function request_profile(primary_id)
-    if request_keys[primary_id] then return request_keys[primary_id] end
     local platform, account_id = profile_identity(primary_id)
     if not platform then return nil end
-    local key = hebnix.fetch_profile_async(platform, account_id)
+    local key = kingmod.fetch_profile_async(platform, account_id)
     if key then request_keys[primary_id] = key end
     return key
 end
@@ -204,7 +203,7 @@ local function clear_players(clear_cache)
     scoreboard_was_held = false
     was_drawing = false
     fade_from = nil
-    if clear_cache then hebnix.clear_stats_cache() end
+    if clear_cache then kingmod.clear_stats_cache() end
 end
 
 local function update_players(event)
@@ -221,7 +220,7 @@ local function update_players(event)
     for _, player in ipairs(source) do
         local id = tostring(player.PrimaryId or player.primary_id or "")
         local name = tostring(player.Name or player.name or "Unknown")
-        local key = (id == "" or hebnix.is_bot(id)) and ("bot:" .. name) or id
+        local key = (id == "" or kingmod.is_bot(id)) and ("bot:" .. name) or id
         if roster[key] then overlap = overlap + 1 end
     end
     if had and overlap == 0 then
@@ -232,7 +231,7 @@ local function update_players(event)
     local seen = {}
     for _, player in ipairs(source) do
         local primary_id = tostring(player.PrimaryId or player.primary_id or "")
-        local is_bot = primary_id == "" or hebnix.is_bot(primary_id)
+        local is_bot = primary_id == "" or kingmod.is_bot(primary_id)
         local name = tostring(player.Name or player.name or "Unknown")
         local key = is_bot and ("bot:" .. name) or primary_id
         seen[key] = true
@@ -283,7 +282,7 @@ local function mark_left(event)
     if type(data) ~= "table" then return end
     local id = tostring(data.PrimaryId or data.primary_id or "")
     local name = tostring(data.PlayerName or data.player_name or "")
-    local key = (id == "" or hebnix.is_bot(id)) and ("bot:" .. name) or id
+    local key = (id == "" or kingmod.is_bot(id)) and ("bot:" .. name) or id
     local entry = roster[key]
     if entry then
         entry.left = true
@@ -340,11 +339,11 @@ local function refresh_playlist()
             log_retry = log_retry - 1
             return
         end
-        hebnix.clear_launch_log()
-        log_key = hebnix.parse_launch_log_async(false)
+        kingmod.clear_launch_log()
+        log_key = kingmod.parse_launch_log_async(false)
         return
     end
-    local info = hebnix.launch_log_result(log_key)
+    local info = kingmod.launch_log_result(log_key)
     if type(info) ~= "table" then return end
     if type(info.session) == "table" then my_id = info.session.primary_id end
     -- a parse before rl writes the match block would cache gameless forever, retry instead
@@ -572,8 +571,8 @@ local function mmr_playlist_for(source, wanted, rank)
 end
 
 local function cycle_mode()
-    local extras = hebnix.get_bool("ingame_rank_extras", false)
-    local tournaments = hebnix.get_bool("ingame_rank_tournaments", false)
+    local extras = kingmod.get_bool("ingame_rank_extras", false)
+    local tournaments = kingmod.get_bool("ingame_rank_tournaments", false)
     local options = { "Current", "Best" }
     for _, entry in ipairs(PLAYLISTS) do
         if mode_allowed(entry, extras, tournaments) then table.insert(options, entry.name) end
@@ -583,29 +582,29 @@ local function cycle_mode()
         if option == mode then index = i break end
     end
     mode = options[(index % #options) + 1]
-    hebnix.set("ingame_rank_mode", mode)
+    kingmod.set("ingame_rank_mode", mode)
 end
 
 local function bind_row(ui, label, setting, target)
-    local bind = hebnix.get_string(setting, "")
+    local bind = kingmod.get_string(setting, "")
     ui.horizontal(function()
         ui.label(label .. ": " .. (bind ~= "" and format_bind_name(bind) or "(none)"))
         if capture_target == target then
             ui.colored_label("#d35400", "Press any key/button...")
         else
             if ui.button("Set") then
-                hebnix.capture_bind_async(10)
+                kingmod.capture_bind_async(10)
                 capture_target = target
                 waiting_for_release = true
             end
-            if ui.button("Clear") then hebnix.set(setting, "") end
+            if ui.button("Clear") then kingmod.set(setting, "") end
         end
     end)
 end
 
 function plugin.on_load()
-    hebnix.log("InGameRank loaded")
-    local stored = hebnix.get_string("ingame_rank_mode", "Current")
+    kingmod.log("InGameRank loaded")
+    local stored = kingmod.get_string("ingame_rank_mode", "Current")
     for _, option in ipairs(mode_options()) do
         if option == stored then mode = stored break end
     end
@@ -659,7 +658,7 @@ function plugin.on_tick()
     if in_match and not current_playlist then refresh_playlist() end
 
     if in_match then
-        local held = hebnix.is_action_pressed("scoreboard")
+        local held = kingmod.is_action_pressed("scoreboard")
         if held and not scoreboard_was_held then
             in_first_open = first_tab_pending
             first_tab_pending = false
@@ -669,7 +668,7 @@ function plugin.on_tick()
         scoreboard_was_held = held
     end
 
-    local cycle_bind = hebnix.get_string("ingame_rank_cycle_bind", "")
+    local cycle_bind = kingmod.get_string("ingame_rank_cycle_bind", "")
     if cycle_bind ~= "" and not capture_target then
         local pressed = bind_pressed(cycle_bind)
         if pressed and not cycle_was_pressed then cycle_mode() end
@@ -684,16 +683,16 @@ function plugin.on_tick()
         return
     end
 
-    local status, bind = hebnix.capture_bind_result()
+    local status, bind = kingmod.capture_bind_result()
     if status == "done" then
-        hebnix.set("ingame_rank_cycle_bind", bind or "")
+        kingmod.set("ingame_rank_cycle_bind", bind or "")
         capture_target = nil
     elseif status == "timeout" then
         capture_target = nil
     else
         local manual = manual_controller_press()
         if manual then
-            hebnix.set("ingame_rank_cycle_bind", manual)
+            kingmod.set("ingame_rank_cycle_bind", manual)
             capture_target = nil
         end
     end
@@ -702,7 +701,7 @@ end
 function plugin.on_overlay(draw, w, h)
     if not in_match or match_ended or #players == 0 or freeplay then return end
 
-    local held = hebnix.is_action_pressed("scoreboard")
+    local held = kingmod.is_action_pressed("scoreboard")
     local opacity = 1.0
     if held then
         was_drawing = true
@@ -711,10 +710,10 @@ function plugin.on_overlay(draw, w, h)
     else
         if was_drawing then
             was_drawing = false
-            fade_from = hebnix.monotonic_seconds()
+            fade_from = kingmod.monotonic_seconds()
         end
         if not fade_from then return end
-        local elapsed = hebnix.monotonic_seconds() - fade_from
+        local elapsed = kingmod.monotonic_seconds() - fade_from
         if elapsed >= FADE_SECONDS then
             fade_from = nil
             return
@@ -723,13 +722,13 @@ function plugin.on_overlay(draw, w, h)
     end
     local paint = { opacity = opacity }
 
-    local extras = hebnix.get_bool("ingame_rank_extras", false)
-    local tournaments = hebnix.get_bool("ingame_rank_tournaments", false)
-    local show_division = hebnix.get_bool("ingame_rank_show_division", false)
-    local show_playlist = hebnix.get_bool("ingame_rank_show_playlist", true)
-    local calculate_unranked = hebnix.get_bool("ingame_rank_calculate_unranked", true)
-    local ui_scale = (hebnix.ui_scale and hebnix.ui_scale() or 1.0)
-        * hebnix.get_number("ingame_rank_display_scale", 100) / 100
+    local extras = kingmod.get_bool("ingame_rank_extras", false)
+    local tournaments = kingmod.get_bool("ingame_rank_tournaments", false)
+    local show_division = kingmod.get_bool("ingame_rank_show_division", false)
+    local show_playlist = kingmod.get_bool("ingame_rank_show_playlist", true)
+    local calculate_unranked = kingmod.get_bool("ingame_rank_calculate_unranked", true)
+    local ui_scale = (kingmod.ui_scale and kingmod.ui_scale() or 1.0)
+        * kingmod.get_number("ingame_rank_display_scale", 100) / 100
 
     local wanted, fallback = nil, false
     if mode == "Current" then
@@ -754,14 +753,14 @@ function plugin.on_overlay(draw, w, h)
 
     local watching = spectating()
     local mutator_edge = shows_mutator_strip()
-        and hebnix.get_number("ingame_rank_mutator_edge", MUTATOR_EDGE) or 0
+        and kingmod.get_number("ingame_rank_mutator_edge", MUTATOR_EDGE) or 0
     local x_offset = shown_first_open
-        and hebnix.get_number("ingame_rank_x_offset_first", X_OFFSET_FIRST)
-        or hebnix.get_number("ingame_rank_x_offset", X_OFFSET)
+        and kingmod.get_number("ingame_rank_x_offset_first", X_OFFSET_FIRST)
+        or kingmod.get_number("ingame_rank_x_offset", X_OFFSET)
     local replay_shift = in_replay
-        and hebnix.get_number("ingame_rank_replay_shift", REPLAY_SHIFT) or 0
+        and kingmod.get_number("ingame_rank_replay_shift", REPLAY_SHIFT) or 0
     local layout = sb_layout(w, h, ui_scale, x_offset, mutator_edge, blues, oranges, replay_shift)
-    local y_nudge = hebnix.get_number("ingame_rank_y_nudge", 0) * layout.scale
+    local y_nudge = kingmod.get_number("ingame_rank_y_nudge", 0) * layout.scale
     layout.first_open = shown_first_open
     layout.replay = in_replay
     layout.blues = blues
@@ -770,10 +769,10 @@ function plugin.on_overlay(draw, w, h)
     layout.watching = watching
     last_layout = layout
 
-    local show_mmr = hebnix.get_bool("ingame_rank_show_mmr", true)
-    local mmr_source = hebnix.get_string("ingame_rank_mmr_source", "Match")
+    local show_mmr = kingmod.get_bool("ingame_rank_show_mmr", true)
+    local mmr_source = kingmod.get_string("ingame_rank_mmr_source", "Match")
     local mmr_x = layout.centre
-        + hebnix.get_number("ingame_rank_mmr_x", MMR_COL) * layout.scale
+        + kingmod.get_number("ingame_rank_mmr_x", MMR_COL) * layout.scale
     if show_mmr then
         local head_y = MMR_HEADER_DY * layout.scale + layout.row_half
         if blues > 0 then
@@ -800,7 +799,8 @@ function plugin.on_overlay(draw, w, h)
                 and layout.blue_y + layout.separation * blue_row
                 or layout.orange_y + layout.separation * orange_row)
 
-            local stats = player.request_key and hebnix.stats_result(player.request_key) or nil
+            player.request_key = request_profile(player.id) or player.request_key
+            local stats = player.request_key and kingmod.stats_result(player.request_key) or nil
             local rank = { tier = TIER_UNSYNCED, division = -1, unranked = false }
             if type(stats) == "table" and not stats.error then
                 rank = display_rank(stats, wanted, fallback, extras, tournaments, calculate_unranked)
@@ -854,7 +854,7 @@ function plugin.on_settings(ui)
             .. (shows_mutator_strip() and ", board shifted" or ""))
         ui.label("Display scale has no home in the save, match it to the game.")
         ui.label(string.format("Interface scale: %.2f, read from the save",
-            hebnix.ui_scale and hebnix.ui_scale() or 1.0))
+            kingmod.ui_scale and kingmod.ui_scale() or 1.0))
         ui.slider("ingame_rank_display_scale", "Display scale", 90, 100, 100)
         ui.label("Below are 1080p pixels, they scale with the resolution.")
         ui.label("Set X offset in a plain match first, the strip edge only bites when it overlaps.")

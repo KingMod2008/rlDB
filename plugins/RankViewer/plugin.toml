@@ -1,5 +1,5 @@
 name = "RankViewer"
-author = "Hebbins"
-version = "1.1.0"
+author = "rlsdk"
+version = "1.1.1"
 entry = "main.lua"
 plugin_id = "353d0841b08a3e25d1a1300f6aa7c26e"

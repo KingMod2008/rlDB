@@ -1,8 +1,8 @@
 plugin_id = "357632a048c136a5895303737e49fa2d"
 
 name = "Media Overlay"
-author = "xplodingeggo"
-version = "1.0.2"
+author = "rlsdk"
+version = "1.0.3"
 entry = "main.lua"
 
 [permissions]

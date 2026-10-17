@@ -1,5 +1,5 @@
 name = "Heatseeker Utils"
-author = "Hebbins"
-version = "1.0.3"
+author = "rlsdk"
+version = "1.0.4"
 entry = "main.lua"
 plugin_id = "b65d19b768b15fb6880c5ef9fe3fd4a3"

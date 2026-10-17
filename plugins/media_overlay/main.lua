@@ -51,7 +51,7 @@ local function reset_state()
     }
 end
 
-local function mono() return hebnix.monotonic_seconds() end
+local function mono() return kingmod.monotonic_seconds() end
 
 local function hex(n)
     local t = {}
@@ -79,12 +79,12 @@ end
 
 -- youtube video mode only changes anything for media playing in a browser
 local function video_mode()
-    return hebnix.get_bool("media_overlay_youtube_mode", false) and is_browser(S.app)
+    return kingmod.get_bool("media_overlay_youtube_mode", false) and is_browser(S.app)
 end
 
 -- the overlay text (lyrics, or captions in video mode) is on
 local function text_on()
-    return hebnix.get_bool("media_overlay_lyrics", true) or video_mode()
+    return kingmod.get_bool("media_overlay_lyrics", true) or video_mode()
 end
 
 local function app_name(app)
@@ -412,8 +412,8 @@ local function lyric_steps()
         steps[#steps + 1] = { url = LRC_SEARCH .. "?track_name=" .. urlencode(title) }
     end
     -- only the sources ticked in settings
-    local use_bl = hebnix.get_bool("media_overlay_src_betterlyrics", true)
-    local use_lrc = hebnix.get_bool("media_overlay_src_lrclib", true)
+    local use_bl = kingmod.get_bool("media_overlay_src_betterlyrics", true)
+    local use_lrc = kingmod.get_bool("media_overlay_src_lrclib", true)
     local out = {}
     for _, s in ipairs(steps) do
         if (s.bl and use_bl) or (not s.bl and use_lrc) then out[#out + 1] = s end
@@ -426,14 +426,14 @@ end
 local function yt_steps()
     if #(S.now.title or "") == 0 then return {} end
     return { { yt = true, stage = "search", once = true, method = "POST", url = YT_SEARCH,
-        body = hebnix.json_encode({ context = { client = YT_WEB }, query = S.now.title }),
+        body = kingmod.json_encode({ context = { client = YT_WEB }, query = S.now.title }),
         headers = { ["Content-Type"] = "application/json", ["User-Agent"] = YT_WEB_UA } } }
 end
 
 local function any_source()
     return video_mode()
-        or hebnix.get_bool("media_overlay_src_betterlyrics", true)
-        or hebnix.get_bool("media_overlay_src_lrclib", true)
+        or kingmod.get_bool("media_overlay_src_betterlyrics", true)
+        or kingmod.get_bool("media_overlay_src_lrclib", true)
 end
 
 -- changes when the metadata the queries are built from changes, or the
@@ -441,9 +441,9 @@ end
 local function lyric_sig()
     local artist, title = lyric_query(S.now)
     return artist .. "\1" .. title .. "\1" .. math.floor((S.now.duration_ms or 0) / 1000)
-        .. "\1" .. tostring(hebnix.get_bool("media_overlay_src_betterlyrics", true))
-        .. tostring(hebnix.get_bool("media_overlay_src_lrclib", true))
-        .. tostring(hebnix.get_bool("media_overlay_src_saved", true))
+        .. "\1" .. tostring(kingmod.get_bool("media_overlay_src_betterlyrics", true))
+        .. tostring(kingmod.get_bool("media_overlay_src_lrclib", true))
+        .. tostring(kingmod.get_bool("media_overlay_src_saved", true))
         .. tostring(video_mode())
 end
 
@@ -483,10 +483,10 @@ end
 
 local function cache_load()
     local name = cache_name()
-    if not name or not hebnix.read_file then return nil end
-    local raw = hebnix.read_file(hebnix.plugin_dir() .. "/assets/lyrics/" .. name .. ".json")
+    if not name or not kingmod.read_file then return nil end
+    local raw = kingmod.read_file(kingmod.plugin_dir() .. "/assets/lyrics/" .. name .. ".json")
     if not raw or #raw == 0 then return nil end
-    local ok, j = pcall(hebnix.json_decode, raw)
+    local ok, j = pcall(kingmod.json_decode, raw)
     if ok and type(j) == "table" and type(j.lines) == "table" and #j.lines > 0 then return j end
     return nil
 end
@@ -494,20 +494,20 @@ end
 local function cache_save(src, lines)
     local name = cache_name()
     if not name then return end
-    local n = hebnix.get_number("media_overlay_lyric_cache_n", 0)
+    local n = kingmod.get_number("media_overlay_lyric_cache_n", 0)
     if n >= CACHE_MAX then
-        hebnix.clear_asset_dir("lyrics")
+        kingmod.clear_asset_dir("lyrics")
         n = 0
     end
-    if hebnix.write_asset("lyrics/" .. name .. ".json", hebnix.json_encode({ src = src, lines = lines })) then
-        hebnix.set("media_overlay_lyric_cache_n", n + 1)
+    if kingmod.write_asset("lyrics/" .. name .. ".json", kingmod.json_encode({ src = src, lines = lines })) then
+        kingmod.set("media_overlay_lyric_cache_n", n + 1)
     end
 end
 
 -- no delete-one-asset api, so forgetting overwrites it with an empty entry
 local function cache_forget()
     local name = cache_name()
-    if name then hebnix.write_asset("lyrics/" .. name .. ".json", "{}") end
+    if name then kingmod.write_asset("lyrics/" .. name .. ".json", "{}") end
 end
 
 local function set_lyrics(lines, src)
@@ -521,7 +521,7 @@ local function lyrics_reset()
     lyr_seq = lyr_seq + 1
     S.lf = { seq = lyr_seq, n = S.track_n, sig = S.now and lyric_sig(), step = 1, round = 1,
         tries = 0, next_at = 0, state = any_source() and "searching" or "no sources", mode = video_mode() }
-    local saved = hebnix.get_bool("media_overlay_src_saved", true) and cache_load()
+    local saved = kingmod.get_bool("media_overlay_src_saved", true) and cache_load()
     if saved then
         set_lyrics(saved.lines, "saved")
         S.lf.state = "found"
@@ -540,13 +540,13 @@ local function send_step(lf, step)
     lf.pending = "lyr:" .. lf.seq .. ":" .. lf.step .. ":" .. (step.stage or "")
     lf.pending_step = step
     lf.sent_at = mono()
-    hebnix.http_request_async(lf.pending, step.method or "GET", step.url, step.body,
+    kingmod.http_request_async(lf.pending, step.method or "GET", step.url, step.body,
         step.headers or { ["User-Agent"] = LRC_UA })
 end
 
 local function yt_player_step(vid)
     return { yt = true, stage = "player", method = "POST", url = YT_PLAYER,
-        body = hebnix.json_encode({ context = { client = YT_IOS }, videoId = vid }),
+        body = kingmod.json_encode({ context = { client = YT_IOS }, videoId = vid }),
         headers = { ["Content-Type"] = "application/json", ["User-Agent"] = YT_IOS_UA } }
 end
 
@@ -557,7 +557,7 @@ local function lyrics_tick()
         -- switching video mode, or unticking the source the shown lyrics
         -- came from, takes them away
         local key = SRC_SETTING[S.lyrics_src or ""]
-        if (lf and lf.mode ~= video_mode()) or (key and not hebnix.get_bool(key, true)) then
+        if (lf and lf.mode ~= video_mode()) or (key and not kingmod.get_bool(key, true)) then
             set_lyrics(nil, nil)
             lf = nil
         else
@@ -604,7 +604,7 @@ local function lyrics_result(id, status, body)
     lf.pending = nil
     local lines, src
     if status == 200 and #body > 0 then
-        local ok, j = pcall(hebnix.json_decode, body)
+        local ok, j = pcall(kingmod.json_decode, body)
         if ok and type(j) == "table" then
             if step.yt then
                 -- search -> player -> captions. a stage that finds nothing
@@ -647,7 +647,7 @@ local function lyrics_result(id, status, body)
     if lines then
         set_lyrics(lines, src)
         lf.state = "found"
-        if hebnix.get_bool("media_overlay_src_saved", true) then cache_save(src, lines) end
+        if kingmod.get_bool("media_overlay_src_saved", true) then cache_save(src, lines) end
         return
     end
     -- status 0 is a network error or timeout. those and 429/5xx say nothing
@@ -673,17 +673,17 @@ local function image_ext(b)
 end
 
 local function load_cover()
-    hebnix.clear_asset_dir("temp")
+    kingmod.clear_asset_dir("temp")
     S.cover_file = nil
     S.palette = DEFAULT_PALETTE
-    local bytes = hebnix.media_thumbnail()
+    local bytes = kingmod.media_thumbnail()
     if not bytes or #bytes == 0 then return end
     local ext = image_ext(bytes)
     if not ext then return end
     local fname = "cover_" .. hex(6) .. "." .. ext
-    if hebnix.write_asset("temp/" .. fname, bytes) then
+    if kingmod.write_asset("temp/" .. fname, bytes) then
         S.cover_file = fname
-        local pal = hebnix.image_palette("temp/" .. fname)
+        local pal = kingmod.image_palette("temp/" .. fname)
         if pal then S.palette = pal end
     end
 end
@@ -697,9 +697,9 @@ local function song_key()
 end
 
 local function song_offsets()
-    local raw = hebnix.get_string("media_overlay_song_offsets", "")
+    local raw = kingmod.get_string("media_overlay_song_offsets", "")
     if raw == "" then return {} end
-    local ok, j = pcall(hebnix.json_decode, raw)
+    local ok, j = pcall(kingmod.json_decode, raw)
     return (ok and type(j) == "table") and j or {}
 end
 
@@ -721,7 +721,7 @@ local function set_song_offset(ms)
     for _ in pairs(all) do n = n + 1 end
     if n > 300 then all = {} end
     all[key] = (ms ~= 0) and ms or nil
-    hebnix.set("media_overlay_song_offsets", hebnix.json_encode(all))
+    kingmod.set("media_overlay_song_offsets", kingmod.json_encode(all))
     S.sync_msg = string.format("lyrics sync %+.2fs", ms / 1000)
     S.sync_until = mono() + 2
 end
@@ -735,9 +735,9 @@ end
 local function song_end_times()
     if S.song_end == nil then
         local key = song_key()
-        local raw = hebnix.get_string("media_overlay_song_end_times_map", "")
+        local raw = kingmod.get_string("media_overlay_song_end_times_map", "")
         local ok, j = false, nil
-        if raw ~= "" then ok, j = pcall(hebnix.json_decode, raw) end
+        if raw ~= "" then ok, j = pcall(kingmod.json_decode, raw) end
         S.song_end = (key and ok and type(j) == "table" and j[key] == true) or false
     end
     return S.song_end
@@ -746,17 +746,17 @@ end
 local function set_song_end_times(on)
     local key = song_key()
     if not key then return end
-    local raw = hebnix.get_string("media_overlay_song_end_times_map", "")
+    local raw = kingmod.get_string("media_overlay_song_end_times_map", "")
     local ok, j = false, nil
-    if raw ~= "" then ok, j = pcall(hebnix.json_decode, raw) end
+    if raw ~= "" then ok, j = pcall(kingmod.json_decode, raw) end
     local all = (ok and type(j) == "table") and j or {}
     all[key] = on and true or nil
-    hebnix.set("media_overlay_song_end_times_map", hebnix.json_encode(all))
+    kingmod.set("media_overlay_song_end_times_map", kingmod.json_encode(all))
     S.song_end = on and true or false
 end
 
 local function total_offset()
-    return hebnix.get_number("media_overlay_lyrics_offset", 0) + song_offset()
+    return kingmod.get_number("media_overlay_lyrics_offset", 0) + song_offset()
 end
 
 local function apply_media(m)
@@ -784,7 +784,7 @@ local function apply_media(m)
         S.yt_vid = nil
         S.th = nil
         S.full_cover = nil
-        hebnix.clear_asset_dir("full")
+        kingmod.clear_asset_dir("full")
     end
 
     if m.thumb_rev ~= S.thumb_rev then
@@ -799,7 +799,7 @@ local function apply_media(m)
     else
         local base = m.position_ms or 0
         if m.is_playing and (m.updated_unix_ms or 0) > 0 then
-            local drift = hebnix.unix_millis() - m.updated_unix_ms
+            local drift = kingmod.unix_millis() - m.updated_unix_ms
             if drift >= 0 and drift < 3600000 then base = base + drift end
         end
         S.now = {
@@ -820,12 +820,12 @@ end
 -- the full 16:9 one comes straight from youtube by video id. the id comes
 -- from youtube video mode's caption search when it ran, else its own search
 local function full_thumb_wanted()
-    return S.now and hebnix.get_bool("media_overlay_full_thumb", false)
-        and hebnix.get_bool("media_overlay_show_cover", true) and is_browser(S.app)
+    return S.now and kingmod.get_bool("media_overlay_full_thumb", false)
+        and kingmod.get_bool("media_overlay_show_cover", true) and is_browser(S.app)
 end
 
 local function thumb_get(th, size)
-    hebnix.http_request_async("thumb:" .. th.n .. ":img:" .. size, "GET",
+    kingmod.http_request_async("thumb:" .. th.n .. ":img:" .. size, "GET",
         string.format(YT_THUMB, S.yt_vid, size), nil, { ["User-Agent"] = YT_WEB_UA })
 end
 
@@ -846,8 +846,8 @@ local function thumb_tick()
     if video_mode() and mono() - th.at < 4 then return end
     if #(S.now.title or "") == 0 then return end
     th.state = "search"
-    hebnix.http_request_async("thumb:" .. th.n .. ":search", "POST", YT_SEARCH,
-        hebnix.json_encode({ context = { client = YT_WEB }, query = S.now.title }),
+    kingmod.http_request_async("thumb:" .. th.n .. ":search", "POST", YT_SEARCH,
+        kingmod.json_encode({ context = { client = YT_WEB }, query = S.now.title }),
         { ["Content-Type"] = "application/json", ["User-Agent"] = YT_WEB_UA })
 end
 
@@ -858,7 +858,7 @@ local function thumb_result(id, status, body)
     if what == "search" then
         local vid
         if status == 200 then
-            local ok, j = pcall(hebnix.json_decode, body)
+            local ok, j = pcall(kingmod.json_decode, body)
             if ok and type(j) == "table" then vid = yt_pick(j) end
         end
         if vid then
@@ -872,7 +872,7 @@ local function thumb_result(id, status, body)
     local ext = status == 200 and image_ext(body)
     if ext then
         local fname = "full/thumb_" .. hex(6) .. "." .. ext
-        if hebnix.write_asset(fname, body) then S.full_cover = fname end
+        if kingmod.write_asset(fname, body) then S.full_cover = fname end
         th.state = "done"
     elseif id:match(":img:maxresdefault$") then
         -- not every video has a max-res thumbnail, the 320x180 one always exists
@@ -893,20 +893,20 @@ end
 function plugin.on_load()
     reset_state()
     -- the bottom-middle tickbox became a lyrics position
-    if hebnix.get_bool("media_overlay_lyrics_bottom", false) then
-        hebnix.set("media_overlay_lyrics_pos", "Bottom middle of screen")
-        hebnix.set("media_overlay_lyrics_bottom", false)
+    if kingmod.get_bool("media_overlay_lyrics_bottom", false) then
+        kingmod.set("media_overlay_lyrics_pos", "Bottom middle of screen")
+        kingmod.set("media_overlay_lyrics_bottom", false)
     end
-    hebnix.write_asset("temp/.keep", "")
-    hebnix.clear_asset_dir("temp")
-    hebnix.write_asset("full/.keep", "")
-    hebnix.clear_asset_dir("full")
+    kingmod.write_asset("temp/.keep", "")
+    kingmod.clear_asset_dir("temp")
+    kingmod.write_asset("full/.keep", "")
+    kingmod.clear_asset_dir("full")
     math.randomseed(os.time() + math.floor(mono() * 1000))
 end
 
 function plugin.on_unload()
-    hebnix.clear_asset_dir("temp")
-    hebnix.clear_asset_dir("full")
+    kingmod.clear_asset_dir("temp")
+    kingmod.clear_asset_dir("full")
     reset_state()
 end
 
@@ -915,29 +915,29 @@ local sync_now_fn = nil
 
 -- edge-detect the nudge binds and the sync-now bind
 local function update_nudge_binds()
-    local sync_bind = hebnix.get_string("media_overlay_sync_now_bind", "")
+    local sync_bind = kingmod.get_string("media_overlay_sync_now_bind", "")
     if sync_bind ~= "" then
-        local pressed = hebnix.is_bind_pressed(sync_bind)
+        local pressed = kingmod.is_bind_pressed(sync_bind)
         if pressed and not S.sync_now_was and S.now and sync_now_fn then sync_now_fn() end
         S.sync_now_was = pressed
     end
-    local step = hebnix.get_number("media_overlay_nudge_step", 500)
+    local step = kingmod.get_number("media_overlay_nudge_step", 500)
     for _, d in ipairs({ { "sooner", step }, { "later", -step } }) do
         local name = "media_overlay_nudge_" .. d[1] .. "_bind"
-        local bind = hebnix.get_string(name, "")
+        local bind = kingmod.get_string(name, "")
         if bind ~= "" then
-            local pressed = hebnix.is_bind_pressed(bind)
+            local pressed = kingmod.is_bind_pressed(bind)
             if pressed and not S["nudge_" .. d[1]] and S.now then nudge_song_offset(d[2]) end
             S["nudge_" .. d[1]] = pressed
         end
     end
     if S.capturing then
-        local status, result = hebnix.capture_bind_result()
+        local status, result = kingmod.capture_bind_result()
         if status == "done" then
             if S.capturing == "sync_now" then
-                hebnix.set("media_overlay_sync_now_bind", result)
+                kingmod.set("media_overlay_sync_now_bind", result)
             else
-                hebnix.set("media_overlay_nudge_" .. S.capturing .. "_bind", result)
+                kingmod.set("media_overlay_nudge_" .. S.capturing .. "_bind", result)
             end
             S.capturing = nil
         elseif status == "timeout" then
@@ -951,7 +951,7 @@ function plugin.on_tick()
     local t = mono()
     if t - S.last_poll < POLL then return end
     S.last_poll = t
-    apply_media(hebnix.media_session())
+    apply_media(kingmod.media_session())
     lyrics_tick()
     thumb_tick()
 end
@@ -965,8 +965,8 @@ local POS_BOTTOM = "Bottom middle of screen"
 -- lyrics at the bottom middle of the screen like subtitles: picked as the
 -- lyrics position, or just for captions in youtube video mode
 local function subtitles_on()
-    return hebnix.get_string("media_overlay_lyrics_pos", "Below card") == POS_BOTTOM
-        or (video_mode() and hebnix.get_bool("media_overlay_yt_bottom", false))
+    return kingmod.get_string("media_overlay_lyrics_pos", "Below card") == POS_BOTTOM
+        or (video_mode() and kingmod.get_bool("media_overlay_yt_bottom", false))
 end
 
 local function position_ms()
@@ -1003,13 +1003,13 @@ end
 sync_now_fn = function()
     if not S.lyrics or #S.lyrics == 0 then return end
     local nxt
-    if hebnix.get_string("media_overlay_sync_mode", "First line") == "First line" then
+    if kingmod.get_string("media_overlay_sync_mode", "First line") == "First line" then
         nxt = S.lyrics[1]
     else
         nxt = S.lyrics[lyric_index((position_ms() + total_offset()) / 1000) + 1]
     end
     if not nxt then return end
-    local global = hebnix.get_number("media_overlay_lyrics_offset", 0)
+    local global = kingmod.get_number("media_overlay_lyrics_offset", 0)
     set_song_offset(nxt.t * 1000 - position_ms() - global)
 end
 
@@ -1032,7 +1032,7 @@ local BORDER_OFF = {
 
 local function scroll_text(draw, s, x, y, size, color, cl, cw)
     s = s or ""
-    local tw = hebnix.measure_text(s, size, true)
+    local tw = kingmod.measure_text(s, size, true)
     if tw <= cw then
         draw.text(x, y, s, { color = color, size = size, bold = true })
         return
@@ -1055,7 +1055,7 @@ local function prefix_width(l, stop, size, bold)
     if stop <= 0 then return 0 end
     local v = kw.w[stop]
     if not v then
-        v = hebnix.measure_text(l.text:sub(1, stop), size, bold)
+        v = kingmod.measure_text(l.text:sub(1, stop), size, bold)
         kw.w[stop] = v
     end
     return v
@@ -1079,22 +1079,22 @@ end
 
 function plugin.on_overlay(draw, w, h)
     if not S.now then return end
-    if hebnix.get_bool("media_overlay_hide_paused", false) and not S.now.is_playing then return end
-    if hebnix.get_bool("media_overlay_ignore_spotify", false)
+    if kingmod.get_bool("media_overlay_hide_paused", false) and not S.now.is_playing then return end
+    if kingmod.get_bool("media_overlay_ignore_spotify", false)
         and (S.app or ""):lower():find("spotify", 1, true) then return end
     -- lyrics / captions can sit at the bottom middle of the screen like
     -- subtitles, out of the card. then the card can be hidden on its own
     local lyrics_on = text_on()
     local bottom = lyrics_on and subtitles_on()
-    local card_on = hebnix.get_bool("media_overlay_enabled", true)
+    local card_on = kingmod.get_bool("media_overlay_enabled", true)
     if not card_on and not bottom then return end
 
-    local s = hebnix.get_number("media_overlay_scale", 100) / 100
+    local s = kingmod.get_number("media_overlay_scale", 100) / 100
     local p = S.palette or DEFAULT_PALETTE
 
     -- the cover box is the square left of the text panel. with cover art off
     -- the whole box goes and only the text panel is shown
-    local cover_on = hebnix.get_bool("media_overlay_show_cover", true)
+    local cover_on = kingmod.get_bool("media_overlay_show_cover", true)
     local art = 130 * s
     local gap = cover_on and (16 * s) or 0
     -- the whole youtube thumbnail is 16:9, the cover box widens to fit it
@@ -1105,20 +1105,20 @@ function plugin.on_overlay(draw, w, h)
     local prog_h = 5 * s
     local prog_gap = 6 * s
     local in_card = lyrics_on and not bottom
-    local lyr_scale = hebnix.get_number("media_overlay_lyrics_scale", 100) / 100
+    local lyr_scale = kingmod.get_number("media_overlay_lyrics_scale", 100) / 100
     -- subtitles go by the screen size, not the card scale
     local lyr_size = bottom and (h / 40 * lyr_scale) or (15 * s * lyr_scale)
     local row_h = lyr_size * 1.45
     local block_h = in_card and (row_h * 3) or 0
     local lyr_gap = in_card and (10 * s) or 0
     local above = in_card
-        and hebnix.get_string("media_overlay_lyrics_pos", "Below card") == "Above card"
+        and kingmod.get_string("media_overlay_lyrics_pos", "Below card") == "Above card"
     local top_reserve = above and (block_h + lyr_gap) or 0
     local card_w = art_w + gap + panel_w
     local card_h = panel_h + prog_gap + prog_h + (in_card and (block_h + lyr_gap) or 0)
     local margin = 24 * s
 
-    local corner = hebnix.get_string("media_overlay_corner", "Bottom Left")
+    local corner = kingmod.get_string("media_overlay_corner", "Bottom Left")
     local x, y
     if corner == "Bottom Right" then
         x, y = w - card_w - margin, h - card_h - margin
@@ -1138,7 +1138,7 @@ function plugin.on_overlay(draw, w, h)
 
     -- what the plugin thinks the video time is, to compare with youtube's own
     -- player time while lining the lyrics up
-    if hebnix.get_bool("media_overlay_sync_debug", false) then
+    if kingmod.get_bool("media_overlay_sync_debug", false) then
         local pos_ms = position_ms()
         local clock = pos_ms + total_offset()
         local idx = S.lyrics and lyric_index(clock / 1000) or 0
@@ -1157,7 +1157,7 @@ function plugin.on_overlay(draw, w, h)
         end
         local below = corner == "Top Left" or corner == "Top Right"
         local dy = below and (y + card_h + 8 * s) or (y - 54 * s)
-        local dw = math.max(hebnix.measure_text(l1, 13 * s, true), hebnix.measure_text(l2, 13 * s, true)) + 16 * s
+        local dw = math.max(kingmod.measure_text(l1, 13 * s, true), kingmod.measure_text(l2, 13 * s, true)) + 16 * s
         draw.rect(x, dy, dw, 40 * s, { color = "#000000b0", filled = true, radius = 6 * s })
         draw.text(x + 8 * s, dy + 4 * s, l1, { color = "#ffffff", size = 13 * s, bold = true })
         draw.text(x + 8 * s, dy + 21 * s, l2, { color = "#ffd166", size = 13 * s, bold = true })
@@ -1239,15 +1239,15 @@ function plugin.on_overlay(draw, w, h)
         -- subtitles sit over the game rather than the card, so auto colour
         -- is plain white there
         local base_color = bottom and "#ffffff" or p.text
-        if not hebnix.get_bool("media_overlay_lyrics_auto_color", true) then
-            base_color = hebnix.get_string("media_overlay_lyrics_color", "#ffffff")
+        if not kingmod.get_bool("media_overlay_lyrics_auto_color", true) then
+            base_color = kingmod.get_string("media_overlay_lyrics_color", "#ffffff")
         end
-        local border = hebnix.get_number("media_overlay_lyrics_border", 0) * s
+        local border = kingmod.get_number("media_overlay_lyrics_border", 0) * s
         local border_color = opposite(base_color)
-        if not hebnix.get_bool("media_overlay_lyrics_border_auto", true) then
-            border_color = hebnix.get_string("media_overlay_lyrics_border_color", "#000000")
+        if not kingmod.get_bool("media_overlay_lyrics_border_auto", true) then
+            border_color = kingmod.get_string("media_overlay_lyrics_border_color", "#000000")
         end
-        local anim = hebnix.get_string("media_overlay_lyrics_anim", "Slide")
+        local anim = kingmod.get_string("media_overlay_lyrics_anim", "Slide")
         local p_a = anim == "None" and 1.0 or math.min(1.0, (mono() - S.lyric_t0) / 0.30)
 
         local shift = anim == "Slide" and ((1 - p_a) * row_h) or 0
@@ -1266,9 +1266,9 @@ function plugin.on_overlay(draw, w, h)
                 { i = idx + 2, c = cy + row_h, cur = false },
             }
         end
-        local sub_box = bottom and hebnix.get_bool("media_overlay_lyrics_bottom_box", true)
+        local sub_box = bottom and kingmod.get_bool("media_overlay_lyrics_bottom_box", true)
         local clock_s = (pos + offset) / 1000
-        local karaoke = hebnix.get_bool("media_overlay_karaoke", true)
+        local karaoke = kingmod.get_bool("media_overlay_karaoke", true)
         for _, r in ipairs(rows) do
             local l = S.lyrics[r.i]
             -- lines with a real end time (Better Lyrics, captions) stop looking
@@ -1293,11 +1293,11 @@ function plugin.on_overlay(draw, w, h)
                 -- and filled passes sit exactly on top of each other
                 local tx, halign = cx, "center"
                 if word_fill then
-                    tx, halign = cx - hebnix.measure_text(l.text, size, cur) / 2, "left"
+                    tx, halign = cx - kingmod.measure_text(l.text, size, cur) / 2, "left"
                 end
                 -- youtube-style dark box behind subtitles, readable over any game
                 if sub_box then
-                    local tw = hebnix.measure_text(l.text, size, cur)
+                    local tw = kingmod.measure_text(l.text, size, cur)
                     local bx, bpy = size * 0.45, size * 0.2
                     draw.rect(cx - tw / 2 - bx, ty - bpy, tw + bx * 2, size * 1.25 + bpy * 2,
                         { color = with_alpha("#000000", 0.6 * alpha), filled = true, radius = size * 0.2 })
@@ -1331,23 +1331,23 @@ end
 -- one row for a bind setting: label, current bind, set / clear. `who` is what
 -- the capture code in update_nudge_binds uses to know which setting to write
 local function bind_row(ui, name, label, who)
-    local bind = hebnix.get_string(name, "")
+    local bind = kingmod.get_string(name, "")
     ui.horizontal(function()
         ui.label(label .. ": " .. (bind ~= "" and bind or "(none set)"))
         if S.capturing == who then
             ui.colored_label("#d35400", "press any key/button...")
         else
             if ui.button("set") then
-                if hebnix.capture_bind_async(10) then S.capturing = who end
+                if kingmod.capture_bind_async(10) then S.capturing = who end
             end
-            if bind ~= "" and ui.button("clear") then hebnix.set(name, "") end
+            if bind ~= "" and ui.button("clear") then kingmod.set(name, "") end
         end
     end)
 end
 
 function plugin.on_settings(ui)
     ui.label("Shows whatever media Windows reports as playing (browser, Spotify, VLC, etc.) as an overlay card.")
-    if not hebnix.media_session then
+    if not kingmod.media_session then
         ui.colored_label("#e74c3c", "error: this Hebnix build has no media_session API")
     elseif S.now then
         ui.colored_label("#1db954", S.now.status .. " (" .. app_name(S.app) .. "): " .. (S.now.title or "?"))
@@ -1360,13 +1360,13 @@ function plugin.on_settings(ui)
     ui.checkbox("media_overlay_youtube_mode", "YouTube video mode", false)
     ui.label("Made for watching YouTube videos in your browser: shows the video's captions (subtitles) where the lyrics go.")
     ui.label("It works on music videos too, but it isn't meant for music. Captions are often missing or worse than the lyric sources, so leave it off if you mostly listen to music.")
-    local pos_bottom = hebnix.get_string("media_overlay_lyrics_pos", "Below card") == POS_BOTTOM
-    if hebnix.get_bool("media_overlay_youtube_mode", false) then
+    local pos_bottom = kingmod.get_string("media_overlay_lyrics_pos", "Below card") == POS_BOTTOM
+    if kingmod.get_bool("media_overlay_youtube_mode", false) then
         ui.label("Only browser videos are affected, Spotify and other apps keep using lyrics. Gets captions the way the YouTube app does, without signing in. English is preferred, auto-generated captions fill in word by word.")
         ui.checkbox("media_overlay_yt_bottom", "Show captions at the bottom middle of the screen, like subtitles", false)
         if pos_bottom then
             ui.label("(Lyrics position is already set to bottom middle of screen, so captions go there anyway.)")
-        elseif hebnix.get_bool("media_overlay_yt_bottom", false) then
+        elseif kingmod.get_bool("media_overlay_yt_bottom", false) then
             ui.checkbox("media_overlay_lyrics_bottom_box", "Dark box behind the text", true)
             ui.label("Shows the current caption only. Untick \"Show overlay card\" below for subtitles on their own.")
         end
@@ -1379,7 +1379,7 @@ function plugin.on_settings(ui)
     ui.checkbox("media_overlay_ignore_spotify", "Ignore Spotify (use Spotify Overlay for it)", false)
     ui.checkbox("media_overlay_show_cover", "Show cover art", true)
     ui.checkbox("media_overlay_full_thumb", "Show the whole video thumbnail instead of a square crop (YouTube in your browser)", false)
-    if hebnix.get_bool("media_overlay_full_thumb", false) then
+    if kingmod.get_bool("media_overlay_full_thumb", false) then
         ui.label("Browsers only give Windows a square crop, so this finds the video on YouTube and downloads its full thumbnail. Other media keeps the square cover.")
     end
     ui.combo_box("media_overlay_corner", "Position", CORNERS)
@@ -1427,18 +1427,18 @@ function plugin.on_settings(ui)
     end
     ui.combo_box("media_overlay_lyrics_anim", "Animation", LYRIC_ANIMS)
     ui.combo_box("media_overlay_lyrics_pos", "Position", LYRIC_POS)
-    if hebnix.get_string("media_overlay_lyrics_pos", "Below card") == POS_BOTTOM then
+    if kingmod.get_string("media_overlay_lyrics_pos", "Below card") == POS_BOTTOM then
         ui.checkbox("media_overlay_lyrics_bottom_box", "Dark box behind the text", true)
         ui.label("Like subtitles: the current line only. Untick \"Show overlay card\" above for lyrics on their own.")
     end
     ui.slider("media_overlay_lyrics_scale", "Scale", 60, 200, 100)
     ui.checkbox("media_overlay_lyrics_auto_color", "Auto lyrics colour", true)
-    if not hebnix.get_bool("media_overlay_lyrics_auto_color", true) then
+    if not kingmod.get_bool("media_overlay_lyrics_auto_color", true) then
         ui.color_picker("media_overlay_lyrics_color", "Lyrics colour", "#ffffff")
     end
     ui.slider("media_overlay_lyrics_border", "Border", 0, 1.5, 0)
     ui.checkbox("media_overlay_lyrics_border_auto", "Auto border colour (opposite)", true)
-    if not hebnix.get_bool("media_overlay_lyrics_border_auto", true) then
+    if not kingmod.get_bool("media_overlay_lyrics_border_auto", true) then
         ui.color_picker("media_overlay_lyrics_border_color", "Border colour", "#000000")
     end
 
@@ -1451,12 +1451,12 @@ function plugin.on_settings(ui)
         -- a view of this song's remembered setting, like the sync sliders
         local cur = song_end_times()
         if S.end_view ~= cur then
-            hebnix.set("media_overlay_song_end_times", cur)
+            kingmod.set("media_overlay_song_end_times", cur)
             S.end_view = cur
         end
         ui.checkbox("media_overlay_song_end_times",
             "Lyrics change when a line ends instead of starts (this song)", false)
-        local v = hebnix.get_bool("media_overlay_song_end_times", false)
+        local v = kingmod.get_bool("media_overlay_song_end_times", false)
         if v ~= cur then
             set_song_end_times(v)
             S.end_view = v
@@ -1475,11 +1475,11 @@ function plugin.on_settings(ui)
             -- made by the keys into it and write slider moves back
             local cur = song_offset()
             if S.slider_off ~= cur then
-                hebnix.set("media_overlay_song_sync", cur)
+                kingmod.set("media_overlay_song_sync", cur)
                 S.slider_off = cur
             end
             ui.slider("media_overlay_song_sync", "This song (ms)", -40000, 40000, 0)
-            local v = math.floor(hebnix.get_number("media_overlay_song_sync", 0))
+            local v = math.floor(kingmod.get_number("media_overlay_song_sync", 0))
             if v ~= cur then
                 set_song_offset(v)
                 S.slider_off = song_offset()

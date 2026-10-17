@@ -1,6 +1,6 @@
 local plugin = {}
 
-local ENDPOINT = "https://req.hebnix.com/grinder"
+local ENDPOINT = "https://req.kingmod.com/grinder"
 local MODES = { "2v2", "3v3", "rumble", "hoops", "snowday", "dropshot", "heatseeker" }
 local FILTER_MODES = { "All", "2v2", "3v3", "rumble", "hoops", "snowday", "dropshot", "heatseeker" }
 local MODE_PLAYLIST = { ["2v2"] = 11, ["3v3"] = 13, rumble = 28, hoops = 27, dropshot = 29, snowday = 30, heatseeker = 63 }
@@ -26,12 +26,12 @@ local S = {
     rank_opts = nil,
 }
 
-local function mono() return hebnix.monotonic_seconds() or 0 end
+local function mono() return kingmod.monotonic_seconds() or 0 end
 local function trim(s) return (tostring(s or ""):gsub("^%s+", ""):gsub("%s+$", "")) end
 
 local function gen_id()
     local chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
-    math.randomseed(math.floor((hebnix.unix_millis() or 0)) + math.floor(mono() * 1000))
+    math.randomseed(math.floor((kingmod.unix_millis() or 0)) + math.floor(mono() * 1000))
     local out = {}
     for i = 1, 24 do
         local n = math.random(1, #chars)
@@ -59,7 +59,7 @@ end
 local function rank_options()
     if S.rank_opts then return S.rank_opts end
     local opts = {}
-    for t = 0, 22 do opts[t + 1] = (hebnix.tier_name(t) or ("Tier " .. t)) end
+    for t = 0, 22 do opts[t + 1] = (kingmod.tier_name(t) or ("Tier " .. t)) end
     S.rank_opts = opts
     return opts
 end
@@ -112,7 +112,7 @@ end
 local function ensure_profile()
     if S.profile or S.profile_key then return end
     if not S.account_id or not S.profile_platform then return end
-    S.profile_key = hebnix.fetch_profile_async(S.profile_platform, S.account_id)
+    S.profile_key = kingmod.fetch_profile_async(S.profile_platform, S.account_id)
 end
 
 local function resolved_name()
@@ -127,12 +127,12 @@ end
 local function build_filter()
     local opts = rank_options()
     local f = {}
-    local fm = hebnix.get_string("grinder_filter_mode", "All")
+    local fm = kingmod.get_string("grinder_filter_mode", "All")
     if fm ~= "All" and fm ~= "" then f.mode = fm end
-    local fr = hebnix.get_string("grinder_filter_region", "All")
+    local fr = kingmod.get_string("grinder_filter_region", "All")
     if fr ~= "All" and fr ~= "" then f.region = string.lower(fr) end
-    local mn = tier_from_label(hebnix.get_string("grinder_min_rank", opts[1]))
-    local mx = tier_from_label(hebnix.get_string("grinder_max_rank", opts[23]))
+    local mn = tier_from_label(kingmod.get_string("grinder_min_rank", opts[1]))
+    local mx = tier_from_label(kingmod.get_string("grinder_max_rank", opts[23]))
     if mn and mn > 0 then f.min_tier = mn end
     if mx and mx < 22 then f.max_tier = mx end
     return f
@@ -143,10 +143,10 @@ local function do_post()
     S.last_post = mono()
     ensure_profile()
     local name = resolved_name()
-    local available = hebnix.get_bool("grinder_available", false) and name ~= nil
+    local available = kingmod.get_bool("grinder_available", false) and name ~= nil
     local body = { id = S.session_id, available = available, filter = build_filter() }
     if available then
-        local mode = hebnix.get_string("grinder_avail_mode", "2v2")
+        local mode = kingmod.get_string("grinder_avail_mode", "2v2")
         local rk = S.profile and rank_for_mode(S.profile, mode) or nil
         body.display_name = name
         body.platform = S.platform
@@ -154,19 +154,19 @@ local function do_post()
         body.rank_tier = (rk and rk.tier) or 0
         body.rank_div = (rk and rk.div) or 0
         body.rank_mmr = rk and rk.mmr or nil
-        body.region = string.lower(hebnix.get_string("grinder_region", "eu"))
-        local note = trim(hebnix.get_string("grinder_note", ""))
+        body.region = string.lower(kingmod.get_string("grinder_region", "eu"))
+        local note = trim(kingmod.get_string("grinder_note", ""))
         if note ~= "" then body.note = note end
     end
-    hebnix.http_request_async("grinder", "POST", ENDPOINT, hebnix.json_encode(body),
+    kingmod.http_request_async("grinder", "POST", ENDPOINT, kingmod.json_encode(body),
         { ["Content-Type"] = "application/json" })
 end
 
 local function toggle_window()
-    if hebnix.window.is_open() then
-        hebnix.window.close()
+    if kingmod.window.is_open() then
+        kingmod.window.close()
     else
-        hebnix.window.open({ title = "Grinder", width = 500, height = 720, opacity = 0.97 })
+        kingmod.window.open({ title = "Grinder", width = 500, height = 720, opacity = 0.97 })
         ensure_profile()
         S.last_post = 0
     end
@@ -192,7 +192,7 @@ end
 
 local function try_identity()
     if S.ident_key then
-        local info = hebnix.launch_log_result(S.ident_key)
+        local info = kingmod.launch_log_result(S.ident_key)
         if info == nil then S.ident_key = nil return end
         if type(info) ~= "table" then return end
         S.ident_key = nil
@@ -209,26 +209,26 @@ local function try_identity()
     end
     if mono() - (S.log_try or -999) < 4 then return end
     S.log_try = mono()
-    hebnix.clear_launch_log()
-    S.ident_key = hebnix.parse_launch_log_async(false)
+    kingmod.clear_launch_log()
+    S.ident_key = kingmod.parse_launch_log_async(false)
 end
 
 function plugin.on_load()
-    S.session_id = hebnix.get_string("grinder_session_id", "")
+    S.session_id = kingmod.get_string("grinder_session_id", "")
     if S.session_id == "" then
         S.session_id = gen_id()
-        hebnix.set("grinder_session_id", S.session_id)
+        kingmod.set("grinder_session_id", S.session_id)
     end
     local ro = rank_options()
-    if hebnix.get_string("grinder_min_rank", "") == "" then hebnix.set("grinder_min_rank", ro[1]) end
-    if hebnix.get_string("grinder_max_rank", "") == "" then hebnix.set("grinder_max_rank", ro[23]) end
+    if kingmod.get_string("grinder_min_rank", "") == "" then kingmod.set("grinder_min_rank", ro[1]) end
+    if kingmod.get_string("grinder_max_rank", "") == "" then kingmod.set("grinder_max_rank", ro[23]) end
     try_identity()
 end
 
 function plugin.on_unload()
     if S.session_id then
-        hebnix.http_request_async("grinder", "POST", ENDPOINT,
-            hebnix.json_encode({ id = S.session_id, available = false }),
+        kingmod.http_request_async("grinder", "POST", ENDPOINT,
+            kingmod.json_encode({ id = S.session_id, available = false }),
             { ["Content-Type"] = "application/json" })
     end
 end
@@ -239,15 +239,15 @@ function plugin.on_http_result(id, status, body)
         S.error = "server " .. tostring(status)
         return
     end
-    local ok, j = pcall(hebnix.json_decode, body)
+    local ok, j = pcall(kingmod.json_decode, body)
     if ok and type(j) == "table" and type(j.players) == "table" then
         S.players = j.players
         S.error = nil
         S.updated_at = mono()
-        if type(j.notices) == "table" and hebnix.get_bool("grinder_notify_me", true) then
+        if type(j.notices) == "table" and kingmod.get_bool("grinder_notify_me", true) then
             for _, n in ipairs(j.notices) do
                 if type(n.from) == "string" and n.from ~= "" then
-                    hebnix.toast(n.from .. " copied your username, watch out for their friend invite")
+                    kingmod.toast(n.from .. " copied your username, watch out for their friend invite")
                 end
             end
         end
@@ -259,7 +259,7 @@ end
 function plugin.on_tick()
     if mono() - (S.proc_check or -999) >= 3 then
         S.proc_check = mono()
-        local up = hebnix.process_running("RocketLeague.exe")
+        local up = kingmod.process_running("RocketLeague.exe")
         if up and not S.game_up then
             reset_identity()
             S.ident_until = mono() + 60
@@ -268,10 +268,10 @@ function plugin.on_tick()
     end
     if not S.username or mono() < (S.ident_until or 0) or S.ident_key then try_identity() end
     if S.epic_id and not S.canonical_name and not S.name_key then
-        S.name_key = hebnix.fetch_profile_async("epic", S.epic_id)
+        S.name_key = kingmod.fetch_profile_async("epic", S.epic_id)
     end
     if S.name_key and not S.canonical_name then
-        local st = hebnix.stats_result(S.name_key)
+        local st = kingmod.stats_result(S.name_key)
         if type(st) == "table" then
             if not st.error and type(st.display_name) == "string" and st.display_name ~= "" then
                 S.canonical_name = st.display_name
@@ -280,15 +280,15 @@ function plugin.on_tick()
         end
     end
 
-    local bind = hebnix.get_string("grinder_bind", "f3")
+    local bind = kingmod.get_string("grinder_bind", "f3")
     if not S.capturing then
-        local pressed = bind ~= "" and hebnix.is_bind_pressed(bind)
+        local pressed = bind ~= "" and kingmod.is_bind_pressed(bind)
         if pressed and not S.bind_was then toggle_window() end
         S.bind_was = pressed
     else
-        local status, b = hebnix.capture_bind_result()
+        local status, b = kingmod.capture_bind_result()
         if status == "done" then
-            hebnix.set("grinder_bind", b or "f3")
+            kingmod.set("grinder_bind", b or "f3")
             S.capturing = false
         elseif status == "timeout" then
             S.capturing = false
@@ -296,15 +296,15 @@ function plugin.on_tick()
     end
 
     if S.profile_key and not S.profile then
-        local st = hebnix.stats_result(S.profile_key)
+        local st = kingmod.stats_result(S.profile_key)
         if type(st) == "table" then
             if not st.error then S.profile = st end
             S.profile_key = nil
         end
     end
 
-    local available = hebnix.get_bool("grinder_available", false)
-    local open = hebnix.window.is_open()
+    local available = kingmod.get_bool("grinder_available", false)
+    local open = kingmod.window.is_open()
     local interval = (open or available) and 15 or nil
     if interval and (S.last_post == 0 or mono() - S.last_post >= interval) then
         do_post()
@@ -313,7 +313,7 @@ end
 
 local function my_rank()
     if not S.profile then return nil, nil, "detecting rank (needs Rocket League running)...", nil end
-    local mode = hebnix.get_string("grinder_avail_mode", "2v2")
+    local mode = kingmod.get_string("grinder_avail_mode", "2v2")
     local rk = rank_for_mode(S.profile, mode)
     if not rk then return nil, nil, "no ranked data for this mode", nil end
     if rk.casual then return nil, nil, "casual (no ranked playlist)", nil end
@@ -373,14 +373,14 @@ function plugin.on_window(ui)
     ui.combo_box("grinder_max_rank", "Max rank", opts)
 
     local sig = table.concat({
-        tostring(hebnix.get_bool("grinder_available", false)),
-        hebnix.get_string("grinder_avail_mode", "2v2"),
-        hebnix.get_string("grinder_region", "eu"),
-        hebnix.get_string("grinder_note", ""),
-        hebnix.get_string("grinder_filter_mode", "All"),
-        hebnix.get_string("grinder_filter_region", "All"),
-        hebnix.get_string("grinder_min_rank", opts[1]),
-        hebnix.get_string("grinder_max_rank", opts[23]),
+        tostring(kingmod.get_bool("grinder_available", false)),
+        kingmod.get_string("grinder_avail_mode", "2v2"),
+        kingmod.get_string("grinder_region", "eu"),
+        kingmod.get_string("grinder_note", ""),
+        kingmod.get_string("grinder_filter_mode", "All"),
+        kingmod.get_string("grinder_filter_region", "All"),
+        kingmod.get_string("grinder_min_rank", opts[1]),
+        kingmod.get_string("grinder_max_rank", opts[23]),
     }, "|")
     if S.sig ~= nil and S.sig ~= sig then
         S.last_post = 0
@@ -421,8 +421,8 @@ function plugin.on_window(ui)
                 if ui.button("Copy name") then
                     ui.copy_to_clipboard(name)
                     if p.ref and S.session_id then
-                        hebnix.http_request_async("grinder_notify", "POST", ENDPOINT,
-                            hebnix.json_encode({ id = S.session_id, notify = { target = p.ref, from_id = S.primary_id } }),
+                        kingmod.http_request_async("grinder_notify", "POST", ENDPOINT,
+                            kingmod.json_encode({ id = S.session_id, notify = { target = p.ref, from_id = S.primary_id } }),
                             { ["Content-Type"] = "application/json" })
                     end
                 end
@@ -441,16 +441,16 @@ function plugin.on_window(ui)
 end
 
 function plugin.on_settings(ui)
-    local bind = hebnix.get_string("grinder_bind", "f3")
+    local bind = kingmod.get_string("grinder_bind", "f3")
     ui.horizontal(function()
         ui.label("Bind plugin window: " .. (bind ~= "" and bind or "(none)"))
         if S.capturing then
             ui.colored_label("#d35400", "Press any key/button...")
         else
             if ui.button("Set") then
-                S.capturing = hebnix.capture_bind_async(10) and true or false
+                S.capturing = kingmod.capture_bind_async(10) and true or false
             end
-            if ui.button("Reset to F3") then hebnix.set("grinder_bind", "f3") end
+            if ui.button("Reset to F3") then kingmod.set("grinder_bind", "f3") end
         end
     end)
     ui.label("Press the bind in-game to open or close the Grinder window.")

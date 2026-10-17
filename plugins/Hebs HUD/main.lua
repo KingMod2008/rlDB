@@ -29,7 +29,7 @@ local tracker_mmr, tracker_rank_name, tracker_tier, tracker_has_rank = "—", "L
 local current_platform = ""
 
 local function selected_mode()
-    return hebnix.get_string("hebs_hud_mode", "Ranked 2v2")
+    return kingmod.get_string("hebs_hud_mode", "Ranked 2v2")
 end
 
 local function mode_name()
@@ -50,7 +50,7 @@ end
 local function refresh_identity_from_log()
     if os.time() - last_log_check < 5 then return end
     last_log_check = os.time()
-    local log = hebnix.parse_launch_log(false)
+    local log = kingmod.parse_launch_log(false)
     local session = log and log.session
     if type(session) ~= "table" then return end
 
@@ -83,7 +83,7 @@ local function refresh_identity_from_log()
         if account_id then local_identity_ids[account_id] = true end
         return
     end
-    local detected = string.lower(tostring(hebnix.detected_platform() or ""))
+    local detected = string.lower(tostring(kingmod.detected_platform() or ""))
     if detected ~= "steam" and detected ~= "epic" then
         detected = string.lower(tostring(session.platform or ""))
     end
@@ -145,11 +145,11 @@ local function update_tracker_rank()
 
     local query_key = platform .. ":" .. account_id
     if tracker_key ~= query_key or os.time() - tracker_requested_at >= 300 then
-        tracker_key = hebnix.fetch_profile_async(platform, account_id) or query_key
+        tracker_key = kingmod.fetch_profile_async(platform, account_id) or query_key
         tracker_requested_at = os.time()
     end
 
-    local result = hebnix.stats_result(tracker_key or query_key)
+    local result = kingmod.stats_result(tracker_key or query_key)
     if result == nil or result == "pending" then
         if tracker_mmr == "—" then tracker_rank_name = "Loading…" end
         return
@@ -235,18 +235,18 @@ end
 
 local function selected_rows()
     local rows = {
-        { "MMR", "M", tracker_mmr, hebnix.get_string("hebs_hud_mmr_colour", "#f3db21ff"), "hebs_hud_show_mmr" },
-        { "GOALS", "G", tostring(session_goals + (match_recorded and 0 or match_goals)), hebnix.get_string("hebs_hud_goals_colour", "#32c5ffff"), "hebs_hud_show_goals" },
-        { "SAVES", "S", tostring(session_saves + (match_recorded and 0 or match_saves)), hebnix.get_string("hebs_hud_saves_colour", "#4edc77ff"), "hebs_hud_show_saves" },
-        { "WINS", "W", tostring(session_wins), hebnix.get_string("hebs_hud_win_colour", "#228cecff"), "hebs_hud_show_wins" },
-        { "LOSSES", "L", tostring(session_losses), hebnix.get_string("hebs_hud_loss_colour", "#ff6f00ff"), "hebs_hud_show_losses" },
+        { "MMR", "M", tracker_mmr, kingmod.get_string("hebs_hud_mmr_colour", "#f3db21ff"), "hebs_hud_show_mmr" },
+        { "GOALS", "G", tostring(session_goals + (match_recorded and 0 or match_goals)), kingmod.get_string("hebs_hud_goals_colour", "#32c5ffff"), "hebs_hud_show_goals" },
+        { "SAVES", "S", tostring(session_saves + (match_recorded and 0 or match_saves)), kingmod.get_string("hebs_hud_saves_colour", "#4edc77ff"), "hebs_hud_show_saves" },
+        { "WINS", "W", tostring(session_wins), kingmod.get_string("hebs_hud_win_colour", "#228cecff"), "hebs_hud_show_wins" },
+        { "LOSSES", "L", tostring(session_losses), kingmod.get_string("hebs_hud_loss_colour", "#ff6f00ff"), "hebs_hud_show_losses" },
     }
     local selected = {}
     for _, row in ipairs(rows) do
-        if hebnix.get_bool(row[5], true) then table.insert(selected, row) end
+        if kingmod.get_bool(row[5], true) then table.insert(selected, row) end
     end
     if #selected == 0 then
-        hebnix.set("hebs_hud_show_mmr", true)
+        kingmod.set("hebs_hud_show_mmr", true)
         table.insert(selected, rows[1])
     end
     return selected
@@ -255,9 +255,9 @@ end
 local function render_default(draw, w, h, rows, scale, margin_x, margin_y)
     local width, row_h = 214 * scale, 37 * scale
     local height, x, y = 8 * scale + row_h * #rows, w - margin_x - width, margin_y
-    local bg = hebnix.get_string("hebs_hud_background_colour", "#070914e8")
-    local line = hebnix.get_string("hebs_hud_line_colour", "#20253eff")
-    local label = hebnix.get_string("hebs_hud_label_colour", "#6e7898ff")
+    local bg = kingmod.get_string("hebs_hud_background_colour", "#070914e8")
+    local line = kingmod.get_string("hebs_hud_line_colour", "#20253eff")
+    local label = kingmod.get_string("hebs_hud_label_colour", "#6e7898ff")
     local has_mmr = rows[1][1] == "MMR"
     local label_x = has_mmr and x + 42 * scale or x + 14 * scale
     local right, text_size, value_size = x + width - 14 * scale, 12 * scale, 18 * scale
@@ -278,9 +278,9 @@ local function render_default(draw, w, h, rows, scale, margin_x, margin_y)
 end
 
 local function render_pill(draw, w, rows, scale, margin_x, margin_y)
-    local bg = hebnix.get_string("hebs_hud_background_colour", "#070914e8")
-    local line = hebnix.get_string("hebs_hud_line_colour", "#20253eff")
-    local label = hebnix.get_string("hebs_hud_label_colour", "#6e7898ff")
+    local bg = kingmod.get_string("hebs_hud_background_colour", "#070914e8")
+    local line = kingmod.get_string("hebs_hud_line_colour", "#20253eff")
+    local label = kingmod.get_string("hebs_hud_label_colour", "#6e7898ff")
     local parts = {}
     for _, row in ipairs(rows) do table.insert(parts, row[2] .. ": " .. row[3]) end
     local text = table.concat(parts, "  |  ")
@@ -302,12 +302,12 @@ local function render_pill(draw, w, rows, scale, margin_x, margin_y)
 end
 
 function plugin.on_overlay(draw, w, h)
-    if not hebnix.get_bool("hebs_hud_enabled", true) then return end
-    local scale = hebnix.get_number("hebs_hud_scale", 1.0)
-    local margin_x = hebnix.get_number("hebs_hud_margin_x", 28)
-    local margin_y = hebnix.get_number("hebs_hud_margin_y", 14)
+    if not kingmod.get_bool("hebs_hud_enabled", true) then return end
+    local scale = kingmod.get_number("hebs_hud_scale", 1.0)
+    local margin_x = kingmod.get_number("hebs_hud_margin_x", 28)
+    local margin_y = kingmod.get_number("hebs_hud_margin_y", 14)
     local rows = selected_rows()
-    if hebnix.get_string("hebs_hud_style", "Default") == "Pill" then
+    if kingmod.get_string("hebs_hud_style", "Default") == "Pill" then
         render_pill(draw, w, rows, scale, margin_x, margin_y)
     else
         render_default(draw, w, h, rows, scale, margin_x, margin_y)
@@ -333,12 +333,12 @@ function plugin.on_settings(ui)
     }
     local visible = 0
     for _, item in ipairs(display_keys) do
-        if hebnix.get_bool(item[1], true) then visible = visible + 1 end
+        if kingmod.get_bool(item[1], true) then visible = visible + 1 end
     end
     for _, item in ipairs(display_keys) do
-        local was_visible = hebnix.get_bool(item[1], true)
+        local was_visible = kingmod.get_bool(item[1], true)
         local is_visible = ui.checkbox(item[1], item[2], true)
-        if was_visible and not is_visible and visible == 1 then hebnix.set(item[1], true) end
+        if was_visible and not is_visible and visible == 1 then kingmod.set(item[1], true) end
     end
     ui.combo_box("hebs_hud_mode", "MMR gamemode", MODES)
     if ui.button("Clear session stats") then clear_session_stats() end

@@ -26,19 +26,19 @@ end
 
 local function settings_payload()
     return {
-        scale = hebnix.get_number("team_boost_scale", 1.0),
-        right_margin = hebnix.get_number("team_boost_right_margin", 36),
-        vertical_offset = hebnix.get_number("team_boost_vertical_offset", 0),
-        show_numbers = hebnix.get_bool("team_boost_show_numbers", true),
+        scale = kingmod.get_number("team_boost_scale", 1.0),
+        right_margin = kingmod.get_number("team_boost_right_margin", 36),
+        vertical_offset = kingmod.get_number("team_boost_vertical_offset", 0),
+        show_numbers = kingmod.get_bool("team_boost_show_numbers", true),
     }
 end
 
 local function send_overlay(players, team)
     local settings = settings_payload()
-    settings.visible = hebnix.get_bool("team_boost_enabled", true) and #players > 0
+    settings.visible = kingmod.get_bool("team_boost_enabled", true) and #players > 0
     settings.players = players
     settings.team = team or 0
-    hebnix.overlay.send(settings)
+    kingmod.overlay.send(settings)
 end
 
 local function hide_overlay()

@@ -45,18 +45,18 @@ end
 
 local function request_local_identity(reset)
     if reset then
-        hebnix.clear_launch_log()
+        kingmod.clear_launch_log()
         identity_log_key = nil
         local_platform_id = nil
         local_identity_ids = {}
     end
-    if not identity_log_key then identity_log_key = hebnix.parse_launch_log_async(false) end
+    if not identity_log_key then identity_log_key = kingmod.parse_launch_log_async(false) end
 end
 
 local function poll_local_identity()
     if #local_identity_ids > 0 then return end
     if not identity_log_key then request_local_identity(false) end
-    local info = hebnix.launch_log_result(identity_log_key)
+    local info = kingmod.launch_log_result(identity_log_key)
     if type(info) ~= "table" then return end
     local session = value(info, "session", "Session")
     local candidates = {}
@@ -77,7 +77,7 @@ local function poll_local_identity()
         local_identity_ids = candidates
         return
     end
-    local now = hebnix.monotonic_seconds()
+    local now = kingmod.monotonic_seconds()
     if now >= next_identity_retry then
         next_identity_retry = now + 5
         request_local_identity(true)
@@ -88,8 +88,8 @@ local function player_id(player, index)
 end
 
 local function archive_path()
-    if type(hebnix.plugin_dir) ~= "function" then return nil end
-    return hebnix.plugin_dir() .. "\\assets\\matches.json"
+    if type(kingmod.plugin_dir) ~= "function" then return nil end
+    return kingmod.plugin_dir() .. "\\assets\\matches.json"
 end
 
 local function load_archive()
@@ -99,7 +99,7 @@ local function load_archive()
     if not file then return end
     local encoded = file:read("*a")
     file:close()
-    local ok, decoded = pcall(hebnix.json_decode, encoded)
+    local ok, decoded = pcall(kingmod.json_decode, encoded)
     if ok and type(decoded) == "table" then archive = decoded end
     while #archive > 10 do table.remove(archive) end
 end
@@ -107,7 +107,7 @@ end
 local function save_archive()
     local path = archive_path()
     if not path then return end
-    local ok, encoded = pcall(hebnix.json_encode, archive)
+    local ok, encoded = pcall(kingmod.json_encode, archive)
     if not ok then return end
     local file = io.open(path, "wb")
     if not file then return end
@@ -139,7 +139,7 @@ local function new_match(payload)
         overtime = false,
         overtime_started_at = nil,
         last_sample_at = 0,
-        rank_generation = tostring(os.time()) .. "-" .. tostring(hebnix.monotonic_seconds()),
+        rank_generation = tostring(os.time()) .. "-" .. tostring(kingmod.monotonic_seconds()),
         clock_seconds = 300,
         started = false,
         started_at = nil,
@@ -156,7 +156,7 @@ local function mark_match_started(payload)
     local match = ensure_match(payload)
     if match.started then return match end
     match.started = true
-    match.started_at = hebnix.monotonic_seconds()
+    match.started_at = kingmod.monotonic_seconds()
     match.clock_seconds = 300
     match.events = {}
     match.last_stats = {}
@@ -173,7 +173,7 @@ end
 local function add_timeline_event(kind, player, team, related, related_team, relation, details)
     if not current_match or not current_match.started or not current_match.started_at then return nil end
     sequence = sequence + 1
-    local elapsed = math.max(0, math.floor(hebnix.monotonic_seconds() - current_match.started_at))
+    local elapsed = math.max(0, math.floor(kingmod.monotonic_seconds() - current_match.started_at))
     local item = {
         sequence = sequence,
         kind = kind,
@@ -194,7 +194,7 @@ end
 
 local function add_unique_timeline_event(kind, player, team, related, related_team, relation, details)
     if not current_match or not current_match.started or not current_match.started_at then return nil end
-    local elapsed = math.max(0, math.floor(hebnix.monotonic_seconds() - current_match.started_at))
+    local elapsed = math.max(0, math.floor(kingmod.monotonic_seconds() - current_match.started_at))
     for index = #current_match.events, 1, -1 do
         local item = current_match.events[index]
         if elapsed - number(item.elapsed, 0) > 2 then break end
@@ -231,7 +231,7 @@ local function copy_team_scores(game)
         local history = current_match.lead_history or {}
         local last = history[#history]
         if not last or number(last.blue, -1) ~= blue or number(last.orange, -1) ~= orange then
-            local elapsed = math.max(0, math.floor(hebnix.monotonic_seconds() - current_match.started_at))
+            local elapsed = math.max(0, math.floor(kingmod.monotonic_seconds() - current_match.started_at))
             table.insert(history, {
                 elapsed = elapsed,
                 clock = format_clock(elapsed),
@@ -281,13 +281,13 @@ end
 local function request_player_rank(match, id, name)
     local playlist_id = number(match.playlist_id, 0)
     if not RANKED_PLAYLISTS[playlist_id] or id == "" then return nil end
-    if type(hebnix.is_bot) == "function" and hebnix.is_bot(id) then return nil end
+    if type(kingmod.is_bot) == "function" and kingmod.is_bot(id) then return nil end
     local key = rank_key(id, playlist_id, match.rank_generation)
     if rank_cache[key] then return rank_cache[key] end
     if rank_pending[key] then rank_pending[key].matches[match] = true; return nil end
     local platform, account_id = profile_identity(id)
     if not platform then return nil end
-    local poll_key = hebnix.fetch_profile_async(platform, account_id)
+    local poll_key = kingmod.fetch_profile_async(platform, account_id)
     if not poll_key then return nil end
     rank_pending[key] = { id = id, poll_key = poll_key, playlist_id = playlist_id, matches = { [match] = true } }
     return nil
@@ -308,12 +308,12 @@ local function apply_rank(match, id, rank)
 end
 
 local function poll_player_ranks()
-    local now = hebnix.monotonic_seconds()
+    local now = kingmod.monotonic_seconds()
     if now - last_rank_poll < 0.5 then return false end
     last_rank_poll = now
     local changed = false
     for key, pending in pairs(rank_pending) do
-        local stats = hebnix.stats_result(pending.poll_key)
+        local stats = kingmod.stats_result(pending.poll_key)
         if stats ~= nil and stats ~= "pending" then
             local resolved = { name = "Unranked", division = nil, mmr = nil, tier_id = 0, division_id = -1 }
             if type(stats) == "table" and stats.error == nil then
@@ -400,7 +400,7 @@ local function update_match(payload)
     if not match or not match.started then return end
     match.arena = tostring(value(game, "Arena", "arena") or match.arena)
     match.playlist_id = number(value(game, "PlaylistId", "playlist_id"), match.playlist_id)
-    local now = hebnix.monotonic_seconds()
+    local now = kingmod.monotonic_seconds()
     local should_sample = now - number(match.last_sample_at, 0) >= 0.25
     if should_sample then match.last_sample_at = now end
     local overtime_started = value(game, "bOvertime", "overtime") == true and not match.overtime
@@ -634,7 +634,7 @@ local function finalize_match(result)
     current_match = nil
     if not completed.started or not completed.started_at then return end
     completed.result = result or completed.result
-    completed.duration_seconds = math.max(0, math.floor(hebnix.monotonic_seconds() - completed.started_at))
+    completed.duration_seconds = math.max(0, math.floor(kingmod.monotonic_seconds() - completed.started_at))
     reconcile_goal_events(completed)
     completed.last_stats = nil
     completed.player_metrics = nil
@@ -653,7 +653,7 @@ local function send_overlay()
     -- Keep the iframe stable. Its JS reports an empty pointer region in-game.
     -- Toggling this rebuilt the iframe after the visible message and lost the launcher state.
     plugin.clickable = true
-    hebnix.overlay.send({
+    kingmod.overlay.send({
         visible = menu_visible,
         matches = archive,
     })

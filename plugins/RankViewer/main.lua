@@ -28,10 +28,10 @@ end
 local function refresh_identity(force)
     if not force and os.time() - last_log_check < 5 then return end
     last_log_check = os.time()
-    local log = hebnix.parse_launch_log(false)
+    local log = kingmod.parse_launch_log(false)
     local session = log and log.session
     if type(session) ~= "table" then return end
-    platform = string.lower(tostring(hebnix.detected_platform() or session.platform or ""))
+    platform = string.lower(tostring(kingmod.detected_platform() or session.platform or ""))
     if session.username and tostring(session.username) ~= "" then local_name = tostring(session.username) end
     if session.primary_id and tostring(session.primary_id) ~= "" then
         local raw_primary_id = string.lower(tostring(session.primary_id))
@@ -53,8 +53,8 @@ end
 
 local function load_thresholds(playlist_id)
     local text = nil
-    if type(hebnix.read_asset_text) == "function" then
-        text = hebnix.read_asset_text("RankNumbers/" .. playlist_id .. ".json")
+    if type(kingmod.read_asset_text) == "function" then
+        text = kingmod.read_asset_text("RankNumbers/" .. playlist_id .. ".json")
     end
     -- Compatibility for currently released Hebnix builds: read this plugin's
     -- own bundled table only, never an arbitrary user-supplied path.
@@ -88,17 +88,17 @@ local function update_rank()
         if not primary_id then return end
         key = "epic:" .. primary_id
         if tracker_key ~= key or os.time() - requested_at > 300 then
-            tracker_key = hebnix.fetch_profile_async("epic", primary_id) or key
+            tracker_key = kingmod.fetch_profile_async("epic", primary_id) or key
             requested_at = os.time()
         end
     else
         if not primary_id then return end
         key = primary_id
         if tracker_key ~= key or os.time() - requested_at > 300 then
-            hebnix.fetch_stats_async(primary_id, local_name); tracker_key, requested_at = key, os.time()
+            kingmod.fetch_stats_async(primary_id, local_name); tracker_key, requested_at = key, os.time()
         end
     end
-    local stats = hebnix.stats_result(tracker_key or key)
+    local stats = kingmod.stats_result(tracker_key or key)
     if type(stats) ~= "table" or stats.error then return end
     for _, rank in pairs(stats.ranks or {}) do
         if rank_matches(rank, selected) then
@@ -154,7 +154,7 @@ function plugin.on_game_event(event_type, event)
     end
 end
 function plugin.on_overlay(draw, w, h)
-    if not hebnix.get_bool("rankviewer_enabled", true) then return end
+    if not kingmod.get_bool("rankviewer_enabled", true) then return end
     if not show_viewer then return end
     local mode = active_mode()
     if not mode then return end

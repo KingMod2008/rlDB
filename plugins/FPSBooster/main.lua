@@ -104,30 +104,30 @@ local status_color      = "#aaaaaa"
 local function safe(fn, default)
     local ok, result = pcall(fn)
     if ok then return result end
-    hebnix.log("caught: " .. tostring(result))
+    kingmod.log("caught: " .. tostring(result))
     return default
 end
 
 local function set_status(msg, color)
     status_message = msg
     status_color = color or "#aaaaaa"
-    hebnix.log(msg)
+    kingmod.log(msg)
 end
 
 local function open_assets_folder()
-    if hebnix.open_assets then
-        local ok = safe(function() hebnix.open_assets() return true end, false)
+    if kingmod.open_assets then
+        local ok = safe(function() kingmod.open_assets() return true end, false)
         if ok then return true end
     end
-    if assets_dir and hebnix.open_url then
-        hebnix.open_url("file:///" .. assets_dir:gsub("\\", "/"))
+    if assets_dir and kingmod.open_url then
+        kingmod.open_url("file:///" .. assets_dir:gsub("\\", "/"))
         return true
     end
     return false
 end
 
 local function resolve_assets_dir()
-    local dir = safe(function() return hebnix.plugin_dir() end, nil)
+    local dir = safe(function() return kingmod.plugin_dir() end, nil)
     if dir and dir ~= "" then
         return dir .. "\\assets"
     end
@@ -156,7 +156,7 @@ local function display_to_label(display)
 end
 
 local function get_badge_position()
-    local v = hebnix.get_string("badge_position", "Top Left")
+    local v = kingmod.get_string("badge_position", "Top Left")
     return v:lower():gsub(" ", "_")
 end
 
@@ -169,7 +169,7 @@ end
 
 local function measure(text, size, bold)
     local width = safe(function()
-        return hebnix.measure_text(text, size, bold)
+        return kingmod.measure_text(text, size, bold)
     end, nil)
     if width and width > 0 then return width end
     return #text * size * 0.58
@@ -179,7 +179,7 @@ local function draw_badge(draw, w, h)
     local position = get_badge_position()
     if position == "off" then return end
 
-    local display = hebnix.get_string("preset_display", "")
+    local display = kingmod.get_string("preset_display", "")
     local label   = display_to_label(display)
     local color   = current_preset_color(display)
     if label == "" or label == "None" then return end
@@ -288,7 +288,7 @@ end
 
 local function refresh_presets()
     available_presets = {}
-    local files = safe(function() return hebnix.list_assets() end, nil)
+    local files = safe(function() return kingmod.list_assets() end, nil)
     if files then
         for _, name in ipairs(files) do
             local lower = name:lower()
@@ -307,38 +307,38 @@ local function refresh_presets()
         end
     end
 
-    hebnix.log("Found " .. #available_presets .. " preset(s)")
+    kingmod.log("Found " .. #available_presets .. " preset(s)")
 end
 
 local function init_display_defaults()
-    if hebnix.get_number("disp_initialized", 0) == 1 then return end
+    if kingmod.get_number("disp_initialized", 0) == 1 then return end
 
-    local current = safe(function() return hebnix.rl_read_config(CONFIG_NAME) end, nil)
+    local current = safe(function() return kingmod.rl_read_config(CONFIG_NAME) end, nil)
 
     if current then
         local rx = extract_from_system_settings(current, "ResX")
         local ry = extract_from_system_settings(current, "ResY")
         local sp = extract_from_system_settings(current, "ScreenPercentage")
-        if rx then hebnix.set("disp_res_x", tonumber(rx) or DEFAULT_RES_X) end
-        if ry then hebnix.set("disp_res_y", tonumber(ry) or DEFAULT_RES_Y) end
-        if sp then hebnix.set("disp_screen_pct", tonumber(sp) or DEFAULT_SCREEN_PCT) end
+        if rx then kingmod.set("disp_res_x", tonumber(rx) or DEFAULT_RES_X) end
+        if ry then kingmod.set("disp_res_y", tonumber(ry) or DEFAULT_RES_Y) end
+        if sp then kingmod.set("disp_screen_pct", tonumber(sp) or DEFAULT_SCREEN_PCT) end
     end
 
-    local mode = safe(function() return hebnix.window_mode() end, nil)
+    local mode = safe(function() return kingmod.window_mode() end, nil)
     if mode == "Fullscreen" then
-        hebnix.set("disp_fullscreen", true); hebnix.set("disp_borderless", false)
+        kingmod.set("disp_fullscreen", true); kingmod.set("disp_borderless", false)
     elseif mode == "Borderless" then
-        hebnix.set("disp_fullscreen", false); hebnix.set("disp_borderless", true)
+        kingmod.set("disp_fullscreen", false); kingmod.set("disp_borderless", true)
     elseif mode == "Windowed" then
-        hebnix.set("disp_fullscreen", false); hebnix.set("disp_borderless", false)
+        kingmod.set("disp_fullscreen", false); kingmod.set("disp_borderless", false)
     elseif current then
         local fs = extract_from_system_settings(current, "Fullscreen")
         local bl = extract_from_system_settings(current, "Borderless")
-        if fs then hebnix.set("disp_fullscreen", fs:lower() == "true") end
-        if bl then hebnix.set("disp_borderless", bl:lower() == "true") end
+        if fs then kingmod.set("disp_fullscreen", fs:lower() == "true") end
+        if bl then kingmod.set("disp_borderless", bl:lower() == "true") end
     end
 
-    hebnix.set("disp_initialized", 1)
+    kingmod.set("disp_initialized", 1)
 end
 
 local function apply_preset(display)
@@ -347,7 +347,7 @@ local function apply_preset(display)
         set_status("ERROR: No preset selected.", "#ff5555"); return
     end
 
-    local preset = safe(function() return hebnix.read_asset_text(preset_name) end, nil)
+    local preset = safe(function() return kingmod.read_asset_text(preset_name) end, nil)
     if not preset then
         set_status("ERROR: Could not read " .. preset_name .. ". Ping " .. SUPPORT_HANDLE .. ".", "#ff5555")
         return
@@ -356,17 +356,17 @@ local function apply_preset(display)
     local is_recovery = (preset_name:lower() == "original.ini")
 
     if not is_recovery then
-        local current = safe(function() return hebnix.rl_read_config(CONFIG_NAME) end, nil)
+        local current = safe(function() return kingmod.rl_read_config(CONFIG_NAME) end, nil)
         if current then
             local stats_section = extract_section(current, "StatsAPI")
             if stats_section then preset = upsert_section(preset, "StatsAPI", stats_section) end
         end
 
-        local rx = math.floor(hebnix.get_number("disp_res_x", DEFAULT_RES_X))
-        local ry = math.floor(hebnix.get_number("disp_res_y", DEFAULT_RES_Y))
-        local sp = math.floor(hebnix.get_number("disp_screen_pct", DEFAULT_SCREEN_PCT))
-        local fs = hebnix.get_bool("disp_fullscreen", DEFAULT_FULLSCREEN)
-        local bl = hebnix.get_bool("disp_borderless", DEFAULT_BORDERLESS)
+        local rx = math.floor(kingmod.get_number("disp_res_x", DEFAULT_RES_X))
+        local ry = math.floor(kingmod.get_number("disp_res_y", DEFAULT_RES_Y))
+        local sp = math.floor(kingmod.get_number("disp_screen_pct", DEFAULT_SCREEN_PCT))
+        local fs = kingmod.get_bool("disp_fullscreen", DEFAULT_FULLSCREEN)
+        local bl = kingmod.get_bool("disp_borderless", DEFAULT_BORDERLESS)
 
         -- ScreenPercentage written as an integer. Season 24's save file
         -- stores render quality as an int, and RL appears to reject float
@@ -378,15 +378,15 @@ local function apply_preset(display)
         preset = replace_in_system_settings(preset, "Borderless",       bl and "True" or "False")
     end
 
-    local ok = safe(function() return hebnix.rl_write_config(CONFIG_NAME, preset) end, false)
+    local ok = safe(function() return kingmod.rl_write_config(CONFIG_NAME, preset) end, false)
 
     if ok then
         if is_recovery then
             set_status("SUCCESS: Vanilla config restored. Launch Rocket League to test.", "#55ff88")
         else
-            local rx = math.floor(hebnix.get_number("disp_res_x", DEFAULT_RES_X))
-            local ry = math.floor(hebnix.get_number("disp_res_y", DEFAULT_RES_Y))
-            local sp = math.floor(hebnix.get_number("disp_screen_pct", DEFAULT_SCREEN_PCT))
+            local rx = math.floor(kingmod.get_number("disp_res_x", DEFAULT_RES_X))
+            local ry = math.floor(kingmod.get_number("disp_res_y", DEFAULT_RES_Y))
+            local sp = math.floor(kingmod.get_number("disp_screen_pct", DEFAULT_SCREEN_PCT))
             local note = ""
             local info = PRESET_INFO[preset_name]
             if sp >= 100 and info and info.screen_pct and info.screen_pct < 100 then
@@ -401,22 +401,22 @@ local function apply_preset(display)
 end
 
 function plugin.on_load()
-    hebnix.log("Loading v3.1.1")
+    kingmod.log("Loading v3.1.1")
 
-    if not hebnix.rl_write_config then
+    if not kingmod.rl_write_config then
         set_status("ERROR: Requires Hebnix 2.1.8 or newer.", "#ff5555")
         return
     end
 
     assets_dir = resolve_assets_dir()
-    if assets_dir then hebnix.log("Assets: " .. assets_dir) end
+    if assets_dir then kingmod.log("Assets: " .. assets_dir) end
 
     refresh_presets()
     init_display_defaults()
 
-    if hebnix.get_string("preset_display", "") == "" and #available_presets > 0 then
-        hebnix.set("preset_display", make_display(available_presets[1]))
-        hebnix.set("last_selected_display", make_display(available_presets[1]))
+    if kingmod.get_string("preset_display", "") == "" and #available_presets > 0 then
+        kingmod.set("preset_display", make_display(available_presets[1]))
+        kingmod.set("last_selected_display", make_display(available_presets[1]))
     end
 
     set_status("Ready. " .. #available_presets .. " preset(s) available.", "#aaaaaa")
@@ -425,13 +425,13 @@ end
 function plugin.on_overlay(draw, w, h)
     if get_badge_position() == "off" then return end
     if not w or not h or w < 640 or h < 480 then return end
-    local connected = safe(function() return hebnix.rl_connected() end, false)
+    local connected = safe(function() return kingmod.rl_connected() end, false)
     if not connected then return end
     safe(function() draw_badge(draw, w, h) end)
 end
 
 function plugin.on_settings(ui)
-    if not hebnix.rl_write_config then
+    if not kingmod.rl_write_config then
         ui.colored_label("#ff5555", "Requires Hebnix 2.1.8 or newer.")
         return
     end
@@ -487,16 +487,16 @@ function plugin.on_settings(ui)
         ui.colored_label("#ff5555",
             "No presets found. Click 'Open Folder', add .ini files to assets/, then Refresh.")
     else
-        local previous_display = hebnix.get_string("last_selected_display", "")
+        local previous_display = kingmod.get_string("last_selected_display", "")
         selected_display = ui.combo_box("preset_display", "Selected", options)
 
         if selected_display ~= previous_display then
             local real_name = display_to_file(selected_display)
             local info = PRESET_INFO[real_name]
             if info and info.screen_pct then
-                hebnix.set("disp_screen_pct", info.screen_pct)
+                kingmod.set("disp_screen_pct", info.screen_pct)
             end
-            hebnix.set("last_selected_display", selected_display)
+            kingmod.set("last_selected_display", selected_display)
         end
 
         local real_name = display_to_file(selected_display)
@@ -552,21 +552,21 @@ function plugin.on_settings(ui)
         ui.space(4)
         ui.horizontal(function(ui)
             if ui.button("Re-detect") then
-                local current = safe(function() return hebnix.rl_read_config(CONFIG_NAME) end, nil)
+                local current = safe(function() return kingmod.rl_read_config(CONFIG_NAME) end, nil)
                 if current then
                     local rx = extract_from_system_settings(current, "ResX")
                     local ry = extract_from_system_settings(current, "ResY")
                     local sp = extract_from_system_settings(current, "ScreenPercentage")
-                    if rx then hebnix.set("disp_res_x", tonumber(rx) or DEFAULT_RES_X) end
-                    if ry then hebnix.set("disp_res_y", tonumber(ry) or DEFAULT_RES_Y) end
-                    if sp then hebnix.set("disp_screen_pct", tonumber(sp) or DEFAULT_SCREEN_PCT) end
-                    local mode = safe(function() return hebnix.window_mode() end, nil)
+                    if rx then kingmod.set("disp_res_x", tonumber(rx) or DEFAULT_RES_X) end
+                    if ry then kingmod.set("disp_res_y", tonumber(ry) or DEFAULT_RES_Y) end
+                    if sp then kingmod.set("disp_screen_pct", tonumber(sp) or DEFAULT_SCREEN_PCT) end
+                    local mode = safe(function() return kingmod.window_mode() end, nil)
                     if mode == "Fullscreen" then
-                        hebnix.set("disp_fullscreen", true); hebnix.set("disp_borderless", false)
+                        kingmod.set("disp_fullscreen", true); kingmod.set("disp_borderless", false)
                     elseif mode == "Borderless" then
-                        hebnix.set("disp_fullscreen", false); hebnix.set("disp_borderless", true)
+                        kingmod.set("disp_fullscreen", false); kingmod.set("disp_borderless", true)
                     elseif mode == "Windowed" then
-                        hebnix.set("disp_fullscreen", false); hebnix.set("disp_borderless", false)
+                        kingmod.set("disp_fullscreen", false); kingmod.set("disp_borderless", false)
                     end
                     set_status("Re-detected from live config.", "#5dade2")
                 else
@@ -575,12 +575,12 @@ function plugin.on_settings(ui)
             end
 
             if ui.button("Match Window") then
-                local rect = safe(function() return hebnix.rocket_league_window_rect() end, nil)
+                local rect = safe(function() return kingmod.rocket_league_window_rect() end, nil)
                 if rect then
                     local w = rect.right - rect.left
                     local h = rect.bottom - rect.top
                     if w > 0 and h > 0 then
-                        hebnix.set("disp_res_x", w); hebnix.set("disp_res_y", h)
+                        kingmod.set("disp_res_x", w); kingmod.set("disp_res_y", h)
                         set_status("Matched RL window: " .. w .. "x" .. h, "#55ff88")
                     else
                         set_status("ERROR: Invalid window rect.", "#ff5555")
@@ -619,7 +619,7 @@ function plugin.on_settings(ui)
 end
 
 function plugin.on_unload()
-    hebnix.log("Unloaded.")
+    kingmod.log("Unloaded.")
 end
 
 return plugin
