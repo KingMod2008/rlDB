@@ -1,0 +1,5 @@
+name = "Save Inspector"
+author = "Harry"
+version = "1.0.0"
+entry = "main.lua"
+plugin_id = "6cd37ef9180055b456597dd18d5feb45"

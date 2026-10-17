@@ -1,0 +1,5 @@
+name = "Crossbar Sounds"
+author = "Hebbins"
+version = "1.0.3"
+entry = "main.lua"
+plugin_id = "4432b4346e2487f185a06557bc606471"

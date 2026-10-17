@@ -1,0 +1,8 @@
+disp_borderless = true
+disp_fullscreen = false
+disp_initialized = 1.0
+disp_res_x = 1920.0
+disp_res_y = 1080.0
+disp_screen_pct = 100.0
+last_selected_display = "Original  (original.ini)"
+preset_display = "Original  (original.ini)"

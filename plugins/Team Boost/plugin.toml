@@ -1,0 +1,5 @@
+name = "Team Boost"
+author = "Hebbins"
+version = "1.0.0"
+entry = "main.lua"
+plugin_id = "fcf92c16ded25ea4ec7b1954c0db4308"

@@ -1,0 +1,5 @@
+name = "Ball Speed"
+author = "Hebbins"
+version = "1.0.1"
+entry = "main.lua"
+plugin_id = "346e790b3d503fbb57e00c276d47abd6"

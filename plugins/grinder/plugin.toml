@@ -1,0 +1,5 @@
+name = "Grinder"
+author = "nixvio64"
+version = "1.0.1"
+entry = "main.lua"
+plugin_id = "0731f899d71bf60f64e932fbbd1c300d"

@@ -1,0 +1,5 @@
+name = "FPS Booster"
+author = "EightiesL"
+version = "3.1.1"
+entry = "main.lua"
+plugin_id = "e36c48803083c9e5558416a220b5105c"

@@ -1,0 +1,6 @@
+plugin_id = "701e6709abfb0a929266b03214da3094"
+
+name = "PfpOverlayV2"
+author = "xplodingeggo"
+version = "3.0.1"
+entry = "main.lua"

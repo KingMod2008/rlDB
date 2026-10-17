@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="post-match-analysis.css">
+</head>
+<body>
+  <button id="launcher">Open Post Match Analysis</button>
+  <section id="panel" class="hidden">
+    <header><h1>Post Match Analysis</h1><span class="subtitle">last 10 matches</span><button id="close">×</button></header>
+    <div class="toolbar">
+      <button id="scoreboard-tab" class="tab active">Scoreboard</button>
+      <button id="overview-tab" class="tab">Overview</button>
+      <button id="timeline-tab" class="tab">Timeline</button>
+      <button id="ratios-tab" class="tab">Players</button>
+      <button id="teams-tab" class="tab">Teams</button>
+      <button id="form-tab" class="tab">Form</button>
+      <div class="match-nav"><span id="match-position">Match 0 of 0</span><button class="nav" title="Newer match">‹</button><button class="nav" title="Previous match">›</button></div>
+    </div>
+    <main>
+      <div id="empty"><strong>Play a match to see data</strong>Your latest matches will appear here.</div>
+      <div id="content" class="hidden"><div id="match-heading" class="match-heading"></div><div id="scoreboard" class="scoreboard-view"></div><div id="overview" class="dashboard-grid hidden"></div><div id="timeline-shell" class="timeline-shell hidden"><button id="timeline-left" class="timeline-scroll left" aria-label="Scroll timeline left">‹</button><div id="timeline" class="timeline"></div><button id="timeline-right" class="timeline-scroll right" aria-label="Scroll timeline right">›</button></div><div id="ratios" class="ratio-grid hidden"></div><div id="teams" class="dashboard-grid hidden"></div><div id="form" class="dashboard-grid hidden"></div></div>
+    </main>
+    <div id="analysis-hint" class="hidden"><div>Scroll down for more analysis</div><div class="hint-arrows"><span>⌄</span><span>⌄</span><span>⌄</span></div></div>
+  </section>
+  <script src="post-match-analysis.js?v=local-platform-id-1"></script>
+</body>
+</html>

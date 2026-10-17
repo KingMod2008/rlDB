@@ -1,0 +1,6 @@
+plugin_id = "45f1bfe9f13595264b950e9ea99dd489"
+
+name = "Window Widget"
+author = "sphere_rl"
+version = "1.0.0"
+entry = "main.lua"
