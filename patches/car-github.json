@@ -1,0 +1,58 @@
+[
+  {
+    "id": "400",
+    "type": "Car",
+    "user_id": "0",
+    "name": "Mitsubishi Lancer Evolution",
+    "short_description": "Custom Mitsubishi Lancer Evo replacing the Endo.",
+    "banner_path": "patches/cars/400/banner_path.png",
+    "download_count": "8",
+    "category": "Utility",
+    "created_at": "2026-10-11 10:38:27",
+    "version_number": "1.0.0",
+    "long_description": "Uses hybrid hitbox. Paintable ingame (ty tadpole). TokyoDrift and NFS-MW decals can be found when clicking on the collection. This car has been fully created by me. If you have any questions/requests or whatever, lmk on my socials: bio.link/byhurricane",
+    "file_path": "patches/cars/400/patch.zip",
+    "updated_at": "2026-10-11 10:38:32",
+    "author": "Hurricane",
+    "author_avatar": "/auth/img/hebnix.png",
+    "rating": "0.0000",
+    "review_count": "0",
+    "thumbnail_path": "patches/cars/400/thumbnail_path.png",
+    "preview_images": [
+      {
+        "name": "Evo Back",
+        "path": "patches/cars/400/preview-0.png"
+      }
+    ],
+    "is_pack": false,
+    "sha256": "6872b7316d7a944906d702acc07b68a263f7637e3b66e94380aefe09c765396c"
+  },
+  {
+    "id": "399",
+    "type": "Car",
+    "user_id": "0",
+    "name": "AE86",
+    "short_description": "Initial D - AE86",
+    "banner_path": "patches/cars/399/banner_path.png",
+    "download_count": "6",
+    "category": "Utility",
+    "created_at": "2026-10-11 10:35:14",
+    "version_number": "1.0.0",
+    "long_description": "",
+    "file_path": "patches/cars/399/patch.zip",
+    "updated_at": "2026-10-11 10:35:15",
+    "author": "tadpole",
+    "author_avatar": "/auth/img/hebnix.png",
+    "rating": "0.0000",
+    "review_count": "0",
+    "thumbnail_path": "patches/cars/399/thumbnail_path.png",
+    "preview_images": [
+      {
+        "name": "AE86 Back",
+        "path": "patches/cars/399/preview-0.png"
+      }
+    ],
+    "is_pack": false,
+    "sha256": "e99813ec8a2ef943bb7433a48776f0c3ec4a1273d0a2f186fb5c2e5e608dbdb1"
+  }
+]

@@ -1,0 +1,1462 @@
+[
+    {
+        "name":  "Ball Speed",
+        "files":  [
+                      {
+                          "path":  "plugins/BallSpeed/main.lua",
+                          "sha256":  "351afb1725c321c952ebb329d3aca4abbab3bc9a5624e369ab556c0036c4b8e8",
+                          "bytes":  5885
+                      },
+                      {
+                          "path":  "plugins/BallSpeed/plugin.toml",
+                          "sha256":  "7643f1ec4631562abf50a042b53596b12aafccf5e7d5ae626a35f58d2f69f4f9",
+                          "bytes":  126
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.1",
+        "plugin_id":  "BallSpeed",
+        "folder":  "plugins/BallSpeed"
+    },
+    {
+        "name":  "Controller Overlay",
+        "files":  [
+                      {
+                          "path":  "plugins/Controller Overlay/main.lua",
+                          "sha256":  "86f1bce7f87e602d2ecb6a939fb79110de70197e4743ebdbab8ad16f170dc499",
+                          "bytes":  1719
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/plugin.toml",
+                          "sha256":  "3db740bb1a8d88cfe036c10add566d75705312b187f54137c253c66a9c5de439",
+                          "bytes":  131
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/controller-v4.css",
+                          "sha256":  "9feff7c9cae8eed4bc56153dacde223cf3f6ba75162daae1f2431dc58be23bc7",
+                          "bytes":  6290
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/controller.css",
+                          "sha256":  "9feff7c9cae8eed4bc56153dacde223cf3f6ba75162daae1f2431dc58be23bc7",
+                          "bytes":  6290
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/hud-v4.html",
+                          "sha256":  "6700de02c6a65c148cb8aea8c0c785db810182ec545d7d9a8380ad28b7591706",
+                          "bytes":  5578
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/ps4-assets/base.svg",
+                          "sha256":  "98ef05e60d3a09c597cffa2ff3459ae111afc9b60e1084c97d2a99277dcf2941",
+                          "bytes":  25848
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/ps4-assets/bumper.svg",
+                          "sha256":  "48d604681335c13db0c21f562d41d978fd9199493c39c5c3449149e7abcf36c8",
+                          "bytes":  581
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/ps4-assets/dpad.svg",
+                          "sha256":  "1e3ac1d781004df499254287ff567bbb16391d5051b30a080bb22e044f803368",
+                          "bytes":  4081
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/ps4-assets/face.svg",
+                          "sha256":  "123136b13e57e0de80b093eba6a21a213b399946b5d0e7a0900f4f4158fb21f8",
+                          "bytes":  4168
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/ps4-assets/meta.svg",
+                          "sha256":  "4d2e62193f6a94cb6ff242ea89a84a7d8691c3a8d82d1b6d6c295da2719e0b34",
+                          "bytes":  1493
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/ps4-assets/start.svg",
+                          "sha256":  "6b382272d275f6850a08010bc5cc79e76e4b97bc2cc4de4f7e82cc43e0e6e094",
+                          "bytes":  613
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/ps4-assets/sticks.svg",
+                          "sha256":  "261c9f9567211f5960ea81972c54e0ecd6979d016b534b5a52ecbf1a93199e1b",
+                          "bytes":  2261
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/ps4-assets/touchpad.svg",
+                          "sha256":  "9bdbe6679e072169017ba896a3e4eb76ca83a1bdc618ae820809b3ffb9fc9738",
+                          "bytes":  1594
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/ps4-assets/triggers.svg",
+                          "sha256":  "91eb483223a4bef37f5442fcd4a9eaf7adf02aefbcd951fa7ad4ba5dbec026d1",
+                          "bytes":  2226
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/xbox-assets/abxy.svg",
+                          "sha256":  "041683a1ad01e31e368fa6ba049a6321728bd5b5d32deec097cc17b5371e8820",
+                          "bytes":  4650
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/xbox-assets/base.svg",
+                          "sha256":  "de4d1bd9031c53d16faa29aa2ab9d79e21ff366052e21a15a85ec3cafcd74bbf",
+                          "bytes":  20184
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/xbox-assets/bumper.svg",
+                          "sha256":  "a7caae78530fe3c3fd6d8ec1a363d41b0f8d7b6cade3ca847d59e4383fb1dc20",
+                          "bytes":  1667
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/xbox-assets/dpad.svg",
+                          "sha256":  "3ebe688efcd79695b7b84bb51c8ab4f7461e5012a57dd4808d65c7af2567a8c5",
+                          "bytes":  4471
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/xbox-assets/quadrant.svg",
+                          "sha256":  "fb3c3ac82bf7d3410ad965d81dadf3154e7baea478498eb7ef800d7cef70590f",
+                          "bytes":  2308
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/xbox-assets/start-select.svg",
+                          "sha256":  "2074c4bc9f5909e892fa9a8467e4d7289fc6fab8046589e187cac33cc32a7274",
+                          "bytes":  1150
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/xbox-assets/stick.svg",
+                          "sha256":  "c07ab2e48066c33939678e35938045424023c53340d6d3dea0bffc698690b0e2",
+                          "bytes":  14313
+                      },
+                      {
+                          "path":  "plugins/Controller Overlay/assets/xbox-assets/trigger.svg",
+                          "sha256":  "d10ab5a769e147fec959fa2f05ab9c52993eeaebddeb05150d24f8e1b3232328",
+                          "bytes":  807
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.0",
+        "plugin_id":  "Controller Overlay",
+        "folder":  "plugins/Controller Overlay"
+    },
+    {
+        "name":  "Crossbar Sounds",
+        "files":  [
+                      {
+                          "path":  "plugins/Custom Crossbar Sounds/main.lua",
+                          "sha256":  "c17bf3a841e93172feef830d0f8811dc001bb17cbbe0f8af85065d26bb6cd0bf",
+                          "bytes":  3440
+                      },
+                      {
+                          "path":  "plugins/Custom Crossbar Sounds/plugin.toml",
+                          "sha256":  "74f1b65ea617b2b4931d613d7746d3b91a406faca47a9e60c96aa69cc6641bad",
+                          "bytes":  131
+                      },
+                      {
+                          "path":  "plugins/Custom Crossbar Sounds/assets/jixaw-metal-pipe-falling-sound.mp3",
+                          "sha256":  "cf1568639d5c99f8d576138c92e5e39fc8e0835c62418a2032edce2b459e2223",
+                          "bytes":  51662
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.3",
+        "plugin_id":  "Custom Crossbar Sounds",
+        "folder":  "plugins/Custom Crossbar Sounds"
+    },
+    {
+        "name":  "Event Viewer",
+        "files":  [
+                      {
+                          "path":  "plugins/Event Viewer/main.lua",
+                          "sha256":  "f98b30f9318ad963c966025e369fcae6eac7369393d9ab37c3320d8a05dab3d3",
+                          "bytes":  5022
+                      },
+                      {
+                          "path":  "plugins/Event Viewer/plugin.toml",
+                          "sha256":  "92d7fc69e0d5e7c2f26eb24b9ff4113929bb8b82bc483d3b15a1002c5765d994",
+                          "bytes":  125
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.0",
+        "plugin_id":  "Event Viewer",
+        "folder":  "plugins/Event Viewer"
+    },
+    {
+        "name":  "FPS Booster",
+        "files":  [
+                      {
+                          "path":  "plugins/FPSBooster/main.lua",
+                          "sha256":  "f1c4ab789b01ea2224be2761cd3db4ad43a45ae5426e616b101d70bf25d26b6f",
+                          "bytes":  24387
+                      },
+                      {
+                          "path":  "plugins/FPSBooster/plugin.toml",
+                          "sha256":  "c8fe29bccc00dfb3b27fa1d65c4b00462273f6cd749a6d779eac57a036a95cca",
+                          "bytes":  129
+                      },
+                      {
+                          "path":  "plugins/FPSBooster/ReadME.MD",
+                          "sha256":  "d18134fb50c455e36019690c051e8d05274c7d2305630409975cc4dd08b04268",
+                          "bytes":  1227
+                      },
+                      {
+                          "path":  "plugins/FPSBooster/assets/BrightFPS.ini",
+                          "sha256":  "252407ca7762463741dd1d0016407d0fdd324afb7dd16cd79593ad843158e700",
+                          "bytes":  10245
+                      },
+                      {
+                          "path":  "plugins/FPSBooster/assets/Cinematic.ini",
+                          "sha256":  "38e8e6dc2016873ba7f19bf956632a5b15f463eaf63393e19d89198c11fe0dd1",
+                          "bytes":  10260
+                      },
+                      {
+                          "path":  "plugins/FPSBooster/assets/DarkFPS.ini",
+                          "sha256":  "078ea01628481ea211555073527c8e2d5a4732bf290c67d01848361500dec0bb",
+                          "bytes":  31631
+                      },
+                      {
+                          "path":  "plugins/FPSBooster/assets/ExtremeFPS.ini",
+                          "sha256":  "53ca0e1ce6ca2be8e8e3b98f7c692be0e9e4da0b60f974bf18a27e8fd34e7465",
+                          "bytes":  31628
+                      },
+                      {
+                          "path":  "plugins/FPSBooster/assets/original.ini",
+                          "sha256":  "f25d5511b8ea464d8830dc39dbf0481cbbceae01407e7f72c885fc8dbe118269",
+                          "bytes":  31629
+                      },
+                      {
+                          "path":  "plugins/FPSBooster/assets/Vibrant.ini",
+                          "sha256":  "672816906d007a6384bc5e77c06d7adbd4ba1b8b1ef40fcb404a7c58a48a58bd",
+                          "bytes":  10276
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "3.1.1",
+        "plugin_id":  "FPSBooster",
+        "folder":  "plugins/FPSBooster"
+    },
+    {
+        "name":  "Grinder",
+        "files":  [
+                      {
+                          "path":  "plugins/grinder/main.lua",
+                          "sha256":  "8f026e5e1935e0401b30c81595b830869abb15fd29af1e0e826bf7c745c62666",
+                          "bytes":  17855
+                      },
+                      {
+                          "path":  "plugins/grinder/plugin.toml",
+                          "sha256":  "fe2d18f1f83ef8cb820edb31e4f2284872644343c046245b4ba110ae9666cac2",
+                          "bytes":  124
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/divisions/0.png",
+                          "sha256":  "9c2cd84f1c439b98ea97b45357b7ec59e20b114409beef914bc6ce82d6d4b39e",
+                          "bytes":  1972
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/divisions/1.png",
+                          "sha256":  "137449adcf5f357edfb838358eba5e7480c2fddcf250eb0a7d9fc1210781fcd7",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/divisions/2.png",
+                          "sha256":  "914793fbdc768f6c744c223458847c96bcbcd39ae93f0ba0a87f3f1959c145dc",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/divisions/3.png",
+                          "sha256":  "c0f56e90f0f179ea02f161b1e1be702211155c16146baf8eb18c3bd48df91228",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/divisions/4.png",
+                          "sha256":  "ffa6148bcdb769e1d2a5e5bfdfd73b9154e6b4509f802cf2247b6bff47f83ad7",
+                          "bytes":  16538
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/divisions/5.png",
+                          "sha256":  "3b25bae3a84d51a7a1fafe04f38f8b4d5556b2e30daf44c3760d696a0855825b",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/divisions/6.png",
+                          "sha256":  "8d0049ef5d63d453fe079564cff748b12fc8254734be247a8a1c82945e1db7ca",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/divisions/7.png",
+                          "sha256":  "954983d5529551224f0ee8adbaa96d7418311be458035eb5ca9276cbaa8e4b7a",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/0.png",
+                          "sha256":  "0318508de8f807b9721a857a42c5a882f495f4611ab4ddba310706c58246a317",
+                          "bytes":  7274
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/1.png",
+                          "sha256":  "7d7cb6184a5029919f3029719466402667f41b2c0df212371fc87a4375e4bd5c",
+                          "bytes":  11844
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/10.png",
+                          "sha256":  "7a22d48a732ca7ccd8fc07d55e5d9e2594c7e7cd4bb27d4c207805d269773960",
+                          "bytes":  14064
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/11.png",
+                          "sha256":  "845914b63115d889da0de069d21620654a4b42820eb1d7857c0780e8b6308c29",
+                          "bytes":  14234
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/12.png",
+                          "sha256":  "e4af230febeae54b0499a6d89a0284224220dd5f2639468b3ea463243c528cfb",
+                          "bytes":  14629
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/13.png",
+                          "sha256":  "b64ae8fb00f5fcac3d655ed11d8e3d5d6b3e669c3f41e5a9314a78de11ea62a0",
+                          "bytes":  13425
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/14.png",
+                          "sha256":  "c24d643c9a8fe57b519cd5a3df703509c88c0eaa762f7af18049e6ba6809707b",
+                          "bytes":  15428
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/15.png",
+                          "sha256":  "4f02e323c35be7125f33c3514f38c3a7641bca837261b3e4af1df3a78112bf0e",
+                          "bytes":  15610
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/16.png",
+                          "sha256":  "03bbe495d9208f758e7592c6a1336b94599b08af5ef865cac7cd5c2a08709f5f",
+                          "bytes":  14058
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/17.png",
+                          "sha256":  "c611e47a29d4e5b1799e85fc7f5ed4fb1f8041d0ca9da943597386277ab70901",
+                          "bytes":  16839
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/18.png",
+                          "sha256":  "fe07e7b68455ec6ec35141744bf155db323aa8df2ee2d2172ac078ad955a7323",
+                          "bytes":  18261
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/19.png",
+                          "sha256":  "3732d350ba9ade7aa0acbfc1411dfbdac33058161142944788278f5c396e23a7",
+                          "bytes":  14565
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/2.png",
+                          "sha256":  "35ee3a9cfe5fac278a749526b69795d6c9a49f9afd81ee9c6dc0617cf87dad26",
+                          "bytes":  13444
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/20.png",
+                          "sha256":  "965dba1860aaf8421fc4f927584936029f5ed74140f243a6e138af4b6195e437",
+                          "bytes":  15820
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/21.png",
+                          "sha256":  "a615a1c6e3cb187d37beb9e819c438b2bb421726f00bb6dce5e96710c11b0c6f",
+                          "bytes":  17078
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/22.png",
+                          "sha256":  "b4c4ac982a5b9b92762c7201822b782d6d5ebeb944df437f17401c7a529fc287",
+                          "bytes":  9181
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/23.png",
+                          "sha256":  "0415fe382eaae788a70f53bdfbd8a1a379883ebee191d8cb956660537a1096d2",
+                          "bytes":  2857
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/3.png",
+                          "sha256":  "dfee7958a24a4ad46607eb202fe8ac7be0225196a93009687441f24f8cbdfc10",
+                          "bytes":  11954
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/4.png",
+                          "sha256":  "1db419cbe062f4ecd01ba17992b435c3797e955bfae39234911d5a848dfd0076",
+                          "bytes":  10170
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/5.png",
+                          "sha256":  "234a2d47fa55904172bea867a1c23bb3a8fc33565a846c7ea3c2f25b6226b4ea",
+                          "bytes":  12546
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/6.png",
+                          "sha256":  "4c0b689a8f7dc92ce5f7fea9634e2b6af1c7f87ce0a9acaac5e32ddfd72a9016",
+                          "bytes":  13650
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/7.png",
+                          "sha256":  "9b6800dab8366da67686aa79f75d20b1fcc59029d20a3261a8c787bb78c9801c",
+                          "bytes":  9065
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/8.png",
+                          "sha256":  "6ba13898544081d17ff93f279580655955ddbdc4813f414de73cf2f74ef6e218",
+                          "bytes":  12947
+                      },
+                      {
+                          "path":  "plugins/grinder/assets/tiers/9.png",
+                          "sha256":  "1cb497562451e61002a8620bc66d340bfcf535dfef98de2c1d29b2a7c9f2eefb",
+                          "bytes":  13719
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.1",
+        "plugin_id":  "grinder",
+        "folder":  "plugins/grinder"
+    },
+    {
+        "name":  "Heatseeker Utils",
+        "files":  [
+                      {
+                          "path":  "plugins/HeatseekerUtils/main.lua",
+                          "sha256":  "8730b08d33d9bdb9784e60f8cc9290a6311571aadb66958f949addb067654e65",
+                          "bytes":  14836
+                      },
+                      {
+                          "path":  "plugins/HeatseekerUtils/plugin.toml",
+                          "sha256":  "fb96bdf20ebca5c242378abf46f33bc0951f04cad94bb82f8a46996ec1479113",
+                          "bytes":  132
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.3",
+        "plugin_id":  "HeatseekerUtils",
+        "folder":  "plugins/HeatseekerUtils"
+    },
+    {
+        "name":  "Hebs HUD",
+        "files":  [
+                      {
+                          "path":  "plugins/Hebs HUD/main.lua",
+                          "sha256":  "c08073a97409a48d276dc5e9577793f45bfdb8192a93667ed71b074cb03cd959",
+                          "bytes":  15922
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/plugin.toml",
+                          "sha256":  "24b3d83adf4aa6c4609604a9953b430f71f8e39438da21997bb12882b6b593d6",
+                          "bytes":  121
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/0.png",
+                          "sha256":  "4896907af237377fb8e4d104fa323ecd21bcbf25c37a4b23eb69ebd4453817e3",
+                          "bytes":  13719
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/1.png",
+                          "sha256":  "a2b000c1359212ec64f9832b2ebb060721a8f15afe62a8209db28f81661e46da",
+                          "bytes":  31741
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/10.png",
+                          "sha256":  "990e63c9eeddd8a9f388ea56922e741debc871188cf4eb7a7282c7912d88907f",
+                          "bytes":  53521
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/11.png",
+                          "sha256":  "48ba0af20609d28d5e42a0f3bd010e211af4f29b3817b98535cc36327a6a074a",
+                          "bytes":  57475
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/12.png",
+                          "sha256":  "2d9f1c8ca1307d331b89f69809c2e11b829f3b4e402551150cf09fb70c44d186",
+                          "bytes":  56907
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/13.png",
+                          "sha256":  "acaee77baa48e30e742c6bb77b01a8a889f7f7a8b846b10364906f40f64e7d98",
+                          "bytes":  31308
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/14.png",
+                          "sha256":  "c39971f874b74d46d0af66cbcc17101bab8bb6922a7996d8ca88892ad1f9fb5b",
+                          "bytes":  35975
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/15.png",
+                          "sha256":  "af47450492610f2c6505142a830c97dc72e63aa64b8e0b1e02d62dbb05d2ed7c",
+                          "bytes":  39113
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/16.png",
+                          "sha256":  "b9464521c9b0523df44decee2a272e6b472c164093a6cc4051e9e31023827daa",
+                          "bytes":  28492
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/17.png",
+                          "sha256":  "edc2b7799a0845d7c57a7e606d0bf06fae61830ca720c74eb7d7c2b021468346",
+                          "bytes":  28930
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/18.png",
+                          "sha256":  "e080105e4e5d3d25289a0b3d4219b0f7f13909c61d90d1ee231b7a35b4cfb979",
+                          "bytes":  42645
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/19.png",
+                          "sha256":  "81aaf14427c5cc06549b45ccb54b9a5985bec2d473d103131905915d8d0c7de2",
+                          "bytes":  17504
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/2.png",
+                          "sha256":  "ca76e28ae744d46d4fcd08d783c293f33798b5f845873ba01befe3c3065c132f",
+                          "bytes":  33591
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/20.png",
+                          "sha256":  "915e32972f28cd29d73644036439015445c36376be9a450a03780af370ebc4e6",
+                          "bytes":  45415
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/21.png",
+                          "sha256":  "9b9c7e50cfcfe0bab4e6cd3942acedf67bad6cb84682edc6f814d605acde26ba",
+                          "bytes":  24855
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/22.png",
+                          "sha256":  "b02c75d76a2fa107ae6ba6cbc8ed97151e849f33ab2a6378fe65633d74a5e6fd",
+                          "bytes":  23609
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/3.png",
+                          "sha256":  "a68ac53d085f35b55251755029c921aa432e9b95f95be1c2baf7599732eaad23",
+                          "bytes":  35029
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/4.png",
+                          "sha256":  "d633ec2d17d378331b07145da2a588120a622cb29b050f23dae1b0064fb89a8e",
+                          "bytes":  26555
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/5.png",
+                          "sha256":  "9224e5ce5c6fa8b27c1ef422695236e3fd2cbcc9473499f2741ba107579656a8",
+                          "bytes":  30744
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/6.png",
+                          "sha256":  "06834cc3c9941ec2e036ba1e0c84a73bfba5f7f5c8731b240f20d6134fbf09ad",
+                          "bytes":  33939
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/7.png",
+                          "sha256":  "b38d44144960f50d8190a1d9d8d6035b343051567b83e41d23df811d9b574838",
+                          "bytes":  35267
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/8.png",
+                          "sha256":  "762499a405dbc44207f84f59c4480bcfdf471faa23c5e88139bfc46c2ef68cad",
+                          "bytes":  42235
+                      },
+                      {
+                          "path":  "plugins/Hebs HUD/assets/ranks/9.png",
+                          "sha256":  "0ed1eb7cab0719f98e765cbac512005652c9f26240d9f76e97d47bf721ae1473",
+                          "bytes":  45961
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.2",
+        "plugin_id":  "Hebs HUD",
+        "folder":  "plugins/Hebs HUD"
+    },
+    {
+        "name":  "InGameRank",
+        "files":  [
+                      {
+                          "path":  "plugins/ingame_rank/main.lua",
+                          "sha256":  "22f9569eb54d0b2865d2d5f95af0e7d306ab9c40553a91db2d5621dabc4917a7",
+                          "bytes":  32177
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/plugin.toml",
+                          "sha256":  "796ea974e5a72911d04714eb81143196155003b9b225a044511895c782f55070",
+                          "bytes":  127
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/divisions/0.png",
+                          "sha256":  "9c2cd84f1c439b98ea97b45357b7ec59e20b114409beef914bc6ce82d6d4b39e",
+                          "bytes":  1972
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/divisions/1.png",
+                          "sha256":  "137449adcf5f357edfb838358eba5e7480c2fddcf250eb0a7d9fc1210781fcd7",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/divisions/2.png",
+                          "sha256":  "914793fbdc768f6c744c223458847c96bcbcd39ae93f0ba0a87f3f1959c145dc",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/divisions/3.png",
+                          "sha256":  "c0f56e90f0f179ea02f161b1e1be702211155c16146baf8eb18c3bd48df91228",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/divisions/4.png",
+                          "sha256":  "ffa6148bcdb769e1d2a5e5bfdfd73b9154e6b4509f802cf2247b6bff47f83ad7",
+                          "bytes":  16538
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/divisions/5.png",
+                          "sha256":  "3b25bae3a84d51a7a1fafe04f38f8b4d5556b2e30daf44c3760d696a0855825b",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/divisions/6.png",
+                          "sha256":  "8d0049ef5d63d453fe079564cff748b12fc8254734be247a8a1c82945e1db7ca",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/divisions/7.png",
+                          "sha256":  "954983d5529551224f0ee8adbaa96d7418311be458035eb5ca9276cbaa8e4b7a",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/playlists/0.png",
+                          "sha256":  "1721a5ed18d5d6038ba35e9244cbc3f8531c9e4abaf1d111b8739ff51648ba22",
+                          "bytes":  14650
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/playlists/1.png",
+                          "sha256":  "bc34b97a67ef0f1993e4c835feb1873412d9b7f5402e0492f525939c10d4356e",
+                          "bytes":  14868
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/playlists/2.png",
+                          "sha256":  "25b8ee1df3c9ab77c939f1ebc03004d41a3dc0afdfffec7a26515a003f815d64",
+                          "bytes":  15127
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/playlists/3.png",
+                          "sha256":  "3e02e0054257c23305771bc7e414b7f8a978ba76e4177002eee0815a872e4e25",
+                          "bytes":  15625
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/playlists/4.png",
+                          "sha256":  "8f65521428e1d7a01d294c70f2d6cdb6d6a70334471ed68cb9eeff2a8cd6f68f",
+                          "bytes":  16160
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/playlists/5.png",
+                          "sha256":  "396ad5937e2f3fe6414807f210a2b18cc22f71ceefb68ec4ff7bb177a416dd01",
+                          "bytes":  18938
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/playlists/6.png",
+                          "sha256":  "b3b2b430dcaa22eaa33ecd823681add7a836e34d3388ae8d70d59892b90b2fc3",
+                          "bytes":  13758
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/playlists/7.png",
+                          "sha256":  "202ec69e2b87581774c7b8219fd0e7de94c009386d0f7ad4c646ebe3dec41a48",
+                          "bytes":  16566
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/playlists/8.png",
+                          "sha256":  "848e04aa2daa934e612895c3527a7ee37d78d0f192e29fb6bf52e86731c5f8aa",
+                          "bytes":  40352
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/playlists/9.png",
+                          "sha256":  "a0ace495baa0c41ecbe9a99146a93fb0203738bc8f9f8d97e2cb1469558f8c9f",
+                          "bytes":  40352
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/0.png",
+                          "sha256":  "0318508de8f807b9721a857a42c5a882f495f4611ab4ddba310706c58246a317",
+                          "bytes":  7274
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/1.png",
+                          "sha256":  "7d7cb6184a5029919f3029719466402667f41b2c0df212371fc87a4375e4bd5c",
+                          "bytes":  11844
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/10.png",
+                          "sha256":  "7a22d48a732ca7ccd8fc07d55e5d9e2594c7e7cd4bb27d4c207805d269773960",
+                          "bytes":  14064
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/11.png",
+                          "sha256":  "845914b63115d889da0de069d21620654a4b42820eb1d7857c0780e8b6308c29",
+                          "bytes":  14234
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/12.png",
+                          "sha256":  "e4af230febeae54b0499a6d89a0284224220dd5f2639468b3ea463243c528cfb",
+                          "bytes":  14629
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/13.png",
+                          "sha256":  "b64ae8fb00f5fcac3d655ed11d8e3d5d6b3e669c3f41e5a9314a78de11ea62a0",
+                          "bytes":  13425
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/14.png",
+                          "sha256":  "c24d643c9a8fe57b519cd5a3df703509c88c0eaa762f7af18049e6ba6809707b",
+                          "bytes":  15428
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/15.png",
+                          "sha256":  "4f02e323c35be7125f33c3514f38c3a7641bca837261b3e4af1df3a78112bf0e",
+                          "bytes":  15610
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/16.png",
+                          "sha256":  "03bbe495d9208f758e7592c6a1336b94599b08af5ef865cac7cd5c2a08709f5f",
+                          "bytes":  14058
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/17.png",
+                          "sha256":  "c611e47a29d4e5b1799e85fc7f5ed4fb1f8041d0ca9da943597386277ab70901",
+                          "bytes":  16839
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/18.png",
+                          "sha256":  "fe07e7b68455ec6ec35141744bf155db323aa8df2ee2d2172ac078ad955a7323",
+                          "bytes":  18261
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/19.png",
+                          "sha256":  "3732d350ba9ade7aa0acbfc1411dfbdac33058161142944788278f5c396e23a7",
+                          "bytes":  14565
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/2.png",
+                          "sha256":  "35ee3a9cfe5fac278a749526b69795d6c9a49f9afd81ee9c6dc0617cf87dad26",
+                          "bytes":  13444
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/20.png",
+                          "sha256":  "965dba1860aaf8421fc4f927584936029f5ed74140f243a6e138af4b6195e437",
+                          "bytes":  15820
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/21.png",
+                          "sha256":  "a615a1c6e3cb187d37beb9e819c438b2bb421726f00bb6dce5e96710c11b0c6f",
+                          "bytes":  17078
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/22.png",
+                          "sha256":  "b4c4ac982a5b9b92762c7201822b782d6d5ebeb944df437f17401c7a529fc287",
+                          "bytes":  9181
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/23.png",
+                          "sha256":  "0415fe382eaae788a70f53bdfbd8a1a379883ebee191d8cb956660537a1096d2",
+                          "bytes":  2857
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/3.png",
+                          "sha256":  "dfee7958a24a4ad46607eb202fe8ac7be0225196a93009687441f24f8cbdfc10",
+                          "bytes":  11954
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/4.png",
+                          "sha256":  "1db419cbe062f4ecd01ba17992b435c3797e955bfae39234911d5a848dfd0076",
+                          "bytes":  10170
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/5.png",
+                          "sha256":  "234a2d47fa55904172bea867a1c23bb3a8fc33565a846c7ea3c2f25b6226b4ea",
+                          "bytes":  12546
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/6.png",
+                          "sha256":  "4c0b689a8f7dc92ce5f7fea9634e2b6af1c7f87ce0a9acaac5e32ddfd72a9016",
+                          "bytes":  13650
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/7.png",
+                          "sha256":  "9b6800dab8366da67686aa79f75d20b1fcc59029d20a3261a8c787bb78c9801c",
+                          "bytes":  9065
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/8.png",
+                          "sha256":  "6ba13898544081d17ff93f279580655955ddbdc4813f414de73cf2f74ef6e218",
+                          "bytes":  12947
+                      },
+                      {
+                          "path":  "plugins/ingame_rank/assets/tiers/9.png",
+                          "sha256":  "1cb497562451e61002a8620bc66d340bfcf535dfef98de2c1d29b2a7c9f2eefb",
+                          "bytes":  13719
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "4.0.1",
+        "plugin_id":  "ingame_rank",
+        "folder":  "plugins/ingame_rank"
+    },
+    {
+        "name":  "Media Overlay",
+        "files":  [
+                      {
+                          "path":  "plugins/media_overlay/main.lua",
+                          "sha256":  "1595adfe0158c5cbbd885e9fb66e8d0e5aa09c5111ef3b3f2115f1cbc27a79b1",
+                          "bytes":  62248
+                      },
+                      {
+                          "path":  "plugins/media_overlay/plugin.toml",
+                          "sha256":  "4a792be9232d33c20b4c866a547081a7957345731135390bbf9b1e299d8786dd",
+                          "bytes":  265
+                      },
+                      {
+                          "path":  "plugins/media_overlay/assets/lyrics/a.txt",
+                          "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                          "bytes":  0
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.2",
+        "plugin_id":  "media_overlay",
+        "folder":  "plugins/media_overlay"
+    },
+    {
+        "name":  "PfpOverlayV2",
+        "files":  [
+                      {
+                          "path":  "plugins/PfpOverlayV2/main.lua",
+                          "sha256":  "7f3b6d12e217aad9b084822a1d161e4010bbf50a4c352a036d2ca17344d07df1",
+                          "bytes":  109521
+                      },
+                      {
+                          "path":  "plugins/PfpOverlayV2/plugin.toml",
+                          "sha256":  "42f003886deba5ef0cf06d75d16fb692820a96057d815638c825dfb70a16e81d",
+                          "bytes":  131
+                      },
+                      {
+                          "path":  "plugins/PfpOverlayV2/assets/cache/hi.txt",
+                          "sha256":  "314d513305494e451f46521a149b212897327a761bbbe04d03ab9127c16f983a",
+                          "bytes":  10
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "3.0.1",
+        "plugin_id":  "PfpOverlayV2",
+        "folder":  "plugins/PfpOverlayV2"
+    },
+    {
+        "name":  "Platform Display",
+        "files":  [
+                      {
+                          "path":  "plugins/PlatformDisplay/main.lua",
+                          "sha256":  "7c3d961587e0e1b91c64fd3def08601c05c62cd9d8b86a792173ea11139dd5b5",
+                          "bytes":  16941
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/plugin.toml",
+                          "sha256":  "48c066ab099733da6965d0ff512079c1fef13dfccffee73717b825b71b3c2259",
+                          "bytes":  132
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/circle/0.png",
+                          "sha256":  "086302320712edaaa053e65c4ba5cdea476520e2719de93aa5a127d79b2a54a6",
+                          "bytes":  822
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/circle/1.png",
+                          "sha256":  "564a58a60257cca3b282c24b26d5f5dca2760f87d4ecc492af5e1d5ce65a970e",
+                          "bytes":  1086
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/circle/2.png",
+                          "sha256":  "f5b89922d2bab664c4e58f06b58e1a1dfbbbcab65eab45a39c394c0178465432",
+                          "bytes":  945
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/circle/3.png",
+                          "sha256":  "0944a9c919909b0c67cfece79692db374d2af371474388c12cc670a91d480cac",
+                          "bytes":  986
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/circle/4.png",
+                          "sha256":  "acbec04872afd207ae5838eb891ec36acccd830abbe56bc32ebb2f468c42f1df",
+                          "bytes":  934
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/circle/5.png",
+                          "sha256":  "e26a79e347fc99d245922947e874bd7e8afaf520517588181d52250f15f8fc0d",
+                          "bytes":  985
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/full/0.png",
+                          "sha256":  "9cb52af47c5e2165891339c9849b81d3a175eed3c7300cacc71915ff4e80e6d7",
+                          "bytes":  541
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/full/1.png",
+                          "sha256":  "cb05c36cd062f047d7a3b19bb9824515ee92dbd0036b2c77f23219762b740388",
+                          "bytes":  980
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/full/2.png",
+                          "sha256":  "eff4ae01747e84cb2d3300753565d7d08c905eb0cf28c4ccf9ab847b89dd62ab",
+                          "bytes":  787
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/full/3.png",
+                          "sha256":  "b9a07630efb5f0d7c390df0680553faff18c1e9905855c01f07e8c73463ecc5f",
+                          "bytes":  926
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/full/4.png",
+                          "sha256":  "ca6a203280e19c59717591c41cb56e5bf41d3a0e819d9d9133a2152adc41a8aa",
+                          "bytes":  772
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/full/5.png",
+                          "sha256":  "d503b63771cd37c788307197655060aa907df30d4916e9882561b1586c6fbb51",
+                          "bytes":  953
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/square/0.png",
+                          "sha256":  "11f5f92a9a4c98a3cada5625b7215c14bbf2563a0fb3b6d1dbe249baa5175a8a",
+                          "bytes":  456
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/square/1.png",
+                          "sha256":  "4118e78d5cc1d3c01877b8d31c1a49844b3e0a5b981d5e590cf1dfbf69d2ef39",
+                          "bytes":  721
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/square/2.png",
+                          "sha256":  "600d7b74eb7bcb310b159bcf67158abc80f7fdaae447048bf0230c84adf03c52",
+                          "bytes":  571
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/square/3.png",
+                          "sha256":  "b442540fd676c45d8ae7f98cd5ad957347ad633039feade9e5f56f244f725c4a",
+                          "bytes":  659
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/square/4.png",
+                          "sha256":  "8348d31bdba32fa1dbd7465022c6d4c2afde1366fcaa821dae729246e19cae91",
+                          "bytes":  566
+                      },
+                      {
+                          "path":  "plugins/PlatformDisplay/assets/square/5.png",
+                          "sha256":  "a97b8ed2cc43801562c5e32dec2269f11295e46a3a310c62eee2f4597caa088d",
+                          "bytes":  623
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.2",
+        "plugin_id":  "PlatformDisplay",
+        "folder":  "plugins/PlatformDisplay"
+    },
+    {
+        "name":  "Post Match Analysis",
+        "files":  [
+                      {
+                          "path":  "plugins/Post Match Analysis/main.lua",
+                          "sha256":  "36880bfe36b98789061c13c829602bb260de81308051a095b7212764a1cf6c24",
+                          "bytes":  31565
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/plugin.toml",
+                          "sha256":  "0a62064ce80c7e3dd33a2250b36ab14cb1bbb88dbcc792e91359f53847a97bf1",
+                          "bytes":  237
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/matches.json",
+                          "sha256":  "c0b60cd221051fe51857be151724d570c75aed16d39ec00f011d574a98abe488",
+                          "bytes":  46652
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/post-match-analysis.css",
+                          "sha256":  "ba8224a5e6d81d0bea979336e697c19b7ce867ed7179a08bf09ee6244cd6df36",
+                          "bytes":  24331
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/post-match-analysis.html",
+                          "sha256":  "9c9429b29eadd65bb9ab7f4349b635bf74a9dde8835790864759b90b502c206e",
+                          "bytes":  2114
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/post-match-analysis.js",
+                          "sha256":  "ed6846fc631adbb7b744192297d9402c1b4845fcd7cd6bce3a914e9b803f954e",
+                          "bytes":  50580
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/divisions/0.png",
+                          "sha256":  "9c2cd84f1c439b98ea97b45357b7ec59e20b114409beef914bc6ce82d6d4b39e",
+                          "bytes":  1972
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/divisions/1.png",
+                          "sha256":  "137449adcf5f357edfb838358eba5e7480c2fddcf250eb0a7d9fc1210781fcd7",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/divisions/2.png",
+                          "sha256":  "914793fbdc768f6c744c223458847c96bcbcd39ae93f0ba0a87f3f1959c145dc",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/divisions/3.png",
+                          "sha256":  "c0f56e90f0f179ea02f161b1e1be702211155c16146baf8eb18c3bd48df91228",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/divisions/4.png",
+                          "sha256":  "ffa6148bcdb769e1d2a5e5bfdfd73b9154e6b4509f802cf2247b6bff47f83ad7",
+                          "bytes":  16538
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/divisions/5.png",
+                          "sha256":  "3b25bae3a84d51a7a1fafe04f38f8b4d5556b2e30daf44c3760d696a0855825b",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/divisions/6.png",
+                          "sha256":  "8d0049ef5d63d453fe079564cff748b12fc8254734be247a8a1c82945e1db7ca",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/divisions/7.png",
+                          "sha256":  "954983d5529551224f0ee8adbaa96d7418311be458035eb5ca9276cbaa8e4b7a",
+                          "bytes":  13251
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/0.png",
+                          "sha256":  "0318508de8f807b9721a857a42c5a882f495f4611ab4ddba310706c58246a317",
+                          "bytes":  7274
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/1.png",
+                          "sha256":  "7d7cb6184a5029919f3029719466402667f41b2c0df212371fc87a4375e4bd5c",
+                          "bytes":  11844
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/10.png",
+                          "sha256":  "7a22d48a732ca7ccd8fc07d55e5d9e2594c7e7cd4bb27d4c207805d269773960",
+                          "bytes":  14064
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/11.png",
+                          "sha256":  "845914b63115d889da0de069d21620654a4b42820eb1d7857c0780e8b6308c29",
+                          "bytes":  14234
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/12.png",
+                          "sha256":  "e4af230febeae54b0499a6d89a0284224220dd5f2639468b3ea463243c528cfb",
+                          "bytes":  14629
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/13.png",
+                          "sha256":  "b64ae8fb00f5fcac3d655ed11d8e3d5d6b3e669c3f41e5a9314a78de11ea62a0",
+                          "bytes":  13425
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/14.png",
+                          "sha256":  "c24d643c9a8fe57b519cd5a3df703509c88c0eaa762f7af18049e6ba6809707b",
+                          "bytes":  15428
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/15.png",
+                          "sha256":  "4f02e323c35be7125f33c3514f38c3a7641bca837261b3e4af1df3a78112bf0e",
+                          "bytes":  15610
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/16.png",
+                          "sha256":  "03bbe495d9208f758e7592c6a1336b94599b08af5ef865cac7cd5c2a08709f5f",
+                          "bytes":  14058
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/17.png",
+                          "sha256":  "c611e47a29d4e5b1799e85fc7f5ed4fb1f8041d0ca9da943597386277ab70901",
+                          "bytes":  16839
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/18.png",
+                          "sha256":  "fe07e7b68455ec6ec35141744bf155db323aa8df2ee2d2172ac078ad955a7323",
+                          "bytes":  18261
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/19.png",
+                          "sha256":  "3732d350ba9ade7aa0acbfc1411dfbdac33058161142944788278f5c396e23a7",
+                          "bytes":  14565
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/2.png",
+                          "sha256":  "35ee3a9cfe5fac278a749526b69795d6c9a49f9afd81ee9c6dc0617cf87dad26",
+                          "bytes":  13444
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/20.png",
+                          "sha256":  "965dba1860aaf8421fc4f927584936029f5ed74140f243a6e138af4b6195e437",
+                          "bytes":  15820
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/21.png",
+                          "sha256":  "a615a1c6e3cb187d37beb9e819c438b2bb421726f00bb6dce5e96710c11b0c6f",
+                          "bytes":  17078
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/22.png",
+                          "sha256":  "b4c4ac982a5b9b92762c7201822b782d6d5ebeb944df437f17401c7a529fc287",
+                          "bytes":  9181
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/23.png",
+                          "sha256":  "0415fe382eaae788a70f53bdfbd8a1a379883ebee191d8cb956660537a1096d2",
+                          "bytes":  2857
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/3.png",
+                          "sha256":  "dfee7958a24a4ad46607eb202fe8ac7be0225196a93009687441f24f8cbdfc10",
+                          "bytes":  11954
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/4.png",
+                          "sha256":  "1db419cbe062f4ecd01ba17992b435c3797e955bfae39234911d5a848dfd0076",
+                          "bytes":  10170
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/5.png",
+                          "sha256":  "234a2d47fa55904172bea867a1c23bb3a8fc33565a846c7ea3c2f25b6226b4ea",
+                          "bytes":  12546
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/6.png",
+                          "sha256":  "4c0b689a8f7dc92ce5f7fea9634e2b6af1c7f87ce0a9acaac5e32ddfd72a9016",
+                          "bytes":  13650
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/7.png",
+                          "sha256":  "9b6800dab8366da67686aa79f75d20b1fcc59029d20a3261a8c787bb78c9801c",
+                          "bytes":  9065
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/8.png",
+                          "sha256":  "6ba13898544081d17ff93f279580655955ddbdc4813f414de73cf2f74ef6e218",
+                          "bytes":  12947
+                      },
+                      {
+                          "path":  "plugins/Post Match Analysis/assets/tiers/9.png",
+                          "sha256":  "1cb497562451e61002a8620bc66d340bfcf535dfef98de2c1d29b2a7c9f2eefb",
+                          "bytes":  13719
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.0",
+        "plugin_id":  "Post Match Analysis",
+        "folder":  "plugins/Post Match Analysis"
+    },
+    {
+        "name":  "QuickChat",
+        "files":  [
+                      {
+                          "path":  "plugins/QuickChat/main.lua",
+                          "sha256":  "edb300898c184fdc66f4562a7d5a0378fb6b2cb45ad4ce0da0ca6536112b8681",
+                          "bytes":  14105
+                      },
+                      {
+                          "path":  "plugins/QuickChat/plugin.toml",
+                          "sha256":  "5f9846b2be09cf17e6c505fbfe389aee08d2b1f8f81d3e217ae359eb1903a0f8",
+                          "bytes":  127
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.3.0",
+        "plugin_id":  "QuickChat",
+        "folder":  "plugins/QuickChat"
+    },
+    {
+        "name":  "RankViewer",
+        "files":  [
+                      {
+                          "path":  "plugins/RankViewer/main.lua",
+                          "sha256":  "66e6481851543a187c8ca6f79b58e33c931346ad8ae4cb4fb94b64faa6689ce0",
+                          "bytes":  10374
+                      },
+                      {
+                          "path":  "plugins/RankViewer/plugin.toml",
+                          "sha256":  "ea8c0be731109b2ab7b1804a4f7d85936b42aa6d89859206fe99bacfa3503f48",
+                          "bytes":  123
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/RankNumbers/10.json",
+                          "sha256":  "5c475fc9f0834652f5b02aca8dc454cf033c224756f903b5eaaa1f2d28bc05de",
+                          "bytes":  8040
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/RankNumbers/11.json",
+                          "sha256":  "8501aeb3c14f6eea8bb5436e067c8cfb11a1190a2afb01652c662ffb7693f191",
+                          "bytes":  8050
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/RankNumbers/13.json",
+                          "sha256":  "5c1b77b76e5d326d9dacb7bd266d59f8f946fcd234413d371b7531d2664beeee",
+                          "bytes":  8050
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/RankNumbers/27.json",
+                          "sha256":  "703bffdbf34aecbd7cc9f66b964353a43462858215b1236f0feaf171581bd414",
+                          "bytes":  8030
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/RankNumbers/28.json",
+                          "sha256":  "10656948978d66f7da0494db143fad51179a5dab8d8355d7eef8676fa7bb0daa",
+                          "bytes":  8039
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/RankNumbers/29.json",
+                          "sha256":  "c4b386f04f9156aedca7c69d63da8641f5a3087a31b9c2050be001afb34c7260",
+                          "bytes":  8029
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/RankNumbers/30.json",
+                          "sha256":  "c6261f24ba8910ae018bd0dde3f339a52139b0e0a67919d8adeb688b20479660",
+                          "bytes":  8028
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/RankNumbers/34.json",
+                          "sha256":  "158d959becba37c0176fee6a6c2e54d9fb6f34629d340941166ff050b22be172",
+                          "bytes":  16467
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/RankNumbers/63.json",
+                          "sha256":  "9727f2ec91a49d04b14b6d9d27751618dd25f08738f9ec564588941085b8ddaa",
+                          "bytes":  9598
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/0.png",
+                          "sha256":  "4896907af237377fb8e4d104fa323ecd21bcbf25c37a4b23eb69ebd4453817e3",
+                          "bytes":  13719
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/1.png",
+                          "sha256":  "a2b000c1359212ec64f9832b2ebb060721a8f15afe62a8209db28f81661e46da",
+                          "bytes":  31741
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/10.png",
+                          "sha256":  "990e63c9eeddd8a9f388ea56922e741debc871188cf4eb7a7282c7912d88907f",
+                          "bytes":  53521
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/11.png",
+                          "sha256":  "48ba0af20609d28d5e42a0f3bd010e211af4f29b3817b98535cc36327a6a074a",
+                          "bytes":  57475
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/12.png",
+                          "sha256":  "2d9f1c8ca1307d331b89f69809c2e11b829f3b4e402551150cf09fb70c44d186",
+                          "bytes":  56907
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/13.png",
+                          "sha256":  "acaee77baa48e30e742c6bb77b01a8a889f7f7a8b846b10364906f40f64e7d98",
+                          "bytes":  31308
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/14.png",
+                          "sha256":  "c39971f874b74d46d0af66cbcc17101bab8bb6922a7996d8ca88892ad1f9fb5b",
+                          "bytes":  35975
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/15.png",
+                          "sha256":  "af47450492610f2c6505142a830c97dc72e63aa64b8e0b1e02d62dbb05d2ed7c",
+                          "bytes":  39113
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/16.png",
+                          "sha256":  "b9464521c9b0523df44decee2a272e6b472c164093a6cc4051e9e31023827daa",
+                          "bytes":  28492
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/17.png",
+                          "sha256":  "edc2b7799a0845d7c57a7e606d0bf06fae61830ca720c74eb7d7c2b021468346",
+                          "bytes":  28930
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/18.png",
+                          "sha256":  "e080105e4e5d3d25289a0b3d4219b0f7f13909c61d90d1ee231b7a35b4cfb979",
+                          "bytes":  42645
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/19.png",
+                          "sha256":  "81aaf14427c5cc06549b45ccb54b9a5985bec2d473d103131905915d8d0c7de2",
+                          "bytes":  17504
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/2.png",
+                          "sha256":  "ca76e28ae744d46d4fcd08d783c293f33798b5f845873ba01befe3c3065c132f",
+                          "bytes":  33591
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/20.png",
+                          "sha256":  "915e32972f28cd29d73644036439015445c36376be9a450a03780af370ebc4e6",
+                          "bytes":  45415
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/21.png",
+                          "sha256":  "9b9c7e50cfcfe0bab4e6cd3942acedf67bad6cb84682edc6f814d605acde26ba",
+                          "bytes":  24855
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/22.png",
+                          "sha256":  "b02c75d76a2fa107ae6ba6cbc8ed97151e849f33ab2a6378fe65633d74a5e6fd",
+                          "bytes":  23609
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/3.png",
+                          "sha256":  "a68ac53d085f35b55251755029c921aa432e9b95f95be1c2baf7599732eaad23",
+                          "bytes":  35029
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/4.png",
+                          "sha256":  "d633ec2d17d378331b07145da2a588120a622cb29b050f23dae1b0064fb89a8e",
+                          "bytes":  26555
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/5.png",
+                          "sha256":  "9224e5ce5c6fa8b27c1ef422695236e3fd2cbcc9473499f2741ba107579656a8",
+                          "bytes":  30744
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/6.png",
+                          "sha256":  "06834cc3c9941ec2e036ba1e0c84a73bfba5f7f5c8731b240f20d6134fbf09ad",
+                          "bytes":  33939
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/7.png",
+                          "sha256":  "b38d44144960f50d8190a1d9d8d6035b343051567b83e41d23df811d9b574838",
+                          "bytes":  35267
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/8.png",
+                          "sha256":  "762499a405dbc44207f84f59c4480bcfdf471faa23c5e88139bfc46c2ef68cad",
+                          "bytes":  42235
+                      },
+                      {
+                          "path":  "plugins/RankViewer/assets/ranks/9.png",
+                          "sha256":  "0ed1eb7cab0719f98e765cbac512005652c9f26240d9f76e97d47bf721ae1473",
+                          "bytes":  45961
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.1.0",
+        "plugin_id":  "RankViewer",
+        "folder":  "plugins/RankViewer"
+    },
+    {
+        "name":  "Save Inspector",
+        "files":  [
+                      {
+                          "path":  "plugins/Save Inspector/main.lua",
+                          "sha256":  "647d1bc463492dbf0948527b32ee9706ce28fe29634bfdd6420b4bed9ee3afee",
+                          "bytes":  5367
+                      },
+                      {
+                          "path":  "plugins/Save Inspector/plugin.toml",
+                          "sha256":  "83ad08b5a297701d336170fe6a4de10f2bb0681c1532ab5d6bb8c866d01753b5",
+                          "bytes":  125
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.0",
+        "plugin_id":  "Save Inspector",
+        "folder":  "plugins/Save Inspector"
+    },
+    {
+        "name":  "Seekr",
+        "files":  [
+                      {
+                          "path":  "plugins/Seekr/main.lua",
+                          "sha256":  "ecfd4a83c1820e85e0e6f36666c4ce26e844061d692ce9b3506397c543c2b844",
+                          "bytes":  23514
+                      },
+                      {
+                          "path":  "plugins/Seekr/plugin.toml",
+                          "sha256":  "a1d2a0909d6a627948888d46a1f5d97bacbaebb9fdad8ebf1a834d1d5959aae7",
+                          "bytes":  119
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.69",
+        "plugin_id":  "Seekr",
+        "folder":  "plugins/Seekr"
+    },
+    {
+        "name":  "Spotify Overlay",
+        "files":  [
+                      {
+                          "path":  "plugins/spotify_overlay/main.lua",
+                          "sha256":  "9d71ea78ff069cdde34c09e55aef674e741089d45feb841cb5a441b0fd506221",
+                          "bytes":  33366
+                      },
+                      {
+                          "path":  "plugins/spotify_overlay/plugin.toml",
+                          "sha256":  "ef2a634bd4fa37ef43a4d8bacb497d4781a1328de90e59b544ee8df5d6fedb97",
+                          "bytes":  213
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.2",
+        "plugin_id":  "spotify_overlay",
+        "folder":  "plugins/spotify_overlay"
+    },
+    {
+        "name":  "Team Boost",
+        "files":  [
+                      {
+                          "path":  "plugins/Team Boost/main.lua",
+                          "sha256":  "d050afb0aac3a1e0f5f29cafa31527b232c318544cc867851821172df39c2f4a",
+                          "bytes":  5335
+                      },
+                      {
+                          "path":  "plugins/Team Boost/plugin.toml",
+                          "sha256":  "8b6ea67127cd075444d2a1fd5c474bcee4d0d347f471da7046ef27c9995bba70",
+                          "bytes":  123
+                      },
+                      {
+                          "path":  "plugins/Team Boost/assets/team-boost.html",
+                          "sha256":  "15955462aebd9624f78dfe71d4a8416bdf4167f749c2d6d2cb0306151243ba33",
+                          "bytes":  5965
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.0",
+        "plugin_id":  "Team Boost",
+        "folder":  "plugins/Team Boost"
+    },
+    {
+        "name":  "Window Widget",
+        "files":  [
+                      {
+                          "path":  "plugins/WindowWidget_Final/API_NOTES.md",
+                          "sha256":  "e824bbc2fffdd6f4515fe5d37ec3595c0c5995b64b1e12e5057728bed09574db",
+                          "bytes":  853
+                      },
+                      {
+                          "path":  "plugins/WindowWidget_Final/main.lua",
+                          "sha256":  "c0d9a619ac623117feda36ce9502df3612fdef298fe6fc70b6c412db28bc068e",
+                          "bytes":  8899
+                      },
+                      {
+                          "path":  "plugins/WindowWidget_Final/plugin.toml",
+                          "sha256":  "0a0577a475f6792c8abca46e43f2d7026bf3dbc43bef847cc34a5c92cd2eefbf",
+                          "bytes":  129
+                      },
+                      {
+                          "path":  "plugins/WindowWidget_Final/README.md",
+                          "sha256":  "160115622ccc1fd887f4d2d048eef4b2b1e7dae6d31aebffbe8515d0fc51432b",
+                          "bytes":  1228
+                      }
+                  ],
+        "short_description":  "KingMod plugin",
+        "version_number":  "1.0.0",
+        "plugin_id":  "WindowWidget_Final",
+        "folder":  "plugins/WindowWidget_Final"
+    }
+]
