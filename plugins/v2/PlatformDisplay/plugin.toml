@@ -1,6 +1,0 @@
-author = "rlsdk"
-description = "Show the platforms of players in your match."
-entry = "main.luac"
-name = "Platform Display"
-plugin_id = "1cb690914da0b22c7d70ca32a1aebde0"
-version = "1.0.3+km.20261020"

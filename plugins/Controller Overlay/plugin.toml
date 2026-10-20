@@ -1,5 +1,0 @@
-name = "Controller Overlay"
-author = "rlsdk"
-version = "1.0.1"
-entry = "main.lua"
-plugin_id = "f96e64ff7b7c47e7a784e8ae52ac280b"

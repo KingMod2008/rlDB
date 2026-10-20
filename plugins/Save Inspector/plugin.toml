@@ -1,5 +1,0 @@
-name = "Save Inspector"
-author = "rlsdk"
-version = "1.0.1"
-entry = "main.lua"
-plugin_id = "6cd37ef9180055b456597dd18d5feb45"

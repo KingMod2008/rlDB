@@ -1,6 +1,0 @@
-author = "rlsdk"
-description = "Keep track of your session and match progress."
-entry = "main.luac"
-name = "Grinder"
-plugin_id = "0731f899d71bf60f64e932fbbd1c300d"
-version = "1.0.2+km.20261020"

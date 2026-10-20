@@ -1,6 +1,0 @@
-author = "rlsdk"
-description = "A configurable match HUD for your overlay."
-entry = "main.luac"
-name = "KingMod HUD"
-plugin_id = "d52b1855d4be0912323c195f23bb3af1"
-version = "1.0.3+km.20261020"

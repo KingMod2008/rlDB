@@ -1,6 +1,0 @@
-author = "rlsdk"
-description = "On-screen controller inputs with configurable layout."
-entry = "main.luac"
-name = "Controller Overlay"
-plugin_id = "f96e64ff7b7c47e7a784e8ae52ac280b"
-version = "1.0.1+km.20261020"

@@ -1,5 +1,0 @@
-name = "InGameRank"
-author = "rlsdk"
-version = "4.0.2"
-entry = "main.lua"
-plugin_id = "0a4a31d91686afc7a5fc1a564f5abc60"

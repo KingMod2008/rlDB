@@ -1,6 +1,0 @@
-author = "rlsdk"
-description = "Live ball speed, peak speed and unit selection."
-entry = "main.luac"
-name = "Ball Speed"
-plugin_id = "346e790b3d503fbb57e00c276d47abd6"
-version = "1.0.2+km.20261020"

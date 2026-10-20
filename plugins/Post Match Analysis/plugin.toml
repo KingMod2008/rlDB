@@ -1,6 +1,0 @@
-name = "Post Match Analysis"
-author = "rlsdk"
-version = "1.0.1"
-entry = "main.lua"
-description = "Records the last ten matches and presents a timeline and performance ratios at the menu."
-plugin_id = "f050b73ac5c3c6fcd23c2f196a4a18aa"

@@ -1,6 +1,0 @@
-author = "rlsdk"
-description = "Game graphics presets and reversible configuration backups."
-entry = "main.luac"
-name = "FPS Booster"
-plugin_id = "e36c48803083c9e5558416a220b5105c"
-version = "3.1.2+km.20261020"

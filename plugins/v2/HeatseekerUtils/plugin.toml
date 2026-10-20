@@ -1,6 +1,0 @@
-author = "rlsdk"
-description = "Match tools and settings for Heatseeker."
-entry = "main.luac"
-name = "Heatseeker Utils"
-plugin_id = "b65d19b768b15fb6880c5ef9fe3fd4a3"
-version = "1.0.4+km.20261020"

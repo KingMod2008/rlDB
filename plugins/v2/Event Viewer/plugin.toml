@@ -1,6 +1,0 @@
-author = "rlsdk"
-description = "Inspect recent match events and counts."
-entry = "main.luac"
-name = "Event Viewer"
-plugin_id = "8423c4a8bef14de6d9910225be9db371"
-version = "1.0.1+km.20261020"

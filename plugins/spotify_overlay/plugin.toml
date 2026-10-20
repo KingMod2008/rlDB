@@ -1,9 +1,0 @@
-name = "Spotify Overlay"
-author = "rlsdk"
-version = "1.0.3"
-entry = "main.lua"
-
-
-[permissions]
-read_roots = ["%LOCALAPPDATA%/Spotify", "%APPDATA%/Spotify"]
-plugin_id = "b92589f9e693962af26d32d5e0199aac"

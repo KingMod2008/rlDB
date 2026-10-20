@@ -1,5 +1,0 @@
-name = "Platform Display"
-author = "rlsdk"
-version = "1.0.3"
-entry = "main.lua"
-plugin_id = "1cb690914da0b22c7d70ca32a1aebde0"

@@ -1,5 +1,0 @@
-name = "Crossbar Sounds"
-author = "rlsdk"
-version = "1.0.4"
-entry = "main.lua"
-plugin_id = "4432b4346e2487f185a06557bc606471"

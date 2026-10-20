@@ -1,5 +1,0 @@
-name = "Event Viewer"
-author = "rlsdk"
-version = "1.0.1"
-entry = "main.lua"
-plugin_id = "8423c4a8bef14de6d9910225be9db371"
