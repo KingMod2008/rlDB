@@ -1,0 +1,6 @@
+author = "rlsdk"
+description = "Player avatars with configurable display options."
+entry = "main.luac"
+name = "PfpOverlayV2"
+plugin_id = "701e6709abfb0a929266b03214da3094"
+version = "3.0.2+km.20261020"

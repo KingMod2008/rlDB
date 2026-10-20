@@ -1,0 +1,6 @@
+author = "rlsdk"
+description = "Compact opponent-only boost bars with stale-data protection."
+entry = "main.luac"
+name = "Opponent Boost"
+plugin_id = "kingmod-opponent-boost"
+version = "1.0.0+km.20261020"

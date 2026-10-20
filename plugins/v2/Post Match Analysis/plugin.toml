@@ -1,0 +1,6 @@
+author = "rlsdk"
+description = "Records the last ten matches and presents a timeline and performance ratios at the menu."
+entry = "main.luac"
+name = "Post Match Analysis"
+plugin_id = "f050b73ac5c3c6fcd23c2f196a4a18aa"
+version = "1.0.1+km.20261020"

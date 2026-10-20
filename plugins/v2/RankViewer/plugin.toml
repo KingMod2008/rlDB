@@ -1,0 +1,6 @@
+author = "rlsdk"
+description = "Post-match rank and MMR with playlist thresholds."
+entry = "main.luac"
+name = "RankViewer"
+plugin_id = "353d0841b08a3e25d1a1300f6aa7c26e"
+version = "1.1.1+km.20261020"

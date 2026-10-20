@@ -1,0 +1,6 @@
+author = "rlsdk"
+description = "Teammate boost bars using available match telemetry."
+entry = "main.luac"
+name = "Team Boost"
+plugin_id = "fcf92c16ded25ea4ec7b1954c0db4308"
+version = "1.0.1+km.20261020"

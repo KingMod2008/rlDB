@@ -1,0 +1,6 @@
+author = "rlsdk"
+description = "Inspect local game save information."
+entry = "main.luac"
+name = "Save Inspector"
+plugin_id = "6cd37ef9180055b456597dd18d5feb45"
+version = "1.0.1+km.20261020"

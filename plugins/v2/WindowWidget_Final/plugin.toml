@@ -1,0 +1,6 @@
+author = "rlsdk"
+description = "Display a selected desktop window in your game overlay."
+entry = "main.luac"
+name = "Window Widget"
+plugin_id = "45f1bfe9f13595264b950e9ea99dd489"
+version = "1.0.1+km.20261020"

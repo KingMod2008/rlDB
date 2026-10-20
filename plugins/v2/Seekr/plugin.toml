@@ -1,0 +1,6 @@
+author = "rlsdk"
+description = "Seekr match overlay and controls."
+entry = "main.luac"
+name = "Seekr"
+plugin_id = "f735028efecd7ee116766a748c81f28f"
+version = "1.0.70+km.20261020"

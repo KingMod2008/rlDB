@@ -1,0 +1,6 @@
+author = "rlsdk"
+description = "Play a chosen sound when a crossbar hit is observed."
+entry = "main.luac"
+name = "Crossbar Sounds"
+plugin_id = "4432b4346e2487f185a06557bc606471"
+version = "1.0.4+km.20261020"

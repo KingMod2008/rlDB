@@ -1,0 +1,9 @@
+author = "rlsdk"
+description = "Now-playing media controls and artwork."
+entry = "main.luac"
+name = "Media Overlay"
+plugin_id = "357632a048c136a5895303737e49fa2d"
+version = "1.0.3+km.20261020"
+
+[permissions]
+read_roots = ["%APPDATA%/KingMod/plugins/media_overlay/assets/lyrics"]

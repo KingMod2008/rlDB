@@ -1,0 +1,6 @@
+author = "rlsdk"
+description = "Custom quick-chat controls and bindings."
+entry = "main.luac"
+name = "QuickChat"
+plugin_id = "ef8923b69088ed7e078f3ce65dce6714"
+version = "1.3.1+km.20261020"

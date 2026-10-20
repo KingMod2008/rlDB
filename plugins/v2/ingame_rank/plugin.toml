@@ -1,0 +1,6 @@
+author = "rlsdk"
+description = "Scoreboard ranks and MMR with playlist selection."
+entry = "main.luac"
+name = "InGameRank"
+plugin_id = "0a4a31d91686afc7a5fc1a564f5abc60"
+version = "4.0.2+km.20261020"

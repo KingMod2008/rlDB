@@ -1,0 +1,12 @@
+author = "rlsdk"
+description = "Spotify now-playing information and controls."
+entry = "main.luac"
+name = "Spotify Overlay"
+version = "1.0.3+km.20261020"
+
+[permissions]
+plugin_id = "b92589f9e693962af26d32d5e0199aac"
+read_roots = [
+    "%LOCALAPPDATA%/Spotify",
+    "%APPDATA%/Spotify",
+]
