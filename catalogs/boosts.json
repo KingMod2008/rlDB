@@ -14,7 +14,8 @@
       "path": "Boost_AlphaReward.Boost_AlphaReward",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_AlphaReward_T"
+      "thumbnail_package": "Boost_AlphaReward_T",
+      "image_path": "images/32.png"
     },
     {
       "audio_bnk": "SFX_Boost_Bubblegum.bnk",
@@ -28,7 +29,8 @@
       "path": "Boost_Bubble.Boost_Bubble",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Boost_Bubble_T"
+      "thumbnail_package": "Boost_Bubble_T",
+      "image_path": "images/33.png"
     },
     {
       "audio_bnk": "SFX_Boost_Confetti.bnk",
@@ -42,7 +44,8 @@
       "path": "Boost_Confetti.Boost_Confetti",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Boost_Confetti_T"
+      "thumbnail_package": "Boost_Confetti_T",
+      "image_path": "images/34.png"
     },
     {
       "audio_bnk": "SFX_Boost_Digital.bnk",
@@ -56,7 +59,8 @@
       "path": "Boost_Digital.Boost_Digital",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Boost_Digital_T"
+      "thumbnail_package": "Boost_Digital_T",
+      "image_path": "images/35.png"
     },
     {
       "audio_bnk": "SFX_Boost_FlameThrower.bnk",
@@ -70,7 +74,8 @@
       "path": "Boost_Flamethrower.Boost_Flamethrower",
       "quality_id": 0,
       "paintable": true,
-      "thumbnail_package": "Boost_Flamethrower_T"
+      "thumbnail_package": "Boost_Flamethrower_T",
+      "image_path": "images/36.png"
     },
     {
       "audio_bnk": "SFX_Boost_FlameThrower.bnk",
@@ -84,7 +89,8 @@
       "path": "Boost_Flamethrower_Blue.Boost_Flamethrower_Blue",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Flamethrower_Blue_T"
+      "thumbnail_package": "Boost_Flamethrower_Blue_T",
+      "image_path": "images/37.png"
     },
     {
       "audio_bnk": "SFX_Boost_FlameThrower.bnk",
@@ -98,7 +104,8 @@
       "path": "Boost_Flamethrower_Green.Boost_Flamethrower_Green",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Flamethrower_Green_T"
+      "thumbnail_package": "Boost_Flamethrower_Green_T",
+      "image_path": "images/38.png"
     },
     {
       "audio_bnk": "SFX_Boost_FlameThrower.bnk",
@@ -112,7 +119,8 @@
       "path": "Boost_Flamethrower_Pink.Boost_Flamethrower_Pink",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Flamethrower_Pink_T"
+      "thumbnail_package": "Boost_Flamethrower_Pink_T",
+      "image_path": "images/39.png"
     },
     {
       "audio_bnk": "SFX_Boost_FlameThrower.bnk",
@@ -126,7 +134,8 @@
       "path": "Boost_Flamethrower_Purple.Boost_Flamethrower_Purple",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Flamethrower_Purple_T"
+      "thumbnail_package": "Boost_Flamethrower_Purple_T",
+      "image_path": "images/40.png"
     },
     {
       "audio_bnk": "SFX_Boost_FlameThrower.bnk",
@@ -140,7 +149,8 @@
       "path": "Boost_Flamethrower_Red.Boost_Flamethrower_Red",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Flamethrower_Red_T"
+      "thumbnail_package": "Boost_Flamethrower_Red_T",
+      "image_path": "images/41.png"
     },
     {
       "audio_bnk": "SFX_Boost_Flower.bnk",
@@ -154,7 +164,8 @@
       "path": "Boost_Flowers.Boost_Flowers",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Boost_Flowers_T"
+      "thumbnail_package": "Boost_Flowers_T",
+      "image_path": "images/42.png"
     },
     {
       "audio_bnk": "SFX_Boost_Grass.bnk",
@@ -168,7 +179,8 @@
       "path": "Boost_Grass.Boost_Grass",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Boost_Grass_T"
+      "thumbnail_package": "Boost_Grass_T",
+      "image_path": "images/43.png"
     },
     {
       "audio_bnk": "SFX_Boost_HolyLight.bnk",
@@ -182,7 +194,8 @@
       "path": "Boost_HolyLight.Boost_HolyLight",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Boost_HolyLight_T"
+      "thumbnail_package": "Boost_HolyLight_T",
+      "image_path": "images/44.png"
     },
     {
       "audio_bnk": "",
@@ -196,7 +209,8 @@
       "path": "Boost_LightTrail.Boost_LightTrail",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Boost_LightTrail_T"
+      "thumbnail_package": "Boost_LightTrail_T",
+      "image_path": "images/45.png"
     },
     {
       "audio_bnk": "",
@@ -210,7 +224,8 @@
       "path": "Boost_LightTrail_Green.Boost_LightTrail_Green",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_LightTrail_Green_T"
+      "thumbnail_package": "Boost_LightTrail_Green_T",
+      "image_path": "images/46.png"
     },
     {
       "audio_bnk": "",
@@ -224,7 +239,8 @@
       "path": "Boost_LightTrail_Pink.Boost_LightTrail_Pink",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_LightTrail_Pink_T"
+      "thumbnail_package": "Boost_LightTrail_Pink_T",
+      "image_path": "images/47.png"
     },
     {
       "audio_bnk": "",
@@ -238,7 +254,8 @@
       "path": "Boost_LightTrail_Purple.Boost_LightTrail_Purple",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_LightTrail_Purple_T"
+      "thumbnail_package": "Boost_LightTrail_Purple_T",
+      "image_path": "images/48.png"
     },
     {
       "audio_bnk": "",
@@ -252,7 +269,8 @@
       "path": "Boost_LightTrail_Red.Boost_LightTrail_Red",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_LightTrail_Red_T"
+      "thumbnail_package": "Boost_LightTrail_Red_T",
+      "image_path": "images/49.png"
     },
     {
       "audio_bnk": "",
@@ -266,7 +284,8 @@
       "path": "Boost_LightTrail_Yellow.Boost_LightTrail_Yellow",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_LightTrail_Yellow_T"
+      "thumbnail_package": "Boost_LightTrail_Yellow_T",
+      "image_path": "images/50.png"
     },
     {
       "audio_bnk": "SFX_Boost_Money.bnk",
@@ -280,7 +299,8 @@
       "path": "Boost_Money.Boost_Money",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Boost_Money_T"
+      "thumbnail_package": "Boost_Money_T",
+      "image_path": "images/51.png"
     },
     {
       "audio_bnk": "SFX_Boost_Plasma.bnk",
@@ -294,7 +314,8 @@
       "path": "Boost_Plasma.Boost_Plasma",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Boost_Plasma_T"
+      "thumbnail_package": "Boost_Plasma_T",
+      "image_path": "images/52.png"
     },
     {
       "audio_bnk": "SFX_Boost_Propulsion.bnk",
@@ -308,7 +329,8 @@
       "path": "Boost_Propulsion.Boost_Propulsion",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Boost_Propulsion_T"
+      "thumbnail_package": "Boost_Propulsion_T",
+      "image_path": "images/53.png"
     },
     {
       "audio_bnk": "SFX_Boost_Propulsion.bnk",
@@ -322,7 +344,8 @@
       "path": "Boost_Propulsion_Blue.Boost_Propulsion_Blue",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Propulsion_Blue_T"
+      "thumbnail_package": "Boost_Propulsion_Blue_T",
+      "image_path": "images/54.png"
     },
     {
       "audio_bnk": "SFX_Boost_Propulsion.bnk",
@@ -336,7 +359,8 @@
       "path": "Boost_Propulsion_Green.Boost_Propulsion_Green",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Propulsion_Green_T"
+      "thumbnail_package": "Boost_Propulsion_Green_T",
+      "image_path": "images/55.png"
     },
     {
       "audio_bnk": "SFX_Boost_Propulsion.bnk",
@@ -350,7 +374,8 @@
       "path": "Boost_Propulsion_Pink.Boost_Propulsion_Pink",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Propulsion_Pink_T"
+      "thumbnail_package": "Boost_Propulsion_Pink_T",
+      "image_path": "images/56.png"
     },
     {
       "audio_bnk": "SFX_Boost_Propulsion.bnk",
@@ -364,7 +389,8 @@
       "path": "Boost_Propulsion_Purple.Boost_Propulsion_Purple",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Propulsion_Purple_T"
+      "thumbnail_package": "Boost_Propulsion_Purple_T",
+      "image_path": "images/57.png"
     },
     {
       "audio_bnk": "SFX_Boost_Propulsion.bnk",
@@ -378,7 +404,8 @@
       "path": "Boost_Propulsion_Yellow.Boost_Propulsion_Yellow",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Propulsion_Yellow_T"
+      "thumbnail_package": "Boost_Propulsion_Yellow_T",
+      "image_path": "images/58.png"
     },
     {
       "audio_bnk": "SFX_Boost_Rainbow.bnk",
@@ -392,7 +419,8 @@
       "path": "Boost_Rainbow.Boost_Rainbow",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Boost_Rainbow_T"
+      "thumbnail_package": "Boost_Rainbow_T",
+      "image_path": "images/59.png"
     },
     {
       "audio_bnk": "SFX_Boost_Slime.bnk",
@@ -406,7 +434,8 @@
       "path": "Boost_Slime.Boost_Slime",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Boost_Slime_T"
+      "thumbnail_package": "Boost_Slime_T",
+      "image_path": "images/60.png"
     },
     {
       "audio_bnk": "SFX_Boost_Snow.bnk",
@@ -420,7 +449,8 @@
       "path": "Boost_Snow.Boost_Snow",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Boost_Snow_T"
+      "thumbnail_package": "Boost_Snow_T",
+      "image_path": "images/61.png"
     },
     {
       "audio_bnk": "SFX_Boost_Sparkle.bnk",
@@ -434,7 +464,8 @@
       "path": "Boost_Sparkles.Boost_Sparkles",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Boost_Sparkles_T"
+      "thumbnail_package": "Boost_Sparkles_T",
+      "image_path": "images/62.png"
     },
     {
       "audio_bnk": "SFX_Boost_Standard.bnk",
@@ -448,7 +479,8 @@
       "path": "Boost_Standard.Boost_Standard",
       "quality_id": 0,
       "paintable": true,
-      "thumbnail_package": "Boost_Standard_T"
+      "thumbnail_package": "Boost_Standard_T",
+      "image_path": "images/63.png"
     },
     {
       "audio_bnk": "",
@@ -462,7 +494,8 @@
       "path": "Boost_Standard_Blue.Boost_Standard_Blue",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Standard_Blue_T"
+      "thumbnail_package": "Boost_Standard_Blue_T",
+      "image_path": "images/64.png"
     },
     {
       "audio_bnk": "",
@@ -476,7 +509,8 @@
       "path": "Boost_Standard_Pink.Boost_Standard_Pink",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Standard_Pink_T"
+      "thumbnail_package": "Boost_Standard_Pink_T",
+      "image_path": "images/65.png"
     },
     {
       "audio_bnk": "",
@@ -490,7 +524,8 @@
       "path": "Boost_Standard_Purple.Boost_Standard_Purple",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Standard_Purple_T"
+      "thumbnail_package": "Boost_Standard_Purple_T",
+      "image_path": "images/66.png"
     },
     {
       "audio_bnk": "",
@@ -504,7 +539,8 @@
       "path": "Boost_Standard_Yellow.Boost_Standard_Yellow",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Standard_Yellow_T"
+      "thumbnail_package": "Boost_Standard_Yellow_T",
+      "image_path": "images/67.png"
     },
     {
       "id": "68",
@@ -531,7 +567,8 @@
       "path": "Boost_Water.Boost_Water",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Boost_Water_T"
+      "thumbnail_package": "Boost_Water_T",
+      "image_path": "images/69.png"
     },
     {
       "audio_bnk": "SFX_Boost_Nitrous.bnk",
@@ -545,7 +582,8 @@
       "path": "Boost_Nitrous.Boost_Nitrous",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Boost_Nitrous_T"
+      "thumbnail_package": "Boost_Nitrous_T",
+      "image_path": "images/384.png"
     },
     {
       "audio_bnk": "SFX_Boost_Burnout.bnk",
@@ -559,7 +597,8 @@
       "path": "Boost_Burnout.Boost_Burnout",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Boost_Burnout_T"
+      "thumbnail_package": "Boost_Burnout_T",
+      "image_path": "images/387.png"
     },
     {
       "audio_bnk": "SFX_Boost_Lightning.bnk",
@@ -573,7 +612,8 @@
       "path": "Boost_Lightning.Boost_Lightning",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Boost_Lightning_T"
+      "thumbnail_package": "Boost_Lightning_T",
+      "image_path": "images/405.png"
     },
     {
       "audio_bnk": "",
@@ -587,7 +627,8 @@
       "path": "Boost_MusicalNotes.Boost_MusicalNotes",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Boost_MusicalNotes_T"
+      "thumbnail_package": "Boost_MusicalNotes_T",
+      "image_path": "images/524.png"
     },
     {
       "audio_bnk": "SFX_Boost_NutsBolts.bnk",
@@ -601,7 +642,8 @@
       "path": "Boost_NutsBolts.Boost_NutsBolts",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Boost_NutsBolts_T"
+      "thumbnail_package": "Boost_NutsBolts_T",
+      "image_path": "images/544.png"
     },
     {
       "audio_bnk": "SFX_Boost_Star.bnk",
@@ -615,7 +657,8 @@
       "path": "Boost_Stars.Boost_Stars",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Boost_Stars_T"
+      "thumbnail_package": "Boost_Stars_T",
+      "image_path": "images/545.png"
     },
     {
       "audio_bnk": "",
@@ -629,7 +672,8 @@
       "path": "Boost_CandyCorn.Boost_CandyCorn",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_CandyCorn_T"
+      "thumbnail_package": "Boost_CandyCorn_T",
+      "image_path": "images/578.png"
     },
     {
       "audio_bnk": "",
@@ -643,7 +687,8 @@
       "path": "Boost_GreyCar.Boost_GreyCar",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_GreyCar_T"
+      "thumbnail_package": "Boost_GreyCar_T",
+      "image_path": "images/626.png"
     },
     {
       "audio_bnk": "",
@@ -657,7 +702,8 @@
       "path": "Boost_Presents.Boost_Presents",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Presents_T"
+      "thumbnail_package": "Boost_Presents_T",
+      "image_path": "images/635.png"
     },
     {
       "audio_bnk": "",
@@ -671,7 +717,8 @@
       "path": "Boost_ConversionGel.Boost_ConversionGel",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_ConversionGel_T"
+      "thumbnail_package": "Boost_ConversionGel_T",
+      "image_path": "images/651.png"
     },
     {
       "audio_bnk": "SFX_Boost_Propulsion.bnk",
@@ -685,7 +732,8 @@
       "path": "Boost_PropulsionGel.Boost_PropulsionGel",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_PropulsionGel_T"
+      "thumbnail_package": "Boost_PropulsionGel_T",
+      "image_path": "images/652.png"
     },
     {
       "audio_bnk": "",
@@ -699,7 +747,8 @@
       "path": "Boost_RepulsionGel.Boost_RepulsionGel",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_RepulsionGel_T"
+      "thumbnail_package": "Boost_RepulsionGel_T",
+      "image_path": "images/653.png"
     },
     {
       "audio_bnk": "SFX_Boost_Sandstorm.bnk",
@@ -713,7 +762,8 @@
       "path": "Boost_SandStorm.Boost_SandStorm",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Boost_SandStorm_T"
+      "thumbnail_package": "Boost_SandStorm_T",
+      "image_path": "images/664.png"
     },
     {
       "id": "714",
@@ -779,7 +829,8 @@
       "path": "Boost_DarkCar.Boost_DarkCar",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_DarkCar_T"
+      "thumbnail_package": "Boost_DarkCar_T",
+      "image_path": "images/868.png"
     },
     {
       "audio_bnk": "SFX_Boost_Feathers.bnk",
@@ -793,7 +844,8 @@
       "path": "boost_feathers.boost_feathers",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Boost_Feathers_T"
+      "thumbnail_package": "Boost_Feathers_T",
+      "image_path": "images/1090.png"
     },
     {
       "audio_bnk": "SFX_Boost_Hearts.bnk",
@@ -807,7 +859,8 @@
       "path": "Boost_Hearts.Boost_Hearts",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Boost_Hearts_T"
+      "thumbnail_package": "Boost_Hearts_T",
+      "image_path": "images/1091.png"
     },
     {
       "audio_bnk": "",
@@ -821,7 +874,8 @@
       "path": "Boost_Pixels.Boost_Pixels",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Pixels_T"
+      "thumbnail_package": "Boost_Pixels_T",
+      "image_path": "images/1092.png"
     },
     {
       "audio_bnk": "SFX_Boost_Stylized.bnk",
@@ -835,7 +889,8 @@
       "path": "Boost_Stylized.Boost_Stylized",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Boost_Stylized_T"
+      "thumbnail_package": "Boost_Stylized_T",
+      "image_path": "images/1093.png"
     },
     {
       "audio_bnk": "SFX_Boost_Toon.bnk",
@@ -849,7 +904,8 @@
       "path": "Boost_Toon.Boost_Toon",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Boost_Toon_T"
+      "thumbnail_package": "Boost_Toon_T",
+      "image_path": "images/1094.png"
     },
     {
       "audio_bnk": "SFX_Boost_Plexus.bnk",
@@ -863,7 +919,8 @@
       "path": "boost_plexus.boost_plexus",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_Plexus_T"
+      "thumbnail_package": "boost_Plexus_T",
+      "image_path": "images/1158.png"
     },
     {
       "audio_bnk": "SFX_Boost_IceShards.bnk",
@@ -877,7 +934,8 @@
       "path": "boost_iceshards.boost_iceshards",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Boost_IceShards_T"
+      "thumbnail_package": "Boost_IceShards_T",
+      "image_path": "images/1166.png"
     },
     {
       "audio_bnk": "SFX_Boost_FlameThrower.bnk",
@@ -891,7 +949,8 @@
       "path": "Boost_Flamethrower_Yellow.Boost_Flamethrower_Yellow",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Flamethrower_Yellow_T"
+      "thumbnail_package": "Boost_Flamethrower_Yellow_T",
+      "image_path": "images/1318.png"
     },
     {
       "audio_bnk": "",
@@ -905,7 +964,8 @@
       "path": "Boost_Standard_Green.Boost_Standard_Green",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Boost_Standard_Green_T"
+      "thumbnail_package": "Boost_Standard_Green_T",
+      "image_path": "images/1319.png"
     },
     {
       "audio_bnk": "SFX_Boost_Lava.bnk",
@@ -919,7 +979,8 @@
       "path": "boost_lava.boost_lava",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Boost_Lava_T"
+      "thumbnail_package": "Boost_Lava_T",
+      "image_path": "images/1327.png"
     },
     {
       "audio_bnk": "",
@@ -933,7 +994,8 @@
       "path": "Boost_Challenger.Archetype.Boost_Challenger",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Challenger_T"
+      "thumbnail_package": "Boost_Challenger_T",
+      "image_path": "images/1334.png"
     },
     {
       "audio_bnk": "",
@@ -947,7 +1009,8 @@
       "path": "Boost_Champion.Archetype.Boost_Champion",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Champion_T"
+      "thumbnail_package": "Boost_Champion_T",
+      "image_path": "images/1335.png"
     },
     {
       "audio_bnk": "",
@@ -961,7 +1024,8 @@
       "path": "Boost_Prospect.Archetype.Boost_Prospect",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Prospect_T"
+      "thumbnail_package": "Boost_Prospect_T",
+      "image_path": "images/1336.png"
     },
     {
       "audio_bnk": "SFX_Boost_Star.bnk",
@@ -975,7 +1039,8 @@
       "path": "Boost_Star.Archetype.Boost_Star",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Star_T"
+      "thumbnail_package": "Boost_Star_T",
+      "image_path": "images/1337.png"
     },
     {
       "audio_bnk": "SFX_Boost_Ink.bnk",
@@ -989,7 +1054,8 @@
       "path": "boost_ink.boost_ink",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Boost_Ink_T"
+      "thumbnail_package": "Boost_Ink_T",
+      "image_path": "images/1452.png"
     },
     {
       "audio_bnk": "SFX_Boost_Treasure.bnk",
@@ -1003,7 +1069,8 @@
       "path": "boost_treasures.boost_treasures",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Boost_Treasures_T"
+      "thumbnail_package": "Boost_Treasures_T",
+      "image_path": "images/1459.png"
     },
     {
       "audio_bnk": "SFX_Boost_FusionEnergy.bnk",
@@ -1017,7 +1084,8 @@
       "path": "Boost_FusionEnergy.Boost_FusionEnergy",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_FusionEnergy_T"
+      "thumbnail_package": "Boost_FusionEnergy_T",
+      "image_path": "images/1469.png"
     },
     {
       "audio_bnk": "SFX_Boost_Lightning.bnk",
@@ -1031,7 +1099,8 @@
       "path": "boost_lightning_yellow.boost_lightning_yellow",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Boost_Lightning_Yellow_T"
+      "thumbnail_package": "Boost_Lightning_Yellow_T",
+      "image_path": "images/1473.png"
     },
     {
       "audio_bnk": "SFX_Boost_Bones.bnk",
@@ -1045,7 +1114,8 @@
       "path": "boost_bones.boost_bones",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Bones_T"
+      "thumbnail_package": "Boost_Bones_T",
+      "image_path": "images/1498.png"
     },
     {
       "audio_bnk": "SFX_Boost_Photon.bnk",
@@ -1059,7 +1129,8 @@
       "path": "Boost_Photon.Boost_Photon",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Photon_T"
+      "thumbnail_package": "Boost_Photon_T",
+      "image_path": "images/1542.png"
     },
     {
       "audio_bnk": "SFX_Boost_AlienLiquid.bnk",
@@ -1073,7 +1144,8 @@
       "path": "boost_alienliquid.boost_alienliquid",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Boost_AlienLiquid_T"
+      "thumbnail_package": "Boost_AlienLiquid_T",
+      "image_path": "images/1550.png"
     },
     {
       "audio_bnk": "",
@@ -1087,7 +1159,8 @@
       "path": "boost_darkmatter.boost_darkmatter",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Darkmatter_T"
+      "thumbnail_package": "Boost_Darkmatter_T",
+      "image_path": "images/1551.png"
     },
     {
       "audio_bnk": "SFX_Boost_TechnoTrail.bnk",
@@ -1101,7 +1174,8 @@
       "path": "boost_technotrail.boost_technotrail",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_TechnoTrail_T"
+      "thumbnail_package": "Boost_TechnoTrail_T",
+      "image_path": "images/1552.png"
     },
     {
       "audio_bnk": "SFX_Boost_LightWave.bnk",
@@ -1115,7 +1189,8 @@
       "path": "boost_lightwave.boost_lightwave",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_lightwave_T"
+      "thumbnail_package": "boost_lightwave_T",
+      "image_path": "images/1584.png"
     },
     {
       "audio_bnk": "",
@@ -1129,7 +1204,8 @@
       "path": "boost_zti.boost_zti",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_ZTI_T"
+      "thumbnail_package": "Boost_ZTI_T",
+      "image_path": "images/1638.png"
     },
     {
       "audio_bnk": "SFX_Boost_Taco.bnk",
@@ -1143,7 +1219,8 @@
       "path": "boost_taco.boost_taco",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Boost_Taco_T"
+      "thumbnail_package": "Boost_Taco_T",
+      "image_path": "images/1680.png"
     },
     {
       "audio_bnk": "SFX_Boost_Hexfade.bnk",
@@ -1157,7 +1234,8 @@
       "path": "boost_hexfade.boost_hexfade",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Boost_HexFade_T"
+      "thumbnail_package": "Boost_HexFade_T",
+      "image_path": "images/1694.png"
     },
     {
       "audio_bnk": "",
@@ -1171,7 +1249,8 @@
       "path": "boost_stream.boost_stream",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_Stream_T"
+      "thumbnail_package": "boost_Stream_T",
+      "image_path": "images/1695.png"
     },
     {
       "audio_bnk": "",
@@ -1185,7 +1264,8 @@
       "path": "boost_colorsmoke.boost_colorsmoke",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_ColorSmoke_T"
+      "thumbnail_package": "Boost_ColorSmoke_T",
+      "image_path": "images/1736.png"
     },
     {
       "audio_bnk": "",
@@ -1199,7 +1279,8 @@
       "path": "boost_rm.boost_rm",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Boost_RM_T"
+      "thumbnail_package": "Boost_RM_T",
+      "image_path": "images/1957.png"
     },
     {
       "id": "2020",
@@ -1226,7 +1307,8 @@
       "path": "boost_Powershot.boost_Powershot",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Powershot_T"
+      "thumbnail_package": "Boost_Powershot_T",
+      "image_path": "images/2054.png"
     },
     {
       "audio_bnk": "SFX_Boost_ScaryFaces.bnk",
@@ -1240,7 +1322,8 @@
       "path": "boost_scaryfaces.boost_scaryfaces",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_scaryfaces_T"
+      "thumbnail_package": "boost_scaryfaces_T",
+      "image_path": "images/2327.png"
     },
     {
       "audio_bnk": "",
@@ -1254,7 +1337,8 @@
       "path": "boost_pumpkin.boost_pumpkin",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "boost_pumpkin_T"
+      "thumbnail_package": "boost_pumpkin_T",
+      "image_path": "images/2328.png"
     },
     {
       "id": "2354",
@@ -1281,7 +1365,8 @@
       "path": "boost_abstractfire.boost_abstractfire",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_AbstractFire_T"
+      "thumbnail_package": "Boost_AbstractFire_T",
+      "image_path": "images/2394.png"
     },
     {
       "audio_bnk": "",
@@ -1295,7 +1380,8 @@
       "path": "boost_winter.boost_winter",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Winter_T"
+      "thumbnail_package": "Boost_Winter_T",
+      "image_path": "images/2442.png"
     },
     {
       "audio_bnk": "SFX_Boost_HolidayDeco.bnk",
@@ -1309,7 +1395,8 @@
       "path": "boost_holidaydeco.boost_holidaydeco",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Boost_HolidayDeco_T"
+      "thumbnail_package": "Boost_HolidayDeco_T",
+      "image_path": "images/2478.png"
     },
     {
       "audio_bnk": "",
@@ -1323,7 +1410,8 @@
       "path": "boost_bfooom.boost_bfooom",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Bfooom_T"
+      "thumbnail_package": "Boost_Bfooom_T",
+      "image_path": "images/2645.png"
     },
     {
       "audio_bnk": "SFX_Boost_Manga.bnk",
@@ -1337,7 +1425,8 @@
       "path": "boost_mangaoutline.boost_mangaoutline",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_MangaOutline_T"
+      "thumbnail_package": "Boost_MangaOutline_T",
+      "image_path": "images/2654.png"
     },
     {
       "audio_bnk": "SFX_Boost_Meteors.bnk",
@@ -1351,7 +1440,8 @@
       "path": "boost_meteors.boost_meteors",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Meteors_T"
+      "thumbnail_package": "Boost_Meteors_T",
+      "image_path": "images/2712.png"
     },
     {
       "audio_bnk": "SFX_Boost_Floral.bnk",
@@ -1365,7 +1455,8 @@
       "path": "boost_floral.boost_floral",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "boost_floral_T"
+      "thumbnail_package": "boost_floral_T",
+      "image_path": "images/2722.png"
     },
     {
       "audio_bnk": "SFX_Boost_Hydroburst.bnk",
@@ -1379,7 +1470,8 @@
       "path": "boost_hydroburst.boost_hydroburst",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Hydroburst_T"
+      "thumbnail_package": "Boost_Hydroburst_T",
+      "image_path": "images/2727.png"
     },
     {
       "audio_bnk": "SFX_Boost_Berry.bnk",
@@ -1393,7 +1485,8 @@
       "path": "boost_berry.boost_berry",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "boost_berry_T"
+      "thumbnail_package": "boost_berry_T",
+      "image_path": "images/2765.png"
     },
     {
       "audio_bnk": "SFX_Boost_Eggplant.bnk",
@@ -1407,7 +1500,8 @@
       "path": "boost_eggplant.boost_eggplant",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Eggplant_T"
+      "thumbnail_package": "Boost_Eggplant_T",
+      "image_path": "images/2780.png"
     },
     {
       "audio_bnk": "SFX_Boost_SF.bnk",
@@ -1421,7 +1515,8 @@
       "path": "boost_sf.boost_sf",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_SF_T"
+      "thumbnail_package": "Boost_SF_T",
+      "image_path": "images/2782.png"
     },
     {
       "audio_bnk": "SFX_Boost_CherryBlossom.bnk",
@@ -1435,7 +1530,8 @@
       "path": "boost_cherryblossom.boost_cherryblossom",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_CherryBlossom_T"
+      "thumbnail_package": "Boost_CherryBlossom_T",
+      "image_path": "images/2789.png"
     },
     {
       "audio_bnk": "SFX_Boost_Pickles.bnk",
@@ -1449,7 +1545,8 @@
       "path": "boost_pickles.boost_pickles",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Pickles_T"
+      "thumbnail_package": "Boost_Pickles_T",
+      "image_path": "images/2820.png"
     },
     {
       "audio_bnk": "SFX_Boost_Firelines.bnk",
@@ -1463,7 +1560,8 @@
       "path": "boost_firelines.boost_firelines",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Firelines_T"
+      "thumbnail_package": "Boost_Firelines_T",
+      "image_path": "images/2837.png"
     },
     {
       "audio_bnk": "SFX_Boost_Popcorn.bnk",
@@ -1477,7 +1575,8 @@
       "path": "boost_popcorn.boost_popcorn",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_PopCorn_T"
+      "thumbnail_package": "Boost_PopCorn_T",
+      "image_path": "images/2879.png"
     },
     {
       "audio_bnk": "SFX_Boost_Toon.bnk",
@@ -1491,7 +1590,8 @@
       "path": "boost_toonywater.boost_toonywater",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Boost_ToonyWater_T"
+      "thumbnail_package": "Boost_ToonyWater_T",
+      "image_path": "images/2880.png"
     },
     {
       "audio_bnk": "SFX_Boost_EnergyStrike.bnk",
@@ -1505,7 +1605,8 @@
       "path": "boost_energystrike.boost_energystrike",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_EnergyStrike_T"
+      "thumbnail_package": "Boost_EnergyStrike_T",
+      "image_path": "images/2899.png"
     },
     {
       "audio_bnk": "SFX_Boost_SunRays.bnk",
@@ -1519,7 +1620,8 @@
       "path": "boost_sunrays.boost_sunrays",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_sunrays_T"
+      "thumbnail_package": "boost_sunrays_T",
+      "image_path": "images/2904.png"
     },
     {
       "audio_bnk": "SFX_Boost_EnergyBurst.bnk",
@@ -1533,7 +1635,8 @@
       "path": "boost_energyburst.boost_energyburst",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_energyburst_T"
+      "thumbnail_package": "boost_energyburst_T",
+      "image_path": "images/2916.png"
     },
     {
       "audio_bnk": "SFX_Boost_Cupid.bnk",
@@ -1547,7 +1650,8 @@
       "path": "boost_cupid.boost_cupid",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Cupid_T"
+      "thumbnail_package": "Boost_Cupid_T",
+      "image_path": "images/3042.png"
     },
     {
       "audio_bnk": "SFX_Boost_Watermelon.bnk",
@@ -1561,7 +1665,8 @@
       "path": "boost_watermelon.boost_watermelon",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_watermelon_T"
+      "thumbnail_package": "boost_watermelon_T",
+      "image_path": "images/3053.png"
     },
     {
       "audio_bnk": "SFX_Boost_Techy.bnk",
@@ -1575,7 +1680,8 @@
       "path": "boost_techy.boost_techy",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_techy_T"
+      "thumbnail_package": "boost_techy_T",
+      "image_path": "images/3114.png"
     },
     {
       "audio_bnk": "",
@@ -1589,7 +1695,8 @@
       "path": "Boost_Intenz_Tier1.Boost_Intenz_Tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Intenz_Tier1_T"
+      "thumbnail_package": "Boost_Intenz_Tier1_T",
+      "image_path": "images/3126.png"
     },
     {
       "audio_bnk": "",
@@ -1603,7 +1710,8 @@
       "path": "Boost_Intenz_Tier2.Boost_Intenz_Tier2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Intenz_Tier2_T"
+      "thumbnail_package": "Boost_Intenz_Tier2_T",
+      "image_path": "images/3127.png"
     },
     {
       "audio_bnk": "",
@@ -1617,7 +1725,8 @@
       "path": "Boost_Intenz_Tier3.Materials.Boost_Intenz_Tier3",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Intenz_Tier3_T"
+      "thumbnail_package": "Boost_Intenz_Tier3_T",
+      "image_path": "images/3128.png"
     },
     {
       "audio_bnk": "SFX_Boost_Phleyms.bnk",
@@ -1631,7 +1740,8 @@
       "path": "boost_phleyms.boost_phleyms",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_phleyms_T"
+      "thumbnail_package": "boost_phleyms_T",
+      "image_path": "images/3263.png"
     },
     {
       "audio_bnk": "",
@@ -1645,7 +1755,8 @@
       "path": "boost_retrotech.boost_retrotech",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_RetroTech_T"
+      "thumbnail_package": "Boost_RetroTech_T",
+      "image_path": "images/3331.png"
     },
     {
       "audio_bnk": "",
@@ -1659,7 +1770,8 @@
       "path": "boost_s8r_bsg.boost_s8r_bsg",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S8R_BSG_T"
+      "thumbnail_package": "Boost_S8R_BSG_T",
+      "image_path": "images/3384.png"
     },
     {
       "audio_bnk": "",
@@ -1673,7 +1785,8 @@
       "path": "boost_s8r_cgc.boost_s8r_cgc",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S8R_CGC_T"
+      "thumbnail_package": "Boost_S8R_CGC_T",
+      "image_path": "images/3385.png"
     },
     {
       "audio_bnk": "",
@@ -1687,7 +1800,8 @@
       "path": "boost_s8r_dp.boost_s8r_dp",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S8R_DP_T"
+      "thumbnail_package": "Boost_S8R_DP_T",
+      "image_path": "images/3386.png"
     },
     {
       "audio_bnk": "",
@@ -1701,7 +1815,8 @@
       "path": "boost_s8r_2_bsg.boost_s8r_2_bsg",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S8R_2_BSG_T"
+      "thumbnail_package": "Boost_S8R_2_BSG_T",
+      "image_path": "images/3472.png"
     },
     {
       "audio_bnk": "",
@@ -1715,7 +1830,8 @@
       "path": "boost_s8r_2_cgc.boost_s8r_2_cgc",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S8R_2_CGC_T"
+      "thumbnail_package": "Boost_S8R_2_CGC_T",
+      "image_path": "images/3473.png"
     },
     {
       "audio_bnk": "",
@@ -1729,7 +1845,8 @@
       "path": "boost_s8r_2_dp.boost_s8r_2_dp",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S8R_2_DP_T"
+      "thumbnail_package": "Boost_S8R_2_DP_T",
+      "image_path": "images/3474.png"
     },
     {
       "audio_bnk": "SFX_Boost_PixelTech.bnk",
@@ -1743,7 +1860,8 @@
       "path": "boost_pixeltech.boost_pixeltech",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_PixelTech_T"
+      "thumbnail_package": "Boost_PixelTech_T",
+      "image_path": "images/3493.png"
     },
     {
       "audio_bnk": "SFX_Boost_Fireworks.bnk",
@@ -1757,7 +1875,8 @@
       "path": "boost_fireworks.boost_fireworks",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_fireworks_T"
+      "thumbnail_package": "boost_fireworks_T",
+      "image_path": "images/3528.png"
     },
     {
       "audio_bnk": "SFX_Boost_Firemane_T01.bnk",
@@ -1771,7 +1890,8 @@
       "path": "boost_firemane_tier1.boost_firemane_tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Firemane_Tier1_T"
+      "thumbnail_package": "Boost_Firemane_Tier1_T",
+      "image_path": "images/3548.png"
     },
     {
       "audio_bnk": "SFX_Boost_Firemane_T02.bnk",
@@ -1785,7 +1905,8 @@
       "path": "Boost_Firemane_Tier2.Boost_Firemane_Tier2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Firemane_Tier2_T"
+      "thumbnail_package": "Boost_Firemane_Tier2_T",
+      "image_path": "images/3549.png"
     },
     {
       "audio_bnk": "SFX_Boost_Firemane_T03.bnk",
@@ -1799,7 +1920,8 @@
       "path": "Boost_Firemane_Tier3.Boost_Firemane_Tier3",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Firemane_Tier3_T"
+      "thumbnail_package": "Boost_Firemane_Tier3_T",
+      "image_path": "images/3550.png"
     },
     {
       "audio_bnk": "SFX_Boost_RedEnvelopes.bnk",
@@ -1813,7 +1935,8 @@
       "path": "boost_redenvelope.boost_redenvelope",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_RedEnvelope_T"
+      "thumbnail_package": "Boost_RedEnvelope_T",
+      "image_path": "images/3742.png"
     },
     {
       "audio_bnk": "SFX_Boost_Baseball.bnk",
@@ -1827,7 +1950,8 @@
       "path": "boost_baseball.boost_baseball",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Boost_Baseball_T"
+      "thumbnail_package": "Boost_Baseball_T",
+      "image_path": "images/3796.png"
     },
     {
       "audio_bnk": "SFX_Boost_Lanterns.bnk",
@@ -1841,7 +1965,8 @@
       "path": "boost_lanterns.boost_lanterns",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Lanterns_T"
+      "thumbnail_package": "Boost_Lanterns_T",
+      "image_path": "images/3798.png"
     },
     {
       "audio_bnk": "SFX_Boost_Glitch.bnk",
@@ -1855,7 +1980,8 @@
       "path": "boost_glitch.boost_glitch",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_glitch_T"
+      "thumbnail_package": "boost_glitch_T",
+      "image_path": "images/3808.png"
     },
     {
       "audio_bnk": "SFX_Boost_Blade_T01.bnk",
@@ -1869,7 +1995,8 @@
       "path": "boost_blade_tier1.boost_blade_tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Blade_Tier1_T"
+      "thumbnail_package": "Boost_Blade_Tier1_T",
+      "image_path": "images/3957.png"
     },
     {
       "audio_bnk": "SFX_Boost_Blade_T02.bnk",
@@ -1883,7 +2010,8 @@
       "path": "boost_blade_tier2.boost_blade_tier2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Blade_Tier2_T"
+      "thumbnail_package": "Boost_Blade_Tier2_T",
+      "image_path": "images/3958.png"
     },
     {
       "audio_bnk": "SFX_Boost_Blade_T03.bnk",
@@ -1897,7 +2025,8 @@
       "path": "boost_blade_tier3.boost_blade_tier3",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Blade_Tier3_T"
+      "thumbnail_package": "Boost_Blade_Tier3_T",
+      "image_path": "images/3959.png"
     },
     {
       "audio_bnk": "SFX_Boost_GPP.bnk",
@@ -1911,7 +2040,8 @@
       "path": "boost_gpp.boost_gpp",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_GPP_T"
+      "thumbnail_package": "Boost_GPP_T",
+      "image_path": "images/4048.png"
     },
     {
       "audio_bnk": "SFX_Boost_FusionEnergy.bnk",
@@ -1925,7 +2055,8 @@
       "path": "boost_fusion.boost_fusion",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Fusion_T"
+      "thumbnail_package": "Boost_Fusion_T",
+      "image_path": "images/4053.png"
     },
     {
       "audio_bnk": "SFX_Boost_EP.bnk",
@@ -1939,7 +2070,8 @@
       "path": "boost_ep.boost_ep",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_EP_T"
+      "thumbnail_package": "Boost_EP_T",
+      "image_path": "images/4067.png"
     },
     {
       "audio_bnk": "SFX_Boost_Edge.bnk",
@@ -1953,7 +2085,8 @@
       "path": "boost_edge.boost_edge",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Edge_T"
+      "thumbnail_package": "Boost_Edge_T",
+      "image_path": "images/4143.png"
     },
     {
       "audio_bnk": "",
@@ -1967,7 +2100,8 @@
       "path": "boost_seasoneleven01.boost_seasoneleven01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_seasoneleven01_T"
+      "thumbnail_package": "boost_seasoneleven01_T",
+      "image_path": "images/4160.png"
     },
     {
       "audio_bnk": "",
@@ -1981,7 +2115,8 @@
       "path": "boost_seasoneleven02.boost_seasoneleven02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_seasoneleven02_T"
+      "thumbnail_package": "boost_seasoneleven02_T",
+      "image_path": "images/4161.png"
     },
     {
       "audio_bnk": "",
@@ -1995,7 +2130,8 @@
       "path": "boost_seasoneleven03.boost_seasoneleven03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_seasoneleven03_T"
+      "thumbnail_package": "boost_seasoneleven03_T",
+      "image_path": "images/4162.png"
     },
     {
       "audio_bnk": "",
@@ -2009,7 +2145,8 @@
       "path": "boost_seasoneleven04.boost_seasoneleven04",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_seasoneleven04_T"
+      "thumbnail_package": "boost_seasoneleven04_T",
+      "image_path": "images/4163.png"
     },
     {
       "audio_bnk": "",
@@ -2023,7 +2160,8 @@
       "path": "boost_seasoneleven05.boost_seasoneleven05",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_seasoneleven05_T"
+      "thumbnail_package": "boost_seasoneleven05_T",
+      "image_path": "images/4164.png"
     },
     {
       "audio_bnk": "",
@@ -2037,7 +2175,8 @@
       "path": "boost_seasoneleven06.boost_seasoneleven06",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_seasoneleven06_T"
+      "thumbnail_package": "boost_seasoneleven06_T",
+      "image_path": "images/4165.png"
     },
     {
       "audio_bnk": "",
@@ -2051,7 +2190,8 @@
       "path": "boost_seasoneleven07.boost_seasoneleven07",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_seasoneleven07_T"
+      "thumbnail_package": "boost_seasoneleven07_T",
+      "image_path": "images/4166.png"
     },
     {
       "audio_bnk": "SFX_Boost_Feline.bnk",
@@ -2060,12 +2200,13 @@
       "name": "K.I.T.T.",
       "upk_path": "boost_feline_SF.upk",
       "thumbnail": "Boost_Feline_T_SF.upk",
-      "quality": "Import",
+      "quality": "Common",
       "package": "boost_feline",
       "path": "boost_feline.boost_feline",
-      "quality_id": 4,
+      "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Boost_Feline_T"
+      "thumbnail_package": "Boost_Feline_T",
+      "image_path": "images/4188.png"
     },
     {
       "audio_bnk": "SFX_Boost_MangaFlames.bnk",
@@ -2079,7 +2220,8 @@
       "path": "boost_mangaflames.boost_mangaflames",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_mangaflames_T"
+      "thumbnail_package": "boost_mangaflames_T",
+      "image_path": "images/4241.png"
     },
     {
       "audio_bnk": "SFX_Boost_VT.bnk",
@@ -2093,7 +2235,8 @@
       "path": "boost_vt.boost_vt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_VT_T"
+      "thumbnail_package": "Boost_VT_T",
+      "image_path": "images/4242.png"
     },
     {
       "audio_bnk": "SFX_Boost_NinjaStar.bnk",
@@ -2107,7 +2250,8 @@
       "path": "boost_ninjastar.boost_ninjastar",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_NinjaStar_T"
+      "thumbnail_package": "Boost_NinjaStar_T",
+      "image_path": "images/4282.png"
     },
     {
       "audio_bnk": "SFX_Boost_Fiber_Tier2.bnk",
@@ -2121,7 +2265,8 @@
       "path": "boost_fiber_tier2.boost_fiber_tier2",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_fiber_tier2_T"
+      "thumbnail_package": "boost_fiber_tier2_T",
+      "image_path": "images/4298.png"
     },
     {
       "audio_bnk": "",
@@ -2135,7 +2280,8 @@
       "path": "boost_vaporwave.boost_vaporwave",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_VaporWave_T"
+      "thumbnail_package": "Boost_VaporWave_T",
+      "image_path": "images/4330.png"
     },
     {
       "audio_bnk": "SFX_Boost_RaceFlames.bnk",
@@ -2149,7 +2295,8 @@
       "path": "boost_raceflames.boost_raceflames",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_RaceFlames_T"
+      "thumbnail_package": "Boost_RaceFlames_T",
+      "image_path": "images/4340.png"
     },
     {
       "audio_bnk": "SFX_Boost_TW.bnk",
@@ -2163,7 +2310,8 @@
       "path": "boost_tw.boost_tw",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Tw_T"
+      "thumbnail_package": "Boost_Tw_T",
+      "image_path": "images/4372.png"
     },
     {
       "audio_bnk": "SFX_Boost_Autumn.bnk",
@@ -2177,7 +2325,8 @@
       "path": "boost_autumn.boost_autumn",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_autumn_T"
+      "thumbnail_package": "boost_autumn_T",
+      "image_path": "images/4412.png"
     },
     {
       "audio_bnk": "SFX_Boost_Fiber_Tier1.bnk",
@@ -2191,7 +2340,8 @@
       "path": "boost_fiber_tier1.boost_fiber_tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Fiber_tier1_T"
+      "thumbnail_package": "Boost_Fiber_tier1_T",
+      "image_path": "images/4452.png"
     },
     {
       "audio_bnk": "SFX_Boost_Glaucous.bnk",
@@ -2205,7 +2355,8 @@
       "path": "boost_glaucous.boost_glaucous",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_glaucous_T"
+      "thumbnail_package": "boost_glaucous_T",
+      "image_path": "images/4498.png"
     },
     {
       "audio_bnk": "SFX_Boost_HolidayLights.bnk",
@@ -2219,7 +2370,8 @@
       "path": "boost_holidaylights.boost_holidaylights",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_holidaylights_T"
+      "thumbnail_package": "boost_holidaylights_T",
+      "image_path": "images/4503.png"
     },
     {
       "audio_bnk": "",
@@ -2233,7 +2385,8 @@
       "path": "boost_st.boost_st",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_st_T"
+      "thumbnail_package": "boost_st_T",
+      "image_path": "images/4539.png"
     },
     {
       "audio_bnk": "SFX_Boost_BeatS.bnk",
@@ -2247,7 +2400,8 @@
       "path": "boost_beat.boost_beat",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_beat_T"
+      "thumbnail_package": "boost_beat_T",
+      "image_path": "images/4570.png"
     },
     {
       "audio_bnk": "SFX_Boost_Anime.bnk",
@@ -2261,7 +2415,8 @@
       "path": "boost_anime.boost_anime_tier1",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_anime_T"
+      "thumbnail_package": "boost_anime_T",
+      "image_path": "images/4604.png"
     },
     {
       "audio_bnk": "SFX_Boost_Anime.bnk",
@@ -2275,7 +2430,8 @@
       "path": "boost_anime.boost_anime_tier2",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_anime_T"
+      "thumbnail_package": "boost_anime_T",
+      "image_path": "images/4605.png"
     },
     {
       "id": "4773",
@@ -2288,7 +2444,8 @@
       "path": "Boost_Burnout.Boost_Burnout",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Burnout_T"
+      "thumbnail_package": "Boost_Burnout_T",
+      "image_path": "images/4773.png"
     },
     {
       "id": "4774",
@@ -2301,7 +2458,8 @@
       "path": "Boost_SandStorm.Boost_SandStorm",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_SandStorm_T"
+      "thumbnail_package": "Boost_SandStorm_T",
+      "image_path": "images/4774.png"
     },
     {
       "audio_bnk": "SFX_Boost_GeoTech.bnk",
@@ -2315,7 +2473,8 @@
       "path": "boost_geotech.boost_geotech",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Geotech_T"
+      "thumbnail_package": "Boost_Geotech_T",
+      "image_path": "images/4783.png"
     },
     {
       "audio_bnk": "SFX_Boost_Comet_T01.bnk",
@@ -2329,7 +2488,8 @@
       "path": "boost_comet.boost_comet_tier1",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_comet_T"
+      "thumbnail_package": "boost_comet_T",
+      "image_path": "images/4802.png"
     },
     {
       "audio_bnk": "SFX_Boost_Comet_T01.bnk",
@@ -2343,7 +2503,8 @@
       "path": "boost_comet.boost_comet_tier2",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_comet_T"
+      "thumbnail_package": "boost_comet_T",
+      "image_path": "images/4803.png"
     },
     {
       "audio_bnk": "SFX_Boost_Crystal.bnk",
@@ -2357,7 +2518,8 @@
       "path": "boost_crystal.boost_crystal",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Crystal_T"
+      "thumbnail_package": "Boost_Crystal_T",
+      "image_path": "images/4872.png"
     },
     {
       "audio_bnk": "SFX_Boost_Fish.bnk",
@@ -2371,7 +2533,8 @@
       "path": "boost_fish.boost_fish",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_fish_T"
+      "thumbnail_package": "boost_fish_T",
+      "image_path": "images/4994.png"
     },
     {
       "audio_bnk": "SFX_Boost_AnimeSmoke.bnk",
@@ -2385,7 +2548,8 @@
       "path": "boost_animesmoke.boost_animesmoke",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_AnimeSmoke_T"
+      "thumbnail_package": "Boost_AnimeSmoke_T",
+      "image_path": "images/5023.png"
     },
     {
       "audio_bnk": "SFX_Boost_RetroBalls.bnk",
@@ -2399,7 +2563,8 @@
       "path": "boost_retroballs.boost_retroballs",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_RetroBalls_T"
+      "thumbnail_package": "Boost_RetroBalls_T",
+      "image_path": "images/5037.png"
     },
     {
       "audio_bnk": "",
@@ -2413,7 +2578,8 @@
       "path": "boost_monsoon.boost_monsoon",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_monsoon_T"
+      "thumbnail_package": "boost_monsoon_T",
+      "image_path": "images/5057.png"
     },
     {
       "audio_bnk": "SFX_Boost_Pops.bnk",
@@ -2427,7 +2593,8 @@
       "path": "boost_pops.boost_pops",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_pops_T"
+      "thumbnail_package": "boost_pops_T",
+      "image_path": "images/5067.png"
     },
     {
       "audio_bnk": "SFX_Boost_Plum.bnk",
@@ -2441,7 +2608,8 @@
       "path": "boost_plum_gold.boost_plum_gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_plum_gold_T"
+      "thumbnail_package": "boost_plum_gold_T",
+      "image_path": "images/5089.png"
     },
     {
       "audio_bnk": "SFX_Boost_Plum.bnk",
@@ -2455,7 +2623,8 @@
       "path": "boost_plum_white.boost_plum_white",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_plum_white_T"
+      "thumbnail_package": "boost_plum_white_T",
+      "image_path": "images/5090.png"
     },
     {
       "audio_bnk": "SFX_Boost_Illustrative.bnk",
@@ -2469,7 +2638,8 @@
       "path": "Boost_Illustrative.Boost_Illustrative",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Illustrative_T"
+      "thumbnail_package": "Boost_Illustrative_T",
+      "image_path": "images/5094.png"
     },
     {
       "audio_bnk": "SFX_Boost_ToonHotDark.bnk",
@@ -2483,7 +2653,8 @@
       "path": "boost_toonhotdark.boost_toonhotdark",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_ToonHotDark_T"
+      "thumbnail_package": "Boost_ToonHotDark_T",
+      "image_path": "images/5095.png"
     },
     {
       "audio_bnk": "SFX_Boost_Supernova.bnk",
@@ -2497,7 +2668,8 @@
       "path": "boost_supernova.boost_supernova",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_SuperNova_T"
+      "thumbnail_package": "Boost_SuperNova_T",
+      "image_path": "images/5112.png"
     },
     {
       "audio_bnk": "SFX_Boost_Psionics.bnk",
@@ -2511,7 +2683,8 @@
       "path": "Boost_Psionics.Boost_Psionics",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Psionics_T"
+      "thumbnail_package": "Boost_Psionics_T",
+      "image_path": "images/5120.png"
     },
     {
       "audio_bnk": "SFX_Boost_Quasar.bnk",
@@ -2525,7 +2698,8 @@
       "path": "boost_quasar.boost_quasar",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "boost_quasar_T"
+      "thumbnail_package": "boost_quasar_T",
+      "image_path": "images/5121.png"
     },
     {
       "audio_bnk": "SFX_Boost_WispySmoke.bnk",
@@ -2539,7 +2713,8 @@
       "path": "Boost_wispysmoke.Boost_wispysmoke",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_WispySmoke_T"
+      "thumbnail_package": "Boost_WispySmoke_T",
+      "image_path": "images/5141.png"
     },
     {
       "audio_bnk": "SFX_Boost_PartyHorn.bnk",
@@ -2553,7 +2728,8 @@
       "path": "Boost_partyhorn.Boost_partyhorn",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_partyhorn_T"
+      "thumbnail_package": "boost_partyhorn_T",
+      "image_path": "images/5149.png"
     },
     {
       "audio_bnk": "",
@@ -2567,7 +2743,8 @@
       "path": "boost_vaporwave_anni.boost_vaporwave_anni",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_vaporwave_anni_T"
+      "thumbnail_package": "boost_vaporwave_anni_T",
+      "image_path": "images/5253.png"
     },
     {
       "audio_bnk": "SFX_Boost_Toon.bnk",
@@ -2581,7 +2758,8 @@
       "path": "boost_toon_psplus.boost_toon_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Boost_Toon_psplus_T"
+      "thumbnail_package": "Boost_Toon_psplus_T",
+      "image_path": "images/5313.png"
     },
     {
       "audio_bnk": "SFX_Boost_AnimatedLines.bnk",
@@ -2595,7 +2773,8 @@
       "path": "boost_Animatedlines.boost_Animatedlines",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_AnimatedLines_T"
+      "thumbnail_package": "Boost_AnimatedLines_T",
+      "image_path": "images/5418.png"
     },
     {
       "audio_bnk": "SFX_Boost_BassBoost.bnk",
@@ -2609,7 +2788,8 @@
       "path": "Boost_BassBoost.Boost_BassBoost",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_bassboost_T"
+      "thumbnail_package": "boost_bassboost_T",
+      "image_path": "images/5466.png"
     },
     {
       "audio_bnk": "SFX_Boost_Sblo.bnk",
@@ -2623,7 +2803,8 @@
       "path": "boost_sblo.boost_sblo",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_sblo_T"
+      "thumbnail_package": "boost_sblo_T",
+      "image_path": "images/5484.png"
     },
     {
       "audio_bnk": "SFX_Boost_Photon.bnk",
@@ -2637,7 +2818,8 @@
       "path": "boost_photon_psplus.boost_photon_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Boost_Photon_PSPlus_T"
+      "thumbnail_package": "Boost_Photon_PSPlus_T",
+      "image_path": "images/5520.png"
     },
     {
       "audio_bnk": "SFX_Boost_2d_Smoke.bnk",
@@ -2651,7 +2833,8 @@
       "path": "boost_2d_smoke.boost_2d_smoke",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_2D_Smoke_T"
+      "thumbnail_package": "Boost_2D_Smoke_T",
+      "image_path": "images/5590.png"
     },
     {
       "audio_bnk": "SFX_Boost_LavaJet.bnk",
@@ -2665,7 +2848,8 @@
       "path": "Boost_lava_jet.Boost_lava_jet",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Lava_Jet_T"
+      "thumbnail_package": "Boost_Lava_Jet_T",
+      "image_path": "images/5600.png"
     },
     {
       "audio_bnk": "SFX_Boost_PuffySmoke.bnk",
@@ -2679,7 +2863,8 @@
       "path": "boost_puffysmoke.boost_puffysmoke",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_PuffySmoke_T"
+      "thumbnail_package": "Boost_PuffySmoke_T",
+      "image_path": "images/5639.png"
     },
     {
       "audio_bnk": "SFX_Boost_Clockwork.bnk",
@@ -2693,7 +2878,8 @@
       "path": "boost_Clockwork.boost_Clockwork",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_Clockwork_T"
+      "thumbnail_package": "boost_Clockwork_T",
+      "image_path": "images/5645.png"
     },
     {
       "audio_bnk": "SFX_Boost_Trace.bnk",
@@ -2707,7 +2893,8 @@
       "path": "boost_trace.boost_trace",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "boost_trace_T"
+      "thumbnail_package": "boost_trace_T",
+      "image_path": "images/5701.png"
     },
     {
       "audio_bnk": "SFX_Boost_SpaceTear.bnk",
@@ -2721,7 +2908,8 @@
       "path": "Boost_space_tear.Boost_space_tear",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_Space_Tear_T"
+      "thumbnail_package": "boost_Space_Tear_T",
+      "image_path": "images/5732.png"
     },
     {
       "audio_bnk": "SFX_Boost_SpellStreak.bnk",
@@ -2735,7 +2923,8 @@
       "path": "boost_spell_streak.boost_spell_streak",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_Spell_Streak_T"
+      "thumbnail_package": "boost_Spell_Streak_T",
+      "image_path": "images/5742.png"
     },
     {
       "audio_bnk": "SFX_Boost_Sphenergy.bnk",
@@ -2749,7 +2938,8 @@
       "path": "boost_sphenergy.boost_sphenergy",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Boost_Sphenergy_T"
+      "thumbnail_package": "Boost_Sphenergy_T",
+      "image_path": "images/5744.png"
     },
     {
       "audio_bnk": "SFX_Boost_NeonShapes.bnk",
@@ -2763,7 +2953,8 @@
       "path": "boost_neonshapes.boost_neonshapes",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_NeonShapes_T"
+      "thumbnail_package": "boost_NeonShapes_T",
+      "image_path": "images/5753.png"
     },
     {
       "audio_bnk": "SFX_Boost_Illgraph.bnk",
@@ -2777,7 +2968,8 @@
       "path": "boost_illgraph.boost_illgraph",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_illgraph_T"
+      "thumbnail_package": "boost_illgraph_T",
+      "image_path": "images/5761.png"
     },
     {
       "audio_bnk": "SFX_Boost_EnergyWave.bnk",
@@ -2791,7 +2983,8 @@
       "path": "Boost_energywave.Boost_energywave",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "boost_EnergyWave_T"
+      "thumbnail_package": "boost_EnergyWave_T",
+      "image_path": "images/5774.png"
     },
     {
       "audio_bnk": "SFX_Boost_Almond.bnk",
@@ -2805,7 +2998,8 @@
       "path": "boost_almond.boost_almond",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Almond_T"
+      "thumbnail_package": "Boost_Almond_T",
+      "image_path": "images/5822.png"
     },
     {
       "audio_bnk": "SFX_Boost_CheckeredFlag.bnk",
@@ -2819,7 +3013,8 @@
       "path": "boost_checkeredflag.boost_checkeredflag",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_CheckeredFlag_T"
+      "thumbnail_package": "boost_CheckeredFlag_T",
+      "image_path": "images/5824.png"
     },
     {
       "audio_bnk": "SFX_Boost_Stylized.bnk",
@@ -2833,7 +3028,8 @@
       "path": "boost_stylized_psplus.boost_stylized_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Boost_Stylized_psplus_T"
+      "thumbnail_package": "Boost_Stylized_psplus_T",
+      "image_path": "images/5840.png"
     },
     {
       "audio_bnk": "SFX_Boost_ToonyBeam.bnk",
@@ -2847,7 +3043,8 @@
       "path": "boost_toony_beam.boost_toony_beam",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_Toony_Beam_T"
+      "thumbnail_package": "boost_Toony_Beam_T",
+      "image_path": "images/5847.png"
     },
     {
       "audio_bnk": "SFX_Boost_Tixy01.bnk",
@@ -2861,7 +3058,8 @@
       "path": "boost_tixy01.boost_tixy01",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_TIXY01_T"
+      "thumbnail_package": "Boost_TIXY01_T",
+      "image_path": "images/5852.png"
     },
     {
       "audio_bnk": "SFX_Boost_Aurora.bnk",
@@ -2875,7 +3073,8 @@
       "path": "boost_aurora.boost_aurora",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_Aurora_T"
+      "thumbnail_package": "boost_Aurora_T",
+      "image_path": "images/5859.png"
     },
     {
       "audio_bnk": "SFX_Boost_Drof.bnk",
@@ -2889,7 +3088,8 @@
       "path": "boost_drof.boost_drof",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Drof_T"
+      "thumbnail_package": "Boost_Drof_T",
+      "image_path": "images/5860.png"
     },
     {
       "audio_bnk": "",
@@ -2903,7 +3103,8 @@
       "path": "boost_s2.boost_s2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_s2_T"
+      "thumbnail_package": "boost_s2_T",
+      "image_path": "images/5864.png"
     },
     {
       "id": "5866",
@@ -2916,7 +3117,8 @@
       "path": "boost_s2.boost_s2_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_s2_T"
+      "thumbnail_package": "boost_s2_T",
+      "image_path": "images/5866.png"
     },
     {
       "id": "5867",
@@ -2929,7 +3131,8 @@
       "path": "boost_s2.boost_s2_03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_s2_T"
+      "thumbnail_package": "boost_s2_T",
+      "image_path": "images/5867.png"
     },
     {
       "id": "5868",
@@ -2942,7 +3145,8 @@
       "path": "boost_s2.boost_s2_04",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_s2_T"
+      "thumbnail_package": "boost_s2_T",
+      "image_path": "images/5868.png"
     },
     {
       "id": "5869",
@@ -2955,7 +3159,8 @@
       "path": "boost_s2.boost_s2_05",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_s2_T"
+      "thumbnail_package": "boost_s2_T",
+      "image_path": "images/5869.png"
     },
     {
       "id": "5870",
@@ -2968,7 +3173,8 @@
       "path": "boost_s2.boost_s2_06",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_s2_T"
+      "thumbnail_package": "boost_s2_T",
+      "image_path": "images/5870.png"
     },
     {
       "id": "5871",
@@ -2981,7 +3187,8 @@
       "path": "boost_s2.boost_s2_07",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_s2_T"
+      "thumbnail_package": "boost_s2_T",
+      "image_path": "images/5871.png"
     },
     {
       "audio_bnk": "SFX_Boost_MagicFire.bnk",
@@ -2995,7 +3202,8 @@
       "path": "boost_magic_fire.boost_magic_fire",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_Magic_Fire_T"
+      "thumbnail_package": "boost_Magic_Fire_T",
+      "image_path": "images/5885.png"
     },
     {
       "id": "5889",
@@ -3008,7 +3216,8 @@
       "path": "boost_s2.boost_s2_08",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_s2_T"
+      "thumbnail_package": "boost_s2_T",
+      "image_path": "images/5889.png"
     },
     {
       "audio_bnk": "SFX_Boost_SingleAtom.bnk",
@@ -3022,7 +3231,8 @@
       "path": "boost_singleatom.boost_singleatom",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Boost_SingleAtom_T"
+      "thumbnail_package": "Boost_SingleAtom_T",
+      "image_path": "images/5892.png"
     },
     {
       "audio_bnk": "SFX_Boost_TrafficCones.bnk",
@@ -3036,7 +3246,8 @@
       "path": "boost_trafficcones.boost_trafficcones",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_trafficcones_T"
+      "thumbnail_package": "boost_trafficcones_T",
+      "image_path": "images/5893.png"
     },
     {
       "audio_bnk": "SFX_Boost_Unicorn.bnk",
@@ -3050,7 +3261,8 @@
       "path": "boost_unicorn.boost_unicorn",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_Unicorn_T"
+      "thumbnail_package": "boost_Unicorn_T",
+      "image_path": "images/5894.png"
     },
     {
       "audio_bnk": "SFX_Boost_Lava.bnk",
@@ -3064,7 +3276,8 @@
       "path": "boost_lava_psplus.boost_lava_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "boost_lava_PSPlus_T"
+      "thumbnail_package": "boost_lava_PSPlus_T",
+      "image_path": "images/5916.png"
     },
     {
       "audio_bnk": "SFX_Boost_Starbeam.bnk",
@@ -3078,7 +3291,8 @@
       "path": "boost_starbeam.boost_starbeam",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_StarBeam_T"
+      "thumbnail_package": "boost_StarBeam_T",
+      "image_path": "images/5934.png"
     },
     {
       "audio_bnk": "SFX_Boost_ElectroBeam.bnk",
@@ -3092,7 +3306,8 @@
       "path": "boost_electrobeam.boost_electrobeam",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_Electrobeam_T"
+      "thumbnail_package": "boost_Electrobeam_T",
+      "image_path": "images/5978.png"
     },
     {
       "audio_bnk": "SFX_Boost_NinjaStar.bnk",
@@ -3106,7 +3321,8 @@
       "path": "boost_ninjastar_psplus.boost_ninjastar_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "boost_ninjastar_psplus_T"
+      "thumbnail_package": "boost_ninjastar_psplus_T",
+      "image_path": "images/6034.png"
     },
     {
       "audio_bnk": "SFX_Boost_Drof.bnk",
@@ -3120,7 +3336,8 @@
       "path": "boost_drofb.FX.boost_drofb",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "boost_drofb_T"
+      "thumbnail_package": "boost_drofb_T",
+      "image_path": "images/6110.png"
     },
     {
       "audio_bnk": "SFX_Boost_Lava.bnk",
@@ -3134,7 +3351,8 @@
       "path": "boost_lava_xbg.boost_lava_xbg",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "boost_lava_xbg_T"
+      "thumbnail_package": "boost_lava_xbg_T",
+      "image_path": "images/6111.png"
     },
     {
       "audio_bnk": "SFX_Boost_Techy.bnk",
@@ -3148,7 +3366,8 @@
       "path": "boost_techy_xbb.boost_techy_xbb",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "boost_techy_xbb_T"
+      "thumbnail_package": "boost_techy_xbb_T",
+      "image_path": "images/6124.png"
     },
     {
       "audio_bnk": "SFX_Boost_UnicornJuice.bnk",
@@ -3162,7 +3381,8 @@
       "path": "boost_unicornjuice.boost_unicornjuice",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Boost_UnicornJuice_T"
+      "thumbnail_package": "Boost_UnicornJuice_T",
+      "image_path": "images/6257.png"
     },
     {
       "audio_bnk": "SFX_Boost_Inky.bnk",
@@ -3176,7 +3396,8 @@
       "path": "boost_inky.boost_inky",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_inky_T"
+      "thumbnail_package": "boost_inky_T",
+      "image_path": "images/6281.png"
     },
     {
       "audio_bnk": "SFX_Boost_PLI.bnk",
@@ -3190,7 +3411,8 @@
       "path": "boost_pli.boost_pli",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_PLI_T"
+      "thumbnail_package": "Boost_PLI_T",
+      "image_path": "images/6742.png"
     },
     {
       "audio_bnk": "SFX_Boost_Clown.bnk",
@@ -3204,7 +3426,8 @@
       "path": "boost_clown.boost_clown",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Clown_T"
+      "thumbnail_package": "Boost_Clown_T",
+      "image_path": "images/6762.png"
     },
     {
       "audio_bnk": "SFX_Boost_B2000.bnk",
@@ -3218,7 +3441,8 @@
       "path": "boost_B2000.boost_B2000",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_b2000_T"
+      "thumbnail_package": "boost_b2000_T",
+      "image_path": "images/6801.png"
     },
     {
       "audio_bnk": "SFX_Boost_Spirits.bnk",
@@ -3232,7 +3456,8 @@
       "path": "Boost_Spirits.Boost_Spirits",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "boost_spirits_T"
+      "thumbnail_package": "boost_spirits_T",
+      "image_path": "images/6879.png"
     },
     {
       "audio_bnk": "SFX_Boost_Core.bnk",
@@ -3246,7 +3471,8 @@
       "path": "boost_core.boost_core",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Core_T"
+      "thumbnail_package": "Boost_Core_T",
+      "image_path": "images/6942.png"
     },
     {
       "audio_bnk": "SFX_Boost_Elm.bnk",
@@ -3260,7 +3486,8 @@
       "path": "boost_elm.boost_elm",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "boost_elm_T"
+      "thumbnail_package": "boost_elm_T",
+      "image_path": "images/7089.png"
     },
     {
       "audio_bnk": "SFX_Boost_ToonFlame.bnk",
@@ -3274,7 +3501,8 @@
       "path": "boost_toonflame.boost_toonflame",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_ToonFlame_T"
+      "thumbnail_package": "Boost_ToonFlame_T",
+      "image_path": "images/7213.png"
     },
     {
       "audio_bnk": "SFX_Boost_Krad.bnk",
@@ -3288,7 +3516,8 @@
       "path": "boost_krad.boost_krad",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_krad_T"
+      "thumbnail_package": "boost_krad_T",
+      "image_path": "images/7367.png"
     },
     {
       "audio_bnk": "SFX_Boost_Slurp.bnk",
@@ -3302,7 +3531,8 @@
       "path": "boost_slurp.boost_slurp",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_slurp_T"
+      "thumbnail_package": "boost_slurp_T",
+      "image_path": "images/7372.png"
     },
     {
       "audio_bnk": "SFX_Boost_Tomb.bnk",
@@ -3316,7 +3546,8 @@
       "path": "boost_tomb.boost_tomb",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Tomb_T"
+      "thumbnail_package": "Boost_Tomb_T",
+      "image_path": "images/7420.png"
     },
     {
       "audio_bnk": "SFX_Boost_Sphexe.bnk",
@@ -3330,7 +3561,8 @@
       "path": "boost_sphexe.boost_sphexe",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_sphexe_T"
+      "thumbnail_package": "boost_sphexe_T",
+      "image_path": "images/7492.png"
     },
     {
       "audio_bnk": "SFX_Boost_Techy.bnk",
@@ -3344,7 +3576,8 @@
       "path": "boost_techy_psplus.boost_techy_psplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "boost_techy_psplus_T"
+      "thumbnail_package": "boost_techy_psplus_T",
+      "image_path": "images/7561.png"
     },
     {
       "audio_bnk": "SFX_Boost_ElectroBeam.bnk",
@@ -3358,7 +3591,8 @@
       "path": "boost_electrobeam_fg.boost_electrobeam_fg",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_electrobeam_fg_T"
+      "thumbnail_package": "boost_electrobeam_fg_T",
+      "image_path": "images/7563.png"
     },
     {
       "audio_bnk": "SFX_Boost_Butterflies.bnk",
@@ -3372,7 +3606,8 @@
       "path": "boost_butterflies.boost_butterflies",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Butterflies_T"
+      "thumbnail_package": "Boost_Butterflies_T",
+      "image_path": "images/7577.png"
     },
     {
       "audio_bnk": "SFX_Boost_StylizedFlame.bnk",
@@ -3386,7 +3621,8 @@
       "path": "boost_stylizedflame.boost_stylizedflame",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_StylizedFlame_T"
+      "thumbnail_package": "Boost_StylizedFlame_T",
+      "image_path": "images/7603.png"
     },
     {
       "id": "7616",
@@ -3413,7 +3649,8 @@
       "path": "boost_doughnut.boost_doughnut",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Doughnut_T"
+      "thumbnail_package": "Boost_Doughnut_T",
+      "image_path": "images/7681.png"
     },
     {
       "audio_bnk": "",
@@ -3427,7 +3664,8 @@
       "path": "boost_zti_psplus.boost_zti_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "boost_zti_psplus_T"
+      "thumbnail_package": "boost_zti_psplus_T",
+      "image_path": "images/7701.png"
     },
     {
       "audio_bnk": "SFX_Boost_Phoenix.bnk",
@@ -3441,7 +3679,8 @@
       "path": "boost_phoenix.boost_phoenix",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_phoenix_T"
+      "thumbnail_package": "boost_phoenix_T",
+      "image_path": "images/7737.png"
     },
     {
       "id": "7739",
@@ -3454,7 +3693,11 @@
       "thumbnail_package": "Boost_GhostHand_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 4,
+      "paintable": true,
+      "path": "boost_ghosthand.boost_ghosthand",
+      "image_path": "images/7739.png"
     },
     {
       "audio_bnk": "SFX_Boost_Pinwheel.bnk",
@@ -3468,7 +3711,8 @@
       "path": "boost_pinwheel.boost_pinwheel",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Pinwheel_T"
+      "thumbnail_package": "Boost_Pinwheel_T",
+      "image_path": "images/7770.png"
     },
     {
       "audio_bnk": "SFX_Boost_Fireball.bnk",
@@ -3482,7 +3726,8 @@
       "path": "boost_fireball.boost_fireball",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_FireBall_T"
+      "thumbnail_package": "Boost_FireBall_T",
+      "image_path": "images/7779.png"
     },
     {
       "audio_bnk": "",
@@ -3496,7 +3741,8 @@
       "path": "boost_fusion_dark.boost_fusion_dark",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Fusion_Dark_T"
+      "thumbnail_package": "Boost_Fusion_Dark_T",
+      "image_path": "images/7781.png"
     },
     {
       "audio_bnk": "SFX_Boost_Singularity.bnk",
@@ -3510,7 +3756,8 @@
       "path": "boost_singularity.boost_singularity",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Singularity_T"
+      "thumbnail_package": "Boost_Singularity_T",
+      "image_path": "images/7806.png"
     },
     {
       "audio_bnk": "SFX_Boost_Mandala.bnk",
@@ -3524,7 +3771,8 @@
       "path": "boost_mandalas.boost_mandalas",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Mandalas_T"
+      "thumbnail_package": "Boost_Mandalas_T",
+      "image_path": "images/7807.png"
     },
     {
       "audio_bnk": "SFX_Boost_CosmicDice.bnk",
@@ -3538,7 +3786,8 @@
       "path": "boost_cosmicdice.boost_cosmicdice",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_CosmicDice_T"
+      "thumbnail_package": "Boost_CosmicDice_T",
+      "image_path": "images/7841.png"
     },
     {
       "audio_bnk": "SFX_Boost_Honeybees.bnk",
@@ -3552,7 +3801,8 @@
       "path": "boost_honeybees.boost_honeybees",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_HoneyBees_T"
+      "thumbnail_package": "Boost_HoneyBees_T",
+      "image_path": "images/7844.png"
     },
     {
       "audio_bnk": "",
@@ -3566,7 +3816,8 @@
       "path": "boost_pyrite.Boost_S7_01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_pyrite_T"
+      "thumbnail_package": "boost_pyrite_T",
+      "image_path": "images/7905.png"
     },
     {
       "audio_bnk": "",
@@ -3580,7 +3831,8 @@
       "path": "boost_pyrite.Boost_S7_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_pyrite_T"
+      "thumbnail_package": "boost_pyrite_T",
+      "image_path": "images/7906.png"
     },
     {
       "audio_bnk": "",
@@ -3594,7 +3846,8 @@
       "path": "boost_pyrite.Boost_S7_03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_pyrite_T"
+      "thumbnail_package": "boost_pyrite_T",
+      "image_path": "images/7907.png"
     },
     {
       "audio_bnk": "",
@@ -3608,7 +3861,8 @@
       "path": "boost_pyrite.Boost_S7_04",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_pyrite_T"
+      "thumbnail_package": "boost_pyrite_T",
+      "image_path": "images/7908.png"
     },
     {
       "audio_bnk": "",
@@ -3622,7 +3876,8 @@
       "path": "boost_pyrite.boost_s7_05",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_pyrite_T"
+      "thumbnail_package": "boost_pyrite_T",
+      "image_path": "images/7909.png"
     },
     {
       "audio_bnk": "",
@@ -3636,7 +3891,8 @@
       "path": "boost_pyrite.Boost_S7_06",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_pyrite_T"
+      "thumbnail_package": "boost_pyrite_T",
+      "image_path": "images/7910.png"
     },
     {
       "audio_bnk": "",
@@ -3650,7 +3906,8 @@
       "path": "boost_pyrite.Boost_S7_07",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_pyrite_T"
+      "thumbnail_package": "boost_pyrite_T",
+      "image_path": "images/7911.png"
     },
     {
       "audio_bnk": "",
@@ -3664,7 +3921,8 @@
       "path": "boost_pyrite.boost_s7_08",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_pyrite_T"
+      "thumbnail_package": "boost_pyrite_T",
+      "image_path": "images/7912.png"
     },
     {
       "audio_bnk": "SFX_Boost_Plexus.bnk",
@@ -3678,7 +3936,8 @@
       "path": "boost_plexus_psplus.boost_plexus_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "boost_Plexus_PSPlus_T"
+      "thumbnail_package": "boost_Plexus_PSPlus_T",
+      "image_path": "images/7913.png"
     },
     {
       "audio_bnk": "SFX_Boost_Street.bnk",
@@ -3692,7 +3951,8 @@
       "path": "boost_street.boost_street",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_street_T"
+      "thumbnail_package": "boost_street_T",
+      "image_path": "images/7925.png"
     },
     {
       "audio_bnk": "SFX_Boost_Patriot.bnk",
@@ -3706,7 +3966,8 @@
       "path": "boost_patriot.FX.boost_patriot",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "boost_Patriot_T"
+      "thumbnail_package": "boost_Patriot_T",
+      "image_path": "images/7982.png"
     },
     {
       "audio_bnk": "SFX_Boost_Tornado.bnk",
@@ -3720,7 +3981,8 @@
       "path": "boost_tornado.boost_tornado",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Tornado_T"
+      "thumbnail_package": "Boost_Tornado_T",
+      "image_path": "images/8192.png"
     },
     {
       "audio_bnk": "SFX_Boost_ToilettePaper.bnk",
@@ -3734,7 +3996,8 @@
       "path": "boost_toilettepaper.boost_toilettepaper",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_ToilettePaper_T"
+      "thumbnail_package": "Boost_ToilettePaper_T",
+      "image_path": "images/8341.png"
     },
     {
       "audio_bnk": "SFX_Boost_IcyBreath.bnk",
@@ -3748,7 +4011,8 @@
       "path": "Boost_IcyBreath.FX.Boost_IcyBreath",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_IcyBreath_T"
+      "thumbnail_package": "Boost_IcyBreath_T",
+      "image_path": "images/8343.png"
     },
     {
       "audio_bnk": "SFX_Boost_Pulse.bnk",
@@ -3762,7 +4026,8 @@
       "path": "boost_pulse.boost_pulse",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Boost_Pulse_T"
+      "thumbnail_package": "Boost_Pulse_T",
+      "image_path": "images/8350.png"
     },
     {
       "audio_bnk": "SFX_Boost_PlasmaEnergy.bnk",
@@ -3776,7 +4041,8 @@
       "path": "boost_plasmaenergy.boost_plasmaenergy",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_PlasmaEnergy_T"
+      "thumbnail_package": "Boost_PlasmaEnergy_T",
+      "image_path": "images/8354.png"
     },
     {
       "audio_bnk": "SFX_Boost_Psydrill.bnk",
@@ -3790,7 +4056,8 @@
       "path": "boost_psydrill.boost_psydrill",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Psydrill_T"
+      "thumbnail_package": "Boost_Psydrill_T",
+      "image_path": "images/8358.png"
     },
     {
       "audio_bnk": "SFX_Boost_MagicSplash.bnk",
@@ -3804,7 +4071,8 @@
       "path": "boost_magicsplash.boost_magicsplash",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_MagicSplash_T"
+      "thumbnail_package": "Boost_MagicSplash_T",
+      "image_path": "images/8359.png"
     },
     {
       "audio_bnk": "SFX_Boost_GreenAir.bnk",
@@ -3818,7 +4086,8 @@
       "path": "boost_greenair.boost_greenair",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_GreenAir_T"
+      "thumbnail_package": "Boost_GreenAir_T",
+      "image_path": "images/8403.png"
     },
     {
       "audio_bnk": "SFX_Boost_Bender.bnk",
@@ -3832,7 +4101,8 @@
       "path": "boost_bender.boost_bender",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Bender_T"
+      "thumbnail_package": "Boost_Bender_T",
+      "image_path": "images/8405.png"
     },
     {
       "audio_bnk": "SFX_Boost_Bubblegum.bnk",
@@ -3846,7 +4116,8 @@
       "path": "boost_bubblegum.boost_bubblegum",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_BubbleGum_T"
+      "thumbnail_package": "Boost_BubbleGum_T",
+      "image_path": "images/8453.png"
     },
     {
       "audio_bnk": "SFX_Boost_Molten.bnk",
@@ -3860,7 +4131,8 @@
       "path": "boost_molten.FX.boost_molten",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Molten_T"
+      "thumbnail_package": "Boost_Molten_T",
+      "image_path": "images/8473.png"
     },
     {
       "audio_bnk": "SFX_Boost_LineColors.bnk",
@@ -3874,7 +4146,8 @@
       "path": "boost_linecolors.boost_linecolors",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_LineColors_T"
+      "thumbnail_package": "Boost_LineColors_T",
+      "image_path": "images/8488.png"
     },
     {
       "audio_bnk": "SFX_Boost_SunRays.bnk",
@@ -3888,7 +4161,8 @@
       "path": "boost_sunrays_psplus.FX.boost_sunrays_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "boost_sunrays_psplus_T"
+      "thumbnail_package": "boost_sunrays_psplus_T",
+      "image_path": "images/8492.png"
     },
     {
       "audio_bnk": "SFX_Boost_AnimeSmoke.bnk",
@@ -3902,7 +4176,8 @@
       "path": "boost_animesmoke_smh.boost_animesmoke_smh",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "boost_animesmoke_smh_T"
+      "thumbnail_package": "boost_animesmoke_smh_T",
+      "image_path": "images/8535.png"
     },
     {
       "audio_bnk": "SFX_Boost_WispySmoke.bnk",
@@ -3916,7 +4191,8 @@
       "path": "Boost_wispysmoke_psplus.Boost_wispysmoke_psplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "Boost_WispySmoke_psplus_T"
+      "thumbnail_package": "Boost_WispySmoke_psplus_T",
+      "image_path": "images/8844.png"
     },
     {
       "id": "9047",
@@ -3929,7 +4205,8 @@
       "path": "Boost_Rainbow23.FX.Boost_Rainbow23",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Rainbow23_T"
+      "thumbnail_package": "Boost_Rainbow23_T",
+      "image_path": "images/9047.png"
     },
     {
       "audio_bnk": "SFX_Boost_MangaFlames.bnk",
@@ -3943,7 +4220,8 @@
       "path": "Boost_mangaflames_psplus.Boost_mangaflames_psplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "boost_mangaflames_psplus_T"
+      "thumbnail_package": "boost_mangaflames_psplus_T",
+      "image_path": "images/9064.png"
     },
     {
       "audio_bnk": "SFX_Boost_Irid.bnk",
@@ -3957,7 +4235,8 @@
       "path": "boost_irid.boost_irid",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "boost_irid_T"
+      "thumbnail_package": "boost_irid_T",
+      "image_path": "images/9109.png"
     },
     {
       "audio_bnk": "SFX_Boost_Starbeam.bnk",
@@ -3971,7 +4250,8 @@
       "path": "boost_starbeam_bw.boost_starbeam_bw",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_StarBeam_BW_T"
+      "thumbnail_package": "Boost_StarBeam_BW_T",
+      "image_path": "images/9134.png"
     },
     {
       "audio_bnk": "SFX_Boost_StylizedFlame.bnk",
@@ -3985,7 +4265,8 @@
       "path": "boost_stylizedflame_bw.boost_stylizedflame_bw",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_StylizedFlame_BW_T"
+      "thumbnail_package": "Boost_StylizedFlame_BW_T",
+      "image_path": "images/9141.png"
     },
     {
       "audio_bnk": "SFX_Boost_Smokerun.bnk",
@@ -3999,7 +4280,8 @@
       "path": "boost_smokerun.boost_smokerun",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_SmokeRun_T"
+      "thumbnail_package": "Boost_SmokeRun_T",
+      "image_path": "images/9190.png"
     },
     {
       "audio_bnk": "SFX_Boost_DigitalTrace.bnk",
@@ -4013,7 +4295,8 @@
       "path": "Boost_DigitalTrace.Boost_DigitalTrace",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_DigitalTrace_T"
+      "thumbnail_package": "Boost_DigitalTrace_T",
+      "image_path": "images/9317.png"
     },
     {
       "id": "9342",
@@ -4026,7 +4309,8 @@
       "path": "s11_sr.FX.boost_s11_sr_01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "s11_sr_T"
+      "thumbnail_package": "s11_sr_T",
+      "image_path": "images/9342.png"
     },
     {
       "id": "9343",
@@ -4039,7 +4323,8 @@
       "path": "s11_sr.FX.boost_s11_sr_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "s11_sr_T"
+      "thumbnail_package": "s11_sr_T",
+      "image_path": "images/9343.png"
     },
     {
       "id": "9344",
@@ -4052,7 +4337,8 @@
       "path": "s11_sr.FX.boost_s11_sr_03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "s11_sr_T"
+      "thumbnail_package": "s11_sr_T",
+      "image_path": "images/9344.png"
     },
     {
       "id": "9345",
@@ -4065,7 +4351,8 @@
       "path": "s11_sr.FX.boost_s11_sr_04",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "s11_sr_T"
+      "thumbnail_package": "s11_sr_T",
+      "image_path": "images/9345.png"
     },
     {
       "id": "9346",
@@ -4078,7 +4365,8 @@
       "path": "s11_sr.FX.boost_s11_sr_05",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "s11_sr_T"
+      "thumbnail_package": "s11_sr_T",
+      "image_path": "images/9346.png"
     },
     {
       "audio_bnk": "SFX_Boost_NeonTraces.bnk",
@@ -4092,7 +4380,8 @@
       "path": "Boost_NeonTraces.Boost_NeonTraces",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_NeonTraces_T"
+      "thumbnail_package": "Boost_NeonTraces_T",
+      "image_path": "images/9354.png"
     },
     {
       "audio_bnk": "SFX_Boost_Glitched.bnk",
@@ -4106,7 +4395,8 @@
       "path": "Boost_Glitched.Boost_Glitched",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Glitched_T"
+      "thumbnail_package": "Boost_Glitched_T",
+      "image_path": "images/9358.png"
     },
     {
       "id": "9363",
@@ -4119,7 +4409,8 @@
       "path": "s11_sr.FX.boost_s11_sr_06",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "s11_sr_T"
+      "thumbnail_package": "s11_sr_T",
+      "image_path": "images/9363.png"
     },
     {
       "id": "9364",
@@ -4132,7 +4423,8 @@
       "path": "s11_sr.FX.boost_s11_sr_07",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "s11_sr_T"
+      "thumbnail_package": "s11_sr_T",
+      "image_path": "images/9364.png"
     },
     {
       "id": "9365",
@@ -4145,7 +4437,8 @@
       "path": "s11_sr.FX.boost_s11_sr_08",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "s11_sr_T"
+      "thumbnail_package": "s11_sr_T",
+      "image_path": "images/9365.png"
     },
     {
       "audio_bnk": "SFX_Boost_Powershot.bnk",
@@ -4159,7 +4452,8 @@
       "path": "boost_powershot_psplus.boost_powershot_psplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "Boost_Powershot_psplus_T"
+      "thumbnail_package": "Boost_Powershot_psplus_T",
+      "image_path": "images/9369.png"
     },
     {
       "id": "9370",
@@ -4186,7 +4480,8 @@
       "path": "boost_koi.boost_koi",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Koi_T"
+      "thumbnail_package": "Boost_Koi_T",
+      "image_path": "images/9396.png"
     },
     {
       "audio_bnk": "SFX_Boost_Interface.bnk",
@@ -4200,7 +4495,8 @@
       "path": "boost_interface.boost_interface",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Interface_T"
+      "thumbnail_package": "Boost_Interface_T",
+      "image_path": "images/9445.png"
     },
     {
       "audio_bnk": "SFX_Boost_ElectroMusic.bnk",
@@ -4214,7 +4510,8 @@
       "path": "boost_electromusic.FX.boost_electromusic",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_ElectroMusic_T"
+      "thumbnail_package": "Boost_ElectroMusic_T",
+      "image_path": "images/9470.png"
     },
     {
       "audio_bnk": "SFX_Boost_SurrealRush.bnk",
@@ -4228,7 +4525,8 @@
       "path": "boost_surrealrush.boost_surrealrush",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_SurrealRush_T"
+      "thumbnail_package": "Boost_SurrealRush_T",
+      "image_path": "images/9551.png"
     },
     {
       "audio_bnk": "",
@@ -4242,7 +4540,8 @@
       "path": "boost_ht.boost_ht",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_ht_T"
+      "thumbnail_package": "Boost_ht_T",
+      "image_path": "images/9556.png"
     },
     {
       "audio_bnk": "SFX_Boost_ZigZag.bnk",
@@ -4256,7 +4555,8 @@
       "path": "boost_zigzaglh.boost_zigzaglh",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Boost_ZigzagLH_T"
+      "thumbnail_package": "Boost_ZigzagLH_T",
+      "image_path": "images/9559.png"
     },
     {
       "audio_bnk": "SFX_Boost_FileTransfer.bnk",
@@ -4270,7 +4570,8 @@
       "path": "boost_filetransfer.boost_filetransfer",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_FileTransfer_T"
+      "thumbnail_package": "Boost_FileTransfer_T",
+      "image_path": "images/9564.png"
     },
     {
       "audio_bnk": "SFX_Boost_RCA.bnk",
@@ -4284,7 +4585,8 @@
       "path": "boost_rca.boost_rca",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_RCA_T"
+      "thumbnail_package": "Boost_RCA_T",
+      "image_path": "images/9593.png"
     },
     {
       "audio_bnk": "SFX_Boost_MeteorIllustrator.bnk",
@@ -4298,7 +4600,8 @@
       "path": "boost_meteorillustrator.FX.boost_meteorillustrator",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_MeteorIllustrator_T"
+      "thumbnail_package": "boost_MeteorIllustrator_T",
+      "image_path": "images/9695.png"
     },
     {
       "audio_bnk": "SFX_Boost_FallingStar.bnk",
@@ -4312,7 +4615,8 @@
       "path": "boost_fallingstar.boost_fallingstar",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_FallingStar_T"
+      "thumbnail_package": "Boost_FallingStar_T",
+      "image_path": "images/9699.png"
     },
     {
       "audio_bnk": "",
@@ -4326,7 +4630,8 @@
       "path": "boost_cocoasmoore.boost_cocoasmoore",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_CocoaSmoore_T"
+      "thumbnail_package": "Boost_CocoaSmoore_T",
+      "image_path": "images/9723.png"
     },
     {
       "audio_bnk": "SFX_Boost_IcyWisp.bnk",
@@ -4340,7 +4645,8 @@
       "path": "boost_icywisp.boost_icywisp",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_IcyWisp_T"
+      "thumbnail_package": "Boost_IcyWisp_T",
+      "image_path": "images/9732.png"
     },
     {
       "audio_bnk": "SFX_Boost_ThinIce.bnk",
@@ -4354,7 +4660,8 @@
       "path": "boost_thinice.boost_thinice",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_ThinIce_T"
+      "thumbnail_package": "Boost_ThinIce_T",
+      "image_path": "images/9734.png"
     },
     {
       "audio_bnk": "SFX_Boost_Laserbeam.bnk",
@@ -4368,7 +4675,8 @@
       "path": "boost_laserbeam.boost_laserbeam",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_LaserBeam_T"
+      "thumbnail_package": "Boost_LaserBeam_T",
+      "image_path": "images/9756.png"
     },
     {
       "audio_bnk": "SFX_Boost_Manga.bnk",
@@ -4382,7 +4690,8 @@
       "path": "boost_mangaoutline_gp.boost_mangaoutline_gp",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_MangaOutline_GP_T"
+      "thumbnail_package": "Boost_MangaOutline_GP_T",
+      "image_path": "images/9771.png"
     },
     {
       "audio_bnk": "",
@@ -4396,7 +4705,8 @@
       "path": "boost_ink02_gp.boost_ink02_gp",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Ink02_GP_T"
+      "thumbnail_package": "Boost_Ink02_GP_T",
+      "image_path": "images/9800.png"
     },
     {
       "audio_bnk": "SFX_Boost_NightEdge.bnk",
@@ -4410,7 +4720,8 @@
       "path": "boost_nightedge.boost_nightedge",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_NightEdge_T"
+      "thumbnail_package": "Boost_NightEdge_T",
+      "image_path": "images/9814.png"
     },
     {
       "audio_bnk": "SFX_Boost_Jellyfish.bnk",
@@ -4424,7 +4735,8 @@
       "path": "boost_jellyfish.boost_jellyfish",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Jellyfish_T"
+      "thumbnail_package": "Boost_Jellyfish_T",
+      "image_path": "images/9827.png"
     },
     {
       "audio_bnk": "SFX_Boost_RageUnleashed.bnk",
@@ -4438,7 +4750,8 @@
       "path": "Boost_RageUnleashed.FX.Boost_RageUnleashed",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_RageUnleashed_T"
+      "thumbnail_package": "Boost_RageUnleashed_T",
+      "image_path": "images/9848.png"
     },
     {
       "audio_bnk": "SFX_Boost_EnergyStrike.bnk",
@@ -4452,7 +4765,8 @@
       "path": "boost_energystrike_psplus.boost_energystrike_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "boost_energystrike_PSPlus_T"
+      "thumbnail_package": "boost_energystrike_PSPlus_T",
+      "image_path": "images/9900.png"
     },
     {
       "audio_bnk": "SFX_Boost_AuraWater.bnk",
@@ -4466,7 +4780,8 @@
       "path": "boost_aurawater.boost_aurawater",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_AuraWater_T"
+      "thumbnail_package": "Boost_AuraWater_T",
+      "image_path": "images/9901.png"
     },
     {
       "audio_bnk": "SFX_Boost_Elements.bnk",
@@ -4480,7 +4795,8 @@
       "path": "boost_elements.boost_elements",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Elements_T"
+      "thumbnail_package": "Boost_Elements_T",
+      "image_path": "images/9906.png"
     },
     {
       "audio_bnk": "SFX_Boost_Necromancer.bnk",
@@ -4494,7 +4810,8 @@
       "path": "boost_necromancer.boost_necromancer",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Necromancer_T"
+      "thumbnail_package": "Boost_Necromancer_T",
+      "image_path": "images/9980.png"
     },
     {
       "audio_bnk": "SFX_Boost_StylizedStrike.bnk",
@@ -4508,7 +4825,8 @@
       "path": "boost_stylized_strike.boost_stylized_strike",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Stylized_Strike_T"
+      "thumbnail_package": "Boost_Stylized_Strike_T",
+      "image_path": "images/10025.png"
     },
     {
       "audio_bnk": "SFX_Boost_Magma.bnk",
@@ -4522,7 +4840,8 @@
       "path": "boost_magma.boost_magma",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Magma_T"
+      "thumbnail_package": "Boost_Magma_T",
+      "image_path": "images/10093.png"
     },
     {
       "audio_bnk": "SFX_Boost_Bloodshot.bnk",
@@ -4536,7 +4855,8 @@
       "path": "boost_bloodshot.FX.boost_bloodshot",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Bloodshot_T"
+      "thumbnail_package": "Boost_Bloodshot_T",
+      "image_path": "images/10157.png"
     },
     {
       "audio_bnk": "SFX_Boost_PulsedEnergy.bnk",
@@ -4550,7 +4870,8 @@
       "path": "boost_pulsed_energy.FX.boost_pulsed_energy",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Pulsed_Energy_T"
+      "thumbnail_package": "Boost_Pulsed_Energy_T",
+      "image_path": "images/10174.png"
     },
     {
       "audio_bnk": "SFX_Boost_LP_Fire.bnk",
@@ -4564,7 +4885,8 @@
       "path": "boost_lp_fire.FX.boost_lp_fire",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_LP_Fire_T"
+      "thumbnail_package": "Boost_LP_Fire_T",
+      "image_path": "images/10179.png"
     },
     {
       "audio_bnk": "SFX_Boost_RapidRush.bnk",
@@ -4578,7 +4900,8 @@
       "path": "boost_rapid_rush.FX.boost_rapid_rush",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Rapid_Rush_T"
+      "thumbnail_package": "Boost_Rapid_Rush_T",
+      "image_path": "images/10185.png"
     },
     {
       "audio_bnk": "SFX_Boost_XRays.bnk",
@@ -4592,7 +4915,8 @@
       "path": "boost_xrays.boost_xrays",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_XRays_T"
+      "thumbnail_package": "Boost_XRays_T",
+      "image_path": "images/10268.png"
     },
     {
       "audio_bnk": "SFX_Boost_Whisp.bnk",
@@ -4606,7 +4930,8 @@
       "path": "boost_whisp.boost_whisp",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Whisp_T"
+      "thumbnail_package": "Boost_Whisp_T",
+      "image_path": "images/10269.png"
     },
     {
       "audio_bnk": "SFX_Boost_Ramen.bnk",
@@ -4620,7 +4945,8 @@
       "path": "boost_ramen.FX.boost_ramen",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Ramen_T"
+      "thumbnail_package": "Boost_Ramen_T",
+      "image_path": "images/10286.png"
     },
     {
       "audio_bnk": "SFX_Boost_DayNight.bnk",
@@ -4634,7 +4960,8 @@
       "path": "boost_daynight.boost_daynight",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_DayNight_T"
+      "thumbnail_package": "Boost_DayNight_T",
+      "image_path": "images/10294.png"
     },
     {
       "audio_bnk": "SFX_Boost_Retrotrails.bnk",
@@ -4648,7 +4975,8 @@
       "path": "boost_retrotrails.FX.boost_retrotrails",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Boost_Retrotrails_T"
+      "thumbnail_package": "Boost_Retrotrails_T",
+      "image_path": "images/10299.png"
     },
     {
       "audio_bnk": "SFX_Boost_PowerBeam.bnk",
@@ -4662,7 +4990,8 @@
       "path": "boost_powerbeam.boost_powerbeam",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_PowerBeam_T"
+      "thumbnail_package": "Boost_PowerBeam_T",
+      "image_path": "images/10303.png"
     },
     {
       "audio_bnk": "SFX_Boost_LightRays.bnk",
@@ -4676,7 +5005,8 @@
       "path": "boost_light_ray.boost_light_ray",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Light_Ray_T"
+      "thumbnail_package": "Boost_Light_Ray_T",
+      "image_path": "images/10324.png"
     },
     {
       "audio_bnk": "SFX_Boost_Neonsoul.bnk",
@@ -4690,7 +5020,8 @@
       "path": "boost_neonsoul.boost_neonsoul",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_NeonSoul_T"
+      "thumbnail_package": "Boost_NeonSoul_T",
+      "image_path": "images/10355.png"
     },
     {
       "audio_bnk": "SFX_Boost_SoulFire.bnk",
@@ -4704,7 +5035,8 @@
       "path": "boost_soulfire.boost_soulfire",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Soulfire_T"
+      "thumbnail_package": "Boost_Soulfire_T",
+      "image_path": "images/10387.png"
     },
     {
       "audio_bnk": "SFX_Boost_TechRay.bnk",
@@ -4718,7 +5050,8 @@
       "path": "Boost_TechRay.Boost_TechRay",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_TechRay_T"
+      "thumbnail_package": "Boost_TechRay_T",
+      "image_path": "images/10413.png"
     },
     {
       "audio_bnk": "SFX_Boost_InfernoVortex.bnk",
@@ -4732,7 +5065,8 @@
       "path": "Boost_InfernoVortex.Boost_InfernoVortex",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_InfernoVortex_T"
+      "thumbnail_package": "Boost_InfernoVortex_T",
+      "image_path": "images/10416.png"
     },
     {
       "audio_bnk": "SFX_Boost_ElectroGalactic.bnk",
@@ -4746,7 +5080,8 @@
       "path": "boost_ElectroGalactic.boost_ElectroGalactic",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Electrogalactic_T"
+      "thumbnail_package": "Boost_Electrogalactic_T",
+      "image_path": "images/10434.png"
     },
     {
       "audio_bnk": "SFX_Boost_Lava02.bnk",
@@ -4760,7 +5095,8 @@
       "path": "boost_lava02.boost_lava02",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Lava02_T"
+      "thumbnail_package": "Boost_Lava02_T",
+      "image_path": "images/10435.png"
     },
     {
       "audio_bnk": "SFX_Boost_ParalyzingFear.bnk",
@@ -4774,7 +5110,8 @@
       "path": "boost_ParalyzingFear.boost_ParalyzingFear",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_ParalyzingFear_T"
+      "thumbnail_package": "Boost_ParalyzingFear_T",
+      "image_path": "images/10456.png"
     },
     {
       "audio_bnk": "SFX_Boost_Sakura.bnk",
@@ -4788,7 +5125,8 @@
       "path": "boost_sakura.FX.boost_sakura",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Sakura_T"
+      "thumbnail_package": "Boost_Sakura_T",
+      "image_path": "images/10470.png"
     },
     {
       "audio_bnk": "SFX_Boost_SolarBeam.bnk",
@@ -4802,7 +5140,8 @@
       "path": "boost_solarbeam.FX.boost_solarbeam",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_SolarBeam_T"
+      "thumbnail_package": "Boost_SolarBeam_T",
+      "image_path": "images/10480.png"
     },
     {
       "audio_bnk": "SFX_Boost_Octo.bnk",
@@ -4816,7 +5155,8 @@
       "path": "boost_octo.FX.boost_octo",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Octo_T"
+      "thumbnail_package": "Boost_Octo_T",
+      "image_path": "images/10481.png"
     },
     {
       "audio_bnk": "SFX_Boost_AW.bnk",
@@ -4830,7 +5170,8 @@
       "path": "boost_aw.boost_aw",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_AW_T"
+      "thumbnail_package": "Boost_AW_T",
+      "image_path": "images/10483.png"
     },
     {
       "audio_bnk": "SFX_Boost_Helix.bnk",
@@ -4844,7 +5185,8 @@
       "path": "boost_helix.FX.boost_helix",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Helix_T"
+      "thumbnail_package": "Boost_Helix_T",
+      "image_path": "images/10484.png"
     },
     {
       "audio_bnk": "SFX_Boost_Future.bnk",
@@ -4858,7 +5200,8 @@
       "path": "boost_future.boost_future",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Future_T"
+      "thumbnail_package": "Boost_Future_T",
+      "image_path": "images/10517.png"
     },
     {
       "audio_bnk": "SFX_Boost_Popstar.bnk",
@@ -4872,7 +5215,8 @@
       "path": "boost_popstar.FX.boost_popstar",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Popstar_T"
+      "thumbnail_package": "Boost_Popstar_T",
+      "image_path": "images/10537.png"
     },
     {
       "audio_bnk": "SFX_Boost_MagicFire.bnk",
@@ -4886,7 +5230,8 @@
       "path": "boost_magic_fire_psplus.boost_magic_fire_psplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "boost_Magic_Fire_PSPlus_T"
+      "thumbnail_package": "boost_Magic_Fire_PSPlus_T",
+      "image_path": "images/10545.png"
     },
     {
       "audio_bnk": "SFX_Boost_Hologlass.bnk",
@@ -4900,7 +5245,8 @@
       "path": "boost_hologlass.boost_hologlass",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Hologlass_T"
+      "thumbnail_package": "Boost_Hologlass_T",
+      "image_path": "images/10600.png"
     },
     {
       "audio_bnk": "SFX_Boost_SpellWarm.bnk",
@@ -4914,7 +5260,8 @@
       "path": "boost_spellwarm.boost_spellwarm",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Spellwarm_T"
+      "thumbnail_package": "Boost_Spellwarm_T",
+      "image_path": "images/10648.png"
     },
     {
       "audio_bnk": "SFX_Boost_Techno.bnk",
@@ -4928,7 +5275,8 @@
       "path": "boost_techno.boost_techno",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_Techno_T"
+      "thumbnail_package": "boost_Techno_T",
+      "image_path": "images/10649.png"
     },
     {
       "audio_bnk": "SFX_Boost_Paladin.bnk",
@@ -4942,7 +5290,8 @@
       "path": "boost_paladin.boost_paladin",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Paladin_T"
+      "thumbnail_package": "Boost_Paladin_T",
+      "image_path": "images/10679.png"
     },
     {
       "audio_bnk": "SFX_Boost_Bluebolt.bnk",
@@ -4956,7 +5305,8 @@
       "path": "boost_bluebolt.FX.boost_bluebolt",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_BlueBolt_T"
+      "thumbnail_package": "Boost_BlueBolt_T",
+      "image_path": "images/10681.png"
     },
     {
       "audio_bnk": "SFX_Boost_Dagger.bnk",
@@ -4970,7 +5320,8 @@
       "path": "boost_dagger.FX.boost_dagger",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Dagger_T"
+      "thumbnail_package": "Boost_Dagger_T",
+      "image_path": "images/10688.png"
     },
     {
       "audio_bnk": "SFX_Boost_Boba.bnk",
@@ -4984,7 +5335,8 @@
       "path": "Boost_Boba.FX.Boost_Boba",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_BoBa_T"
+      "thumbnail_package": "Boost_BoBa_T",
+      "image_path": "images/10692.png"
     },
     {
       "audio_bnk": "SFX_Boost_GoldenOutline.bnk",
@@ -4998,7 +5350,8 @@
       "path": "boost_goldenoutline.boost_goldenoutline",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_GoldenOutline_T"
+      "thumbnail_package": "Boost_GoldenOutline_T",
+      "image_path": "images/10706.png"
     },
     {
       "audio_bnk": "SFX_Boost_Eclipse.bnk",
@@ -5012,7 +5365,8 @@
       "path": "boost_eclipse.FX.boost_eclipse",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Eclipse_T"
+      "thumbnail_package": "Boost_Eclipse_T",
+      "image_path": "images/10746.png"
     },
     {
       "audio_bnk": "SFX_Boost_Kitty_Basic.bnk",
@@ -5026,7 +5380,8 @@
       "path": "boost_kitty_basic.boost_kitty_basic",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Kitty_Basic_T"
+      "thumbnail_package": "Boost_Kitty_Basic_T",
+      "image_path": "images/10777.png"
     },
     {
       "audio_bnk": "SFX_Boost_Sticky01.bnk",
@@ -5040,7 +5395,8 @@
       "path": "boost_sticky_01.boost_sticky_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Sticky_01_T"
+      "thumbnail_package": "Boost_Sticky_01_T",
+      "image_path": "images/10783.png"
     },
     {
       "audio_bnk": "SFX_Boost_Sticky02.bnk",
@@ -5054,7 +5410,8 @@
       "path": "boost_sticky02.boost_sticky02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Sticky02_T"
+      "thumbnail_package": "Boost_Sticky02_T",
+      "image_path": "images/10790.png"
     },
     {
       "audio_bnk": "SFX_Boost_Hero.bnk",
@@ -5068,7 +5425,8 @@
       "path": "boost_hero.boost_hero",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Hero_T"
+      "thumbnail_package": "Boost_Hero_T",
+      "image_path": "images/10819.png"
     },
     {
       "audio_bnk": "SFX_Boost_CelestialSpark.bnk",
@@ -5082,7 +5440,8 @@
       "path": "boost_celestialspark.boost_celestialspark",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "boost_CelestialSpark_T"
+      "thumbnail_package": "boost_CelestialSpark_T",
+      "image_path": "images/10894.png"
     },
     {
       "audio_bnk": "SFX_Boost_Firelines.bnk",
@@ -5096,7 +5455,8 @@
       "path": "boost_firelines_psplus.boost_firelines_psplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "boost_firelines_PSPlus_T"
+      "thumbnail_package": "boost_firelines_PSPlus_T",
+      "image_path": "images/10906.png"
     },
     {
       "audio_bnk": "SFX_Boost_Gray.bnk",
@@ -5110,7 +5470,8 @@
       "path": "boost_gray.FX.boost_gray",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Gray_T"
+      "thumbnail_package": "Boost_Gray_T",
+      "image_path": "images/10951.png"
     },
     {
       "audio_bnk": "SFX_Boost_ForestSpirit.bnk",
@@ -5124,7 +5485,8 @@
       "path": "boost_forestspirit.boost_forestspirit",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_ForestSpirit_T"
+      "thumbnail_package": "Boost_ForestSpirit_T",
+      "image_path": "images/10974.png"
     },
     {
       "audio_bnk": "",
@@ -5138,7 +5500,8 @@
       "path": "boost_s16.boost_s16",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S16_T"
+      "thumbnail_package": "Boost_S16_T",
+      "image_path": "images/11003.png"
     },
     {
       "id": "11004",
@@ -5151,7 +5514,8 @@
       "path": "boost_s16.boost_s16_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S16_T"
+      "thumbnail_package": "Boost_S16_T",
+      "image_path": "images/11004.png"
     },
     {
       "id": "11005",
@@ -5164,7 +5528,8 @@
       "path": "boost_s16.boost_s16_03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S16_T"
+      "thumbnail_package": "Boost_S16_T",
+      "image_path": "images/11005.png"
     },
     {
       "id": "11006",
@@ -5177,7 +5542,8 @@
       "path": "boost_s16.boost_s16_04",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S16_T"
+      "thumbnail_package": "Boost_S16_T",
+      "image_path": "images/11006.png"
     },
     {
       "id": "11007",
@@ -5190,7 +5556,8 @@
       "path": "boost_s16.boost_s16_05",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S16_T"
+      "thumbnail_package": "Boost_S16_T",
+      "image_path": "images/11007.png"
     },
     {
       "id": "11008",
@@ -5203,7 +5570,8 @@
       "path": "boost_s16.boost_s16_06",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S16_T"
+      "thumbnail_package": "Boost_S16_T",
+      "image_path": "images/11008.png"
     },
     {
       "id": "11009",
@@ -5216,7 +5584,8 @@
       "path": "boost_s16.boost_s16_07",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S16_T"
+      "thumbnail_package": "Boost_S16_T",
+      "image_path": "images/11009.png"
     },
     {
       "id": "11010",
@@ -5229,7 +5598,8 @@
       "path": "boost_s16.boost_s16_08",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S16_T"
+      "thumbnail_package": "Boost_S16_T",
+      "image_path": "images/11010.png"
     },
     {
       "audio_bnk": "SFX_Boost_AstralRadiance.bnk",
@@ -5243,7 +5613,8 @@
       "path": "boost_astralradiance.boost_astralradiance",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_AstralRadiance_T"
+      "thumbnail_package": "Boost_AstralRadiance_T",
+      "image_path": "images/11021.png"
     },
     {
       "audio_bnk": "SFX_Boost_PlasmaEnergy.bnk",
@@ -5257,7 +5628,8 @@
       "path": "boost_plasmaenergy_bw.boost_plasmaenergy_bw",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_PlasmaEnergy_BW_T"
+      "thumbnail_package": "Boost_PlasmaEnergy_BW_T",
+      "image_path": "images/11029.png"
     },
     {
       "audio_bnk": "SFX_Boost_VoxelLightning.bnk",
@@ -5271,7 +5643,8 @@
       "path": "boost_voxellightning.boost_voxellightning",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_VoxelLightning_T"
+      "thumbnail_package": "Boost_VoxelLightning_T",
+      "image_path": "images/11041.png"
     },
     {
       "audio_bnk": "SFX_Boost_SplitEnergy.bnk",
@@ -5285,7 +5658,8 @@
       "path": "boost_splitenergy.boost_splitenergy",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_SplitEnergy_T"
+      "thumbnail_package": "Boost_SplitEnergy_T",
+      "image_path": "images/11079.png"
     },
     {
       "audio_bnk": "SFX_Boost_Lake.bnk",
@@ -5299,7 +5673,8 @@
       "path": "boost_lake.boost_lake",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Lake_T"
+      "thumbnail_package": "Boost_Lake_T",
+      "image_path": "images/11101.png"
     },
     {
       "audio_bnk": "",
@@ -5313,7 +5688,8 @@
       "path": "boost_neothermal_psplus.boost_neothermal_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Boost_Neothermal_PSPlus_T"
+      "thumbnail_package": "Boost_Neothermal_PSPlus_T",
+      "image_path": "images/11112.png"
     },
     {
       "audio_bnk": "SFX_Boost_Big.bnk",
@@ -5327,7 +5703,8 @@
       "path": "boost_big.boost_big",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Big_T"
+      "thumbnail_package": "Boost_Big_T",
+      "image_path": "images/11153.png"
     },
     {
       "audio_bnk": "SFX_Boost_Aventurine.bnk",
@@ -5341,7 +5718,8 @@
       "path": "boost_aventurine.boost_aventurine",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Aventurine_T"
+      "thumbnail_package": "Boost_Aventurine_T",
+      "image_path": "images/11160.png"
     },
     {
       "audio_bnk": "SFX_Boost_Daikon.bnk",
@@ -5355,7 +5733,8 @@
       "path": "boost_daikon.boost_daikon",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Daikon_T"
+      "thumbnail_package": "Boost_Daikon_T",
+      "image_path": "images/11237.png"
     },
     {
       "audio_bnk": "SFX_Boost_DarkFlame.bnk",
@@ -5369,7 +5748,8 @@
       "path": "boost_darkflame.boost_darkflame",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Boost_Darkflame_T"
+      "thumbnail_package": "Boost_Darkflame_T",
+      "image_path": "images/11269.png"
     },
     {
       "audio_bnk": "SFX_Boost_Infinite.bnk",
@@ -5383,7 +5763,8 @@
       "path": "boost_infinite.boost_infinite",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Infinite_T"
+      "thumbnail_package": "Boost_Infinite_T",
+      "image_path": "images/11334.png"
     },
     {
       "audio_bnk": "SFX_Boost_Disco.bnk",
@@ -5397,7 +5778,8 @@
       "path": "boost_disco.boost_disco",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Disco_T"
+      "thumbnail_package": "Boost_Disco_T",
+      "image_path": "images/11372.png"
     },
     {
       "audio_bnk": "SFX_Boost_Frog.bnk",
@@ -5411,7 +5793,8 @@
       "path": "boost_frog.boost_frog",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Frog_T"
+      "thumbnail_package": "Boost_Frog_T",
+      "image_path": "images/11380.png"
     },
     {
       "audio_bnk": "SFX_Boost_TurboTechno.bnk",
@@ -5425,7 +5808,8 @@
       "path": "boost_turbotechno.boost_turbotechno",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_TurboTechno_T"
+      "thumbnail_package": "Boost_TurboTechno_T",
+      "image_path": "images/11396.png"
     },
     {
       "audio_bnk": "SFX_Boost_RLCS2401.bnk",
@@ -5439,7 +5823,8 @@
       "path": "boost_rlcs2401.boost_rlcs2401",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_RLCS2401_T"
+      "thumbnail_package": "Boost_RLCS2401_T",
+      "image_path": "images/11411.png"
     },
     {
       "audio_bnk": "SFX_Boost_DigitalTrace.bnk",
@@ -5453,7 +5838,8 @@
       "path": "boost_digitaltrace_psplus.boost_digitaltrace_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Boost_DigitalTrace_PSPlus_T"
+      "thumbnail_package": "Boost_DigitalTrace_PSPlus_T",
+      "image_path": "images/11412.png"
     },
     {
       "audio_bnk": "SFX_Boost_Modish.bnk",
@@ -5467,7 +5853,8 @@
       "path": "boost_modish.boost_modish",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Modish_T"
+      "thumbnail_package": "Boost_Modish_T",
+      "image_path": "images/11479.png"
     },
     {
       "audio_bnk": "SFX_Boost_Magical.bnk",
@@ -5481,7 +5868,8 @@
       "path": "boost_magical.boost_magical",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Magical_T"
+      "thumbnail_package": "Boost_Magical_T",
+      "image_path": "images/11600.png"
     },
     {
       "audio_bnk": "SFX_Boost_EvilOrnament.bnk",
@@ -5495,7 +5883,8 @@
       "path": "boost_evilornament02.boost_evilornament02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_EvilOrnament02_T"
+      "thumbnail_package": "Boost_EvilOrnament02_T",
+      "image_path": "images/11631.png"
     },
     {
       "audio_bnk": "SFX_Boost_EvilOrnament.bnk",
@@ -5509,7 +5898,8 @@
       "path": "boost_evilornament.boost_evilornament",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_EvilOrnament_T"
+      "thumbnail_package": "Boost_EvilOrnament_T",
+      "image_path": "images/11636.png"
     },
     {
       "audio_bnk": "SFX_Boost_GenieSmoke.bnk",
@@ -5523,7 +5913,8 @@
       "path": "boost_geniesmoke.boost_geniesmoke",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_GenieSmoke_T"
+      "thumbnail_package": "Boost_GenieSmoke_T",
+      "image_path": "images/11643.png"
     },
     {
       "audio_bnk": "SFX_Boost_DarkMagic.bnk",
@@ -5537,7 +5928,8 @@
       "path": "boost_darkmagic.boost_darkmagic",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Darkmagic_T"
+      "thumbnail_package": "Boost_Darkmagic_T",
+      "image_path": "images/11651.png"
     },
     {
       "audio_bnk": "SFX_Boost_Slimefire.bnk",
@@ -5551,7 +5943,8 @@
       "path": "boost_slimefire.FX.boost_slimefire",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_Slimefire_T"
+      "thumbnail_package": "Boost_Slimefire_T",
+      "image_path": "images/11695.png"
     },
     {
       "audio_bnk": "SFX_Boost_RLCSRaleigh.bnk",
@@ -5565,7 +5958,8 @@
       "path": "boost_rlcsraleigh.boost_rlcsraleigh",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_RLCSRaleigh_T"
+      "thumbnail_package": "Boost_RLCSRaleigh_T",
+      "image_path": "images/11698.png"
     },
     {
       "audio_bnk": "SFX_Boost_Toon.bnk",
@@ -5579,7 +5973,8 @@
       "path": "boost_toonywater_psplus.boost_toonywater_psplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "Boost_ToonyWater_PSPlus_T"
+      "thumbnail_package": "Boost_ToonyWater_PSPlus_T",
+      "image_path": "images/11705.png"
     },
     {
       "audio_bnk": "SFX_Boost_SkullChromatic.bnk",
@@ -5593,7 +5988,8 @@
       "path": "boost_skullchromatic.boost_skullchromatic",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_SkullChromatic_T"
+      "thumbnail_package": "Boost_SkullChromatic_T",
+      "image_path": "images/11713.png"
     },
     {
       "audio_bnk": "SFX_Boost_Colortrip.bnk",
@@ -5607,7 +6003,8 @@
       "path": "boost_colortrip.Actors.boost_colortrip",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_Colortrip_T"
+      "thumbnail_package": "Boost_Colortrip_T",
+      "image_path": "images/11761.png"
     },
     {
       "audio_bnk": "SFX_Boost_Retrostrips.bnk",
@@ -5621,7 +6018,8 @@
       "path": "boost_retrostrips.boost_retrostrips",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_RetroStrips_T"
+      "thumbnail_package": "Boost_RetroStrips_T",
+      "image_path": "images/11776.png"
     },
     {
       "audio_bnk": "SFX_Boost_CrazyShapes.bnk",
@@ -5635,7 +6033,8 @@
       "path": "boost_crazyshapes.boost_crazyshapes",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_CrazyShapes_T"
+      "thumbnail_package": "Boost_CrazyShapes_T",
+      "image_path": "images/11791.png"
     },
     {
       "audio_bnk": "SFX_Boost_DragoncatLTE.bnk",
@@ -5649,7 +6048,8 @@
       "path": "boost_dragoncatLTE.boost_dragoncatLTE",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_DragonCatLTE_T"
+      "thumbnail_package": "Boost_DragonCatLTE_T",
+      "image_path": "images/11810.png"
     },
     {
       "audio_bnk": "SFX_Boost_Mooncake.bnk",
@@ -5663,7 +6063,8 @@
       "path": "boost_mooncake.Actors.boost_mooncake",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Mooncake_T"
+      "thumbnail_package": "Boost_Mooncake_T",
+      "image_path": "images/11837.png"
     },
     {
       "audio_bnk": "SFX_Boost_Dragoncat.bnk",
@@ -5677,7 +6078,8 @@
       "path": "boost_dragoncat.boost_dragoncat",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_DragonCat_T"
+      "thumbnail_package": "Boost_DragonCat_T",
+      "image_path": "images/11838.png"
     },
     {
       "audio_bnk": "",
@@ -5691,7 +6093,8 @@
       "path": "boost_aurum.boost_aurum",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "boost_aurum_T"
+      "thumbnail_package": "boost_aurum_T",
+      "image_path": "images/11846.png"
     },
     {
       "audio_bnk": "SFX_Boost_S19ChampionsRoad.bnk",
@@ -5705,7 +6108,8 @@
       "path": "boost_s19championsroad.boost_s19championsroad",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_S19ChampionsRoad_T"
+      "thumbnail_package": "Boost_S19ChampionsRoad_T",
+      "image_path": "images/11938.png"
     },
     {
       "audio_bnk": "SFX_Boost_Glitch.bnk",
@@ -5719,7 +6123,8 @@
       "path": "boost_glitchpsplus.boost_glitchpsplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "Boost_GlitchPsPlus_T"
+      "thumbnail_package": "Boost_GlitchPsPlus_T",
+      "image_path": "images/11959.png"
     },
     {
       "audio_bnk": "SFX_Boost_GoldenLychee01.bnk",
@@ -5733,7 +6138,8 @@
       "path": "boost_goldenlychee01.boost_goldenlychee01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_GoldenLychee01_T"
+      "thumbnail_package": "Boost_GoldenLychee01_T",
+      "image_path": "images/12017.png"
     },
     {
       "audio_bnk": "SFX_Boost_Banjo.bnk",
@@ -5747,7 +6153,8 @@
       "path": "boost_banjo.boost_banjo",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Banjo_T"
+      "thumbnail_package": "Boost_Banjo_T",
+      "image_path": "images/12110.png"
     },
     {
       "audio_bnk": "SFX_Boost_HHBanjoLTE01.bnk",
@@ -5761,7 +6168,8 @@
       "path": "boost_hhbanjolte.boost_hhbanjolte",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_HHBanjoLTE_T"
+      "thumbnail_package": "Boost_HHBanjoLTE_T",
+      "image_path": "images/12115.png"
     },
     {
       "audio_bnk": "SFX_Boost_Chrome.bnk",
@@ -5775,7 +6183,8 @@
       "path": "boost_chrome.boost_chrome",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Chrome_T"
+      "thumbnail_package": "Boost_Chrome_T",
+      "image_path": "images/12123.png"
     },
     {
       "audio_bnk": "SFX_Boost_DyePacket.bnk",
@@ -5789,7 +6198,8 @@
       "path": "boost_dyepacket.boost_dyepacket",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_DyePacket_T"
+      "thumbnail_package": "Boost_DyePacket_T",
+      "image_path": "images/12201.png"
     },
     {
       "audio_bnk": "SFX_Boost_BlightShield.bnk",
@@ -5803,7 +6213,8 @@
       "path": "boost_blightshield01.boost_blightshield01",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_BlightShield01_T"
+      "thumbnail_package": "Boost_BlightShield01_T",
+      "image_path": "images/12231.png"
     },
     {
       "audio_bnk": "SFX_Boost_Numb.bnk",
@@ -5817,7 +6228,8 @@
       "path": "boost_numblte04.boost_numblte04",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_NumbLTE04_T"
+      "thumbnail_package": "Boost_NumbLTE04_T",
+      "image_path": "images/12238.png"
     },
     {
       "audio_bnk": "SFX_Boost_Sprinkle.bnk",
@@ -5831,7 +6243,8 @@
       "path": "boost_sprinkle.boost_sprinkle",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Boost_Sprinkle_T"
+      "thumbnail_package": "Boost_Sprinkle_T",
+      "image_path": "images/12240.png"
     },
     {
       "audio_bnk": "SFX_Boost_Numb.bnk",
@@ -5845,7 +6258,8 @@
       "path": "boost_numblte01.boost_numblte01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_NumbLTE01_T"
+      "thumbnail_package": "Boost_NumbLTE01_T",
+      "image_path": "images/12242.png"
     },
     {
       "audio_bnk": "SFX_Boost_SprinkleLTE03.bnk",
@@ -5859,7 +6273,8 @@
       "path": "boost_sprinklelte03.boost_sprinklelte03",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_SprinkleLTE03_T"
+      "thumbnail_package": "Boost_SprinkleLTE03_T",
+      "image_path": "images/12243.png"
     },
     {
       "audio_bnk": "",
@@ -5873,7 +6288,8 @@
       "path": "boost_s20.Boost_S20_01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S20_T"
+      "thumbnail_package": "Boost_S20_T",
+      "image_path": "images/12246.png"
     },
     {
       "audio_bnk": "",
@@ -5887,7 +6303,8 @@
       "path": "boost_s20.Boost_S20_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S20_T"
+      "thumbnail_package": "Boost_S20_T",
+      "image_path": "images/12247.png"
     },
     {
       "audio_bnk": "",
@@ -5901,7 +6318,8 @@
       "path": "boost_s20.Boost_S20_03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S20_T"
+      "thumbnail_package": "Boost_S20_T",
+      "image_path": "images/12248.png"
     },
     {
       "audio_bnk": "",
@@ -5915,7 +6333,8 @@
       "path": "boost_s20.Boost_S20_04",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S20_T"
+      "thumbnail_package": "Boost_S20_T",
+      "image_path": "images/12249.png"
     },
     {
       "audio_bnk": "",
@@ -5929,7 +6348,8 @@
       "path": "boost_s20.Boost_S20_05",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S20_T"
+      "thumbnail_package": "Boost_S20_T",
+      "image_path": "images/12250.png"
     },
     {
       "audio_bnk": "",
@@ -5943,7 +6363,8 @@
       "path": "boost_s20.Boost_S20_06",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S20_T"
+      "thumbnail_package": "Boost_S20_T",
+      "image_path": "images/12251.png"
     },
     {
       "audio_bnk": "",
@@ -5957,7 +6378,8 @@
       "path": "boost_s20.Boost_S20_07",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S20_T"
+      "thumbnail_package": "Boost_S20_T",
+      "image_path": "images/12252.png"
     },
     {
       "audio_bnk": "",
@@ -5971,7 +6393,8 @@
       "path": "boost_s20.Boost_S20_08",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_S20_T"
+      "thumbnail_package": "Boost_S20_T",
+      "image_path": "images/12253.png"
     },
     {
       "audio_bnk": "SFX_Boost_LionsMane.bnk",
@@ -5985,7 +6408,8 @@
       "path": "boost_lionsmane01.boost_lionsmane01",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_LionsMane01_T"
+      "thumbnail_package": "Boost_LionsMane01_T",
+      "image_path": "images/12254.png"
     },
     {
       "audio_bnk": "SFX_Boost_Numb.bnk",
@@ -5999,7 +6423,8 @@
       "path": "boost_numblte03.boost_numblte03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_NumbLTE03_T"
+      "thumbnail_package": "Boost_NumbLTE03_T",
+      "image_path": "images/12268.png"
     },
     {
       "audio_bnk": "SFX_Boost_Numb.bnk",
@@ -6013,7 +6438,8 @@
       "path": "boost_numblte02.boost_numblte02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_NumbLTE02_T"
+      "thumbnail_package": "Boost_NumbLTE02_T",
+      "image_path": "images/12269.png"
     },
     {
       "audio_bnk": "",
@@ -6027,7 +6453,8 @@
       "path": "boost_bfooompsplus.boost_bfooompsplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "Boost_BFooomPSplus_T"
+      "thumbnail_package": "Boost_BFooomPSplus_T",
+      "image_path": "images/12277.png"
     },
     {
       "audio_bnk": "SFX_Boost_Courgette.bnk",
@@ -6041,7 +6468,8 @@
       "path": "boost_courgette01.boost_courgette01",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Courgette01_T"
+      "thumbnail_package": "Boost_Courgette01_T",
+      "image_path": "images/12306.png"
     },
     {
       "audio_bnk": "SFX_Boost_GoldBars.bnk",
@@ -6055,7 +6483,8 @@
       "path": "boost_goldbars.FX.boost_goldbars",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_GoldBars_T"
+      "thumbnail_package": "Boost_GoldBars_T",
+      "image_path": "images/12376.png"
     },
     {
       "audio_bnk": "",
@@ -6069,7 +6498,8 @@
       "path": "boost_s21rlcs.boost_s21rlcs",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_S21RLCS_T"
+      "thumbnail_package": "Boost_S21RLCS_T",
+      "image_path": "images/12386.png"
     },
     {
       "id": "12397",
@@ -6082,7 +6512,11 @@
       "thumbnail_package": "Boost_Trippy_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "Boost_Trippy.Boost_Trippy",
+      "image_path": "images/12397.png"
     },
     {
       "id": "12427",
@@ -6109,7 +6543,8 @@
       "path": "boost_alienliquidpsplus.FX.boost_alienliquidpsplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Boost_AlienLiquidPSPlus_T"
+      "thumbnail_package": "Boost_AlienLiquidPSPlus_T",
+      "image_path": "images/12452.png"
     },
     {
       "audio_bnk": "SFX_Boost_DecoRed.bnk",
@@ -6123,7 +6558,8 @@
       "path": "boost_decored.boost_decored",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_DecoRed_T"
+      "thumbnail_package": "Boost_DecoRed_T",
+      "image_path": "images/12488.png"
     },
     {
       "id": "12522",
@@ -6136,7 +6572,8 @@
       "path": "boost_lifeline.boost_lifeline",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_Lifeline_T"
+      "thumbnail_package": "Boost_Lifeline_T",
+      "image_path": "images/12522.png"
     },
     {
       "audio_bnk": "SFX_Boost_DecoBlue.bnk",
@@ -6150,7 +6587,8 @@
       "path": "boost_decoblue.boost_decoblue",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_DecoBlue_T"
+      "thumbnail_package": "Boost_DecoBlue_T",
+      "image_path": "images/12584.png"
     },
     {
       "audio_bnk": "SFX_Boost_LuminousAirplaneLTE01.bnk",
@@ -6164,7 +6602,8 @@
       "path": "boost_luminousairplanelte01.boost_luminousairplanelte01",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_LuminousAirplaneLTE01_T"
+      "thumbnail_package": "Boost_LuminousAirplaneLTE01_T",
+      "image_path": "images/12608.png"
     },
     {
       "audio_bnk": "SFX_Boost_S22RLCS01.bnk",
@@ -6178,7 +6617,8 @@
       "path": "boost_s22rlcs01.FX.boost_s22rlcs01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "boost_S22RLCS01_T"
+      "thumbnail_package": "boost_S22RLCS01_T",
+      "image_path": "images/12668.png"
     },
     {
       "id": "12682",
@@ -6191,7 +6631,8 @@
       "path": "boost_lightsheen.boost_lightsheen",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Boost_LightSheen_T"
+      "thumbnail_package": "Boost_LightSheen_T",
+      "image_path": "images/12682.png"
     },
     {
       "audio_bnk": "SFX_Boost_BlackFlame.bnk",
@@ -6205,7 +6646,8 @@
       "path": "boost_blackflame.Actors.boost_blackflame",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Boost_BlackFlame_T"
+      "thumbnail_package": "Boost_BlackFlame_T",
+      "image_path": "images/12715.png"
     },
     {
       "audio_bnk": "SFX_Boost_InfraredGlow.bnk",
@@ -6219,7 +6661,8 @@
       "path": "boost_infraredglow.boost_infraredglow",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_InfraredGlow_T"
+      "thumbnail_package": "Boost_InfraredGlow_T",
+      "image_path": "images/12716.png"
     },
     {
       "audio_bnk": "SFX_Boost_AbstractFire.bnk",
@@ -6233,7 +6676,8 @@
       "path": "boost_abstractfire_psplus.boost_abstractfire_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Boost_AbstractFire_PSPlus_T"
+      "thumbnail_package": "Boost_AbstractFire_PSPlus_T",
+      "image_path": "images/12736.png"
     },
     {
       "audio_bnk": "SFX_Boost_SphereGulp.bnk",
@@ -6247,7 +6691,8 @@
       "path": "boost_spheregulp01.boost_spheregulp01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_SphereGulp01_T"
+      "thumbnail_package": "Boost_SphereGulp01_T",
+      "image_path": "images/12762.png"
     },
     {
       "id": "12764",
@@ -6260,7 +6705,11 @@
       "thumbnail_package": "Boost_OpticOrangeLTE01_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "boost_opticorangelte01.boost_opticorangelte01",
+      "image_path": "images/12764.png"
     },
     {
       "audio_bnk": "SFX_Boost_GlitchyBit.bnk",
@@ -6274,7 +6723,8 @@
       "path": "boost_glitchybit.boost_glitchybit",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Boost_GlitchyBit_T"
+      "thumbnail_package": "Boost_GlitchyBit_T",
+      "image_path": "images/12802.png"
     },
     {
       "id": "12930",
@@ -6287,7 +6737,11 @@
       "thumbnail_package": "Boost_S23RLCS01_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 4,
+      "paintable": false,
+      "path": "boost_s23rlcs01.Actors.boost_s23rlcs01",
+      "image_path": "images/12930.png"
     },
     {
       "id": "12956",
@@ -6300,7 +6754,11 @@
       "thumbnail_package": "Boost_IconColors_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": true,
+      "path": "boost_iconcolors.boost_iconcolors",
+      "image_path": "images/12956.png"
     },
     {
       "id": "12957",
@@ -6313,7 +6771,11 @@
       "thumbnail_package": "Boost_Overdriver_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": true,
+      "path": "boost_overdriver.FX.boost_overdriver",
+      "image_path": "images/12957.png"
     },
     {
       "id": "12963",
@@ -6326,7 +6788,11 @@
       "thumbnail_package": "Boost_ChromaticAberration_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": true,
+      "path": "boost_chromaticaberration.FX.boost_chromaticaberration",
+      "image_path": "images/12963.png"
     },
     {
       "id": "12968",
@@ -6339,7 +6805,11 @@
       "thumbnail_package": "Boost_AlphaDevReward_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": true,
+      "path": "boost_alphadevreward.boost_alphadevreward",
+      "image_path": "images/12968.png"
     },
     {
       "id": "12982",
@@ -6352,7 +6822,67 @@
       "thumbnail_package": "Boost_ParalyzingFear_PSPlus_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 7,
+      "paintable": false,
+      "path": "boost_paralyzingfear_psplus.boost_paralyzingfear_psplus",
+      "image_path": "images/12982.png"
+    },
+    {
+      "id": "12524",
+      "internal_name": "boost_redplasma",
+      "name": "Villainous",
+      "upk_path": "boost_redplasma_SF.upk",
+      "quality": "Exotic",
+      "quality_id": 5,
+      "paintable": true,
+      "package": "boost_redplasma",
+      "path": "boost_redplasma.boost_redplasma",
+      "thumbnail": "Boost_RedPlasma_T_SF.upk",
+      "thumbnail_package": "Boost_RedPlasma_T",
+      "image_path": "images/12524.png"
+    },
+    {
+      "id": "12681",
+      "internal_name": "boost_umbragenesis",
+      "name": "Morgana's Token",
+      "upk_path": "boost_umbragenesis_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "boost_umbragenesis",
+      "path": "boost_umbragenesis.boost_umbragenesis",
+      "thumbnail": "Boost_UmbraGenesis_T_SF.upk",
+      "thumbnail_package": "Boost_UmbraGenesis_T",
+      "image_path": "images/12681.png"
+    },
+    {
+      "id": "12884",
+      "internal_name": "boost_luckyonyx",
+      "name": "Anti-Magic",
+      "upk_path": "boost_luckyonyx_SF.upk",
+      "quality": "Import",
+      "quality_id": 4,
+      "paintable": false,
+      "package": "boost_luckyonyx",
+      "path": "boost_luckyonyx.boost_luckyonyx",
+      "thumbnail": "Boost_LuckyOnyx_T_SF.upk",
+      "thumbnail_package": "Boost_LuckyOnyx_T",
+      "image_path": "images/12884.png"
+    },
+    {
+      "id": "13056",
+      "internal_name": "boost_mvp01",
+      "name": "Light Speed",
+      "upk_path": "boost_mvp01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "boost_mvp01",
+      "path": "boost_mvp01.FX.boost_mvp01",
+      "thumbnail": "Boost_MVP01_T_SF.upk",
+      "thumbnail_package": "Boost_MVP01_T",
+      "image_path": "images/13056.png"
     }
   ]
 }

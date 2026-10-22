@@ -12,7 +12,8 @@
       "path": "avatarborder_CherryBlossomTree.avatarborder_CherryBlossomTree",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_CherryBlossomTree_T"
+      "thumbnail_package": "AvatarBorder_CherryBlossomTree_T",
+      "image_path": "images/3082.png"
     },
     {
       "id": "3085",
@@ -25,7 +26,8 @@
       "path": "AvatarBorder_Default.AvatarBorder_Default",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Default_T"
+      "thumbnail_package": "AvatarBorder_Default_T",
+      "image_path": "images/3085.png"
     },
     {
       "id": "3108",
@@ -38,7 +40,8 @@
       "path": "avatarborder_braidedrope.avatarborder_braidedrope",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "AvatarBorder_BraidedRope_T"
+      "thumbnail_package": "AvatarBorder_BraidedRope_T",
+      "image_path": "images/3108.png"
     },
     {
       "id": "3109",
@@ -51,7 +54,8 @@
       "path": "avatarborder_chinesevalentinesday.avatarborder_chinesevalentinesday",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_ChineseValentinesDay_T"
+      "thumbnail_package": "AvatarBorder_ChineseValentinesDay_T",
+      "image_path": "images/3109.png"
     },
     {
       "id": "3110",
@@ -64,7 +68,8 @@
       "path": "avatarborder_cutecritter.avatarborder_cutecritter",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "AvatarBorder_CuteCritter_T"
+      "thumbnail_package": "AvatarBorder_CuteCritter_T",
+      "image_path": "images/3110.png"
     },
     {
       "id": "3111",
@@ -77,7 +82,8 @@
       "path": "avatarborder_midautumnday.avatarborder_midautumnday",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_MidAutumnDay_T"
+      "thumbnail_package": "AvatarBorder_MidAutumnDay_T",
+      "image_path": "images/3111.png"
     },
     {
       "id": "3112",
@@ -90,7 +96,8 @@
       "path": "avatarborder_summer.avatarborder_summer",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Summer_T"
+      "thumbnail_package": "AvatarBorder_Summer_T",
+      "image_path": "images/3112.png"
     },
     {
       "id": "3176",
@@ -103,7 +110,8 @@
       "path": "avatarborder_flames.avatarborder_flames",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Flames_T"
+      "thumbnail_package": "AvatarBorder_Flames_T",
+      "image_path": "images/3176.png"
     },
     {
       "id": "3177",
@@ -116,7 +124,8 @@
       "path": "AvatarBorder_OctaneTech.AvatarBorder_OctaneTech",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "AvatarBorder_OctaneTech_T"
+      "thumbnail_package": "AvatarBorder_OctaneTech_T",
+      "image_path": "images/3177.png"
     },
     {
       "id": "3178",
@@ -129,7 +138,8 @@
       "path": "AvatarBorder_Wispy.AvatarBorder_Wispy",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Wispy_T"
+      "thumbnail_package": "AvatarBorder_Wispy_T",
+      "image_path": "images/3178.png"
     },
     {
       "id": "3240",
@@ -142,7 +152,8 @@
       "path": "AvatarBorder_XPTier1.AvatarBorder_XPTier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier1_T"
+      "thumbnail_package": "AvatarBorder_XPTier1_T",
+      "image_path": "images/3240.png"
     },
     {
       "id": "3241",
@@ -155,7 +166,8 @@
       "path": "AvatarBorder_XPTier10.AvatarBorder_XPTier10",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier10_T"
+      "thumbnail_package": "AvatarBorder_XPTier10_T",
+      "image_path": "images/3241.png"
     },
     {
       "id": "3242",
@@ -168,7 +180,8 @@
       "path": "AvatarBorder_XPTier11.AvatarBorder_XPTier11",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier11_T"
+      "thumbnail_package": "AvatarBorder_XPTier11_T",
+      "image_path": "images/3242.png"
     },
     {
       "id": "3243",
@@ -181,7 +194,8 @@
       "path": "AvatarBorder_XPTier2.AvatarBorder_XPTier2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier2_T"
+      "thumbnail_package": "AvatarBorder_XPTier2_T",
+      "image_path": "images/3243.png"
     },
     {
       "id": "3244",
@@ -194,7 +208,8 @@
       "path": "AvatarBorder_XPTier3.AvatarBorder_XPTier3",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier3_T"
+      "thumbnail_package": "AvatarBorder_XPTier3_T",
+      "image_path": "images/3244.png"
     },
     {
       "id": "3245",
@@ -207,7 +222,8 @@
       "path": "AvatarBorder_XPTier4.AvatarBorder_XPTier4",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier4_T"
+      "thumbnail_package": "AvatarBorder_XPTier4_T",
+      "image_path": "images/3245.png"
     },
     {
       "id": "3246",
@@ -220,7 +236,8 @@
       "path": "AvatarBorder_XPTier5.AvatarBorder_XPTier5",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier5_T"
+      "thumbnail_package": "AvatarBorder_XPTier5_T",
+      "image_path": "images/3246.png"
     },
     {
       "id": "3247",
@@ -233,7 +250,8 @@
       "path": "AvatarBorder_XPTier6.AvatarBorder_XPTier6",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier6_T"
+      "thumbnail_package": "AvatarBorder_XPTier6_T",
+      "image_path": "images/3247.png"
     },
     {
       "id": "3248",
@@ -246,7 +264,8 @@
       "path": "AvatarBorder_XPTier7.AvatarBorder_XPTier7",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier7_T"
+      "thumbnail_package": "AvatarBorder_XPTier7_T",
+      "image_path": "images/3248.png"
     },
     {
       "id": "3249",
@@ -259,7 +278,8 @@
       "path": "AvatarBorder_XPTier8.AvatarBorder_XPTier8",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier8_T"
+      "thumbnail_package": "AvatarBorder_XPTier8_T",
+      "image_path": "images/3249.png"
     },
     {
       "id": "3250",
@@ -272,7 +292,8 @@
       "path": "AvatarBorder_XPTier9.AvatarBorder_XPTier9",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier9_T"
+      "thumbnail_package": "AvatarBorder_XPTier9_T",
+      "image_path": "images/3250.png"
     },
     {
       "id": "3266",
@@ -285,7 +306,8 @@
       "path": "AvatarBorder_XPTier10Cobalt.AvatarBorder_XPTier10Cobalt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier10Cobalt_T"
+      "thumbnail_package": "AvatarBorder_XPTier10Cobalt_T",
+      "image_path": "images/3266.png"
     },
     {
       "id": "3267",
@@ -298,7 +320,8 @@
       "path": "AvatarBorder_XPTier10Gold.AvatarBorder_XPTier10Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier10Gold_T"
+      "thumbnail_package": "AvatarBorder_XPTier10Gold_T",
+      "image_path": "images/3267.png"
     },
     {
       "id": "3268",
@@ -311,7 +334,8 @@
       "path": "AvatarBorder_XPTier10Onyx.AvatarBorder_XPTier10Onyx",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier10Onyx_T"
+      "thumbnail_package": "AvatarBorder_XPTier10Onyx_T",
+      "image_path": "images/3268.png"
     },
     {
       "id": "3269",
@@ -324,7 +348,8 @@
       "path": "AvatarBorder_XPTier11Cobalt.AvatarBorder_XPTier11Cobalt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier11Cobalt_T"
+      "thumbnail_package": "AvatarBorder_XPTier11Cobalt_T",
+      "image_path": "images/3269.png"
     },
     {
       "id": "3270",
@@ -337,7 +362,8 @@
       "path": "AvatarBorder_XPTier11Gold.AvatarBorder_XPTier11Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier11Gold_T"
+      "thumbnail_package": "AvatarBorder_XPTier11Gold_T",
+      "image_path": "images/3270.png"
     },
     {
       "id": "3271",
@@ -350,7 +376,8 @@
       "path": "AvatarBorder_XPTier11Onyx.AvatarBorder_XPTier11Onyx",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier11Onyx_T"
+      "thumbnail_package": "AvatarBorder_XPTier11Onyx_T",
+      "image_path": "images/3271.png"
     },
     {
       "id": "3272",
@@ -363,7 +390,8 @@
       "path": "AvatarBorder_XPTier1Cobalt.AvatarBorder_XPTier1Cobalt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier1Cobalt_T"
+      "thumbnail_package": "AvatarBorder_XPTier1Cobalt_T",
+      "image_path": "images/3272.png"
     },
     {
       "id": "3273",
@@ -376,7 +404,8 @@
       "path": "AvatarBorder_XPTier1Gold.AvatarBorder_XPTier1Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier1Gold_T"
+      "thumbnail_package": "AvatarBorder_XPTier1Gold_T",
+      "image_path": "images/3273.png"
     },
     {
       "id": "3274",
@@ -389,7 +418,8 @@
       "path": "AvatarBorder_XPTier1Onyx.AvatarBorder_XPTier1Onyx",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier1Onyx_T"
+      "thumbnail_package": "AvatarBorder_XPTier1Onyx_T",
+      "image_path": "images/3274.png"
     },
     {
       "id": "3275",
@@ -402,7 +432,8 @@
       "path": "AvatarBorder_XPTier2Cobalt.AvatarBorder_XPTier2Cobalt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier2Cobalt_T"
+      "thumbnail_package": "AvatarBorder_XPTier2Cobalt_T",
+      "image_path": "images/3275.png"
     },
     {
       "id": "3276",
@@ -415,7 +446,8 @@
       "path": "AvatarBorder_XPTier2Gold.AvatarBorder_XPTier2Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier2Gold_T"
+      "thumbnail_package": "AvatarBorder_XPTier2Gold_T",
+      "image_path": "images/3276.png"
     },
     {
       "id": "3277",
@@ -428,7 +460,8 @@
       "path": "AvatarBorder_XPTier2Onyx.AvatarBorder_XPTier2Onyx",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier2Onyx_T"
+      "thumbnail_package": "AvatarBorder_XPTier2Onyx_T",
+      "image_path": "images/3277.png"
     },
     {
       "id": "3278",
@@ -441,7 +474,8 @@
       "path": "AvatarBorder_XPTier3Cobalt.AvatarBorder_XPTier3Cobalt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier3Cobalt_T"
+      "thumbnail_package": "AvatarBorder_XPTier3Cobalt_T",
+      "image_path": "images/3278.png"
     },
     {
       "id": "3279",
@@ -454,7 +488,8 @@
       "path": "AvatarBorder_XPTier3Gold.AvatarBorder_XPTier3Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier3Gold_T"
+      "thumbnail_package": "AvatarBorder_XPTier3Gold_T",
+      "image_path": "images/3279.png"
     },
     {
       "id": "3280",
@@ -467,7 +502,8 @@
       "path": "AvatarBorder_XPTier3Onyx.AvatarBorder_XPTier3Onyx",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier3Onyx_T"
+      "thumbnail_package": "AvatarBorder_XPTier3Onyx_T",
+      "image_path": "images/3280.png"
     },
     {
       "id": "3281",
@@ -480,7 +516,8 @@
       "path": "AvatarBorder_XPTier4Cobalt.AvatarBorder_XPTier4Cobalt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier4Cobalt_T"
+      "thumbnail_package": "AvatarBorder_XPTier4Cobalt_T",
+      "image_path": "images/3281.png"
     },
     {
       "id": "3282",
@@ -493,7 +530,8 @@
       "path": "AvatarBorder_XPTier4Gold.AvatarBorder_XPTier4Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier4Gold_T"
+      "thumbnail_package": "AvatarBorder_XPTier4Gold_T",
+      "image_path": "images/3282.png"
     },
     {
       "id": "3283",
@@ -506,7 +544,8 @@
       "path": "AvatarBorder_XPTier4Onyx.AvatarBorder_XPTier4Onyx",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier4Onyx_T"
+      "thumbnail_package": "AvatarBorder_XPTier4Onyx_T",
+      "image_path": "images/3283.png"
     },
     {
       "id": "3284",
@@ -519,7 +558,8 @@
       "path": "AvatarBorder_XPTier5Cobalt.AvatarBorder_XPTier5Cobalt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier5Cobalt_T"
+      "thumbnail_package": "AvatarBorder_XPTier5Cobalt_T",
+      "image_path": "images/3284.png"
     },
     {
       "id": "3285",
@@ -532,7 +572,8 @@
       "path": "AvatarBorder_XPTier5Gold.AvatarBorder_XPTier5Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier5Gold_T"
+      "thumbnail_package": "AvatarBorder_XPTier5Gold_T",
+      "image_path": "images/3285.png"
     },
     {
       "id": "3286",
@@ -545,7 +586,8 @@
       "path": "AvatarBorder_XPTier5Onyx.AvatarBorder_XPTier5Onyx",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier5Onyx_T"
+      "thumbnail_package": "AvatarBorder_XPTier5Onyx_T",
+      "image_path": "images/3286.png"
     },
     {
       "id": "3287",
@@ -558,7 +600,8 @@
       "path": "AvatarBorder_XPTier6Cobalt.AvatarBorder_XPTier6Cobalt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier6Cobalt_T"
+      "thumbnail_package": "AvatarBorder_XPTier6Cobalt_T",
+      "image_path": "images/3287.png"
     },
     {
       "id": "3288",
@@ -571,7 +614,8 @@
       "path": "AvatarBorder_XPTier6Gold.AvatarBorder_XPTier6Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier6Gold_T"
+      "thumbnail_package": "AvatarBorder_XPTier6Gold_T",
+      "image_path": "images/3288.png"
     },
     {
       "id": "3289",
@@ -584,7 +628,8 @@
       "path": "AvatarBorder_XPTier6Onyx.AvatarBorder_XPTier6Onyx",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier6Onyx_T"
+      "thumbnail_package": "AvatarBorder_XPTier6Onyx_T",
+      "image_path": "images/3289.png"
     },
     {
       "id": "3290",
@@ -597,7 +642,8 @@
       "path": "AvatarBorder_XPTier7Cobalt.AvatarBorder_XPTier7Cobalt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier7Cobalt_T"
+      "thumbnail_package": "AvatarBorder_XPTier7Cobalt_T",
+      "image_path": "images/3290.png"
     },
     {
       "id": "3291",
@@ -610,7 +656,8 @@
       "path": "AvatarBorder_XPTier7Gold.AvatarBorder_XPTier7Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier7Gold_T"
+      "thumbnail_package": "AvatarBorder_XPTier7Gold_T",
+      "image_path": "images/3291.png"
     },
     {
       "id": "3292",
@@ -623,7 +670,8 @@
       "path": "AvatarBorder_XPTier7Onyx.AvatarBorder_XPTier7Onyx",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier7Onyx_T"
+      "thumbnail_package": "AvatarBorder_XPTier7Onyx_T",
+      "image_path": "images/3292.png"
     },
     {
       "id": "3293",
@@ -636,7 +684,8 @@
       "path": "AvatarBorder_XPTier8Cobalt.AvatarBorder_XPTier8Cobalt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier8Cobalt_T"
+      "thumbnail_package": "AvatarBorder_XPTier8Cobalt_T",
+      "image_path": "images/3293.png"
     },
     {
       "id": "3294",
@@ -649,7 +698,8 @@
       "path": "AvatarBorder_XPTier8Gold.AvatarBorder_XPTier8Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier8Gold_T"
+      "thumbnail_package": "AvatarBorder_XPTier8Gold_T",
+      "image_path": "images/3294.png"
     },
     {
       "id": "3295",
@@ -662,7 +712,8 @@
       "path": "AvatarBorder_XPTier8Onyx.AvatarBorder_XPTier8Onyx",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier8Onyx_T"
+      "thumbnail_package": "AvatarBorder_XPTier8Onyx_T",
+      "image_path": "images/3295.png"
     },
     {
       "id": "3296",
@@ -675,7 +726,8 @@
       "path": "AvatarBorder_XPTier9Cobalt.AvatarBorder_XPTier9Cobalt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier9Cobalt_T"
+      "thumbnail_package": "AvatarBorder_XPTier9Cobalt_T",
+      "image_path": "images/3296.png"
     },
     {
       "id": "3297",
@@ -688,7 +740,8 @@
       "path": "AvatarBorder_XPTier9Gold.AvatarBorder_XPTier9Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier9Gold_T"
+      "thumbnail_package": "AvatarBorder_XPTier9Gold_T",
+      "image_path": "images/3297.png"
     },
     {
       "id": "3298",
@@ -701,7 +754,8 @@
       "path": "AvatarBorder_XPTier9Onyx.AvatarBorder_XPTier9Onyx",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_XPTier9Onyx_T"
+      "thumbnail_package": "AvatarBorder_XPTier9Onyx_T",
+      "image_path": "images/3298.png"
     },
     {
       "id": "3344",
@@ -714,7 +768,8 @@
       "path": "avatarborder_colorful.avatarborder_colorful",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "AvatarBorder_Colorful_T"
+      "thumbnail_package": "AvatarBorder_Colorful_T",
+      "image_path": "images/3344.png"
     },
     {
       "id": "3345",
@@ -727,7 +782,8 @@
       "path": "avatarborder_ink_blue.avatarborder_ink_blue",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Ink_Blue_T"
+      "thumbnail_package": "AvatarBorder_Ink_Blue_T",
+      "image_path": "images/3345.png"
     },
     {
       "id": "3346",
@@ -740,7 +796,8 @@
       "path": "avatarborder_ink_green.avatarborder_ink_green",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Ink_Green_T"
+      "thumbnail_package": "AvatarBorder_Ink_Green_T",
+      "image_path": "images/3346.png"
     },
     {
       "id": "3347",
@@ -753,7 +810,8 @@
       "path": "avatarborder_ink_orange.avatarborder_ink_orange",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Ink_Orange_T"
+      "thumbnail_package": "AvatarBorder_Ink_Orange_T",
+      "image_path": "images/3347.png"
     },
     {
       "id": "3348",
@@ -766,7 +824,8 @@
       "path": "avatarborder_ink_purple.avatarborder_ink_purple",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Ink_Purple_T"
+      "thumbnail_package": "AvatarBorder_Ink_Purple_T",
+      "image_path": "images/3348.png"
     },
     {
       "id": "3349",
@@ -779,7 +838,8 @@
       "path": "avatarborder_lightning.avatarborder_lightning",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Lightning_T"
+      "thumbnail_package": "AvatarBorder_Lightning_T",
+      "image_path": "images/3349.png"
     },
     {
       "id": "3350",
@@ -792,7 +852,8 @@
       "path": "avatarborder_paladin.avatarborder_paladin",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "AvatarBorder_Paladin_T"
+      "thumbnail_package": "AvatarBorder_Paladin_T",
+      "image_path": "images/3350.png"
     },
     {
       "id": "3359",
@@ -805,7 +866,8 @@
       "path": "avatarborder_ink_red.avatarborder_ink_red",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Ink_Red_T"
+      "thumbnail_package": "AvatarBorder_Ink_Red_T",
+      "image_path": "images/3359.png"
     },
     {
       "id": "3814",
@@ -818,7 +880,8 @@
       "path": "avatarborder_Christmas2018.avatarborder_Christmas2018",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Christmas2018_T"
+      "thumbnail_package": "AvatarBorder_Christmas2018_T",
+      "image_path": "images/3814.png"
     },
     {
       "id": "3816",
@@ -831,7 +894,8 @@
       "path": "avatarborder_snowman.avatarborder_snowman",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Snowman_T"
+      "thumbnail_package": "AvatarBorder_Snowman_T",
+      "image_path": "images/3816.png"
     },
     {
       "id": "3863",
@@ -844,7 +908,8 @@
       "path": "avatarborder_chinamapdragon.avatarborder_chinamapdragon",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_ChinaMapDragon_T"
+      "thumbnail_package": "AvatarBorder_ChinaMapDragon_T",
+      "image_path": "images/3863.png"
     },
     {
       "id": "3864",
@@ -857,7 +922,8 @@
       "path": "avatarborder_chinamapmonster.avatarborder_chinamapmonster",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_ChinaMapMonster_T"
+      "thumbnail_package": "AvatarBorder_ChinaMapMonster_T",
+      "image_path": "images/3864.png"
     },
     {
       "id": "3865",
@@ -870,7 +936,8 @@
       "path": "avatarborder_springfestival.avatarborder_springfestival",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_SpringFestival_T"
+      "thumbnail_package": "AvatarBorder_SpringFestival_T",
+      "image_path": "images/3865.png"
     },
     {
       "id": "4002",
@@ -883,7 +950,8 @@
       "path": "AvatarBorder_Crown.AvatarBorder_Crown",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "AvatarBorder_Crown_T"
+      "thumbnail_package": "AvatarBorder_Crown_T",
+      "image_path": "images/4002.png"
     },
     {
       "id": "4003",
@@ -896,7 +964,8 @@
       "path": "AvatarBorder_Shattered.AvatarBorder_Shattered",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Shattered_T"
+      "thumbnail_package": "AvatarBorder_Shattered_T",
+      "image_path": "images/4003.png"
     },
     {
       "id": "4234",
@@ -909,7 +978,8 @@
       "path": "avatarborder_80sTV.avatarborder_80sTV",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_80sTV_T"
+      "thumbnail_package": "AvatarBorder_80sTV_T",
+      "image_path": "images/4234.png"
     },
     {
       "id": "4300",
@@ -922,7 +992,8 @@
       "path": "avatarborder_october.avatarborder_october",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_October_T"
+      "thumbnail_package": "AvatarBorder_October_T",
+      "image_path": "images/4300.png"
     },
     {
       "id": "4560",
@@ -935,7 +1006,8 @@
       "path": "avatarborder_scoopsahoy.avatarborder_scoopsahoy",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_ScoopsAhoy_T"
+      "thumbnail_package": "AvatarBorder_ScoopsAhoy_T",
+      "image_path": "images/4560.png"
     },
     {
       "id": "4617",
@@ -948,7 +1020,8 @@
       "path": "avatarborder_racetrack1.avatarborder_racetrack1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Racetrack1_T"
+      "thumbnail_package": "AvatarBorder_Racetrack1_T",
+      "image_path": "images/4617.png"
     },
     {
       "id": "4696",
@@ -961,7 +1034,8 @@
       "path": "AvatarBorder_WeirdCritter.AvatarBorder_WeirdCritter",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_WeirdCritter_T"
+      "thumbnail_package": "AvatarBorder_WeirdCritter_T",
+      "image_path": "images/4696.png"
     },
     {
       "id": "4720",
@@ -974,7 +1048,8 @@
       "path": "AvatarBorder_DolphinAndSpray.AvatarBorder_DolphinAndSpray",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_DolphinAndSpray_T"
+      "thumbnail_package": "AvatarBorder_DolphinAndSpray_T",
+      "image_path": "images/4720.png"
     },
     {
       "id": "4723",
@@ -987,7 +1062,11 @@
       "thumbnail_package": "AvatarBorder_2019ChineseValentinesDay_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": true,
+      "path": "AvatarBorder_2019ChineseValentinesDay.AvatarBorder_2019ChineseValentinesDay",
+      "image_path": "images/4723.png"
     },
     {
       "id": "4810",
@@ -1000,7 +1079,8 @@
       "path": "avatarborder_witchhat.avatarborder_witchhat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_WitchHat_T"
+      "thumbnail_package": "AvatarBorder_WitchHat_T",
+      "image_path": "images/4810.png"
     },
     {
       "id": "4891",
@@ -1013,7 +1093,8 @@
       "path": "avatarborder_aztec.avatarborder_aztec",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Aztec_T"
+      "thumbnail_package": "AvatarBorder_Aztec_T",
+      "image_path": "images/4891.png"
     },
     {
       "id": "4892",
@@ -1026,7 +1107,8 @@
       "path": "avatarborder_Carnival.avatarborder_Carnival",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Carnival_T"
+      "thumbnail_package": "AvatarBorder_Carnival_T",
+      "image_path": "images/4892.png"
     },
     {
       "id": "4893",
@@ -1039,7 +1121,8 @@
       "path": "avatarborder_metropolis.avatarborder_metropolis",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Metropolis_T"
+      "thumbnail_package": "AvatarBorder_Metropolis_T",
+      "image_path": "images/4893.png"
     },
     {
       "id": "4954",
@@ -1052,7 +1135,8 @@
       "path": "avatarborder_Cyberstreet.avatarborder_Cyberstreet",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Cyberstreet_T"
+      "thumbnail_package": "AvatarBorder_Cyberstreet_T",
+      "image_path": "images/4954.png"
     },
     {
       "id": "5270",
@@ -1065,7 +1149,8 @@
       "path": "avatarborder_s14rewardbronze.avatarborder_s14rewardbronze",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S14RewardBronze_T"
+      "thumbnail_package": "AvatarBorder_S14RewardBronze_T",
+      "image_path": "images/5270.png"
     },
     {
       "id": "5271",
@@ -1078,7 +1163,8 @@
       "path": "avatarborder_s14rewardchampion.avatarborder_s14rewardchampion",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S14RewardChampion_T"
+      "thumbnail_package": "AvatarBorder_S14RewardChampion_T",
+      "image_path": "images/5271.png"
     },
     {
       "id": "5272",
@@ -1091,7 +1177,8 @@
       "path": "avatarborder_s14rewarddiamond.avatarborder_s14rewarddiamond",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S14RewardDiamond_T"
+      "thumbnail_package": "AvatarBorder_S14RewardDiamond_T",
+      "image_path": "images/5272.png"
     },
     {
       "id": "5273",
@@ -1104,7 +1191,8 @@
       "path": "avatarborder_s14rewardgold.avatarborder_s14rewardgold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S14RewardGold_T"
+      "thumbnail_package": "AvatarBorder_S14RewardGold_T",
+      "image_path": "images/5273.png"
     },
     {
       "id": "5274",
@@ -1117,7 +1205,8 @@
       "path": "avatarborder_s14rewardgrandchampion.avatarborder_s14rewardgrandchampion",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S14RewardGrandChampion_T"
+      "thumbnail_package": "AvatarBorder_S14RewardGrandChampion_T",
+      "image_path": "images/5274.png"
     },
     {
       "id": "5275",
@@ -1130,7 +1219,8 @@
       "path": "avatarborder_s14rewardplatinum.avatarborder_s14rewardplatinum",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S14RewardPlatinum_T"
+      "thumbnail_package": "AvatarBorder_S14RewardPlatinum_T",
+      "image_path": "images/5275.png"
     },
     {
       "id": "5276",
@@ -1143,7 +1233,8 @@
       "path": "avatarborder_s14rewardsilver.avatarborder_s14rewardsilver",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S14RewardSilver_T"
+      "thumbnail_package": "AvatarBorder_S14RewardSilver_T",
+      "image_path": "images/5276.png"
     },
     {
       "id": "5288",
@@ -1156,7 +1247,8 @@
       "path": "avatarborder_5thanniversary.avatarborder_5thanniversary",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_5thAnniversary_T"
+      "thumbnail_package": "AvatarBorder_5thAnniversary_T",
+      "image_path": "images/5288.png"
     },
     {
       "id": "5289",
@@ -1169,7 +1261,8 @@
       "path": "avatarborder_ombre.avatarborder_ombre",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_ombre_T"
+      "thumbnail_package": "AvatarBorder_ombre_T",
+      "image_path": "images/5289.png"
     },
     {
       "id": "5290",
@@ -1182,7 +1275,8 @@
       "path": "avatarborder_sugar.avatarborder_sugar",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_sugar_T"
+      "thumbnail_package": "AvatarBorder_sugar_T",
+      "image_path": "images/5290.png"
     },
     {
       "id": "5546",
@@ -1195,7 +1289,8 @@
       "path": "avatarborder_spookysampson.avatarborder_spookysampson",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_SpookySampson_T"
+      "thumbnail_package": "AvatarBorder_SpookySampson_T",
+      "image_path": "images/5546.png"
     },
     {
       "id": "5549",
@@ -1208,7 +1303,8 @@
       "path": "avatarborder_chaintinted.avatarborder_chaintinted",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_ChainTinted_T"
+      "thumbnail_package": "AvatarBorder_ChainTinted_T",
+      "image_path": "images/5549.png"
     },
     {
       "id": "5550",
@@ -1221,7 +1317,8 @@
       "path": "avatarborder_neontech.avatarborder_neontech",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "AvatarBorder_NeonTech_T"
+      "thumbnail_package": "AvatarBorder_NeonTech_T",
+      "image_path": "images/5550.png"
     },
     {
       "id": "5551",
@@ -1234,7 +1331,8 @@
       "path": "avatarborder_speaker.avatarborder_speaker",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Speaker_T"
+      "thumbnail_package": "AvatarBorder_Speaker_T",
+      "image_path": "images/5551.png"
     },
     {
       "id": "5566",
@@ -1247,7 +1345,8 @@
       "path": "avatarborder_pulsingorbit.avatarborder_pulsingorbit",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_PulsingOrbit_T"
+      "thumbnail_package": "AvatarBorder_PulsingOrbit_T",
+      "image_path": "images/5566.png"
     },
     {
       "id": "5641",
@@ -1260,7 +1359,8 @@
       "path": "AvatarBorder_Frosty.AvatarBorder_Frosty",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Frosty_T"
+      "thumbnail_package": "AvatarBorder_Frosty_T",
+      "image_path": "images/5641.png"
     },
     {
       "id": "5834",
@@ -1273,7 +1373,8 @@
       "path": "avatarborder_football.avatarborder_football",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Football_T"
+      "thumbnail_package": "AvatarBorder_Football_T",
+      "image_path": "images/5834.png"
     },
     {
       "id": "5896",
@@ -1286,7 +1387,8 @@
       "path": "avatarborder_victory.avatarborder_victory",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Victory_T"
+      "thumbnail_package": "AvatarBorder_Victory_T",
+      "image_path": "images/5896.png"
     },
     {
       "id": "5919",
@@ -1299,7 +1401,8 @@
       "path": "avatarborder_savethebees.avatarborder_savethebees",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_SaveTheBees_T"
+      "thumbnail_package": "AvatarBorder_SaveTheBees_T",
+      "image_path": "images/5919.png"
     },
     {
       "id": "6195",
@@ -1312,7 +1415,8 @@
       "path": "avatarborder_renegade.avatarborder_renegade",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Renegade_T"
+      "thumbnail_package": "AvatarBorder_Renegade_T",
+      "image_path": "images/6195.png"
     },
     {
       "id": "6196",
@@ -1325,7 +1429,8 @@
       "path": "avatarborder_wanted.avatarborder_wanted",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Wanted_T"
+      "thumbnail_package": "AvatarBorder_Wanted_T",
+      "image_path": "images/6196.png"
     },
     {
       "id": "6900",
@@ -1338,7 +1443,8 @@
       "path": "avatarborder_jokes.avatarborder_jokes",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Jokes_T"
+      "thumbnail_package": "AvatarBorder_Jokes_T",
+      "image_path": "images/6900.png"
     },
     {
       "id": "6901",
@@ -1351,7 +1457,8 @@
       "path": "avatarborder_nambt.avatarborder_nambt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Nambt_T"
+      "thumbnail_package": "AvatarBorder_Nambt_T",
+      "image_path": "images/6901.png"
     },
     {
       "id": "6902",
@@ -1364,7 +1471,8 @@
       "path": "avatarborder_barrel.avatarborder_barrel",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Barrel_T"
+      "thumbnail_package": "AvatarBorder_Barrel_T",
+      "image_path": "images/6902.png"
     },
     {
       "id": "6923",
@@ -1377,7 +1485,8 @@
       "path": "avatarborder_gravityray.avatarborder_gravityray",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_GravityRay_T"
+      "thumbnail_package": "AvatarBorder_GravityRay_T",
+      "image_path": "images/6923.png"
     },
     {
       "id": "7409",
@@ -1390,7 +1499,8 @@
       "path": "avatarborder_fluffy.avatarborder_fluffy",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Fluffy_T"
+      "thumbnail_package": "AvatarBorder_Fluffy_T",
+      "image_path": "images/7409.png"
     },
     {
       "id": "7410",
@@ -1403,7 +1513,8 @@
       "path": "avatarborder_hook.avatarborder_hook",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Hook_T"
+      "thumbnail_package": "AvatarBorder_Hook_T",
+      "image_path": "images/7410.png"
     },
     {
       "id": "7411",
@@ -1416,7 +1527,8 @@
       "path": "avatarborder_teddy.avatarborder_teddy",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Teddy_T"
+      "thumbnail_package": "AvatarBorder_Teddy_T",
+      "image_path": "images/7411.png"
     },
     {
       "id": "7684",
@@ -1429,7 +1541,8 @@
       "path": "AvatarBorder_Sapphire.AvatarBorder_Sapphire",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Sapphire_T"
+      "thumbnail_package": "AvatarBorder_Sapphire_T",
+      "image_path": "images/7684.png"
     },
     {
       "id": "7687",
@@ -1442,7 +1555,8 @@
       "path": "AvatarBorder_Blings.AvatarBorder_Blings",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Blings_T"
+      "thumbnail_package": "AvatarBorder_Blings_T",
+      "image_path": "images/7687.png"
     },
     {
       "id": "7752",
@@ -1455,7 +1569,8 @@
       "path": "AvatarBorder_DecoArt.AvatarBorder_DecoArt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_DecoArt_T"
+      "thumbnail_package": "AvatarBorder_DecoArt_T",
+      "image_path": "images/7752.png"
     },
     {
       "id": "7915",
@@ -1468,7 +1583,8 @@
       "path": "avatarborder_shoelace.avatarborder_shoelace",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Shoelace_T"
+      "thumbnail_package": "AvatarBorder_Shoelace_T",
+      "image_path": "images/7915.png"
     },
     {
       "id": "8022",
@@ -1481,7 +1597,8 @@
       "path": "avatarborder_spray_paint.avatarborder_spray_paint",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Spray_Paint_T"
+      "thumbnail_package": "AvatarBorder_Spray_Paint_T",
+      "image_path": "images/8022.png"
     },
     {
       "id": "8525",
@@ -1494,7 +1611,8 @@
       "path": "AvatarBorder_ChillBeat.AvatarBorder_ChillBeat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Chillbeat_T"
+      "thumbnail_package": "AvatarBorder_Chillbeat_T",
+      "image_path": "images/8525.png"
     },
     {
       "id": "8526",
@@ -1507,7 +1625,8 @@
       "path": "avatarborder_dragonmarks.avatarborder_dragonmarks",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_DragonMarks_T"
+      "thumbnail_package": "AvatarBorder_DragonMarks_T",
+      "image_path": "images/8526.png"
     },
     {
       "id": "8527",
@@ -1520,7 +1639,8 @@
       "path": "avatarborder_stiles.avatarborder_stiles",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Stiles_T"
+      "thumbnail_package": "AvatarBorder_Stiles_T",
+      "image_path": "images/8527.png"
     },
     {
       "id": "8686",
@@ -1533,7 +1653,8 @@
       "path": "avatarborder_bh_tajfrancis.avatarborder_bh_tajfrancis",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_BH_TajFrancis_T"
+      "thumbnail_package": "AvatarBorder_BH_TajFrancis_T",
+      "image_path": "images/8686.png"
     },
     {
       "id": "8691",
@@ -1546,7 +1667,8 @@
       "path": "avatarborder_bh_geneva.avatarborder_bh_geneva",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_BH_Geneva_T"
+      "thumbnail_package": "AvatarBorder_BH_Geneva_T",
+      "image_path": "images/8691.png"
     },
     {
       "id": "8695",
@@ -1559,7 +1681,8 @@
       "path": "AvatarBorder_jetset.AvatarBorder_jetset",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_jetset_T"
+      "thumbnail_package": "AvatarBorder_jetset_T",
+      "image_path": "images/8695.png"
     },
     {
       "id": "8711",
@@ -1572,7 +1695,8 @@
       "path": "avatarborder_bh_yasuke.avatarborder_bh_yasuke",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_BH_Yasuke_T"
+      "thumbnail_package": "AvatarBorder_BH_Yasuke_T",
+      "image_path": "images/8711.png"
     },
     {
       "id": "8832",
@@ -1585,7 +1709,8 @@
       "path": "avatarborder_oasis.avatarborder_oasis",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Oasis_T"
+      "thumbnail_package": "AvatarBorder_Oasis_T",
+      "image_path": "images/8832.png"
     },
     {
       "id": "8841",
@@ -1598,7 +1723,8 @@
       "path": "avatarborder_hedge.avatarborder_hedge",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Hedge_T"
+      "thumbnail_package": "AvatarBorder_Hedge_T",
+      "image_path": "images/8841.png"
     },
     {
       "id": "9030",
@@ -1611,7 +1737,8 @@
       "path": "AvatarBorder_racing.AvatarBorder_racing",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_racing_T"
+      "thumbnail_package": "AvatarBorder_racing_T",
+      "image_path": "images/9030.png"
     },
     {
       "id": "9066",
@@ -1624,7 +1751,8 @@
       "path": "AvatarBorder_GaugeCluster.AvatarBorder_GaugeCluster",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_GaugeCluster_T"
+      "thumbnail_package": "AvatarBorder_GaugeCluster_T",
+      "image_path": "images/9066.png"
     },
     {
       "id": "9067",
@@ -1637,7 +1765,8 @@
       "path": "AvatarBorder_Mural.AvatarBorder_Mural",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Mural_T"
+      "thumbnail_package": "AvatarBorder_Mural_T",
+      "image_path": "images/9067.png"
     },
     {
       "id": "9239",
@@ -1650,7 +1779,8 @@
       "path": "avatarborder_anniv23.avatarborder_anniv23",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Anniv23_T"
+      "thumbnail_package": "AvatarBorder_Anniv23_T",
+      "image_path": "images/9239.png"
     },
     {
       "id": "9383",
@@ -1663,7 +1793,8 @@
       "path": "avatarborder_rlcs23.avatarborder_rlcs23",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_RLCS23_T"
+      "thumbnail_package": "AvatarBorder_RLCS23_T",
+      "image_path": "images/9383.png"
     },
     {
       "id": "9500",
@@ -1676,7 +1807,8 @@
       "path": "AvatarBorder_RetroScreen.AvatarBorder_RetroScreen",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_RetroScreen_T"
+      "thumbnail_package": "AvatarBorder_RetroScreen_T",
+      "image_path": "images/9500.png"
     },
     {
       "id": "9682",
@@ -1689,7 +1821,8 @@
       "path": "avatarborder_spookycemetery.avatarborder_spookycemetery",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_SpookyCemetery_T"
+      "thumbnail_package": "AvatarBorder_SpookyCemetery_T",
+      "image_path": "images/9682.png"
     },
     {
       "id": "9701",
@@ -1702,7 +1835,8 @@
       "path": "avatarborder_spookyjars.avatarborder_spookyjars",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_SpookyJars_T"
+      "thumbnail_package": "AvatarBorder_SpookyJars_T",
+      "image_path": "images/9701.png"
     },
     {
       "id": "9811",
@@ -1715,7 +1849,8 @@
       "path": "avatarborder_retrofloppy.avatarborder_retrofloppy",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_RetroFloppy_T"
+      "thumbnail_package": "AvatarBorder_RetroFloppy_T",
+      "image_path": "images/9811.png"
     },
     {
       "id": "9812",
@@ -1728,7 +1863,8 @@
       "path": "avatarborder_retroui.avatarborder_retroui",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_RetroUI_T"
+      "thumbnail_package": "AvatarBorder_RetroUI_T",
+      "image_path": "images/9812.png"
     },
     {
       "id": "9830",
@@ -1741,7 +1877,8 @@
       "path": "avatarborder_frostyfest23.avatarborder_frostyfest23",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_FrostyFest23_T"
+      "thumbnail_package": "AvatarBorder_FrostyFest23_T",
+      "image_path": "images/9830.png"
     },
     {
       "id": "10248",
@@ -1754,7 +1891,8 @@
       "path": "avatarborder_lily.avatarborder_lily",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Lily_T"
+      "thumbnail_package": "AvatarBorder_Lily_T",
+      "image_path": "images/10248.png"
     },
     {
       "id": "10301",
@@ -1767,7 +1905,8 @@
       "path": "avatarborder_rose.avatarborder_rose",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Rose_T"
+      "thumbnail_package": "AvatarBorder_Rose_T",
+      "image_path": "images/10301.png"
     },
     {
       "id": "10475",
@@ -1780,7 +1919,8 @@
       "path": "avatarborder_law.avatarborder_law",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Law_T"
+      "thumbnail_package": "AvatarBorder_Law_T",
+      "image_path": "images/10475.png"
     },
     {
       "id": "10558",
@@ -1793,7 +1933,8 @@
       "path": "avatarborder_eggwave.avatarborder_eggwave",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_EggWave_T"
+      "thumbnail_package": "AvatarBorder_EggWave_T",
+      "image_path": "images/10558.png"
     },
     {
       "id": "10559",
@@ -1806,7 +1947,8 @@
       "path": "avatarborder_skatefish.avatarborder_skatefish",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_SkateFish_T"
+      "thumbnail_package": "AvatarBorder_SkateFish_T",
+      "image_path": "images/10559.png"
     },
     {
       "id": "10801",
@@ -1819,7 +1961,8 @@
       "path": "avatarborder_monsterteeth.avatarborder_monsterteeth",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_MonsterTeeth_T"
+      "thumbnail_package": "AvatarBorder_MonsterTeeth_T",
+      "image_path": "images/10801.png"
     },
     {
       "id": "10802",
@@ -1832,7 +1975,8 @@
       "path": "avatarborder_sticky.avatarborder_sticky",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Sticky_T"
+      "thumbnail_package": "AvatarBorder_Sticky_T",
+      "image_path": "images/10802.png"
     },
     {
       "id": "10813",
@@ -1845,7 +1989,8 @@
       "path": "avatarborder_sticky2.avatarborder_sticky2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Sticky2_T"
+      "thumbnail_package": "AvatarBorder_Sticky2_T",
+      "image_path": "images/10813.png"
     },
     {
       "id": "10858",
@@ -1858,7 +2003,8 @@
       "path": "avatarborder_s15bronze.avatarborder_s15bronze",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S15Bronze_T"
+      "thumbnail_package": "AvatarBorder_S15Bronze_T",
+      "image_path": "images/10858.png"
     },
     {
       "id": "10859",
@@ -1871,7 +2017,8 @@
       "path": "avatarborder_s15champion.avatarborder_s15champion",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S15Champion_T"
+      "thumbnail_package": "AvatarBorder_S15Champion_T",
+      "image_path": "images/10859.png"
     },
     {
       "id": "10860",
@@ -1884,7 +2031,8 @@
       "path": "avatarborder_s15diamond.avatarborder_s15diamond",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S15Diamond_T"
+      "thumbnail_package": "AvatarBorder_S15Diamond_T",
+      "image_path": "images/10860.png"
     },
     {
       "id": "10861",
@@ -1897,7 +2045,8 @@
       "path": "avatarborder_s15gold.avatarborder_s15gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S15Gold_T"
+      "thumbnail_package": "AvatarBorder_S15Gold_T",
+      "image_path": "images/10861.png"
     },
     {
       "id": "10862",
@@ -1910,7 +2059,8 @@
       "path": "avatarborder_s15grandchampion.avatarborder_s15grandchampion",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S15GrandChampion_T"
+      "thumbnail_package": "AvatarBorder_S15GrandChampion_T",
+      "image_path": "images/10862.png"
     },
     {
       "id": "10863",
@@ -1923,7 +2073,8 @@
       "path": "avatarborder_s15platinum.avatarborder_s15platinum",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S15Platinum_T"
+      "thumbnail_package": "AvatarBorder_S15Platinum_T",
+      "image_path": "images/10863.png"
     },
     {
       "id": "10864",
@@ -1936,7 +2087,8 @@
       "path": "avatarborder_s15silver.avatarborder_s15silver",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S15Silver_T"
+      "thumbnail_package": "AvatarBorder_S15Silver_T",
+      "image_path": "images/10864.png"
     },
     {
       "id": "10865",
@@ -1949,7 +2101,8 @@
       "path": "avatarborder_s15supersoniclegend.avatarborder_s15supersoniclegend",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_S15SupersonicLegend_T"
+      "thumbnail_package": "AvatarBorder_S15SupersonicLegend_T",
+      "image_path": "images/10865.png"
     },
     {
       "id": "10875",
@@ -1962,7 +2115,8 @@
       "path": "avatarborder_glowingeyes.avatarborder_glowingeyes",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_GlowingEyes_T"
+      "thumbnail_package": "AvatarBorder_GlowingEyes_T",
+      "image_path": "images/10875.png"
     },
     {
       "id": "10923",
@@ -1975,7 +2129,8 @@
       "path": "AvatarBorder_RLCS24.AvatarBorder_RLCS24",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_RLCS24_T"
+      "thumbnail_package": "AvatarBorder_RLCS24_T",
+      "image_path": "images/10923.png"
     },
     {
       "id": "11019",
@@ -1988,7 +2143,8 @@
       "path": "avatarborder_digitalpet.avatarborder_digitalpet",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_DigitalPet_T"
+      "thumbnail_package": "AvatarBorder_DigitalPet_T",
+      "image_path": "images/11019.png"
     },
     {
       "id": "11124",
@@ -2001,7 +2157,8 @@
       "path": "avatarborder_pipedream.avatarborder_pipedream",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_PipeDream_T"
+      "thumbnail_package": "AvatarBorder_PipeDream_T",
+      "image_path": "images/11124.png"
     },
     {
       "id": "11129",
@@ -2014,7 +2171,8 @@
       "path": "avatarborder_arcade.avatarborder_arcade",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Arcade_T"
+      "thumbnail_package": "AvatarBorder_Arcade_T",
+      "image_path": "images/11129.png"
     },
     {
       "id": "11130",
@@ -2027,7 +2185,8 @@
       "path": "avatarborder_aventurine.avatarborder_aventurine",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Aventurine_T"
+      "thumbnail_package": "AvatarBorder_Aventurine_T",
+      "image_path": "images/11130.png"
     },
     {
       "id": "11210",
@@ -2040,7 +2199,8 @@
       "path": "avatarborder_daikon_01.avatarborder_daikon_01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_daikon_01_T"
+      "thumbnail_package": "AvatarBorder_daikon_01_T",
+      "image_path": "images/11210.png"
     },
     {
       "id": "11214",
@@ -2053,7 +2213,8 @@
       "path": "avatarborder_daikon02.avatarborder_daikon02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Daikon02_T"
+      "thumbnail_package": "AvatarBorder_Daikon02_T",
+      "image_path": "images/11214.png"
     },
     {
       "id": "11309",
@@ -2066,7 +2227,8 @@
       "path": "avatarborder_utopia02.avatarborder_utopia02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Utopia02_T"
+      "thumbnail_package": "AvatarBorder_Utopia02_T",
+      "image_path": "images/11309.png"
     },
     {
       "id": "11310",
@@ -2079,7 +2241,8 @@
       "path": "avatarborder_utopia03.avatarborder_utopia03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Utopia03_T"
+      "thumbnail_package": "AvatarBorder_Utopia03_T",
+      "image_path": "images/11310.png"
     },
     {
       "id": "11337",
@@ -2092,7 +2255,8 @@
       "path": "avatarborder_froglte.avatarborder_froglte",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_FrogLTE_T"
+      "thumbnail_package": "AvatarBorder_FrogLTE_T",
+      "image_path": "images/11337.png"
     },
     {
       "id": "11349",
@@ -2105,7 +2269,8 @@
       "path": "avatarborder_impossible.avatarborder_impossible",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Impossible_T"
+      "thumbnail_package": "AvatarBorder_Impossible_T",
+      "image_path": "images/11349.png"
     },
     {
       "id": "11353",
@@ -2118,7 +2283,8 @@
       "path": "avatarborder_utopia01.avatarborder_utopia01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Avatarborder_Utopia01_T"
+      "thumbnail_package": "Avatarborder_Utopia01_T",
+      "image_path": "images/11353.png"
     },
     {
       "id": "11648",
@@ -2131,7 +2297,8 @@
       "path": "avatarborder_10year.avatarborder_10year",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_10Year_T"
+      "thumbnail_package": "AvatarBorder_10Year_T",
+      "image_path": "images/11648.png"
     },
     {
       "id": "11742",
@@ -2144,7 +2311,8 @@
       "path": "avatarborder_10yearbirthday.avatarborder_10yearbirthday",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Avatarborder_10YearBirthday_T"
+      "thumbnail_package": "Avatarborder_10YearBirthday_T",
+      "image_path": "images/11742.png"
     },
     {
       "id": "11759",
@@ -2157,7 +2325,8 @@
       "path": "avatarborder_10yearbirthday_02.avatarborder_10yearbirthday_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Avatarborder_10YearBirthday_02_T"
+      "thumbnail_package": "Avatarborder_10YearBirthday_02_T",
+      "image_path": "images/11759.png"
     },
     {
       "id": "11767",
@@ -2170,7 +2339,8 @@
       "path": "avatarborder_s19rlrocketpass03.avatarborder_s19rlrocketpass03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Avatarborder_S19RLRocketPass03_T"
+      "thumbnail_package": "Avatarborder_S19RLRocketPass03_T",
+      "image_path": "images/11767.png"
     },
     {
       "id": "11813",
@@ -2183,7 +2353,8 @@
       "path": "avatarborder_dragoncat.avatarborder_dragoncat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Avatarborder_Dragoncat_T"
+      "thumbnail_package": "Avatarborder_Dragoncat_T",
+      "image_path": "images/11813.png"
     },
     {
       "id": "11885",
@@ -2196,7 +2367,8 @@
       "path": "avatarborder_rlcs25.avatarborder_rlcs25",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_RLCS25_T"
+      "thumbnail_package": "AvatarBorder_RLCS25_T",
+      "image_path": "images/11885.png"
     },
     {
       "id": "12039",
@@ -2209,7 +2381,8 @@
       "path": "avatarborder_hhbanjo.avatarborder_hhbanjo",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_HHBanjo_T"
+      "thumbnail_package": "AvatarBorder_HHBanjo_T",
+      "image_path": "images/12039.png"
     },
     {
       "id": "12098",
@@ -2222,7 +2395,8 @@
       "path": "avatarborder_goldenlychee.avatarborder_goldenlychee",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Avatarborder_GoldenLychee_T"
+      "thumbnail_package": "Avatarborder_GoldenLychee_T",
+      "image_path": "images/12098.png"
     },
     {
       "id": "12223",
@@ -2235,7 +2409,8 @@
       "path": "avatarborder_frenchheist.avatarborder_frenchheist",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_FrenchHeist_T"
+      "thumbnail_package": "AvatarBorder_FrenchHeist_T",
+      "image_path": "images/12223.png"
     },
     {
       "id": "12441",
@@ -2248,7 +2423,8 @@
       "path": "avatarborder_rivals.avatarborder_rivals",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Rivals_T"
+      "thumbnail_package": "AvatarBorder_Rivals_T",
+      "image_path": "images/12441.png"
     },
     {
       "id": "12832",
@@ -2261,7 +2437,8 @@
       "path": "AvatarBorder_Goallll.AvatarBorder_Goallll",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "AvatarBorder_Goallll_T"
+      "thumbnail_package": "AvatarBorder_Goallll_T",
+      "image_path": "images/12832.png"
     },
     {
       "id": "12979",
@@ -2274,7 +2451,25 @@
       "thumbnail_package": "AvatarBorder_OpticOrangeLTE01_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "avatarborder_opticorangelte01.avatarborder_opticorangelte01",
+      "image_path": "images/12979.png"
+    },
+    {
+      "id": "13037",
+      "internal_name": "avatarborder_umbragenesislte01",
+      "name": "P5R",
+      "upk_path": "avatarborder_umbragenesislte01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "avatarborder_umbragenesislte01",
+      "path": "avatarborder_umbragenesislte01.avatarborder_umbragenesislte01",
+      "thumbnail": "avatarborder_UmbraGenesisLTE01_T_SF.upk",
+      "thumbnail_package": "avatarborder_UmbraGenesisLTE01_T",
+      "image_path": "images/13037.png"
     }
   ]
 }

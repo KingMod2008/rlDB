@@ -13,7 +13,8 @@
       "path": "Explosion_Default.Explosion_Default",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Explosion_Default_T"
+      "thumbnail_package": "Explosion_Default_T",
+      "image_path": "images/1903.png"
     },
     {
       "upk_type": "simple",
@@ -27,7 +28,8 @@
       "path": "Explosion_Electric.Explosion_Electric",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Electric_T"
+      "thumbnail_package": "Explosion_Electric_T",
+      "image_path": "images/1904.png"
     },
     {
       "upk_type": "simple",
@@ -41,7 +43,8 @@
       "path": "Explosion_Fireworks.Explosion_Fireworks",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_FireWorks_T"
+      "thumbnail_package": "Explosion_FireWorks_T",
+      "image_path": "images/1905.png"
     },
     {
       "upk_type": "simple",
@@ -55,7 +58,8 @@
       "path": "Explosion_Ice.Explosion_Ice",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Ice_T"
+      "thumbnail_package": "Explosion_Ice_T",
+      "image_path": "images/1907.png"
     },
     {
       "upk_type": "simple",
@@ -69,7 +73,8 @@
       "path": "Explosion_Skull.Explosion_Skull",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Skull_T"
+      "thumbnail_package": "Explosion_Skull_T",
+      "image_path": "images/1908.png"
     },
     {
       "upk_type": "3parts",
@@ -83,7 +88,8 @@
       "path": "explosion_basic.Products.Explosion_Basic_Green",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Explosion_Basic_T"
+      "thumbnail_package": "Explosion_Basic_T",
+      "image_path": "images/1969.png"
     },
     {
       "upk_type": "3parts",
@@ -97,7 +103,8 @@
       "path": "explosion_basic.Products.Explosion_Basic_Orange",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Explosion_Basic_T"
+      "thumbnail_package": "Explosion_Basic_T",
+      "image_path": "images/1970.png"
     },
     {
       "upk_type": "3parts",
@@ -111,7 +118,8 @@
       "path": "explosion_basic.Products.Explosion_Basic_Pink",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Explosion_Basic_T"
+      "thumbnail_package": "Explosion_Basic_T",
+      "image_path": "images/1971.png"
     },
     {
       "upk_type": "3parts",
@@ -125,7 +133,8 @@
       "path": "explosion_basic.Products.Explosion_Basic_Purple",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Explosion_Basic_T"
+      "thumbnail_package": "Explosion_Basic_T",
+      "image_path": "images/1972.png"
     },
     {
       "upk_type": "simple",
@@ -139,7 +148,8 @@
       "path": "explosion_bats.explosion_bats",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Explosion_Bats_T"
+      "thumbnail_package": "Explosion_Bats_T",
+      "image_path": "images/2023.png"
     },
     {
       "upk_type": "simple",
@@ -153,7 +163,8 @@
       "path": "explosion_Confetti.explosion_Confetti",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Explosion_Confetti_T"
+      "thumbnail_package": "Explosion_Confetti_T",
+      "image_path": "images/2027.png"
     },
     {
       "upk_type": "simple",
@@ -167,7 +178,8 @@
       "path": "explosion_Dragon.explosion_Dragon",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Dragon_T"
+      "thumbnail_package": "Explosion_Dragon_T",
+      "image_path": "images/2044.png"
     },
     {
       "upk_type": "simple",
@@ -181,7 +193,8 @@
       "path": "explosion_Popcorn.explosion_Popcorn",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_PopCorn_T"
+      "thumbnail_package": "Explosion_PopCorn_T",
+      "image_path": "images/2329.png"
     },
     {
       "upk_type": "simple",
@@ -195,7 +208,8 @@
       "path": "explosion_polygon.explosion_polygon",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Polygon_T"
+      "thumbnail_package": "Explosion_Polygon_T",
+      "image_path": "images/2349.png"
     },
     {
       "upk_type": "simple",
@@ -209,7 +223,8 @@
       "path": "explosion_ghost.explosion_ghost",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Explosion_Ghost_T"
+      "thumbnail_package": "Explosion_Ghost_T",
+      "image_path": "images/2355.png"
     },
     {
       "upk_type": "simple",
@@ -223,7 +238,8 @@
       "path": "explosion_presents.explosion_presents",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Presents_T"
+      "thumbnail_package": "Explosion_Presents_T",
+      "image_path": "images/2482.png"
     },
     {
       "upk_type": "simple",
@@ -237,7 +253,8 @@
       "path": "explosion_batman.explosion_batman",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Batman_T"
+      "thumbnail_package": "Explosion_Batman_T",
+      "image_path": "images/2586.png"
     },
     {
       "upk_type": "simple",
@@ -251,7 +268,8 @@
       "path": "Explosion_Butterflies.Explosion_Butterflies",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Butterflies_T"
+      "thumbnail_package": "Explosion_Butterflies_T",
+      "image_path": "images/2700.png"
     },
     {
       "upk_type": "simple",
@@ -265,7 +283,8 @@
       "path": "Explosion_toon.Explosion_toon",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Toon_T"
+      "thumbnail_package": "Explosion_Toon_T",
+      "image_path": "images/2702.png"
     },
     {
       "upk_type": "simple",
@@ -279,7 +298,8 @@
       "path": "Explosion_MiniRLBalls.Explosion_MiniRLBalls",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_MiniRLBalls_T"
+      "thumbnail_package": "Explosion_MiniRLBalls_T",
+      "image_path": "images/2791.png"
     },
     {
       "upk_type": "simple",
@@ -293,7 +313,8 @@
       "path": "explosion_Rekt.explosion_Rekt",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Rekt_T"
+      "thumbnail_package": "Explosion_Rekt_T",
+      "image_path": "images/2817.png"
     },
     {
       "upk_type": "simple",
@@ -307,7 +328,8 @@
       "path": "explosion_Fruit.explosion_Fruit",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Explosion_Fruit_T"
+      "thumbnail_package": "Explosion_Fruit_T",
+      "image_path": "images/2915.png"
     },
     {
       "upk_type": "simple",
@@ -321,7 +343,8 @@
       "path": "explosion_Beachballs.explosion_Beachballs",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_BeachBalls_T"
+      "thumbnail_package": "Explosion_BeachBalls_T",
+      "image_path": "images/2922.png"
     },
     {
       "upk_type": "simple",
@@ -335,7 +358,8 @@
       "path": "explosion_trex.explosion_trex",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Trex_T"
+      "thumbnail_package": "Explosion_Trex_T",
+      "image_path": "images/2975.png"
     },
     {
       "upk_type": "2parts",
@@ -349,7 +373,8 @@
       "path": "explosion_techy.Explosion_techy_tier_01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Techy_T"
+      "thumbnail_package": "Explosion_Techy_T",
+      "image_path": "images/3018.png"
     },
     {
       "upk_type": "2parts",
@@ -363,7 +388,8 @@
       "path": "explosion_techy.Explosion_techy_tier_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Techy_T"
+      "thumbnail_package": "Explosion_Techy_T",
+      "image_path": "images/3019.png"
     },
     {
       "upk_type": "2parts",
@@ -377,7 +403,8 @@
       "path": "explosion_techy.Explosion_techy_tier_03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Techy_T"
+      "thumbnail_package": "Explosion_Techy_T",
+      "image_path": "images/3020.png"
     },
     {
       "upk_type": "simple",
@@ -391,7 +418,8 @@
       "path": "explosion_warpspeed.explosion_warpspeed",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_WarpSpeed_T"
+      "thumbnail_package": "Explosion_WarpSpeed_T",
+      "image_path": "images/3071.png"
     },
     {
       "upk_type": "2parts",
@@ -405,7 +433,8 @@
       "path": "explosion_techyrings.Explosion_TechyRings_Tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_TechyRings_T"
+      "thumbnail_package": "Explosion_TechyRings_T",
+      "image_path": "images/3129.png"
     },
     {
       "upk_type": "2parts",
@@ -419,7 +448,8 @@
       "path": "explosion_techyrings.Explosion_TechyRings_Tier2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_TechyRings_T"
+      "thumbnail_package": "Explosion_TechyRings_T",
+      "image_path": "images/3130.png"
     },
     {
       "upk_type": "2parts",
@@ -433,7 +463,8 @@
       "path": "explosion_techyrings.Explosion_TechyRings_Tier3",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_TechyRings_T"
+      "thumbnail_package": "Explosion_TechyRings_T",
+      "image_path": "images/3131.png"
     },
     {
       "upk_type": "simple",
@@ -447,7 +478,8 @@
       "path": "explosion_loopdeeloop.explosion_loopdeeloop",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_loopdeeloop_T"
+      "thumbnail_package": "Explosion_loopdeeloop_T",
+      "image_path": "images/3324.png"
     },
     {
       "upk_type": "simple",
@@ -461,7 +493,8 @@
       "path": "explosion_solar.explosion_solar",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Solar_T"
+      "thumbnail_package": "Explosion_Solar_T",
+      "image_path": "images/3453.png"
     },
     {
       "upk_type": "2parts",
@@ -475,7 +508,8 @@
       "path": "explosion_darkenergy.explosion_darkenergy_Tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_DarkEnergy_T"
+      "thumbnail_package": "Explosion_DarkEnergy_T",
+      "image_path": "images/3523.png"
     },
     {
       "upk_type": "2parts",
@@ -489,7 +523,8 @@
       "path": "explosion_darkenergy.Explosion_DarkEnergy_Tier2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_DarkEnergy_T"
+      "thumbnail_package": "Explosion_DarkEnergy_T",
+      "image_path": "images/3524.png"
     },
     {
       "upk_type": "2parts",
@@ -503,7 +538,8 @@
       "path": "explosion_darkenergy.Explosion_DarkEnergy_Tier3",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_DarkEnergy_T"
+      "thumbnail_package": "Explosion_DarkEnergy_T",
+      "image_path": "images/3525.png"
     },
     {
       "upk_type": "simple",
@@ -517,7 +553,8 @@
       "path": "explosion_lantern.explosion_lantern",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Explosion_Lantern_T"
+      "thumbnail_package": "Explosion_Lantern_T",
+      "image_path": "images/3645.png"
     },
     {
       "upk_type": "simple",
@@ -531,7 +568,8 @@
       "path": "explosion_chndragon.explosion_chndragon",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_CHNDragon_T"
+      "thumbnail_package": "Explosion_CHNDragon_T",
+      "image_path": "images/3703.png"
     },
     {
       "upk_type": "simple",
@@ -545,7 +583,8 @@
       "path": "explosion_break.explosion_break",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Break_T"
+      "thumbnail_package": "Explosion_Break_T",
+      "image_path": "images/3763.png"
     },
     {
       "upk_type": "simple",
@@ -559,7 +598,8 @@
       "path": "explosion_poof.explosion_poof",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Poof_T"
+      "thumbnail_package": "Explosion_Poof_T",
+      "image_path": "images/3951.png"
     },
     {
       "upk_type": "simple",
@@ -573,7 +613,8 @@
       "path": "explosion_seasonten01.explosion_seasonten01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_SeasonTen01_T"
+      "thumbnail_package": "Explosion_SeasonTen01_T",
+      "image_path": "images/3952.png"
     },
     {
       "upk_type": "simple",
@@ -587,7 +628,8 @@
       "path": "explosion_splash.explosion_splash",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Splash_T"
+      "thumbnail_package": "Explosion_Splash_T",
+      "image_path": "images/3953.png"
     },
     {
       "upk_type": "2parts",
@@ -601,7 +643,8 @@
       "path": "explosion_blade.explosion_blade_tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Blade_T"
+      "thumbnail_package": "Explosion_Blade_T",
+      "image_path": "images/3974.png"
     },
     {
       "upk_type": "2parts",
@@ -615,7 +658,8 @@
       "path": "explosion_blade.explosion_blade_tier2",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Blade_T"
+      "thumbnail_package": "Explosion_Blade_T",
+      "image_path": "images/3975.png"
     },
     {
       "upk_type": "simple",
@@ -629,7 +673,8 @@
       "path": "explosion_seasonten02.explosion_seasonten02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_SeasonTen02_T"
+      "thumbnail_package": "Explosion_SeasonTen02_T",
+      "image_path": "images/3976.png"
     },
     {
       "upk_type": "simple",
@@ -643,7 +688,8 @@
       "path": "explosion_seasonten03.explosion_seasonten03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_SeasonTen03_T"
+      "thumbnail_package": "Explosion_SeasonTen03_T",
+      "image_path": "images/3977.png"
     },
     {
       "upk_type": "simple",
@@ -657,7 +703,8 @@
       "path": "explosion_seasonten04.explosion_seasonten04",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_SeasonTen04_T"
+      "thumbnail_package": "Explosion_SeasonTen04_T",
+      "image_path": "images/3978.png"
     },
     {
       "upk_type": "simple",
@@ -671,7 +718,8 @@
       "path": "explosion_seasonten05.explosion_seasonten05",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_SeasonTen05_T"
+      "thumbnail_package": "Explosion_SeasonTen05_T",
+      "image_path": "images/3979.png"
     },
     {
       "thumb_texture": "tier06_T",
@@ -686,7 +734,8 @@
       "path": "explosion_seasonten06.explosion_seasonten06",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_SeasonTen06_T"
+      "thumbnail_package": "Explosion_SeasonTen06_T",
+      "image_path": "images/3980.png"
     },
     {
       "upk_type": "simple",
@@ -700,7 +749,8 @@
       "path": "explosion_october.explosion_october",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_October_T"
+      "thumbnail_package": "Explosion_October_T",
+      "image_path": "images/4068.png"
     },
     {
       "upk_type": "simple",
@@ -714,7 +764,8 @@
       "path": "explosion_Neurons.explosion_Neurons",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Neurons_T"
+      "thumbnail_package": "Explosion_Neurons_T",
+      "image_path": "images/4118.png"
     },
     {
       "thumb_texture": "tier07_T",
@@ -729,7 +780,8 @@
       "path": "explosion_seasonten06.explosion_seasonten07",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_SeasonTen06_T"
+      "thumbnail_package": "Explosion_SeasonTen06_T",
+      "image_path": "images/4158.png"
     },
     {
       "upk_type": "simple",
@@ -743,7 +795,8 @@
       "path": "explosion_voxel.explosion_voxel",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Voxel_T"
+      "thumbnail_package": "Explosion_Voxel_T",
+      "image_path": "images/4179.png"
     },
     {
       "upk_type": "simple",
@@ -757,7 +810,8 @@
       "path": "explosion_dirt.explosion_dirt",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Dirt_T"
+      "thumbnail_package": "Explosion_Dirt_T",
+      "image_path": "images/4218.png"
     },
     {
       "upk_type": "simple",
@@ -771,7 +825,8 @@
       "path": "explosion_nuke.explosion_nuke",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Nuke_T"
+      "thumbnail_package": "Explosion_Nuke_T",
+      "image_path": "images/4328.png"
     },
     {
       "upk_type": "simple",
@@ -785,7 +840,8 @@
       "path": "explosion_tw.explosion_tw",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Tw_T"
+      "thumbnail_package": "Explosion_Tw_T",
+      "image_path": "images/4373.png"
     },
     {
       "upk_type": "2parts",
@@ -799,7 +855,8 @@
       "path": "explosion_wallbreak.explosion_wallbreak_tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "explosion_wallbreak_T"
+      "thumbnail_package": "explosion_wallbreak_T",
+      "image_path": "images/4377.png"
     },
     {
       "upk_type": "2parts",
@@ -813,7 +870,8 @@
       "path": "explosion_wallbreak.explosion_wallbreak_tier2",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "explosion_wallbreak_T"
+      "thumbnail_package": "explosion_wallbreak_T",
+      "image_path": "images/4378.png"
     },
     {
       "upk_type": "simple",
@@ -827,7 +885,8 @@
       "path": "explosion_anime.explosion_anime",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Anime_T"
+      "thumbnail_package": "Explosion_Anime_T",
+      "image_path": "images/4522.png"
     },
     {
       "upk_type": "simple",
@@ -841,7 +900,8 @@
       "path": "explosion_fish.explosion_fish",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Fish_T"
+      "thumbnail_package": "Explosion_Fish_T",
+      "image_path": "images/4523.png"
     },
     {
       "upk_type": "simple",
@@ -855,7 +915,8 @@
       "path": "explosion_meteors.explosion_meteors",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Meteors_T"
+      "thumbnail_package": "Explosion_Meteors_T",
+      "image_path": "images/4524.png"
     },
     {
       "upk_type": "simple",
@@ -869,7 +930,8 @@
       "path": "explosion_Portal.explosion_Portal",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Portal_T"
+      "thumbnail_package": "Explosion_Portal_T",
+      "image_path": "images/4549.png"
     },
     {
       "upk_type": "simple",
@@ -883,7 +945,8 @@
       "path": "explosion_bpms.explosion_bpms",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_BPMS_T"
+      "thumbnail_package": "Explosion_BPMS_T",
+      "image_path": "images/4718.png"
     },
     {
       "upk_type": "simple",
@@ -897,7 +960,8 @@
       "path": "explosion_geotech.explosion_geotech",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "explosion_geotech_T"
+      "thumbnail_package": "explosion_geotech_T",
+      "image_path": "images/4765.png"
     },
     {
       "upk_type": "simple",
@@ -911,7 +975,8 @@
       "path": "Explosion_Baseballs.Explosion_Baseballs",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Baseballs_T"
+      "thumbnail_package": "Explosion_Baseballs_T",
+      "image_path": "images/4784.png"
     },
     {
       "upk_type": "simple",
@@ -925,7 +990,8 @@
       "path": "Explosion_Leaves.Explosion_Leaves",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Leaves_T"
+      "thumbnail_package": "Explosion_Leaves_T",
+      "image_path": "images/4805.png"
     },
     {
       "upk_type": "simple",
@@ -939,7 +1005,8 @@
       "path": "explosion_darkmatter.explosion_darkmatter",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_DarkMatter_T"
+      "thumbnail_package": "Explosion_DarkMatter_T",
+      "image_path": "images/4823.png"
     },
     {
       "upk_type": "simple",
@@ -953,7 +1020,8 @@
       "path": "Explosion_Quartz.Explosion_Quartz",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Quartz_T"
+      "thumbnail_package": "Explosion_Quartz_T",
+      "image_path": "images/4873.png"
     },
     {
       "upk_type": "simple",
@@ -967,7 +1035,8 @@
       "path": "explosion_badaboom.explosion_badaboom",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "explosion_badaboom_T"
+      "thumbnail_package": "explosion_badaboom_T",
+      "image_path": "images/4887.png"
     },
     {
       "upk_type": "simple",
@@ -981,7 +1050,8 @@
       "path": "explosion_stage.explosion_stage",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Stage_T"
+      "thumbnail_package": "Explosion_Stage_T",
+      "image_path": "images/4981.png"
     },
     {
       "upk_type": "simple",
@@ -995,7 +1065,8 @@
       "path": "explosion_animesmoke.explosion_animesmoke",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_AnimeSmoke_T"
+      "thumbnail_package": "Explosion_AnimeSmoke_T",
+      "image_path": "images/5036.png"
     },
     {
       "upk_type": "simple",
@@ -1009,7 +1080,8 @@
       "path": "explosion_monsoon.explosion_monsoon",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Monsoon_T"
+      "thumbnail_package": "Explosion_Monsoon_T",
+      "image_path": "images/5043.png"
     },
     {
       "upk_type": "simple",
@@ -1023,7 +1095,8 @@
       "path": "explosion_SARPBCBalls.explosion_SARPBCBalls",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_SARPBCBalls_T"
+      "thumbnail_package": "Explosion_SARPBCBalls_T",
+      "image_path": "images/5061.png"
     },
     {
       "upk_type": "simple",
@@ -1037,7 +1110,8 @@
       "path": "explosion_illustrated_bursts.explosion_illustrated_bursts",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Illustrated_Bursts_T"
+      "thumbnail_package": "Explosion_Illustrated_Bursts_T",
+      "image_path": "images/5104.png"
     },
     {
       "upk_type": "simple",
@@ -1051,7 +1125,8 @@
       "path": "explosion_digiglobe.explosion_digiglobe",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_DigiGlobe_T"
+      "thumbnail_package": "Explosion_DigiGlobe_T",
+      "image_path": "images/5131.png"
     },
     {
       "upk_type": "simple",
@@ -1065,7 +1140,8 @@
       "path": "explosion_dynamicenergy.explosion_dynamicenergy",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_DynamicEnergy_T"
+      "thumbnail_package": "Explosion_DynamicEnergy_T",
+      "image_path": "images/5134.png"
     },
     {
       "upk_type": "simple",
@@ -1079,7 +1155,8 @@
       "path": "explosion_fluffy.explosion_fluffy",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Fluffy_T"
+      "thumbnail_package": "Explosion_Fluffy_T",
+      "image_path": "images/5237.png"
     },
     {
       "upk_type": "simple",
@@ -1093,7 +1170,8 @@
       "path": "explosion_micdrop.explosion_micdrop",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "explosion_micdrop_T"
+      "thumbnail_package": "explosion_micdrop_T",
+      "image_path": "images/5257.png"
     },
     {
       "upk_type": "simple",
@@ -1107,7 +1185,8 @@
       "path": "explosion_hearthands.explosion_hearthands",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "explosion_hearthands_T"
+      "thumbnail_package": "explosion_hearthands_T",
+      "image_path": "images/5262.png"
     },
     {
       "upk_type": "simple",
@@ -1121,7 +1200,8 @@
       "path": "explosion_missiles.explosion_missiles",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Missiles_T"
+      "thumbnail_package": "Explosion_Missiles_T",
+      "image_path": "images/5287.png"
     },
     {
       "upk_type": "simple",
@@ -1135,7 +1215,8 @@
       "path": "explosion_bunnyg.explosion_bunnyg",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_BunnyG_T"
+      "thumbnail_package": "Explosion_BunnyG_T",
+      "image_path": "images/5378.png"
     },
     {
       "upk_type": "simple",
@@ -1149,7 +1230,8 @@
       "path": "explosion_gravity.explosion_gravity",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Gravity_T"
+      "thumbnail_package": "Explosion_Gravity_T",
+      "image_path": "images/5419.png"
     },
     {
       "upk_type": "simple",
@@ -1163,7 +1245,8 @@
       "path": "explosion_doughnut.explosion_doughnut",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Doughnut_T"
+      "thumbnail_package": "Explosion_Doughnut_T",
+      "image_path": "images/5456.png"
     },
     {
       "upk_type": "simple",
@@ -1177,7 +1260,8 @@
       "path": "explosion_space_sticker.explosion_space_sticker",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Space_Sticker_T"
+      "thumbnail_package": "Explosion_Space_Sticker_T",
+      "image_path": "images/5568.png"
     },
     {
       "upk_type": "simple",
@@ -1191,7 +1275,8 @@
       "path": "explosion_plasma.explosion_plasma",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Plasma_T"
+      "thumbnail_package": "Explosion_Plasma_T",
+      "image_path": "images/5656.png"
     },
     {
       "upk_type": "simple",
@@ -1205,7 +1290,8 @@
       "path": "explosion_bubble.explosion_bubble",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Bubble_T"
+      "thumbnail_package": "Explosion_Bubble_T",
+      "image_path": "images/5659.png"
     },
     {
       "upk_type": "simple",
@@ -1219,7 +1305,8 @@
       "path": "explosion_sphenergy.explosion_sphenergy",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "explosion_sphenergy_T"
+      "thumbnail_package": "explosion_sphenergy_T",
+      "image_path": "images/5708.png"
     },
     {
       "upk_type": "simple",
@@ -1233,7 +1320,8 @@
       "path": "explosion_nfl.explosion_nfl",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_nfl_T"
+      "thumbnail_package": "Explosion_nfl_T",
+      "image_path": "images/5759.png"
     },
     {
       "upk_type": "simple",
@@ -1247,7 +1335,8 @@
       "path": "explosion_singleatom.explosion_singleatom",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_SingleAtom_T"
+      "thumbnail_package": "Explosion_SingleAtom_T",
+      "image_path": "images/5826.png"
     },
     {
       "upk_type": "simple",
@@ -1261,7 +1350,8 @@
       "path": "explosion_hypnotik.explosion_hypnotik",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "explosion_hypnotik_T"
+      "thumbnail_package": "explosion_hypnotik_T",
+      "image_path": "images/5851.png"
     },
     {
       "upk_type": "simple",
@@ -1275,7 +1365,8 @@
       "path": "explosion_finish.explosion_finish",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "explosion_finish_T"
+      "thumbnail_package": "explosion_finish_T",
+      "image_path": "images/5906.png"
     },
     {
       "upk_type": "simple",
@@ -1289,7 +1380,8 @@
       "path": "explosion_starbeam.explosion_starbeam",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_StarBeam_T"
+      "thumbnail_package": "Explosion_StarBeam_T",
+      "image_path": "images/5955.png"
     },
     {
       "upk_type": "simple",
@@ -1303,7 +1395,8 @@
       "path": "explosion_ioncannon.explosion_ioncannon",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_IonCannon_T"
+      "thumbnail_package": "Explosion_IonCannon_T",
+      "image_path": "images/5975.png"
     },
     {
       "upk_type": "simple",
@@ -1317,7 +1410,8 @@
       "path": "explosion_core.explosion_core",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Core_T"
+      "thumbnail_package": "Explosion_Core_T",
+      "image_path": "images/5986.png"
     },
     {
       "upk_type": "simple",
@@ -1331,7 +1425,8 @@
       "path": "explosion_horse_hind_legs.explosion_horse_hind_legs",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Horse_Hind_Legs_T"
+      "thumbnail_package": "Explosion_Horse_Hind_Legs_T",
+      "image_path": "images/6033.png"
     },
     {
       "upk_type": "simple",
@@ -1345,7 +1440,8 @@
       "path": "explosion_handed_fingergun_with_hat.explosion_handed_fingergun_with_hat",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Handed_FingerGun_with_Hat_T"
+      "thumbnail_package": "Explosion_Handed_FingerGun_with_Hat_T",
+      "image_path": "images/6169.png"
     },
     {
       "upk_type": "simple",
@@ -1359,7 +1455,8 @@
       "path": "explosion_teepeed.explosion_teepeed",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "explosion_teepeed_T"
+      "thumbnail_package": "explosion_teepeed_T",
+      "image_path": "images/6470.png"
     },
     {
       "upk_type": "simple",
@@ -1373,7 +1470,8 @@
       "path": "explosion_tmblr.explosion_tmblr",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Tmblr_T"
+      "thumbnail_package": "Explosion_Tmblr_T",
+      "image_path": "images/6743.png"
     },
     {
       "upk_type": "3parts",
@@ -1387,7 +1485,8 @@
       "path": "explosion_b89.FX.explosion_b89",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_B89_T"
+      "thumbnail_package": "Explosion_B89_T",
+      "image_path": "images/6805.png"
     },
     {
       "upk_type": "simple",
@@ -1401,7 +1500,8 @@
       "path": "explosion_ss_wow.explosion_ss_wow",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_SS_Wow_T"
+      "thumbnail_package": "Explosion_SS_Wow_T",
+      "image_path": "images/6922.png"
     },
     {
       "upk_type": "simple",
@@ -1415,7 +1515,8 @@
       "path": "explosion_toony.explosion_toony",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Toony_T"
+      "thumbnail_package": "Explosion_Toony_T",
+      "image_path": "images/7368.png"
     },
     {
       "upk_type": "2parts",
@@ -1429,7 +1530,8 @@
       "path": "explosion_esports.Explosion_ESports_Ghost",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7386.png"
     },
     {
       "upk_type": "2parts",
@@ -1443,7 +1545,8 @@
       "path": "Explosion_S5.explosion_01_S5",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_S5_T"
+      "thumbnail_package": "Explosion_S5_T",
+      "image_path": "images/7429.png"
     },
     {
       "upk_type": "2parts",
@@ -1457,7 +1560,8 @@
       "path": "Explosion_S5.explosion_02_S5",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_S5_T"
+      "thumbnail_package": "Explosion_S5_T",
+      "image_path": "images/7430.png"
     },
     {
       "upk_type": "2parts",
@@ -1471,7 +1575,8 @@
       "path": "Explosion_S5.explosion_03_S5",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_S5_T"
+      "thumbnail_package": "Explosion_S5_T",
+      "image_path": "images/7431.png"
     },
     {
       "upk_type": "2parts",
@@ -1485,7 +1590,8 @@
       "path": "Explosion_S5.explosion_04_S5",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_S5_T"
+      "thumbnail_package": "Explosion_S5_T",
+      "image_path": "images/7432.png"
     },
     {
       "upk_type": "2parts",
@@ -1499,7 +1605,8 @@
       "path": "Explosion_S5.explosion_05_S5",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_S5_T"
+      "thumbnail_package": "Explosion_S5_T",
+      "image_path": "images/7433.png"
     },
     {
       "upk_type": "2parts",
@@ -1513,7 +1620,8 @@
       "path": "Explosion_S5.explosion_06_S5",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_S5_T"
+      "thumbnail_package": "Explosion_S5_T",
+      "image_path": "images/7434.png"
     },
     {
       "upk_type": "2parts",
@@ -1527,7 +1635,8 @@
       "path": "Explosion_S5.explosion_07_S5",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_S5_T"
+      "thumbnail_package": "Explosion_S5_T",
+      "image_path": "images/7435.png"
     },
     {
       "upk_type": "2parts",
@@ -1541,7 +1650,8 @@
       "path": "Explosion_S5.explosion_08_S5",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_S5_T"
+      "thumbnail_package": "Explosion_S5_T",
+      "image_path": "images/7436.png"
     },
     {
       "upk_type": "simple",
@@ -1555,7 +1665,8 @@
       "path": "explosion_TBM.explosion_TBM",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_TBM_T"
+      "thumbnail_package": "Explosion_TBM_T",
+      "image_path": "images/7471.png"
     },
     {
       "upk_type": "2parts",
@@ -1569,7 +1680,8 @@
       "path": "explosion_esports.Explosion_ESports_Renegades",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7474.png"
     },
     {
       "upk_type": "2parts",
@@ -1583,7 +1695,8 @@
       "path": "explosion_esports.Explosion_ESports_NRG",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7478.png"
     },
     {
       "upk_type": "2parts",
@@ -1597,7 +1710,8 @@
       "path": "explosion_esports.Explosion_ESports_Misfits",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7481.png"
     },
     {
       "upk_type": "2parts",
@@ -1611,7 +1725,8 @@
       "path": "explosion_esports.Explosion_ESports_BDS",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7484.png"
     },
     {
       "upk_type": "3parts",
@@ -1625,7 +1740,8 @@
       "path": "explosion_bender.Materials.explosion_bender",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_bender_T"
+      "thumbnail_package": "Explosion_bender_T",
+      "image_path": "images/7485.png"
     },
     {
       "upk_type": "2parts",
@@ -1639,7 +1755,8 @@
       "path": "explosion_esports.Explosion_ESports_Dignitas",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7488.png"
     },
     {
       "upk_type": "2parts",
@@ -1653,7 +1770,8 @@
       "path": "explosion_esports.Explosion_ESports_Endpoint",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7489.png"
     },
     {
       "upk_type": "2parts",
@@ -1667,7 +1785,8 @@
       "path": "explosion_esports.Explosion_ESports_SMPR",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7490.png"
     },
     {
       "upk_type": "2parts",
@@ -1681,7 +1800,8 @@
       "path": "explosion_esports.Explosion_ESports_Vitality",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7493.png"
     },
     {
       "upk_type": "2parts",
@@ -1695,7 +1815,8 @@
       "path": "explosion_esports.Explosion_ESports_Complexity",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7505.png"
     },
     {
       "upk_type": "2parts",
@@ -1709,7 +1830,8 @@
       "path": "explosion_esports.Explosion_ESports_EG",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7506.png"
     },
     {
       "upk_type": "2parts",
@@ -1723,7 +1845,8 @@
       "path": "explosion_esports.Explosion_ESports_Faze",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7507.png"
     },
     {
       "upk_type": "2parts",
@@ -1737,7 +1860,8 @@
       "path": "explosion_esports.Explosion_ESports_G2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7508.png"
     },
     {
       "upk_type": "2parts",
@@ -1751,7 +1875,8 @@
       "path": "explosion_esports.Explosion_ESports_Karmine",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7509.png"
     },
     {
       "id": "7520",
@@ -1764,7 +1889,8 @@
       "path": "pack_esportsexplosions.pack_esportsexplosions",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "pack_esportsexplosions_T"
+      "thumbnail_package": "pack_esportsexplosions_T",
+      "image_path": "images/7520.png"
     },
     {
       "upk_type": "2parts",
@@ -1778,7 +1904,8 @@
       "path": "explosion_esports.Explosion_ESports_Envy",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7527.png"
     },
     {
       "upk_type": "2parts",
@@ -1792,7 +1919,8 @@
       "path": "explosion_esports.Explosion_ESports_Furia",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7528.png"
     },
     {
       "upk_type": "2parts",
@@ -1806,7 +1934,8 @@
       "path": "explosion_esports.Explosion_ESports_GZG",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7529.png"
     },
     {
       "upk_type": "2parts",
@@ -1820,7 +1949,8 @@
       "path": "explosion_esports.Explosion_ESports_SSG",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7530.png"
     },
     {
       "upk_type": "2parts",
@@ -1834,7 +1964,8 @@
       "path": "explosion_esports.Explosion_ESports_V1",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_ESports_T"
+      "thumbnail_package": "Explosion_ESports_T",
+      "image_path": "images/7531.png"
     },
     {
       "upk_type": "simple",
@@ -1848,7 +1979,8 @@
       "path": "explosion_sphexe.explosion_sphexe",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "explosion_sphexe_T"
+      "thumbnail_package": "explosion_sphexe_T",
+      "image_path": "images/7542.png"
     },
     {
       "upk_type": "simple",
@@ -1862,7 +1994,8 @@
       "path": "explosion_calculated.explosion_calculated",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "explosion_calculated_T"
+      "thumbnail_package": "explosion_calculated_T",
+      "image_path": "images/7589.png"
     },
     {
       "upk_type": "simple",
@@ -1876,7 +2009,8 @@
       "path": "Explosion_Dragon_BW.Explosion_Dragon_BW",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "explosion_Dragon_BW_T"
+      "thumbnail_package": "explosion_Dragon_BW_T",
+      "image_path": "images/7726.png"
     },
     {
       "upk_type": "simple",
@@ -1890,7 +2024,8 @@
       "path": "explosion_phoenix.explosion_phoenix",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Phoenix_T"
+      "thumbnail_package": "Explosion_Phoenix_T",
+      "image_path": "images/7732.png"
     },
     {
       "upk_type": "simple",
@@ -1904,7 +2039,8 @@
       "path": "explosion_rufous.explosion_rufous",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "explosion_rufous_T"
+      "thumbnail_package": "explosion_rufous_T",
+      "image_path": "images/7796.png"
     },
     {
       "upk_type": "simple",
@@ -1918,7 +2054,8 @@
       "path": "Explosion_MiniRLBalls_Gold.Explosion_MiniRLBalls_Gold",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_MiniRLBalls_Gold_T"
+      "thumbnail_package": "Explosion_MiniRLBalls_Gold_T",
+      "image_path": "images/7863.png"
     },
     {
       "upk_type": "simple",
@@ -1932,7 +2069,8 @@
       "path": "explosion_street.explosion_street",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "explosion_Street_T"
+      "thumbnail_package": "explosion_Street_T",
+      "image_path": "images/7926.png"
     },
     {
       "upk_type": "simple",
@@ -1946,7 +2084,8 @@
       "path": "explosion_fireball.explosion_fireball",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_FireBall_T"
+      "thumbnail_package": "Explosion_FireBall_T",
+      "image_path": "images/8165.png"
     },
     {
       "upk_type": "simple",
@@ -1960,7 +2099,8 @@
       "path": "explosion_mexico.explosion_mexico",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Mexico_T"
+      "thumbnail_package": "Explosion_Mexico_T",
+      "image_path": "images/8262.png"
     },
     {
       "upk_type": "simple",
@@ -1974,7 +2114,8 @@
       "path": "explosion_jigsaw.explosion_jigsaw",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Jigsaw_T"
+      "thumbnail_package": "Explosion_Jigsaw_T",
+      "image_path": "images/8278.png"
     },
     {
       "upk_type": "simple",
@@ -1988,7 +2129,8 @@
       "path": "explosion_ekin.explosion_ekin",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Explosion_ekin_T"
+      "thumbnail_package": "Explosion_ekin_T",
+      "image_path": "images/8279.png"
     },
     {
       "upk_type": "simple",
@@ -2002,7 +2144,8 @@
       "path": "explosion_cosmicdice.explosion_cosmicdice",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_CosmicDice_T"
+      "thumbnail_package": "Explosion_CosmicDice_T",
+      "image_path": "images/8315.png"
     },
     {
       "upk_type": "simple",
@@ -2016,7 +2159,8 @@
       "path": "explosion_stylizedflame.explosion_stylizedflame",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_StylizedFlame_T"
+      "thumbnail_package": "Explosion_StylizedFlame_T",
+      "image_path": "images/8349.png"
     },
     {
       "upk_type": "3parts",
@@ -2030,7 +2174,8 @@
       "path": "explosion_ekin2.FX.explosion_ekin2",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Explosion_ekin2_T"
+      "thumbnail_package": "Explosion_ekin2_T",
+      "image_path": "images/8391.png"
     },
     {
       "upk_type": "2parts",
@@ -2044,7 +2189,8 @@
       "path": "explosion_ekin.explosion_ekin_org",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_ekin_T"
+      "thumbnail_package": "Explosion_ekin_T",
+      "image_path": "images/8475.png"
     },
     {
       "upk_type": "3parts",
@@ -2058,7 +2204,8 @@
       "path": "explosion_ekin3.FX.explosion_ekin3_PA",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Explosion_ekin3_T"
+      "thumbnail_package": "Explosion_ekin3_T",
+      "image_path": "images/8476.png"
     },
     {
       "upk_type": "2parts",
@@ -2072,7 +2219,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_G2_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8480.png"
     },
     {
       "upk_type": "2parts",
@@ -2086,7 +2234,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Ghost_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8481.png"
     },
     {
       "upk_type": "simple",
@@ -2100,7 +2249,8 @@
       "path": "explosion_dragon_ga.explosion_dragon_ga",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "explosion_Dragon_GA_T"
+      "thumbnail_package": "explosion_Dragon_GA_T",
+      "image_path": "images/8493.png"
     },
     {
       "id": "8534",
@@ -2113,7 +2263,8 @@
       "path": "pack_esportsexplosions.pack_esportsexplosions23",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "pack_esportsexplosions_T"
+      "thumbnail_package": "pack_esportsexplosions_T",
+      "image_path": "images/8534.png"
     },
     {
       "upk_type": "simple",
@@ -2127,7 +2278,8 @@
       "path": "explosion_fullscreen_fire.explosion_fullscreen_fire",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "explosion_FullScreen_Fire_T"
+      "thumbnail_package": "explosion_FullScreen_Fire_T",
+      "image_path": "images/8536.png"
     },
     {
       "upk_type": "simple",
@@ -2141,7 +2293,8 @@
       "path": "explosion_fullscreen_ice.explosion_fullscreen_ice",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_FullScreen_Ice_T"
+      "thumbnail_package": "Explosion_FullScreen_Ice_T",
+      "image_path": "images/8537.png"
     },
     {
       "upk_type": "2parts",
@@ -2155,7 +2308,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Complexity_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8538.png"
     },
     {
       "upk_type": "2parts",
@@ -2169,7 +2323,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Dignitas_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8539.png"
     },
     {
       "upk_type": "2parts",
@@ -2183,7 +2338,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Faze_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8540.png"
     },
     {
       "upk_type": "2parts",
@@ -2197,7 +2353,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_V1_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8541.png"
     },
     {
       "upk_type": "2parts",
@@ -2211,7 +2368,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Endpoint_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8542.png"
     },
     {
       "upk_type": "2parts",
@@ -2225,7 +2383,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Furia_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8544.png"
     },
     {
       "upk_type": "2parts",
@@ -2239,7 +2398,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_GZG_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8545.png"
     },
     {
       "upk_type": "2parts",
@@ -2253,7 +2413,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Karmine_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8546.png"
     },
     {
       "upk_type": "2parts",
@@ -2267,7 +2428,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_NRG_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8547.png"
     },
     {
       "upk_type": "2parts",
@@ -2281,7 +2443,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_SSG_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8549.png"
     },
     {
       "upk_type": "2parts",
@@ -2295,7 +2458,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Vitality_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8550.png"
     },
     {
       "upk_type": "2parts",
@@ -2309,7 +2473,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_EG_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8552.png"
     },
     {
       "upk_type": "2parts",
@@ -2323,7 +2488,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Liquid_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8584.png"
     },
     {
       "upk_type": "2parts",
@@ -2337,7 +2503,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_OpticGaming_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8585.png"
     },
     {
       "upk_type": "2parts",
@@ -2351,7 +2518,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Oxygen_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8586.png"
     },
     {
       "upk_type": "2parts",
@@ -2365,7 +2533,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_TeamFalcons_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8587.png"
     },
     {
       "upk_type": "2parts",
@@ -2379,7 +2548,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Luminosity_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8591.png"
     },
     {
       "upk_type": "2parts",
@@ -2393,7 +2563,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Pioneers_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8592.png"
     },
     {
       "upk_type": "2parts",
@@ -2407,7 +2578,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_PWR_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8593.png"
     },
     {
       "upk_type": "2parts",
@@ -2421,7 +2593,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_TeamSecret_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8594.png"
     },
     {
       "upk_type": "2parts",
@@ -2435,7 +2608,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Guild_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8629.png"
     },
     {
       "upk_type": "2parts",
@@ -2449,7 +2623,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Rogue_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8630.png"
     },
     {
       "upk_type": "2parts",
@@ -2463,7 +2638,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Solary_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8631.png"
     },
     {
       "upk_type": "2parts",
@@ -2477,7 +2653,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_GenG_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8635.png"
     },
     {
       "upk_type": "2parts",
@@ -2491,7 +2668,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Soniqs_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8636.png"
     },
     {
       "upk_type": "2parts",
@@ -2505,7 +2683,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_EndGame_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8637.png"
     },
     {
       "upk_type": "2parts",
@@ -2519,7 +2698,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Moist_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8638.png"
     },
     {
       "upk_type": "2parts",
@@ -2533,7 +2713,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Quadrant_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8660.png"
     },
     {
       "upk_type": "2parts",
@@ -2547,7 +2728,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_WilliamResolve_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8673.png"
     },
     {
       "upk_type": "2parts",
@@ -2561,7 +2743,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_Tundra_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8693.png"
     },
     {
       "upk_type": "simple",
@@ -2575,7 +2758,8 @@
       "path": "explosion_underworld.explosion_underworld",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Underworld_T"
+      "thumbnail_package": "Explosion_Underworld_T",
+      "image_path": "images/8749.png"
     },
     {
       "upk_type": "simple",
@@ -2589,7 +2773,8 @@
       "path": "explosion_poisonmushroom.explosion_poisonmushroom",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_PoisonMushroom_T"
+      "thumbnail_package": "Explosion_PoisonMushroom_T",
+      "image_path": "images/8754.png"
     },
     {
       "upk_type": "simple",
@@ -2603,7 +2788,8 @@
       "path": "explosion_aquarium.explosion_aquarium",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Aquarium_T"
+      "thumbnail_package": "Explosion_Aquarium_T",
+      "image_path": "images/8765.png"
     },
     {
       "upk_type": "2parts",
@@ -2617,7 +2803,8 @@
       "path": "explosion_esports_v2.Explosion_Esports_BDS_v2",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_v2_T"
+      "thumbnail_package": "Explosion_Esports_v2_T",
+      "image_path": "images/8813.png"
     },
     {
       "upk_type": "3parts",
@@ -2631,7 +2818,8 @@
       "path": "Explosion_Lotusflow.FX.Explosion_Lotusflow",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_LotusFlow_T"
+      "thumbnail_package": "Explosion_LotusFlow_T",
+      "image_path": "images/8815.png"
     },
     {
       "upk_type": "simple",
@@ -2645,7 +2833,8 @@
       "path": "Explosion_plasmaenergy.Explosion_plasmaenergy",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_PlasmaEnergy_T"
+      "thumbnail_package": "Explosion_PlasmaEnergy_T",
+      "image_path": "images/8837.png"
     },
     {
       "upk_type": "simple",
@@ -2659,7 +2848,8 @@
       "path": "explosion_honeybees.explosion_honeybees",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_HoneyBees_T"
+      "thumbnail_package": "Explosion_HoneyBees_T",
+      "image_path": "images/8839.png"
     },
     {
       "upk_type": "simple",
@@ -2673,7 +2863,8 @@
       "path": "explosion_bubblegum.explosion_bubblegum",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_BubbleGum_T"
+      "thumbnail_package": "Explosion_BubbleGum_T",
+      "image_path": "images/8840.png"
     },
     {
       "upk_type": "simple",
@@ -2687,7 +2878,8 @@
       "path": "explosion_magicsplash.explosion_magicsplash",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_MagicSplash_T"
+      "thumbnail_package": "Explosion_MagicSplash_T",
+      "image_path": "images/8848.png"
     },
     {
       "upk_type": "simple",
@@ -2701,7 +2893,8 @@
       "path": "explosion_mandalas.explosion_mandalas",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Mandalas_T"
+      "thumbnail_package": "Explosion_Mandalas_T",
+      "image_path": "images/8883.png"
     },
     {
       "upk_type": "simple",
@@ -2715,7 +2908,8 @@
       "path": "explosion_fangs.explosion_fangs",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Fangs_T"
+      "thumbnail_package": "Explosion_Fangs_T",
+      "image_path": "images/8901.png"
     },
     {
       "upk_type": "simple",
@@ -2729,7 +2923,8 @@
       "path": "explosion_stylizedsmoke.explosion_stylizedsmoke",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_StylizedSmoke_T"
+      "thumbnail_package": "Explosion_StylizedSmoke_T",
+      "image_path": "images/9009.png"
     },
     {
       "upk_type": "simple",
@@ -2743,7 +2938,8 @@
       "path": "explosion_linecolors.explosion_linecolors",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_LineColors_T"
+      "thumbnail_package": "Explosion_LineColors_T",
+      "image_path": "images/9016.png"
     },
     {
       "upk_type": "simple",
@@ -2757,7 +2953,8 @@
       "path": "explosion_colorsmoke.explosion_colorsmoke",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_ColorSmoke_T"
+      "thumbnail_package": "Explosion_ColorSmoke_T",
+      "image_path": "images/9027.png"
     },
     {
       "upk_type": "simple",
@@ -2771,7 +2968,8 @@
       "path": "explosion_tornadox.explosion_tornadox",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_TornadoX_T"
+      "thumbnail_package": "Explosion_TornadoX_T",
+      "image_path": "images/9087.png"
     },
     {
       "upk_type": "simple",
@@ -2785,7 +2983,8 @@
       "path": "explosion_confettibw.explosion_confettibw",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Explosion_ConfettiBW_T"
+      "thumbnail_package": "Explosion_ConfettiBW_T",
+      "image_path": "images/9143.png"
     },
     {
       "upk_type": "simple",
@@ -2799,7 +2998,8 @@
       "path": "Explosion_Top.Explosion_Top",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_top_T"
+      "thumbnail_package": "explosion_top_T",
+      "image_path": "images/9163.png"
     },
     {
       "upk_type": "simple",
@@ -2813,7 +3013,8 @@
       "path": "explosion_spellbook.explosion_spellbook",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Spellbook_T"
+      "thumbnail_package": "Explosion_Spellbook_T",
+      "image_path": "images/9226.png"
     },
     {
       "upk_type": "simple",
@@ -2827,7 +3028,8 @@
       "path": "Explosion_Dreamy.Explosion_Dreamy",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Dreamy_T"
+      "thumbnail_package": "Explosion_Dreamy_T",
+      "image_path": "images/9267.png"
     },
     {
       "upk_type": "2parts",
@@ -2841,7 +3043,8 @@
       "path": "explosion_runestone_rewards.Explosion_RuneStone02_rewards",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_RuneStone_rewards_T"
+      "thumbnail_package": "Explosion_RuneStone_rewards_T",
+      "image_path": "images/9284.png"
     },
     {
       "upk_type": "2parts",
@@ -2855,7 +3058,8 @@
       "path": "explosion_runestone_rewards.Explosion_RuneStone03_rewards",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_RuneStone_rewards_T"
+      "thumbnail_package": "Explosion_RuneStone_rewards_T",
+      "image_path": "images/9285.png"
     },
     {
       "upk_type": "2parts",
@@ -2869,7 +3073,8 @@
       "path": "explosion_runestone_rewards.Explosion_RuneStone04_rewards",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_RuneStone_rewards_T"
+      "thumbnail_package": "Explosion_RuneStone_rewards_T",
+      "image_path": "images/9286.png"
     },
     {
       "upk_type": "2parts",
@@ -2883,7 +3088,8 @@
       "path": "explosion_runestone_rewards.Explosion_RuneStone05_rewards",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_RuneStone_rewards_T"
+      "thumbnail_package": "Explosion_RuneStone_rewards_T",
+      "image_path": "images/9287.png"
     },
     {
       "upk_type": "2parts",
@@ -2897,7 +3103,8 @@
       "path": "explosion_runestone_rewards.Explosion_RuneStone06_rewards",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_RuneStone_rewards_T"
+      "thumbnail_package": "Explosion_RuneStone_rewards_T",
+      "image_path": "images/9288.png"
     },
     {
       "upk_type": "2parts",
@@ -2911,7 +3118,8 @@
       "path": "explosion_runestone_rewards.Explosion_RuneStone07_rewards",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_RuneStone_rewards_T"
+      "thumbnail_package": "Explosion_RuneStone_rewards_T",
+      "image_path": "images/9289.png"
     },
     {
       "upk_type": "2parts",
@@ -2925,7 +3133,8 @@
       "path": "explosion_runestone_rewards.Explosion_RuneStone08_rewards",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_RuneStone_rewards_T"
+      "thumbnail_package": "Explosion_RuneStone_rewards_T",
+      "image_path": "images/9290.png"
     },
     {
       "upk_type": "simple",
@@ -2939,7 +3148,8 @@
       "path": "explosion_runestone_rewards.explosion_runestone_rewards",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_RuneStone_rewards_T"
+      "thumbnail_package": "Explosion_RuneStone_rewards_T",
+      "image_path": "images/9291.png"
     },
     {
       "upk_type": "simple",
@@ -2953,7 +3163,8 @@
       "path": "Explosion_Fullscreen_Glitch.Explosion_Fullscreen_Glitch",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "explosion_fullscreen_glitch_T"
+      "thumbnail_package": "explosion_fullscreen_glitch_T",
+      "image_path": "images/9398.png"
     },
     {
       "upk_type": "3parts",
@@ -2967,7 +3178,8 @@
       "path": "explosion_oldcrt.FX.explosion_oldcrt",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_OldCRT_T"
+      "thumbnail_package": "Explosion_OldCRT_T",
+      "image_path": "images/9463.png"
     },
     {
       "upk_type": "simple",
@@ -2981,7 +3193,8 @@
       "path": "explosion_fs_ghostaquarium.explosion_fs_ghostaquarium",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_GhostAquarium_T"
+      "thumbnail_package": "Explosion_FS_GhostAquarium_T",
+      "image_path": "images/9482.png"
     },
     {
       "upk_type": "simple",
@@ -2995,7 +3208,8 @@
       "path": "explosion_ht.explosion_ht",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_ht_T"
+      "thumbnail_package": "Explosion_ht_T",
+      "image_path": "images/9553.png"
     },
     {
       "upk_type": "simple",
@@ -3009,7 +3223,8 @@
       "path": "explosion_pixie.explosion_pixie",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Pixie_T"
+      "thumbnail_package": "Explosion_Pixie_T",
+      "image_path": "images/9563.png"
     },
     {
       "upk_type": "simple",
@@ -3023,7 +3238,8 @@
       "path": "explosion_magiclamp.explosion_magiclamp",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_MagicLamp_T"
+      "thumbnail_package": "Explosion_MagicLamp_T",
+      "image_path": "images/9597.png"
     },
     {
       "upk_type": "simple",
@@ -3037,7 +3253,8 @@
       "path": "Explosion_FS_Retrowave.Explosion_FS_Retrowave",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_Retrowave_T"
+      "thumbnail_package": "Explosion_FS_Retrowave_T",
+      "image_path": "images/9683.png"
     },
     {
       "upk_type": "simple",
@@ -3051,7 +3268,8 @@
       "path": "explosion_aerosaturn.explosion_aerosaturn",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_AeroSaturn_T"
+      "thumbnail_package": "Explosion_AeroSaturn_T",
+      "image_path": "images/9709.png"
     },
     {
       "upk_type": "simple",
@@ -3065,7 +3283,8 @@
       "path": "explosion_avalanche.explosion_avalanche",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "explosion_avalanche_T"
+      "thumbnail_package": "explosion_avalanche_T",
+      "image_path": "images/9717.png"
     },
     {
       "upk_type": "simple",
@@ -3079,7 +3298,8 @@
       "path": "explosion_fs_polkaeye.explosion_fs_polkaeye",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_PolkaEye_T"
+      "thumbnail_package": "Explosion_FS_PolkaEye_T",
+      "image_path": "images/9718.png"
     },
     {
       "upk_type": "simple",
@@ -3092,8 +3312,9 @@
       "package": "explosion_ice_gp",
       "path": "explosion_ice_gp.explosion_ice_gp",
       "quality_id": 6,
-      "paintable": true,
-      "thumbnail_package": "Explosion_Ice_GP_T"
+      "paintable": false,
+      "thumbnail_package": "Explosion_Ice_GP_T",
+      "image_path": "images/9719.png"
     },
     {
       "upk_type": "simple",
@@ -3107,7 +3328,8 @@
       "path": "Explosion_Butterflies_GP.Explosion_Butterflies_GP",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Butterflies_GP_T"
+      "thumbnail_package": "Explosion_Butterflies_GP_T",
+      "image_path": "images/9721.png"
     },
     {
       "upk_type": "simple",
@@ -3121,7 +3343,8 @@
       "path": "Explosion_Presents_WB.Explosion_Presents_WB",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Explosion_Presents_WB_T"
+      "thumbnail_package": "Explosion_Presents_WB_T",
+      "image_path": "images/9730.png"
     },
     {
       "upk_type": "simple",
@@ -3135,7 +3358,8 @@
       "path": "explosion_fs_candies.explosion_fs_candies",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_Candies_T"
+      "thumbnail_package": "Explosion_FS_Candies_T",
+      "image_path": "images/9805.png"
     },
     {
       "upk_type": "simple",
@@ -3149,7 +3373,8 @@
       "path": "explosion_quaky.explosion_quaky",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Quaky_T"
+      "thumbnail_package": "Explosion_Quaky_T",
+      "image_path": "images/9813.png"
     },
     {
       "upk_type": "simple",
@@ -3163,7 +3388,8 @@
       "path": "explosion_songbird.explosion_songbird",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_SongBird_T"
+      "thumbnail_package": "Explosion_SongBird_T",
+      "image_path": "images/9815.png"
     },
     {
       "upk_type": "simple",
@@ -3177,7 +3403,8 @@
       "path": "explosion_laserbeam.explosion_laserbeam",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Laserbeam_T"
+      "thumbnail_package": "Explosion_Laserbeam_T",
+      "image_path": "images/9846.png"
     },
     {
       "upk_type": "3parts",
@@ -3191,7 +3418,8 @@
       "path": "Explosion_SplitEnergy.FX.Explosion_SplitEnergy",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_SplitEnergy_T"
+      "thumbnail_package": "Explosion_SplitEnergy_T",
+      "image_path": "images/9908.png"
     },
     {
       "upk_type": "simple",
@@ -3205,7 +3433,8 @@
       "path": "explosion_fs_ringer.explosion_fs_ringer",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_Ringer_T"
+      "thumbnail_package": "Explosion_FS_Ringer_T",
+      "image_path": "images/10163.png"
     },
     {
       "upk_type": "simple",
@@ -3219,7 +3448,8 @@
       "path": "explosion_lightrock.explosion_lightrock",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_LightRock_T"
+      "thumbnail_package": "Explosion_LightRock_T",
+      "image_path": "images/10295.png"
     },
     {
       "upk_type": "simple",
@@ -3233,7 +3463,8 @@
       "path": "explosion_cluster.explosion_cluster",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Cluster_T"
+      "thumbnail_package": "Explosion_Cluster_T",
+      "image_path": "images/10300.png"
     },
     {
       "upk_type": "simple",
@@ -3247,7 +3478,8 @@
       "path": "explosion_fs_hypercube1.explosion_fs_hypercube1",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_FS_Hypercube1_T"
+      "thumbnail_package": "Explosion_FS_Hypercube1_T",
+      "image_path": "images/10318.png"
     },
     {
       "upk_type": "simple",
@@ -3261,7 +3493,8 @@
       "path": "explosion_negativewings.explosion_negativewings",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_NegativeWings_T"
+      "thumbnail_package": "Explosion_NegativeWings_T",
+      "image_path": "images/10377.png"
     },
     {
       "upk_type": "simple",
@@ -3275,7 +3508,8 @@
       "path": "explosion_fieldstrikes.explosion_fieldstrikes",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_FieldStrikes_T"
+      "thumbnail_package": "Explosion_FieldStrikes_T",
+      "image_path": "images/10397.png"
     },
     {
       "id": "10415",
@@ -3288,7 +3522,11 @@
       "thumbnail_package": "Explosion_MoonSword_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": true,
+      "path": "Explosion_MoonSword.Explosion_MoonSword",
+      "image_path": "images/10415.png"
     },
     {
       "upk_type": "simple",
@@ -3302,7 +3540,8 @@
       "path": "explosion_aw.explosion_aw",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_AW_T"
+      "thumbnail_package": "Explosion_AW_T",
+      "image_path": "images/10474.png"
     },
     {
       "upk_type": "simple",
@@ -3316,7 +3555,8 @@
       "path": "explosion_mountain.explosion_mountain",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Mountain_T"
+      "thumbnail_package": "Explosion_Mountain_T",
+      "image_path": "images/10518.png"
     },
     {
       "upk_type": "simple",
@@ -3330,7 +3570,8 @@
       "path": "explosion_murk.explosion_murk",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Murk_T"
+      "thumbnail_package": "Explosion_Murk_T",
+      "image_path": "images/10555.png"
     },
     {
       "upk_type": "simple",
@@ -3344,7 +3585,8 @@
       "path": "explosion_fs_popart.explosion_fs_popart",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_Popart_T"
+      "thumbnail_package": "Explosion_FS_Popart_T",
+      "image_path": "images/10604.png"
     },
     {
       "upk_type": "simple",
@@ -3358,7 +3600,8 @@
       "path": "explosion_plasmabloom.explosion_plasmabloom",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_PlasmaBloom_T"
+      "thumbnail_package": "Explosion_PlasmaBloom_T",
+      "image_path": "images/10707.png"
     },
     {
       "upk_type": "simple",
@@ -3372,7 +3615,8 @@
       "path": "explosion_necromancer.explosion_necromancer",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Necromancer_T"
+      "thumbnail_package": "Explosion_Necromancer_T",
+      "image_path": "images/10745.png"
     },
     {
       "upk_type": "simple",
@@ -3386,7 +3630,8 @@
       "path": "explosion_Kitty.explosion_Kitty",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Kitty_T"
+      "thumbnail_package": "Explosion_Kitty_T",
+      "image_path": "images/10767.png"
     },
     {
       "upk_type": "simple",
@@ -3400,7 +3645,8 @@
       "path": "explosion_fs_sticky.explosion_fs_sticky",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Explosion_FS_Sticky_T"
+      "thumbnail_package": "Explosion_FS_Sticky_T",
+      "image_path": "images/10778.png"
     },
     {
       "upk_type": "simple",
@@ -3414,7 +3660,8 @@
       "path": "explosion_fs_hero.explosion_fs_hero",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Explosion_FS_Hero_T"
+      "thumbnail_package": "Explosion_FS_Hero_T",
+      "image_path": "images/10844.png"
     },
     {
       "upk_type": "simple",
@@ -3428,7 +3675,8 @@
       "path": "Explosion_BarrelBomb.Explosion_BarrelBomb",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_BarrelBomb_T"
+      "thumbnail_package": "Explosion_BarrelBomb_T",
+      "image_path": "images/10931.png"
     },
     {
       "upk_type": "simple",
@@ -3442,7 +3690,8 @@
       "path": "explosion_countdown.explosion_countdown",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Countdown_T"
+      "thumbnail_package": "Explosion_Countdown_T",
+      "image_path": "images/10941.png"
     },
     {
       "upk_type": "simple",
@@ -3456,7 +3705,8 @@
       "path": "Explosion_Target.Explosion_Target",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Target_T"
+      "thumbnail_package": "Explosion_Target_T",
+      "image_path": "images/10946.png"
     },
     {
       "upk_type": "simple",
@@ -3470,7 +3720,8 @@
       "path": "explosion_pixelbubble.explosion_pixelbubble",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_PixelBubble_T"
+      "thumbnail_package": "Explosion_PixelBubble_T",
+      "image_path": "images/10947.png"
     },
     {
       "upk_type": "simple",
@@ -3484,7 +3735,8 @@
       "path": "explosion_infinite.explosion_infinite",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Infinite_T"
+      "thumbnail_package": "Explosion_Infinite_T",
+      "image_path": "images/10949.png"
     },
     {
       "upk_type": "simple",
@@ -3498,7 +3750,8 @@
       "path": "explosion_fs_disco.explosion_fs_disco",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_Disco_T"
+      "thumbnail_package": "Explosion_FS_Disco_T",
+      "image_path": "images/10954.png"
     },
     {
       "upk_type": "simple",
@@ -3512,7 +3765,8 @@
       "path": "explosion_darkstar.explosion_darkstar",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_DarkStar_T"
+      "thumbnail_package": "Explosion_DarkStar_T",
+      "image_path": "images/10964.png"
     },
     {
       "upk_type": "simple",
@@ -3526,7 +3780,8 @@
       "path": "explosion_fs_bloodmoon.explosion_fs_bloodmoon",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_Bloodmoon_T"
+      "thumbnail_package": "Explosion_FS_Bloodmoon_T",
+      "image_path": "images/11012.png"
     },
     {
       "id": "11062",
@@ -3539,7 +3794,11 @@
       "thumbnail_package": "Explosion_RIP_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 6,
+      "paintable": true,
+      "path": "explosion_rip.explosion_rip",
+      "image_path": "images/11062.png"
     },
     {
       "upk_type": "simple",
@@ -3553,7 +3812,8 @@
       "path": "explosion_paintpuzzle.explosion_paintpuzzle",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Paintpuzzle_T"
+      "thumbnail_package": "Explosion_Paintpuzzle_T",
+      "image_path": "images/11067.png"
     },
     {
       "upk_type": "simple",
@@ -3567,7 +3827,8 @@
       "path": "explosion_fs_gray.explosion_fs_gray",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_FS_Gray_T"
+      "thumbnail_package": "Explosion_FS_Gray_T",
+      "image_path": "images/11113.png"
     },
     {
       "upk_type": "simple",
@@ -3581,7 +3842,8 @@
       "path": "explosion_aventurine.explosion_aventurine",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Aventurine_T"
+      "thumbnail_package": "Explosion_Aventurine_T",
+      "image_path": "images/11162.png"
     },
     {
       "upk_type": "simple",
@@ -3595,7 +3857,8 @@
       "path": "explosion_esports_v3.explosion_esports_v3",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_ESports_V3_T"
+      "thumbnail_package": "explosion_ESports_V3_T",
+      "image_path": "images/11191.png"
     },
     {
       "upk_type": "simple",
@@ -3609,7 +3872,8 @@
       "path": "explosion_fs_big.explosion_fs_big",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Explosion_FS_Big_T"
+      "thumbnail_package": "Explosion_FS_Big_T",
+      "image_path": "images/11200.png"
     },
     {
       "id": "11241",
@@ -3622,7 +3886,8 @@
       "path": "pack_esportsexplosions.pack_esportsexplosions25",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "pack_esportsexplosions_T"
+      "thumbnail_package": "pack_esportsexplosions_T",
+      "image_path": "images/11241.png"
     },
     {
       "upk_type": "2parts",
@@ -3636,7 +3901,8 @@
       "path": "explosion_esports_v3.explosion_ESports_Luminosity_V3",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_ESports_V3_T"
+      "thumbnail_package": "explosion_ESports_V3_T",
+      "image_path": "images/11247.png"
     },
     {
       "upk_type": "simple",
@@ -3650,7 +3916,8 @@
       "path": "explosion_fs_hypnoclock.explosion_fs_hypnoclock",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_Hypnoclock_T"
+      "thumbnail_package": "Explosion_FS_Hypnoclock_T",
+      "image_path": "images/11252.png"
     },
     {
       "upk_type": "2parts",
@@ -3664,7 +3931,8 @@
       "path": "explosion_esports_v3.explosion_ESports_GenG_V3",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_ESports_V3_T"
+      "thumbnail_package": "explosion_ESports_V3_T",
+      "image_path": "images/11255.png"
     },
     {
       "upk_type": "2parts",
@@ -3678,7 +3946,8 @@
       "path": "explosion_esports_v3.explosion_ESports_SpaceStation_V3",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_ESports_V3_T"
+      "thumbnail_package": "explosion_ESports_V3_T",
+      "image_path": "images/11260.png"
     },
     {
       "upk_type": "2parts",
@@ -3692,7 +3961,8 @@
       "path": "explosion_esports_v3.explosion_ESports_TeamFalcons_V3",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_ESports_V3_T"
+      "thumbnail_package": "explosion_ESports_V3_T",
+      "image_path": "images/11261.png"
     },
     {
       "upk_type": "2parts",
@@ -3706,7 +3976,8 @@
       "path": "explosion_esports_v3.explosion_ESports_Vitality_V3",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_ESports_V3_T"
+      "thumbnail_package": "explosion_ESports_V3_T",
+      "image_path": "images/11263.png"
     },
     {
       "upk_type": "simple",
@@ -3720,7 +3991,8 @@
       "path": "explosion_hologlass.explosion_hologlass",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "explosion_hologlass_T"
+      "thumbnail_package": "explosion_hologlass_T",
+      "image_path": "images/11288.png"
     },
     {
       "upk_type": "simple",
@@ -3734,7 +4006,8 @@
       "path": "explosion_hug.explosion_hug",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_Hug_T"
+      "thumbnail_package": "Explosion_Hug_T",
+      "image_path": "images/11291.png"
     },
     {
       "upk_type": "simple",
@@ -3748,7 +4021,8 @@
       "path": "Explosion_Chromophore.Explosion_Chromophore",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Chromophore_T"
+      "thumbnail_package": "Explosion_Chromophore_T",
+      "image_path": "images/11352.png"
     },
     {
       "upk_type": "simple",
@@ -3762,7 +4036,8 @@
       "path": "explosion_electrogalactic.explosion_electrogalactic",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Electrogalactic_T"
+      "thumbnail_package": "Explosion_Electrogalactic_T",
+      "image_path": "images/11358.png"
     },
     {
       "upk_type": "simple",
@@ -3776,7 +4051,8 @@
       "path": "explosion_fs_divineconnection.explosion_fs_divineconnection",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_DivineConnection_T"
+      "thumbnail_package": "Explosion_FS_DivineConnection_T",
+      "image_path": "images/11395.png"
     },
     {
       "upk_type": "3parts",
@@ -3790,7 +4066,8 @@
       "path": "explosion_bramen.FX.explosion_bramen",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_BRamen_T"
+      "thumbnail_package": "Explosion_BRamen_T",
+      "image_path": "images/11413.png"
     },
     {
       "upk_type": "simple",
@@ -3804,7 +4081,8 @@
       "path": "explosion_goldy.explosion_goldy",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Goldy_T"
+      "thumbnail_package": "Explosion_Goldy_T",
+      "image_path": "images/11425.png"
     },
     {
       "upk_type": "3parts",
@@ -3818,7 +4096,8 @@
       "path": "explosion_fs_evilornament.FX.explosion_fs_evilornament",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Explosion_FS_EvilOrnament_T"
+      "thumbnail_package": "Explosion_FS_EvilOrnament_T",
+      "image_path": "images/11489.png"
     },
     {
       "upk_type": "2parts",
@@ -3832,7 +4111,8 @@
       "path": "explosion_season17.explosion_season17_bronze",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Season17_T"
+      "thumbnail_package": "Explosion_Season17_T",
+      "image_path": "images/11491.png"
     },
     {
       "upk_type": "2parts",
@@ -3846,7 +4126,8 @@
       "path": "explosion_season17.explosion_season17_champ",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Season17_T"
+      "thumbnail_package": "Explosion_Season17_T",
+      "image_path": "images/11492.png"
     },
     {
       "upk_type": "2parts",
@@ -3860,7 +4141,8 @@
       "path": "explosion_season17.explosion_season17_diamond",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Season17_T"
+      "thumbnail_package": "Explosion_Season17_T",
+      "image_path": "images/11493.png"
     },
     {
       "upk_type": "2parts",
@@ -3874,7 +4156,8 @@
       "path": "explosion_season17.explosion_season17_gc",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Season17_T"
+      "thumbnail_package": "Explosion_Season17_T",
+      "image_path": "images/11494.png"
     },
     {
       "upk_type": "2parts",
@@ -3888,7 +4171,8 @@
       "path": "explosion_season17.explosion_season17_gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Season17_T"
+      "thumbnail_package": "Explosion_Season17_T",
+      "image_path": "images/11495.png"
     },
     {
       "upk_type": "2parts",
@@ -3902,7 +4186,8 @@
       "path": "explosion_season17.explosion_season17_platinum",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Season17_T"
+      "thumbnail_package": "Explosion_Season17_T",
+      "image_path": "images/11496.png"
     },
     {
       "upk_type": "2parts",
@@ -3916,7 +4201,8 @@
       "path": "explosion_season17.explosion_season17_silver",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Season17_T"
+      "thumbnail_package": "Explosion_Season17_T",
+      "image_path": "images/11497.png"
     },
     {
       "upk_type": "2parts",
@@ -3930,7 +4216,8 @@
       "path": "explosion_season17.explosion_season17_ssl",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Season17_T"
+      "thumbnail_package": "Explosion_Season17_T",
+      "image_path": "images/11498.png"
     },
     {
       "upk_type": "2parts",
@@ -3944,7 +4231,8 @@
       "path": "explosion_esports_v3.explosion_ESports_Dignitas_V3",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_ESports_V3_T"
+      "thumbnail_package": "explosion_ESports_V3_T",
+      "image_path": "images/11556.png"
     },
     {
       "upk_type": "2parts",
@@ -3958,7 +4246,8 @@
       "path": "explosion_esports_v3.explosion_ESports_Furia_V3",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_ESports_V3_T"
+      "thumbnail_package": "explosion_ESports_V3_T",
+      "image_path": "images/11557.png"
     },
     {
       "upk_type": "2parts",
@@ -3972,7 +4261,8 @@
       "path": "explosion_esports_v3.explosion_ESports_Limitless_V3",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_ESports_V3_T"
+      "thumbnail_package": "explosion_ESports_V3_T",
+      "image_path": "images/11558.png"
     },
     {
       "upk_type": "2parts",
@@ -3986,7 +4276,8 @@
       "path": "explosion_esports_v3.explosion_ESports_NRG_V3",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_ESports_V3_T"
+      "thumbnail_package": "explosion_ESports_V3_T",
+      "image_path": "images/11559.png"
     },
     {
       "id": "11560",
@@ -4013,7 +4304,8 @@
       "path": "explosion_fs_pristinous.explosion_fs_pristinous",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_Pristinous_T"
+      "thumbnail_package": "Explosion_FS_Pristinous_T",
+      "image_path": "images/11571.png"
     },
     {
       "upk_type": "simple",
@@ -4027,7 +4319,8 @@
       "path": "explosion_dimensionator.explosion_dimensionator",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_Dimensionator_T"
+      "thumbnail_package": "Explosion_Dimensionator_T",
+      "image_path": "images/11606.png"
     },
     {
       "upk_type": "2parts",
@@ -4041,7 +4334,8 @@
       "path": "explosion_esports_v3.explosion_ESports_Gentlemates_V3",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_ESports_V3_T"
+      "thumbnail_package": "explosion_ESports_V3_T",
+      "image_path": "images/11614.png"
     },
     {
       "upk_type": "2parts",
@@ -4055,7 +4349,8 @@
       "path": "explosion_esports_v3.explosion_ESports_TSM_V3",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "explosion_ESports_V3_T"
+      "thumbnail_package": "explosion_ESports_V3_T",
+      "image_path": "images/11615.png"
     },
     {
       "upk_type": "simple",
@@ -4069,7 +4364,8 @@
       "path": "explosion_fs_skull_ga.explosion_fs_skull_ga",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "explosion_fs_skull_ga_T"
+      "thumbnail_package": "explosion_fs_skull_ga_T",
+      "image_path": "images/11632.png"
     },
     {
       "upk_type": "simple",
@@ -4083,7 +4379,8 @@
       "path": "explosion_aglet02.explosion_aglet02",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Aglet02_T"
+      "thumbnail_package": "Explosion_Aglet02_T",
+      "image_path": "images/11717.png"
     },
     {
       "upk_type": "simple",
@@ -4097,7 +4394,8 @@
       "path": "explosion_aglet03.explosion_aglet03",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Aglet03_T"
+      "thumbnail_package": "Explosion_Aglet03_T",
+      "image_path": "images/11718.png"
     },
     {
       "upk_type": "simple",
@@ -4111,7 +4409,8 @@
       "path": "explosion_aglet04.explosion_aglet04",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Aglet04_T"
+      "thumbnail_package": "Explosion_Aglet04_T",
+      "image_path": "images/11719.png"
     },
     {
       "upk_type": "simple",
@@ -4125,7 +4424,8 @@
       "path": "explosion_aglet05.explosion_aglet05",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Aglet05_T"
+      "thumbnail_package": "Explosion_Aglet05_T",
+      "image_path": "images/11720.png"
     },
     {
       "upk_type": "simple",
@@ -4139,7 +4439,8 @@
       "path": "explosion_fs_ghost.explosion_fs_ghost",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_Ghost_T"
+      "thumbnail_package": "Explosion_FS_Ghost_T",
+      "image_path": "images/11747.png"
     },
     {
       "upk_type": "simple",
@@ -4153,7 +4454,8 @@
       "path": "explosion_comics.explosion_comics",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Comics_T"
+      "thumbnail_package": "Explosion_Comics_T",
+      "image_path": "images/11751.png"
     },
     {
       "upk_type": "simple",
@@ -4167,7 +4469,8 @@
       "path": "explosion_chrisp.explosion_chrisp",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Chrisp_T"
+      "thumbnail_package": "Explosion_Chrisp_T",
+      "image_path": "images/11836.png"
     },
     {
       "upk_type": "3parts",
@@ -4181,7 +4484,8 @@
       "path": "explosion_goldniceshot.Actors.explosion_goldniceshot",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_GoldNiceShot_T"
+      "thumbnail_package": "Explosion_GoldNiceShot_T",
+      "image_path": "images/11839.png"
     },
     {
       "upk_type": "simple",
@@ -4195,7 +4499,8 @@
       "path": "explosion_dragoncat.explosion_dragoncat",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Explosion_Dragoncat_T"
+      "thumbnail_package": "Explosion_Dragoncat_T",
+      "image_path": "images/11870.png"
     },
     {
       "upk_type": "simple",
@@ -4209,7 +4514,8 @@
       "path": "explosion_mooncake.explosion_mooncake",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_MoonCake_T"
+      "thumbnail_package": "Explosion_MoonCake_T",
+      "image_path": "images/11904.png"
     },
     {
       "upk_type": "simple",
@@ -4223,7 +4529,8 @@
       "path": "explosion_banjo.explosion_banjo",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Banjo_T"
+      "thumbnail_package": "Explosion_Banjo_T",
+      "image_path": "images/11943.png"
     },
     {
       "upk_type": "simple",
@@ -4237,7 +4544,8 @@
       "path": "explosion_rpgoldenlychee.explosion_rpgoldenlychee",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_RPGoldenLychee_T"
+      "thumbnail_package": "Explosion_RPGoldenLychee_T",
+      "image_path": "images/11955.png"
     },
     {
       "upk_type": "simple",
@@ -4251,7 +4559,8 @@
       "path": "explosion_goldenlychee01.explosion_goldenlychee01",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_GoldenLychee01_T"
+      "thumbnail_package": "Explosion_GoldenLychee01_T",
+      "image_path": "images/11956.png"
     },
     {
       "upk_type": "3parts",
@@ -4265,7 +4574,8 @@
       "path": "explosion_nuggetsauce.Actors.explosion_nuggetsauce",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_NuggetSauce_T"
+      "thumbnail_package": "Explosion_NuggetSauce_T",
+      "image_path": "images/11972.png"
     },
     {
       "upk_type": "simple",
@@ -4279,7 +4589,8 @@
       "path": "explosion_pixelcobra.explosion_pixelcobra",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_PixelCobra_T"
+      "thumbnail_package": "Explosion_PixelCobra_T",
+      "image_path": "images/12009.png"
     },
     {
       "upk_type": "simple",
@@ -4293,7 +4604,8 @@
       "path": "explosion_rubberducky.explosion_rubberducky",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_RubberDucky_T"
+      "thumbnail_package": "Explosion_RubberDucky_T",
+      "image_path": "images/12015.png"
     },
     {
       "upk_type": "simple",
@@ -4307,7 +4619,8 @@
       "path": "explosion_chrome.explosion_chrome",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Explosion_Chrome_T"
+      "thumbnail_package": "Explosion_Chrome_T",
+      "image_path": "images/12049.png"
     },
     {
       "upk_type": "simple",
@@ -4321,7 +4634,8 @@
       "path": "Explosion_BreakThrough.Explosion_BreakThrough",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_BreakThrough_T"
+      "thumbnail_package": "Explosion_BreakThrough_T",
+      "image_path": "images/12087.png"
     },
     {
       "upk_type": "3parts",
@@ -4335,7 +4649,8 @@
       "path": "explosion_safe.FX.explosion_safe",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Safe_T"
+      "thumbnail_package": "Explosion_Safe_T",
+      "image_path": "images/12108.png"
     },
     {
       "upk_type": "simple",
@@ -4349,7 +4664,8 @@
       "path": "explosion_fs_lionsmane01.explosion_fs_lionsmane01",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Explosion_FS_LionsMane01_T"
+      "thumbnail_package": "Explosion_FS_LionsMane01_T",
+      "image_path": "images/12165.png"
     },
     {
       "upk_type": "simple",
@@ -4363,7 +4679,8 @@
       "path": "explosion_numb01.explosion_numb01",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Explosion_Numb01_T"
+      "thumbnail_package": "Explosion_Numb01_T",
+      "image_path": "images/12227.png"
     },
     {
       "upk_type": "simple",
@@ -4377,7 +4694,8 @@
       "path": "explosion_blightshield.explosion_blightshield",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_BlightShield_T"
+      "thumbnail_package": "Explosion_BlightShield_T",
+      "image_path": "images/12258.png"
     },
     {
       "upk_type": "simple",
@@ -4391,7 +4709,8 @@
       "path": "explosion_lasersmoke.explosion_lasersmoke",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_LaserSmoke_T"
+      "thumbnail_package": "Explosion_LaserSmoke_T",
+      "image_path": "images/12287.png"
     },
     {
       "upk_type": "simple",
@@ -4405,7 +4724,8 @@
       "path": "explosion_crumple.explosion_crumple",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Crumple_T"
+      "thumbnail_package": "Explosion_Crumple_T",
+      "image_path": "images/12305.png"
     },
     {
       "upk_type": "3parts",
@@ -4419,7 +4739,8 @@
       "path": "explosion_esports_v4.Product.Explosion_Geekay_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12417.png"
     },
     {
       "upk_type": "simple",
@@ -4433,7 +4754,8 @@
       "path": "explosion_boxing.explosion_boxing",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Boxing_T"
+      "thumbnail_package": "Explosion_Boxing_T",
+      "image_path": "images/12429.png"
     },
     {
       "upk_type": "simple",
@@ -4447,7 +4769,8 @@
       "path": "explosion_foosball.explosion_foosball",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Foosball_T"
+      "thumbnail_package": "Explosion_Foosball_T",
+      "image_path": "images/12437.png"
     },
     {
       "upk_type": "3parts",
@@ -4461,7 +4784,8 @@
       "path": "explosion_courgette.FX.explosion_courgette",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Explosion_Courgette_T"
+      "thumbnail_package": "Explosion_Courgette_T",
+      "image_path": "images/12453.png"
     },
     {
       "upk_type": "simple",
@@ -4475,7 +4799,8 @@
       "path": "explosion_fs_ufo.explosion_fs_ufo",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_FS_UFO_T"
+      "thumbnail_package": "Explosion_FS_UFO_T",
+      "image_path": "images/12493.png"
     },
     {
       "upk_type": "3parts",
@@ -4489,7 +4814,8 @@
       "path": "explosion_esports_v4.Product.Explosion_Dignitas_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12494.png"
     },
     {
       "upk_type": "3parts",
@@ -4503,7 +4829,8 @@
       "path": "explosion_esports_v4.Product.Explosion_Falcons_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12496.png"
     },
     {
       "upk_type": "3parts",
@@ -4517,7 +4844,8 @@
       "path": "explosion_esports_v4.Product.Explosion_Furia_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12497.png"
     },
     {
       "upk_type": "3parts",
@@ -4531,7 +4859,8 @@
       "path": "explosion_esports_v4.Product.Explosion_FUT_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12498.png"
     },
     {
       "upk_type": "3parts",
@@ -4545,7 +4874,8 @@
       "path": "explosion_esports_v4.Product.Explosion_GenG_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12499.png"
     },
     {
       "upk_type": "3parts",
@@ -4559,7 +4889,8 @@
       "path": "explosion_esports_v4.Product.Explosion_Gentlemates_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12500.png"
     },
     {
       "upk_type": "3parts",
@@ -4573,7 +4904,8 @@
       "path": "explosion_esports_v4.Product.Explosion_KCPioneers_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12501.png"
     },
     {
       "upk_type": "3parts",
@@ -4587,7 +4919,8 @@
       "path": "explosion_esports_v4.Product.Explosion_ManCity_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12503.png"
     },
     {
       "upk_type": "3parts",
@@ -4601,7 +4934,8 @@
       "path": "explosion_esports_v4.Product.Explosion_NIP_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12504.png"
     },
     {
       "upk_type": "3parts",
@@ -4615,7 +4949,8 @@
       "path": "explosion_esports_v4.Product.Explosion_NRG_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12505.png"
     },
     {
       "upk_type": "3parts",
@@ -4629,7 +4964,8 @@
       "path": "explosion_esports_v4.Product.Explosion_PWR_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12506.png"
     },
     {
       "upk_type": "3parts",
@@ -4643,7 +4979,8 @@
       "path": "explosion_esports_v4.Product.Explosion_Rebelion_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12507.png"
     },
     {
       "upk_type": "3parts",
@@ -4657,7 +4994,8 @@
       "path": "explosion_esports_v4.Product.Explosion_SpaceSt_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12508.png"
     },
     {
       "upk_type": "3parts",
@@ -4671,7 +5009,8 @@
       "path": "explosion_esports_v4.Product.Explosion_TwistedMinds_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12509.png"
     },
     {
       "upk_type": "3parts",
@@ -4685,7 +5024,8 @@
       "path": "explosion_esports_v4.Product.Explosion_Vitality_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12511.png"
     },
     {
       "upk_type": "3parts",
@@ -4699,7 +5039,8 @@
       "path": "explosion_esports_v4.Product.Explosion_WildCard_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12512.png"
     },
     {
       "upk_type": "simple",
@@ -4713,7 +5054,8 @@
       "path": "explosion_decodragon.explosion_decodragon",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_DecoDragon_T"
+      "thumbnail_package": "Explosion_DecoDragon_T",
+      "image_path": "images/12520.png"
     },
     {
       "upk_type": "3parts",
@@ -4727,7 +5069,8 @@
       "path": "explosion_esports_v4.Product.Explosion_Karmine_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12545.png"
     },
     {
       "upk_type": "3parts",
@@ -4741,7 +5084,8 @@
       "path": "explosion_esports_v4.Product.Explosion_TSM_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12546.png"
     },
     {
       "upk_type": "simple",
@@ -4755,7 +5099,8 @@
       "path": "explosion_kaleido.explosion_kaleido",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Kaleido_T"
+      "thumbnail_package": "Explosion_Kaleido_T",
+      "image_path": "images/12564.png"
     },
     {
       "upk_type": "3parts",
@@ -4769,7 +5114,8 @@
       "path": "explosion_esports_v4.Product.Explosion_MIBR_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12579.png"
     },
     {
       "id": "12589",
@@ -4782,7 +5128,8 @@
       "path": "pack_esportsexplosions.pack_esportsexplosions26",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "pack_esportsexplosions_T"
+      "thumbnail_package": "pack_esportsexplosions_T",
+      "image_path": "images/12589.png"
     },
     {
       "upk_type": "simple",
@@ -4796,7 +5143,8 @@
       "path": "explosion_paintball.explosion_paintball",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_Paintball_T"
+      "thumbnail_package": "Explosion_Paintball_T",
+      "image_path": "images/12590.png"
     },
     {
       "upk_type": "simple",
@@ -4810,7 +5158,8 @@
       "path": "Explosion_luminousairplane01.Explosion_luminousairplane01",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_LuminousAirplane01_T"
+      "thumbnail_package": "Explosion_LuminousAirplane01_T",
+      "image_path": "images/12609.png"
     },
     {
       "id": "12660",
@@ -4823,7 +5172,8 @@
       "path": "explosion_s23catportal.explosion_s23catportal",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_S23CatPortal_T"
+      "thumbnail_package": "Explosion_S23CatPortal_T",
+      "image_path": "images/12660.png"
     },
     {
       "id": "12687",
@@ -4836,7 +5186,11 @@
       "thumbnail_package": "Explosion_OpticOrange01_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 5,
+      "paintable": false,
+      "path": "explosion_opticorange01.explosion_opticorange01",
+      "image_path": "images/12687.png"
     },
     {
       "id": "12712",
@@ -4849,7 +5203,8 @@
       "path": "explosion_lotusdrone.explosion_lotusdrone",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_LotusDrone_T"
+      "thumbnail_package": "Explosion_LotusDrone_T",
+      "image_path": "images/12712.png"
     },
     {
       "id": "12714",
@@ -4862,7 +5217,8 @@
       "path": "explosion_bigbang.explosion_bigbang",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_BigBang_T"
+      "thumbnail_package": "Explosion_BigBang_T",
+      "image_path": "images/12714.png"
     },
     {
       "id": "12753",
@@ -4875,7 +5231,8 @@
       "path": "explosion_s23autotournament.explosion_s23autotournament",
       "quality_id": 6,
       "paintable": true,
-      "thumbnail_package": "Explosion_S23AutoTournament_T"
+      "thumbnail_package": "Explosion_S23AutoTournament_T",
+      "image_path": "images/12753.png"
     },
     {
       "id": "12758",
@@ -4888,7 +5245,8 @@
       "path": "explosion_lightsheen.explosion_lightsheen",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "Explosion_LightSheen_T"
+      "thumbnail_package": "Explosion_LightSheen_T",
+      "image_path": "images/12758.png"
     },
     {
       "id": "12760",
@@ -4901,7 +5259,8 @@
       "path": "explosion_chomp.explosion_chomp",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Chomp_T"
+      "thumbnail_package": "Explosion_Chomp_T",
+      "image_path": "images/12760.png"
     },
     {
       "id": "12773",
@@ -4914,7 +5273,8 @@
       "path": "explosion_spheregulp01.explosion_spheregulp01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Explosion_SphereGulp01_T"
+      "thumbnail_package": "Explosion_SphereGulp01_T",
+      "image_path": "images/12773.png"
     },
     {
       "id": "12808",
@@ -4927,7 +5287,8 @@
       "path": "explosion_sphere.explosion_sphere",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Explosion_Sphere_T"
+      "thumbnail_package": "Explosion_Sphere_T",
+      "image_path": "images/12808.png"
     },
     {
       "id": "12810",
@@ -4940,7 +5301,8 @@
       "path": "explosion_esports_v4.Product.Explosion_M80_V4",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Explosion_Esports_V4_T"
+      "thumbnail_package": "Explosion_Esports_V4_T",
+      "image_path": "images/12810.png"
     },
     {
       "id": "12921",
@@ -4953,7 +5315,11 @@
       "thumbnail_package": "Explosion_S23RLCS01_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "explosion_s23rlcs01.explosion_s23rlcs01",
+      "image_path": "images/12921.png"
     },
     {
       "id": "12966",
@@ -4966,7 +5332,11 @@
       "thumbnail_package": "Explosion_VSpace_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": true,
+      "path": "explosion_vspace.explosion_vspace",
+      "image_path": "images/12966.png"
     },
     {
       "id": "13026",
@@ -4979,7 +5349,123 @@
       "thumbnail_package": "Explosion_Waypoint_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "explosion_waypoint.explosion_waypoint",
+      "image_path": "images/13026.png"
+    },
+    {
+      "id": "12803",
+      "internal_name": "explosion_umbragenesis01",
+      "name": "Phantom Thieves of Hearts",
+      "upk_path": "explosion_umbragenesis01_SF.upk",
+      "quality": "Black Market",
+      "quality_id": 6,
+      "paintable": false,
+      "package": "explosion_umbragenesis01",
+      "path": "explosion_umbragenesis01.explosion_umbragenesis01",
+      "thumbnail": "Explosion_UmbraGenesis01_T_SF.upk",
+      "thumbnail_package": "Explosion_UmbraGenesis01_T",
+      "image_path": "images/12803.png"
+    },
+    {
+      "id": "12822",
+      "internal_name": "explosion_luckyonyx01",
+      "name": "Arsène",
+      "upk_path": "explosion_luckyonyx01_SF.upk",
+      "quality": "Black Market",
+      "quality_id": 6,
+      "paintable": false,
+      "package": "explosion_luckyonyx01",
+      "path": "explosion_luckyonyx01.explosion_luckyonyx01",
+      "thumbnail": "Explosion_LuckyOnyx01_T_SF.upk",
+      "thumbnail_package": "Explosion_LuckyOnyx01_T",
+      "image_path": "images/12822.png"
+    },
+    {
+      "id": "12981",
+      "internal_name": "explosion_fs_voidgaze",
+      "name": "Phrosgoth",
+      "upk_path": "explosion_fs_voidgaze_SF.upk",
+      "quality": "Black Market",
+      "quality_id": 6,
+      "paintable": true,
+      "package": "explosion_fs_voidgaze",
+      "path": "explosion_fs_voidgaze.explosion_fs_voidgaze",
+      "thumbnail": "Explosion_FS_VoidGaze_T_SF.upk",
+      "thumbnail_package": "Explosion_FS_VoidGaze_T",
+      "image_path": "images/12981.png"
+    },
+    {
+      "id": "13028",
+      "internal_name": "explosion_s24rlcswinner",
+      "name": "World Champs",
+      "upk_path": "explosion_s24rlcswinner_SF.upk",
+      "quality": "Common",
+      "quality_id": 0,
+      "paintable": true,
+      "package": "explosion_s24rlcswinner",
+      "path": "explosion_s24rlcswinner.explosion_s24rlcswinner",
+      "thumbnail": "Explosion_S24RLCSWinner_T_SF.upk",
+      "thumbnail_package": "Explosion_S24RLCSWinner_T",
+      "image_path": "images/13028.png"
+    },
+    {
+      "id": "13036",
+      "internal_name": "explosion_honduel01",
+      "name": "?INT?Products.explosion_honduel01.Label?",
+      "upk_path": "explosion_honduel01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": true,
+      "package": "explosion_honduel01",
+      "path": "explosion_honduel01.explosion_honduel01",
+      "thumbnail": "Explosion_HonDuel01_T_SF.upk",
+      "thumbnail_package": "Explosion_HonDuel01_T",
+      "image_path": "images/13036.png"
+    },
+    {
+      "id": "13051",
+      "internal_name": "explosion_reactiveshop01",
+      "name": "Ball 4 All",
+      "upk_path": "explosion_reactiveshop01_SF.upk",
+      "quality": "Black Market",
+      "quality_id": 6,
+      "paintable": true,
+      "package": "explosion_reactiveshop01",
+      "path": "explosion_reactiveshop01.explosion_reactiveshop01",
+      "thumbnail": "Explosion_ReactiveShop01_T_SF.upk",
+      "thumbnail_package": "Explosion_ReactiveShop01_T",
+      "image_path": "images/13051.png"
+    },
+    {
+      "id": "13057",
+      "internal_name": "explosion_team01",
+      "name": "?INT?Products.explosion_team01.Label?",
+      "upk_path": "explosion_team01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "explosion_team01",
+      "path": "explosion_team01.explosion_team01",
+      "thumbnail": "Explosion_Team01_T_SF.upk",
+      "thumbnail_package": "Explosion_Team01_T",
+      "image_path": "images/13057.png"
+    },
+    {
+      "id": "13077",
+      "internal_name": "explosion_powerstar",
+      "name": "Starmageddon",
+      "upk_path": "explosion_powerstar_SF.upk",
+      "quality": "Exotic",
+      "quality_id": 5,
+      "paintable": true,
+      "package": "explosion_powerstar",
+      "path": "explosion_powerstar.explosion_powerstar",
+      "thumbnail": "Explosion_PowerStar_T_SF.upk",
+      "thumbnail_package": "Explosion_PowerStar_T",
+      "image_path": "images/13077.png"
     }
   ]
 }

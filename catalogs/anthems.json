@@ -12,7 +12,8 @@
       "path": "MX_Anthems_RL_OST_Vol2.Anthem_AdamBurgess_RocketLeagueOriginalTheme",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol2_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol2_T",
+      "image_path": "images/5538.png"
     },
     {
       "id": "5539",
@@ -25,7 +26,8 @@
       "path": "MX_Anthems_RL_OST_Vol2.Anthem_HollywoodPrinciple_BreathingUnderwater",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol2_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol2_T",
+      "image_path": "images/5539.png"
     },
     {
       "id": "5540",
@@ -38,7 +40,8 @@
       "path": "MX_Anthems_RL_OST_Vol2.Anthem_HollywoodPrinciple_Firework",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol2_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol2_T",
+      "image_path": "images/5540.png"
     },
     {
       "id": "5541",
@@ -51,7 +54,8 @@
       "path": "MX_Anthems_RL_OST_Vol2.Anthem_HollywoodPrinciple_KevinFreyRemix_SeeingWhatsNext",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol2_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol2_T",
+      "image_path": "images/5541.png"
     },
     {
       "id": "5542",
@@ -64,7 +68,8 @@
       "path": "mx_anthems_rl_ost_unreleased.Anthem_HollywoodPrinciple_SolarEclipses",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Unreleased_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Unreleased_T",
+      "image_path": "images/5542.png"
     },
     {
       "id": "5684",
@@ -77,7 +82,8 @@
       "path": "MX_Anthems_RL_OST_Vol1.Anthem_HollywoodPrinciple_SeeingWhatsNext",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T",
+      "image_path": "images/5684.png"
     },
     {
       "id": "5685",
@@ -90,7 +96,8 @@
       "path": "MX_Anthems_RL_OST_Vol1.Anthem_HollywoodPrinciple_Whiplash",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T",
+      "image_path": "images/5685.png"
     },
     {
       "id": "5686",
@@ -103,7 +110,8 @@
       "path": "MX_Anthems_RL_OST_Vol1.Anthem_MikeAult_AngelWings",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T",
+      "image_path": "images/5686.png"
     },
     {
       "id": "5687",
@@ -116,7 +124,8 @@
       "path": "MX_Anthems_RL_OST_Vol1.Anthem_MikeAult_FlyingForever",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T",
+      "image_path": "images/5687.png"
     },
     {
       "id": "5688",
@@ -129,7 +138,8 @@
       "path": "MX_Anthems_RL_OST_Vol1.Anthem_MikeAult_ICanBe",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T",
+      "image_path": "images/5688.png"
     },
     {
       "id": "5689",
@@ -142,7 +152,8 @@
       "path": "MX_Anthems_RL_OST_Vol1.Anthem_MikeAult_InMyDreams",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T",
+      "image_path": "images/5689.png"
     },
     {
       "id": "5690",
@@ -155,7 +166,8 @@
       "path": "MX_Anthems_RL_OST_Vol1.Anthem_MikeAult_Lacuna",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T",
+      "image_path": "images/5690.png"
     },
     {
       "id": "5691",
@@ -168,7 +180,8 @@
       "path": "MX_Anthems_RL_OST_Vol1.Anthem_MikeAult_LoveThruTheNight",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T",
+      "image_path": "images/5691.png"
     },
     {
       "id": "5692",
@@ -181,7 +194,8 @@
       "path": "MX_Anthems_RL_OST_Vol1.Anthem_MikeAultAbandonedCarnival_WeSpeakChinese",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T",
+      "image_path": "images/5692.png"
     },
     {
       "id": "5693",
@@ -194,7 +208,8 @@
       "path": "MX_Anthems_RL_OST_Vol1.Anthem_MikeAultChristianDeLaTorre_Darkness",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T",
+      "image_path": "images/5693.png"
     },
     {
       "id": "5695",
@@ -207,7 +222,8 @@
       "path": "mx_anthems_rp8.Anthem_DnB_Stadium",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RP8_T"
+      "thumbnail_package": "MX_Anthems_RP8_T",
+      "image_path": "images/5695.png"
     },
     {
       "id": "5696",
@@ -220,7 +236,8 @@
       "path": "mx_anthems_rp8.Anthem_House_Funky",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RP8_T"
+      "thumbnail_package": "MX_Anthems_RP8_T",
+      "image_path": "images/5696.png"
     },
     {
       "id": "5697",
@@ -233,7 +250,8 @@
       "path": "mx_anthems_rp8.Anthem_House_Tropical",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RP8_T"
+      "thumbnail_package": "MX_Anthems_RP8_T",
+      "image_path": "images/5697.png"
     },
     {
       "id": "5698",
@@ -246,7 +264,8 @@
       "path": "mx_anthems_rp8.Anthem_Trance_HandsUp",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RP8_T"
+      "thumbnail_package": "MX_Anthems_RP8_T",
+      "image_path": "images/5698.png"
     },
     {
       "id": "5715",
@@ -259,7 +278,8 @@
       "path": "mx_anthems_rl_ost_unreleased.Album_Anthem_SolarEclipses",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Unreleased_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Unreleased_T",
+      "image_path": "images/5715.png"
     },
     {
       "id": "5716",
@@ -272,7 +292,8 @@
       "path": "MX_Anthems_RL_OST_Vol1.Album_Anthem_RL_OST_Vol1",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T",
+      "image_path": "images/5716.png"
     },
     {
       "id": "5717",
@@ -285,7 +306,8 @@
       "path": "MX_Anthems_RL_OST_Vol2.Album_Anthem_RL_OST_Vol2",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol2_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol2_T",
+      "image_path": "images/5717.png"
     },
     {
       "id": "5718",
@@ -298,7 +320,8 @@
       "path": "mx_anthems_rp8.Album_Anthem_RP8",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RP8_T"
+      "thumbnail_package": "MX_Anthems_RP8_T",
+      "image_path": "images/5718.png"
     },
     {
       "id": "5719",
@@ -311,7 +334,8 @@
       "path": "mx_anthems_esports.Anthem_OvertimeTheme",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Esports_T"
+      "thumbnail_package": "MX_Anthems_Esports_T",
+      "image_path": "images/5719.png"
     },
     {
       "id": "5720",
@@ -324,7 +348,8 @@
       "path": "mx_anthems_esports.Album_Anthem_Esports",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Esports_T"
+      "thumbnail_package": "MX_Anthems_Esports_T",
+      "image_path": "images/5720.png"
     },
     {
       "id": "5721",
@@ -337,7 +362,8 @@
       "path": "mx_anthems_kk.Anthem_KK_ID1",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_KK_T"
+      "thumbnail_package": "MX_Anthems_KK_T",
+      "image_path": "images/5721.png"
     },
     {
       "id": "5722",
@@ -350,7 +376,8 @@
       "path": "mx_anthems_kk.Anthem_KK_ID2",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_KK_T"
+      "thumbnail_package": "MX_Anthems_KK_T",
+      "image_path": "images/5722.png"
     },
     {
       "id": "5723",
@@ -363,7 +390,8 @@
       "path": "mx_anthems_kk.Anthem_KK_ID3",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_KK_T"
+      "thumbnail_package": "MX_Anthems_KK_T",
+      "image_path": "images/5723.png"
     },
     {
       "id": "5724",
@@ -376,7 +404,8 @@
       "path": "mx_anthems_kk.Album_Anthem_KK",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_KK_T"
+      "thumbnail_package": "MX_Anthems_KK_T",
+      "image_path": "images/5724.png"
     },
     {
       "id": "5725",
@@ -389,7 +418,8 @@
       "path": "MX_Anthems_RL_OST_Vol1.Anthem_SSARPBC_Theme",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RL_OST_Vol1_T",
+      "image_path": "images/5725.png"
     },
     {
       "id": "5873",
@@ -402,7 +432,8 @@
       "path": "mx_anthems_monstercat_vol2021.Anthem_FransisDerelle_SameMistake",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T",
+      "image_path": "images/5873.png"
     },
     {
       "id": "5874",
@@ -415,7 +446,8 @@
       "path": "mx_anthems_monstercat_vol2021.Anthem_Vindata_Good4Me",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T",
+      "image_path": "images/5874.png"
     },
     {
       "id": "5875",
@@ -428,7 +460,8 @@
       "path": "mx_anthems_monstercat_vol2021.Anthem_Vindata_Union",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T",
+      "image_path": "images/5875.png"
     },
     {
       "id": "5876",
@@ -441,7 +474,8 @@
       "path": "mx_anthems_monstercat_vol2021.Album_Anthem_Monstercat_2021",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T",
+      "image_path": "images/5876.png"
     },
     {
       "id": "5891",
@@ -454,7 +488,8 @@
       "path": "mx_anthems_kk.Anthem_KK_ID4",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_KK_T"
+      "thumbnail_package": "MX_Anthems_KK_T",
+      "image_path": "images/5891.png"
     },
     {
       "id": "5944",
@@ -467,7 +502,8 @@
       "path": "mx_anthems_epicaudioteam.Anthem_EpicAudioTeam_Athena",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_EpicAudioTeam_T"
+      "thumbnail_package": "MX_Anthems_EpicAudioTeam_T",
+      "image_path": "images/5944.png"
     },
     {
       "id": "5947",
@@ -480,7 +516,8 @@
       "path": "mx_anthems_epicaudioteam.Anthem_EpicAudioTeam_PopRock",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_EpicAudioTeam_T"
+      "thumbnail_package": "MX_Anthems_EpicAudioTeam_T",
+      "image_path": "images/5947.png"
     },
     {
       "id": "5948",
@@ -493,7 +530,8 @@
       "path": "mx_anthems_epicaudioteam.Album_Anthem_EpicAudioTeam",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_EpicAudioTeam_T"
+      "thumbnail_package": "MX_Anthems_EpicAudioTeam_T",
+      "image_path": "images/5948.png"
     },
     {
       "id": "5949",
@@ -506,7 +544,8 @@
       "path": "mx_anthems_monstercat_vol2021.Anthem_Bossfight_Endgame",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T",
+      "image_path": "images/5949.png"
     },
     {
       "id": "5992",
@@ -519,7 +558,8 @@
       "path": "mx_anthems_julieb_vol1.Anthem_JulieB_Vol1_ID1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T"
+      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T",
+      "image_path": "images/5992.png"
     },
     {
       "id": "5993",
@@ -532,7 +572,8 @@
       "path": "mx_anthems_julieb_vol1.Anthem_JulieB_Vol1_ID2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T"
+      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T",
+      "image_path": "images/5993.png"
     },
     {
       "id": "5994",
@@ -545,7 +586,8 @@
       "path": "mx_anthems_julieb_vol1.Anthem_JulieB_Vol1_ID3",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T"
+      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T",
+      "image_path": "images/5994.png"
     },
     {
       "id": "5995",
@@ -558,7 +600,8 @@
       "path": "mx_anthems_julieb_vol1.Anthem_JulieB_Vol1_ID4",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T"
+      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T",
+      "image_path": "images/5995.png"
     },
     {
       "id": "5996",
@@ -571,7 +614,8 @@
       "path": "mx_anthems_julieb_vol1.Anthem_JulieB_Vol1_ID5",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T"
+      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T",
+      "image_path": "images/5996.png"
     },
     {
       "id": "5997",
@@ -584,7 +628,8 @@
       "path": "mx_anthems_julieb_vol1.Album_Anthem_JulieB_Vol1",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T"
+      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T",
+      "image_path": "images/5997.png"
     },
     {
       "id": "6093",
@@ -597,7 +642,8 @@
       "path": "mx_anthems_pride2021.Anthem_BenPlatt_Imagine",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Pride2021_T"
+      "thumbnail_package": "MX_Anthems_Pride2021_T",
+      "image_path": "images/6093.png"
     },
     {
       "id": "6094",
@@ -610,7 +656,8 @@
       "path": "mx_anthems_pride2021.Anthem_BigFreedia_Platinum",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Pride2021_T"
+      "thumbnail_package": "MX_Anthems_Pride2021_T",
+      "image_path": "images/6094.png"
     },
     {
       "id": "6095",
@@ -623,7 +670,8 @@
       "path": "mx_anthems_pride2021.Anthem_Daya_BadGirl",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Pride2021_T"
+      "thumbnail_package": "MX_Anthems_Pride2021_T",
+      "image_path": "images/6095.png"
     },
     {
       "id": "6096",
@@ -636,7 +684,8 @@
       "path": "mx_anthems_pride2021.Anthem_HayleyKiyoko_FoundMyFriends",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Pride2021_T"
+      "thumbnail_package": "MX_Anthems_Pride2021_T",
+      "image_path": "images/6096.png"
     },
     {
       "id": "6097",
@@ -649,7 +698,8 @@
       "path": "mx_anthems_pride2021.Anthem_KimPetras_Malibu",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Pride2021_T"
+      "thumbnail_package": "MX_Anthems_Pride2021_T",
+      "image_path": "images/6097.png"
     },
     {
       "id": "6098",
@@ -662,7 +712,8 @@
       "path": "mx_anthems_pride2021.Anthem_KingPrincess_PAIN",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Pride2021_T"
+      "thumbnail_package": "MX_Anthems_Pride2021_T",
+      "image_path": "images/6098.png"
     },
     {
       "id": "6099",
@@ -675,7 +726,8 @@
       "path": "mx_anthems_pride2021.Anthem_LilNasX_MONTERO",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Pride2021_T"
+      "thumbnail_package": "MX_Anthems_Pride2021_T",
+      "image_path": "images/6099.png"
     },
     {
       "id": "6100",
@@ -688,7 +740,8 @@
       "path": "mx_anthems_pride2021.Anthem_TroyeSivan_STUD",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Pride2021_T"
+      "thumbnail_package": "MX_Anthems_Pride2021_T",
+      "image_path": "images/6100.png"
     },
     {
       "id": "6101",
@@ -701,7 +754,8 @@
       "path": "mx_anthems_pride2021.Album_Anthem_Pride2021",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Pride2021_T"
+      "thumbnail_package": "MX_Anthems_Pride2021_T",
+      "image_path": "images/6101.png"
     },
     {
       "id": "6141",
@@ -714,7 +768,8 @@
       "path": "mx_anthems_monstercat_10yrann.Anthem_Feint_WeWontBeAlone_FeatLauraBrehm",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T",
+      "image_path": "images/6141.png"
     },
     {
       "id": "6142",
@@ -727,7 +782,8 @@
       "path": "mx_anthems_monstercat_10yrann.Anthem_Grant_AreWeStillYoung_FeatJessiMason",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T",
+      "image_path": "images/6142.png"
     },
     {
       "id": "6143",
@@ -740,7 +796,8 @@
       "path": "mx_anthems_monstercat_10yrann.Anthem_Marshmello_Alone",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T",
+      "image_path": "images/6143.png"
     },
     {
       "id": "6144",
@@ -753,7 +810,8 @@
       "path": "mx_anthems_monstercat_10yrann.Anthem_Noisestorm_CrabRave",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T",
+      "image_path": "images/6144.png"
     },
     {
       "id": "6145",
@@ -766,7 +824,8 @@
       "path": "mx_anthems_monstercat_10yrann.Anthem_PegboardNerds_Disconnected",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T",
+      "image_path": "images/6145.png"
     },
     {
       "id": "6146",
@@ -779,7 +838,8 @@
       "path": "mx_anthems_monstercat_10yrann.Anthem_Slushii_AllINeed",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T",
+      "image_path": "images/6146.png"
     },
     {
       "id": "6147",
@@ -792,7 +852,8 @@
       "path": "mx_anthems_monstercat_10yrann.Anthem_Stonebank_Stronger_FeatEMEL",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T",
+      "image_path": "images/6147.png"
     },
     {
       "id": "6148",
@@ -805,7 +866,8 @@
       "path": "mx_anthems_monstercat_10yrann.Anthem_UnlikePluto_EverythingBlack_FeatMikeTaylor",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T",
+      "image_path": "images/6148.png"
     },
     {
       "id": "6149",
@@ -818,7 +880,8 @@
       "path": "mx_anthems_monstercat_10yrann.Anthem_Vicetone_Nevada_FeatCoziZuehlsdorff",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T",
+      "image_path": "images/6149.png"
     },
     {
       "id": "6150",
@@ -831,7 +894,8 @@
       "path": "mx_anthems_monstercat_10yrann.Album_Anthem_MC_10YrAnn",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T",
+      "image_path": "images/6150.png"
     },
     {
       "id": "6152",
@@ -844,7 +908,8 @@
       "path": "mx_anthems_ff.Anthem_Anitta_Furiosa",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_FF_T"
+      "thumbnail_package": "MX_Anthems_FF_T",
+      "image_path": "images/6152.png"
     },
     {
       "id": "6153",
@@ -857,7 +922,8 @@
       "path": "mx_anthems_ff.Anthem_TeriyakiBoyz_TokyoDrift",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_FF_T"
+      "thumbnail_package": "MX_Anthems_FF_T",
+      "image_path": "images/6153.png"
     },
     {
       "id": "6154",
@@ -870,7 +936,8 @@
       "path": "mx_anthems_ff.Album_Anthem_FF",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_FF_T"
+      "thumbnail_package": "MX_Anthems_FF_T",
+      "image_path": "images/6154.png"
     },
     {
       "id": "6155",
@@ -883,7 +950,8 @@
       "path": "mx_anthems_radioclassics_vol1.Anthem_RadioClassics_Vol1_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RadioClassics_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RadioClassics_Vol1_T",
+      "image_path": "images/6155.png"
     },
     {
       "id": "6156",
@@ -896,7 +964,8 @@
       "path": "mx_anthems_radioclassics_vol1.Album_Anthem_RadioClassics_Vol1",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_RadioClassics_Vol1_T"
+      "thumbnail_package": "MX_Anthems_RadioClassics_Vol1_T",
+      "image_path": "images/6156.png"
     },
     {
       "id": "6158",
@@ -909,7 +978,8 @@
       "path": "mx_anthems_esports.Anthem_HoaproxAndYUAN_Saviour_featHaneri",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Esports_T"
+      "thumbnail_package": "MX_Anthems_Esports_T",
+      "image_path": "images/6158.png"
     },
     {
       "id": "6178",
@@ -922,7 +992,8 @@
       "path": "mx_anthems_monstercat_10yrann.Anthem_SlanderAndSaidTheSky_Potions_FeatJTRoach",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_10yrAnn_T",
+      "image_path": "images/6178.png"
     },
     {
       "id": "6249",
@@ -935,7 +1006,8 @@
       "path": "mx_anthems_2ts_vol1.Anthem_2ts_vol1_ID_01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_2ts_Vol1_T"
+      "thumbnail_package": "MX_Anthems_2ts_Vol1_T",
+      "image_path": "images/6249.png"
     },
     {
       "id": "6250",
@@ -948,7 +1020,8 @@
       "path": "mx_anthems_2ts_vol1.Anthem_2ts_Vol1_ID_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_2ts_Vol1_T"
+      "thumbnail_package": "MX_Anthems_2ts_Vol1_T",
+      "image_path": "images/6250.png"
     },
     {
       "id": "6251",
@@ -961,7 +1034,8 @@
       "path": "mx_anthems_2ts_vol1.Anthem_2ts_Vol1_ID_03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_2ts_Vol1_T"
+      "thumbnail_package": "MX_Anthems_2ts_Vol1_T",
+      "image_path": "images/6251.png"
     },
     {
       "id": "6252",
@@ -974,7 +1048,8 @@
       "path": "mx_anthems_2ts_vol1.Anthem_2ts_Vol1_ID_04",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_2ts_Vol1_T"
+      "thumbnail_package": "MX_Anthems_2ts_Vol1_T",
+      "image_path": "images/6252.png"
     },
     {
       "id": "6253",
@@ -987,7 +1062,8 @@
       "path": "mx_anthems_2ts_vol1.Anthem_2ts_Vol1_ID_05",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_2ts_Vol1_T"
+      "thumbnail_package": "MX_Anthems_2ts_Vol1_T",
+      "image_path": "images/6253.png"
     },
     {
       "id": "6254",
@@ -1000,7 +1076,8 @@
       "path": "mx_anthems_2ts_vol1.Album_Anthem_2ts_Vol1",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_2ts_Vol1_T"
+      "thumbnail_package": "MX_Anthems_2ts_Vol1_T",
+      "image_path": "images/6254.png"
     },
     {
       "id": "6276",
@@ -1013,7 +1090,8 @@
       "path": "mx_anthems_julieb_vol1.Anthem_JulieBuchanan_JetFueled",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T"
+      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T",
+      "image_path": "images/6276.png"
     },
     {
       "id": "6277",
@@ -1026,7 +1104,8 @@
       "path": "mx_anthems_julieb_vol1.Anthem_JulieBuchanan_LemonPump",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T"
+      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T",
+      "image_path": "images/6277.png"
     },
     {
       "id": "6278",
@@ -1039,7 +1118,8 @@
       "path": "mx_anthems_julieb_vol1.Anthem_JulieBuchanan_MegaVolt",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T"
+      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T",
+      "image_path": "images/6278.png"
     },
     {
       "id": "6279",
@@ -1052,7 +1132,8 @@
       "path": "mx_anthems_julieb_vol1.Anthem_JulieBuchanan_TheBrick",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T"
+      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T",
+      "image_path": "images/6279.png"
     },
     {
       "id": "6280",
@@ -1065,7 +1146,8 @@
       "path": "mx_anthems_julieb_vol1.anthem_juliebuchanan_vixenpunk",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T"
+      "thumbnail_package": "MX_Anthems_JulieB_Vol1_T",
+      "image_path": "images/6280.png"
     },
     {
       "id": "6488",
@@ -1078,7 +1160,8 @@
       "path": "mx_anthems_monstercat_vol2021.Anthem_SMLE_Athena_Eternal",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T",
+      "image_path": "images/6488.png"
     },
     {
       "id": "6591",
@@ -1091,7 +1174,8 @@
       "path": "mx_anthems_al3jandro_hhm2021.Anthem_AL3JANDRO_Loca",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_AL3JANDRO_HHM2021_T"
+      "thumbnail_package": "MX_Anthems_AL3JANDRO_HHM2021_T",
+      "image_path": "images/6591.png"
     },
     {
       "id": "6594",
@@ -1104,7 +1188,8 @@
       "path": "mx_anthems_al3jandro_hhm2021.Anthem_AL3JANDRO_SoGood",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_AL3JANDRO_HHM2021_T"
+      "thumbnail_package": "MX_Anthems_AL3JANDRO_HHM2021_T",
+      "image_path": "images/6594.png"
     },
     {
       "id": "6595",
@@ -1117,7 +1202,8 @@
       "path": "mx_anthems_al3jandro_hhm2021.Anthem_AL3JANDRO_WeOwnTheNight",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_AL3JANDRO_HHM2021_T"
+      "thumbnail_package": "MX_Anthems_AL3JANDRO_HHM2021_T",
+      "image_path": "images/6595.png"
     },
     {
       "id": "6596",
@@ -1130,7 +1216,8 @@
       "path": "mx_anthems_al3jandro_hhm2021.Album_Anthem_AL3JANDRO_HHM2021",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_AL3JANDRO_HHM2021_T"
+      "thumbnail_package": "MX_Anthems_AL3JANDRO_HHM2021_T",
+      "image_path": "images/6596.png"
     },
     {
       "id": "6597",
@@ -1143,7 +1230,8 @@
       "path": "mx_anthems_monstercat_vol2021.Anthem_Stonebank_KeepUpThePace",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_Vol2021_T",
+      "image_path": "images/6597.png"
     },
     {
       "id": "6889",
@@ -1156,7 +1244,8 @@
       "path": "mx_anthems_lightscameraaction.Anthem_LightsCameraAction_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_LightsCameraAction_T"
+      "thumbnail_package": "MX_Anthems_LightsCameraAction_T",
+      "image_path": "images/6889.png"
     },
     {
       "id": "6890",
@@ -1169,7 +1258,8 @@
       "path": "mx_anthems_lightscameraaction.Album_Anthem_LightsCameraAction",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_LightsCameraAction_T"
+      "thumbnail_package": "MX_Anthems_LightsCameraAction_T",
+      "image_path": "images/6890.png"
     },
     {
       "id": "6891",
@@ -1182,7 +1272,8 @@
       "path": "MX_Anthems_Monstercat_RL_SS.Anthem_Anamanaguchi_WaterResistant_feat8485",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_RL_SS_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_RL_SS_T",
+      "image_path": "images/6891.png"
     },
     {
       "id": "6892",
@@ -1195,7 +1286,8 @@
       "path": "MX_Anthems_Monstercat_RL_SS.Album_Anthem_Monstercat_RL_SS",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Monstercat_RL_SS_T"
+      "thumbnail_package": "MX_Anthems_Monstercat_RL_SS_T",
+      "image_path": "images/6892.png"
     },
     {
       "id": "7005",
@@ -1208,7 +1300,8 @@
       "path": "mx_anthems_tonga_vol1.Anthem_Tonga_AnotherRound",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Tonga_Vol1_T"
+      "thumbnail_package": "MX_Anthems_Tonga_Vol1_T",
+      "image_path": "images/7005.png"
     },
     {
       "id": "7006",
@@ -1221,7 +1314,8 @@
       "path": "mx_anthems_tonga_vol1.Anthem_Tonga_BetterDays",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Tonga_Vol1_T"
+      "thumbnail_package": "MX_Anthems_Tonga_Vol1_T",
+      "image_path": "images/7006.png"
     },
     {
       "id": "7007",
@@ -1234,7 +1328,8 @@
       "path": "mx_anthems_tonga_vol1.Anthem_Tonga_SunsOut",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Tonga_Vol1_T"
+      "thumbnail_package": "MX_Anthems_Tonga_Vol1_T",
+      "image_path": "images/7007.png"
     },
     {
       "id": "7008",
@@ -1247,7 +1342,8 @@
       "path": "mx_anthems_tonga_vol1.Anthem_Tonga_WhoGotNext",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Tonga_Vol1_T"
+      "thumbnail_package": "MX_Anthems_Tonga_Vol1_T",
+      "image_path": "images/7008.png"
     },
     {
       "id": "7009",
@@ -1260,7 +1356,8 @@
       "path": "mx_anthems_tonga_vol1.Anthem_Tonga_WindowsDown",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Tonga_Vol1_T"
+      "thumbnail_package": "MX_Anthems_Tonga_Vol1_T",
+      "image_path": "images/7009.png"
     },
     {
       "id": "7010",
@@ -1273,7 +1370,8 @@
       "path": "mx_anthems_tonga_vol1.Album_Anthem_Tonga_Vol1",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Tonga_Vol1_T"
+      "thumbnail_package": "MX_Anthems_Tonga_Vol1_T",
+      "image_path": "images/7010.png"
     },
     {
       "id": "7216",
@@ -1286,7 +1384,8 @@
       "path": "mx_anthems_s5_feature.Anthem_S5_Feature_01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_S5_Feature_T"
+      "thumbnail_package": "MX_Anthems_S5_Feature_T",
+      "image_path": "images/7216.png"
     },
     {
       "id": "7217",
@@ -1299,7 +1398,8 @@
       "path": "mx_anthems_s5_feature.Album_Anthem_S5_Feature",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_S5_Feature_T"
+      "thumbnail_package": "MX_Anthems_S5_Feature_T",
+      "image_path": "images/7217.png"
     },
     {
       "id": "7466",
@@ -1312,7 +1412,8 @@
       "path": "mx_album_bhm2022.mx_album_bhm2022",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "MX_Album_BHM2022_T"
+      "thumbnail_package": "MX_Album_BHM2022_T",
+      "image_path": "images/7466.png"
     },
     {
       "id": "7467",
@@ -1325,7 +1426,8 @@
       "path": "mx_anthems_bhm2022_01.mx_anthems_bhm2022_01",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "mx_anthems_BHM2022_01_T"
+      "thumbnail_package": "mx_anthems_BHM2022_01_T",
+      "image_path": "images/7467.png"
     },
     {
       "id": "7468",
@@ -1338,7 +1440,8 @@
       "path": "mx_anthems_bhm2022_02.mx_anthems_bhm2022_02",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "mx_anthems_BHM2022_02_T"
+      "thumbnail_package": "mx_anthems_BHM2022_02_T",
+      "image_path": "images/7468.png"
     },
     {
       "id": "7469",
@@ -1351,7 +1454,8 @@
       "path": "mx_anthems_bhm2022_03.mx_anthems_bhm2022_03",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "mx_anthems_BHM2022_03_T"
+      "thumbnail_package": "mx_anthems_BHM2022_03_T",
+      "image_path": "images/7469.png"
     },
     {
       "id": "7470",
@@ -1364,7 +1468,8 @@
       "path": "mx_anthems_s5_feature.Anthem_S5_Feature_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_S5_Feature_T"
+      "thumbnail_package": "MX_Anthems_S5_Feature_T",
+      "image_path": "images/7470.png"
     },
     {
       "id": "7534",
@@ -1377,7 +1482,8 @@
       "path": "album_anthem_whm2022.album_anthem_whm2022",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_WHM2022_T"
+      "thumbnail_package": "Album_Anthem_WHM2022_T",
+      "image_path": "images/7534.png"
     },
     {
       "id": "7535",
@@ -1390,7 +1496,8 @@
       "path": "anthem_whm2022_01.anthem_whm2022_01",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_WHM2022_01_T"
+      "thumbnail_package": "Anthem_WHM2022_01_T",
+      "image_path": "images/7535.png"
     },
     {
       "id": "7536",
@@ -1403,7 +1510,8 @@
       "path": "anthem_whm2022_02.anthem_whm2022_02",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_WHM2022_02_T"
+      "thumbnail_package": "Anthem_WHM2022_02_T",
+      "image_path": "images/7536.png"
     },
     {
       "id": "7537",
@@ -1416,7 +1524,8 @@
       "path": "anthem_whm2022_03.anthem_whm2022_03",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_WHM2022_03_T"
+      "thumbnail_package": "Anthem_WHM2022_03_T",
+      "image_path": "images/7537.png"
     },
     {
       "id": "7571",
@@ -1429,7 +1538,8 @@
       "path": "anthem_shell_01.anthem_shell_01",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_Shell_01_T"
+      "thumbnail_package": "Anthem_Shell_01_T",
+      "image_path": "images/7571.png"
     },
     {
       "id": "7617",
@@ -1442,7 +1552,8 @@
       "path": "album_anthem_madness.album_anthem_madness",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_Madness_T"
+      "thumbnail_package": "Album_Anthem_Madness_T",
+      "image_path": "images/7617.png"
     },
     {
       "id": "7618",
@@ -1455,7 +1566,8 @@
       "path": "anthem_saxsquatch_madness.anthem_saxsquatch_madness",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_Saxsquatch_Madness_T"
+      "thumbnail_package": "Anthem_Saxsquatch_Madness_T",
+      "image_path": "images/7618.png"
     },
     {
       "id": "7625",
@@ -1468,7 +1580,8 @@
       "path": "album_anthem_throttle_deluxeep.album_anthem_throttle_deluxeep",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_Throttle_DeluxeEP_T"
+      "thumbnail_package": "Album_Anthem_Throttle_DeluxeEP_T",
+      "image_path": "images/7625.png"
     },
     {
       "id": "7626",
@@ -1481,7 +1594,8 @@
       "path": "anthem_throttle_bloomvip.anthem_throttle_bloomvip",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_Throttle_BloomVIP_T"
+      "thumbnail_package": "Anthem_Throttle_BloomVIP_T",
+      "image_path": "images/7626.png"
     },
     {
       "id": "7627",
@@ -1494,7 +1608,8 @@
       "path": "anthem_throttle_cities.anthem_throttle_cities",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_Throttle_Cities_T"
+      "thumbnail_package": "Anthem_Throttle_Cities_T",
+      "image_path": "images/7627.png"
     },
     {
       "id": "7628",
@@ -1507,7 +1622,8 @@
       "path": "anthem_throttle_formevip.anthem_throttle_formevip",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_Throttle_ForMeVIP_T"
+      "thumbnail_package": "Anthem_Throttle_ForMeVIP_T",
+      "image_path": "images/7628.png"
     },
     {
       "id": "7629",
@@ -1520,7 +1636,8 @@
       "path": "anthem_throttle_japanvip.anthem_throttle_japanvip",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_Throttle_JapanVIP_T"
+      "thumbnail_package": "Anthem_Throttle_JapanVIP_T",
+      "image_path": "images/7629.png"
     },
     {
       "id": "7643",
@@ -1533,7 +1650,8 @@
       "path": "anthem_maxrepka_madness.anthem_maxrepka_madness",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_MaxRepka_Madness_T"
+      "thumbnail_package": "Anthem_MaxRepka_Madness_T",
+      "image_path": "images/7643.png"
     },
     {
       "id": "7705",
@@ -1546,7 +1664,8 @@
       "path": "album_anthem_kevinriepl_vol1.album_anthem_kevinriepl_vol1",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_KevinRiepl_Vol1_T"
+      "thumbnail_package": "Album_Anthem_KevinRiepl_Vol1_T",
+      "image_path": "images/7705.png"
     },
     {
       "id": "7706",
@@ -1559,7 +1678,8 @@
       "path": "anthem_kevinriepl_cerebri.anthem_kevinriepl_cerebri",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Anthem_KevinRiepl_Cerebri_T"
+      "thumbnail_package": "Anthem_KevinRiepl_Cerebri_T",
+      "image_path": "images/7706.png"
     },
     {
       "id": "7708",
@@ -1572,7 +1692,8 @@
       "path": "anthem_kevinriepl_insomnia.anthem_kevinriepl_insomnia",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Anthem_KevinRiepl_Insomnia_T"
+      "thumbnail_package": "Anthem_KevinRiepl_Insomnia_T",
+      "image_path": "images/7708.png"
     },
     {
       "id": "7709",
@@ -1585,7 +1706,8 @@
       "path": "anthem_kevinriepl_mentismachina.anthem_kevinriepl_mentismachina",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Anthem_KevinRiepl_MentisMachina_T"
+      "thumbnail_package": "Anthem_KevinRiepl_MentisMachina_T",
+      "image_path": "images/7709.png"
     },
     {
       "id": "7710",
@@ -1598,7 +1720,8 @@
       "path": "Anthem_KevinRiepl_Vacillate.Anthem_KevinRiepl_Vacillate",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_KevinRiepl_Vacillate_T"
+      "thumbnail_package": "Anthem_KevinRiepl_Vacillate_T",
+      "image_path": "images/7710.png"
     },
     {
       "id": "7711",
@@ -1611,7 +1734,8 @@
       "path": "album_anthem_phillboucher_vol1.album_anthem_phillboucher_vol1",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_PhillBoucher_Vol1_T"
+      "thumbnail_package": "Album_Anthem_PhillBoucher_Vol1_T",
+      "image_path": "images/7711.png"
     },
     {
       "id": "7712",
@@ -1624,7 +1748,8 @@
       "path": "anthem_phillboucher_awakening.anthem_phillboucher_awakening",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_PhillBoucher_Awakening_T"
+      "thumbnail_package": "Anthem_PhillBoucher_Awakening_T",
+      "image_path": "images/7712.png"
     },
     {
       "id": "7713",
@@ -1637,7 +1762,8 @@
       "path": "Anthem_PhillBoucher_Blind.Anthem_PhillBoucher_Blind",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Anthem_PhillBoucher_Blind_T"
+      "thumbnail_package": "Anthem_PhillBoucher_Blind_T",
+      "image_path": "images/7713.png"
     },
     {
       "id": "7714",
@@ -1650,7 +1776,8 @@
       "path": "anthem_phillboucher_cage.anthem_phillboucher_cage",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Anthem_PhillBoucher_Cage_T"
+      "thumbnail_package": "Anthem_PhillBoucher_Cage_T",
+      "image_path": "images/7714.png"
     },
     {
       "id": "7715",
@@ -1663,7 +1790,8 @@
       "path": "anthem_phillboucher_catharsis.anthem_phillboucher_catharsis",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Anthem_PhillBoucher_Catharsis_T"
+      "thumbnail_package": "Anthem_PhillBoucher_Catharsis_T",
+      "image_path": "images/7715.png"
     },
     {
       "id": "7716",
@@ -1676,7 +1804,8 @@
       "path": "anthem_phillboucher_corruption.anthem_phillboucher_corruption",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Anthem_PhillBoucher_Corruption_T"
+      "thumbnail_package": "Anthem_PhillBoucher_Corruption_T",
+      "image_path": "images/7716.png"
     },
     {
       "id": "7717",
@@ -1689,7 +1818,8 @@
       "path": "anthem_phillboucher_grow.anthem_phillboucher_grow",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_PhillBoucher_Grow_T"
+      "thumbnail_package": "Anthem_PhillBoucher_Grow_T",
+      "image_path": "images/7717.png"
     },
     {
       "id": "7719",
@@ -1702,7 +1832,8 @@
       "path": "anthem_phillboucher_manic.anthem_phillboucher_manic",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_PhillBoucher_Manic_T"
+      "thumbnail_package": "Anthem_PhillBoucher_Manic_T",
+      "image_path": "images/7719.png"
     },
     {
       "id": "7720",
@@ -1715,7 +1846,8 @@
       "path": "anthem_phillboucher_reconcile.anthem_phillboucher_reconcile",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Anthem_PhillBoucher_Reconcile_T"
+      "thumbnail_package": "Anthem_PhillBoucher_Reconcile_T",
+      "image_path": "images/7720.png"
     },
     {
       "id": "7721",
@@ -1728,7 +1860,8 @@
       "path": "anthem_phillboucher_shadows.anthem_phillboucher_shadows",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_PhillBoucher_Shadows_T"
+      "thumbnail_package": "Anthem_PhillBoucher_Shadows_T",
+      "image_path": "images/7721.png"
     },
     {
       "id": "7722",
@@ -1741,7 +1874,8 @@
       "path": "anthem_rlcs_theme.anthem_rlcs_theme",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_RLCS_Theme_T"
+      "thumbnail_package": "Anthem_RLCS_Theme_T",
+      "image_path": "images/7722.png"
     },
     {
       "id": "7742",
@@ -1754,7 +1888,8 @@
       "path": "album_anthem_pride2022.album_anthem_pride2022",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "album_anthem_Pride2022_T"
+      "thumbnail_package": "album_anthem_Pride2022_T",
+      "image_path": "images/7742.png"
     },
     {
       "id": "7743",
@@ -1767,7 +1902,8 @@
       "path": "mx_anthems_pride2022_01.mx_anthems_pride2022_01",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Pride2022_01_T"
+      "thumbnail_package": "MX_Anthems_Pride2022_01_T",
+      "image_path": "images/7743.png"
     },
     {
       "id": "7744",
@@ -1780,7 +1916,8 @@
       "path": "mx_anthems_pride2022_02.mx_anthems_pride2022_02",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_Anthems_Pride2022_02_T"
+      "thumbnail_package": "MX_Anthems_Pride2022_02_T",
+      "image_path": "images/7744.png"
     },
     {
       "id": "7762",
@@ -1793,7 +1930,8 @@
       "path": "MX_anthem_Pride2022_03.MX_anthem_Pride2022_03",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_anthem_Pride2022_03_T"
+      "thumbnail_package": "MX_anthem_Pride2022_03_T",
+      "image_path": "images/7762.png"
     },
     {
       "id": "7763",
@@ -1806,7 +1944,8 @@
       "path": "MX_anthem_Pride2022_04.MX_anthem_Pride2022_04",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "MX_anthem_Pride2022_04_T"
+      "thumbnail_package": "MX_anthem_Pride2022_04_T",
+      "image_path": "images/7763.png"
     },
     {
       "id": "7955",
@@ -1819,7 +1958,8 @@
       "path": "album_anthem_monstercat_vol2022.album_anthem_monstercat_vol2022",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_Monstercat_Vol2022_T"
+      "thumbnail_package": "Album_Anthem_Monstercat_Vol2022_T",
+      "image_path": "images/7955.png"
     },
     {
       "id": "7956",
@@ -1832,7 +1972,8 @@
       "path": "Anthem_AthenaAndsmle_Moment.Anthem_AthenaAndsmle_Moment",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_AthenaAndsmle_Moment_T"
+      "thumbnail_package": "Anthem_AthenaAndsmle_Moment_T",
+      "image_path": "images/7956.png"
     },
     {
       "id": "7957",
@@ -1845,7 +1986,8 @@
       "path": "Anthem_OddKidOut_CINEMA.Anthem_OddKidOut_CINEMA",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_OddKidOut_CINEMA_T"
+      "thumbnail_package": "Anthem_OddKidOut_CINEMA_T",
+      "image_path": "images/7957.png"
     },
     {
       "id": "7960",
@@ -1858,7 +2000,8 @@
       "path": "Anthem_Koven_AllWeNeeded.Anthem_Koven_AllWeNeeded",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_Koven_AllWeNeeded_T"
+      "thumbnail_package": "Anthem_Koven_AllWeNeeded_T",
+      "image_path": "images/7960.png"
     },
     {
       "id": "7997",
@@ -1871,7 +2014,8 @@
       "path": "Anthem_RadioClassics_Vol1_04.Anthem_RadioClassics_Vol1_04",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Vol1_04_T"
+      "thumbnail_package": "Anthem_RadioClassics_Vol1_04_T",
+      "image_path": "images/7997.png"
     },
     {
       "id": "8021",
@@ -1884,7 +2028,8 @@
       "path": "anthem_oddkidout_cinema_featmarlhy_fameandfortunevip.anthem_oddkidout_cinema_featmarlhy_fameandfortunevip",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_OddKidOut_CINEMA_featMarlhy_FameAndFortuneVIP_T"
+      "thumbnail_package": "Anthem_OddKidOut_CINEMA_featMarlhy_FameAndFortuneVIP_T",
+      "image_path": "images/8021.png"
     },
     {
       "id": "8141",
@@ -1897,7 +2042,8 @@
       "path": "Album_Anthem_Fiesta_Latina2022.Album_Anthem_Fiesta_Latina2022",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_Fiesta_Latina2022_T"
+      "thumbnail_package": "Album_Anthem_Fiesta_Latina2022_T",
+      "image_path": "images/8141.png"
     },
     {
       "id": "8143",
@@ -1910,7 +2056,8 @@
       "path": "Anthem_LiuAndSamanthaMachado_NaveEspacial.Anthem_LiuAndSamanthaMachado_NaveEspacial",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_LiuAndSamanthaMachado_NaveEspacial_T"
+      "thumbnail_package": "Anthem_LiuAndSamanthaMachado_NaveEspacial_T",
+      "image_path": "images/8143.png"
     },
     {
       "id": "8144",
@@ -1923,7 +2070,8 @@
       "path": "anthem_SlowMotion_ButBaby.anthem_SlowMotion_ButBaby",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_SlowMotion_ButBaby_T"
+      "thumbnail_package": "Anthem_SlowMotion_ButBaby_T",
+      "image_path": "images/8144.png"
     },
     {
       "id": "8266",
@@ -1936,7 +2084,8 @@
       "path": "anthem_slowmotionandloudtech_goback.anthem_slowmotionandloudtech_goback",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_SlowMotionAndLoudTech_GoBack_T"
+      "thumbnail_package": "Anthem_SlowMotionAndLoudTech_GoBack_T",
+      "image_path": "images/8266.png"
     },
     {
       "id": "8281",
@@ -1949,7 +2098,8 @@
       "path": "anthem_athena_smleandisaacapp_moment_worldsversion.anthem_athena_smleandisaacapp_moment_worldsversion",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_Athena_smleAndIsaacApp_Moment_WorldsVersion_T"
+      "thumbnail_package": "Anthem_Athena_smleAndIsaacApp_Moment_WorldsVersion_T",
+      "image_path": "images/8281.png"
     },
     {
       "id": "8324",
@@ -1962,7 +2112,8 @@
       "path": "Anthem_HH2022_01.Anthem_HH2022_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HH2022_01_T"
+      "thumbnail_package": "Anthem_HH2022_01_T",
+      "image_path": "images/8324.png"
     },
     {
       "id": "8331",
@@ -1975,7 +2126,8 @@
       "path": "album_anthem_hauntedhallows.album_anthem_hauntedhallows",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "album_anthem_hauntedhallows_T"
+      "thumbnail_package": "album_anthem_hauntedhallows_T",
+      "image_path": "images/8331.png"
     },
     {
       "id": "8339",
@@ -1988,7 +2140,8 @@
       "path": "album_anthem_champanthems.album_anthem_champanthems",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_ChampAnthems_T"
+      "thumbnail_package": "Album_Anthem_ChampAnthems_T",
+      "image_path": "images/8339.png"
     },
     {
       "id": "8340",
@@ -2001,7 +2154,8 @@
       "path": "anthem_champanthems_01.anthem_champanthems_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "anthem_champanthems_01_T"
+      "thumbnail_package": "anthem_champanthems_01_T",
+      "image_path": "images/8340.png"
     },
     {
       "id": "8344",
@@ -2014,7 +2168,8 @@
       "path": "anthem_radioclassics_vol1_05.anthem_radioclassics_vol1_05",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Vol1_05_T"
+      "thumbnail_package": "Anthem_RadioClassics_Vol1_05_T",
+      "image_path": "images/8344.png"
     },
     {
       "id": "8387",
@@ -2027,7 +2182,8 @@
       "path": "Anthem_HH2022_02.Anthem_HH2022_02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HH2022_02_T"
+      "thumbnail_package": "Anthem_HH2022_02_T",
+      "image_path": "images/8387.png"
     },
     {
       "id": "8394",
@@ -2040,7 +2196,8 @@
       "path": "anthem_hh2022_03.anthem_hh2022_03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HH2022_03_T"
+      "thumbnail_package": "Anthem_HH2022_03_T",
+      "image_path": "images/8394.png"
     },
     {
       "id": "8395",
@@ -2053,7 +2210,8 @@
       "path": "anthem_hh2022_04.anthem_hh2022_04",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HH2022_04_T"
+      "thumbnail_package": "Anthem_HH2022_04_T",
+      "image_path": "images/8395.png"
     },
     {
       "id": "8398",
@@ -2066,7 +2224,8 @@
       "path": "anthem_hh2022_05.anthem_hh2022_05",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HH2022_05_T"
+      "thumbnail_package": "Anthem_HH2022_05_T",
+      "image_path": "images/8398.png"
     },
     {
       "id": "8399",
@@ -2079,7 +2238,8 @@
       "path": "anthem_fandf_03.anthem_fandf_03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_FandF_03_T"
+      "thumbnail_package": "Anthem_FandF_03_T",
+      "image_path": "images/8399.png"
     },
     {
       "id": "8400",
@@ -2092,7 +2252,8 @@
       "path": "anthem_mikeault_gametime.anthem_mikeault_gametime",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_MikeAult_GameTime_T"
+      "thumbnail_package": "Anthem_MikeAult_GameTime_T",
+      "image_path": "images/8400.png"
     },
     {
       "id": "8404",
@@ -2105,7 +2266,8 @@
       "path": "anthem_hh2022_06.anthem_hh2022_06",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HH2022_06_T"
+      "thumbnail_package": "Anthem_HH2022_06_T",
+      "image_path": "images/8404.png"
     },
     {
       "id": "8425",
@@ -2118,7 +2280,8 @@
       "path": "anthem_kuuroandsaintpunk_tokyodrift.anthem_kuuroandsaintpunk_tokyodrift",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_KUUROAndSaintPunk_TokyoDrift_T"
+      "thumbnail_package": "Anthem_KUUROAndSaintPunk_TokyoDrift_T",
+      "image_path": "images/8425.png"
     },
     {
       "id": "8431",
@@ -2131,7 +2294,8 @@
       "path": "anthem_radioclassics_vol1_06.anthem_radioclassics_vol1_06",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Vol1_06_T"
+      "thumbnail_package": "Anthem_RadioClassics_Vol1_06_T",
+      "image_path": "images/8431.png"
     },
     {
       "id": "8432",
@@ -2144,7 +2308,8 @@
       "path": "album_anthem_seasonthemes.album_anthem_seasonthemes",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_SeasonThemes_T"
+      "thumbnail_package": "Album_Anthem_SeasonThemes_T",
+      "image_path": "images/8432.png"
     },
     {
       "id": "8433",
@@ -2157,7 +2322,8 @@
       "path": "anthem_dxrk_rave.anthem_dxrk_rave",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_Dxrk_RAVE_T"
+      "thumbnail_package": "Anthem_Dxrk_RAVE_T",
+      "image_path": "images/8433.png"
     },
     {
       "id": "8560",
@@ -2170,7 +2336,8 @@
       "path": "anthem_radioclassics_vol1_07.anthem_radioclassics_vol1_07",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Vol1_07_T"
+      "thumbnail_package": "Anthem_RadioClassics_Vol1_07_T",
+      "image_path": "images/8560.png"
     },
     {
       "id": "8577",
@@ -2183,7 +2350,8 @@
       "path": "album_anthem_frostyfest2022.album_anthem_frostyfest2022",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "album_anthem_FrostyFest2022_T"
+      "thumbnail_package": "album_anthem_FrostyFest2022_T",
+      "image_path": "images/8577.png"
     },
     {
       "id": "8578",
@@ -2196,7 +2364,8 @@
       "path": "anthem_kainbeats_flyingsled.anthem_kainbeats_flyingsled",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Kainbeats_FlyingSled_T"
+      "thumbnail_package": "Anthem_Kainbeats_FlyingSled_T",
+      "image_path": "images/8578.png"
     },
     {
       "id": "8579",
@@ -2209,7 +2378,8 @@
       "path": "anthem_kainbeats_winterdrive.anthem_kainbeats_winterdrive",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Kainbeats_WinterDrive_T"
+      "thumbnail_package": "Anthem_Kainbeats_WinterDrive_T",
+      "image_path": "images/8579.png"
     },
     {
       "id": "8580",
@@ -2222,7 +2392,8 @@
       "path": "anthem_purrplecat_firstsnow.anthem_purrplecat_firstsnow",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_PurrpleCat_FirstSnow_T"
+      "thumbnail_package": "Anthem_PurrpleCat_FirstSnow_T",
+      "image_path": "images/8580.png"
     },
     {
       "id": "8581",
@@ -2235,7 +2406,8 @@
       "path": "anthem_purrplecat_wintermorning.anthem_purrplecat_wintermorning",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_PurrpleCat_WinterMorning_T"
+      "thumbnail_package": "Anthem_PurrpleCat_WinterMorning_T",
+      "image_path": "images/8581.png"
     },
     {
       "id": "8582",
@@ -2248,7 +2420,8 @@
       "path": "anthem_xander_monday.anthem_xander_monday",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Xander_Monday_T"
+      "thumbnail_package": "Anthem_Xander_Monday_T",
+      "image_path": "images/8582.png"
     },
     {
       "id": "8758",
@@ -2261,7 +2434,8 @@
       "path": "anthem_champanthems_02.anthem_champanthems_02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_ChampAnthems_02_T"
+      "thumbnail_package": "Anthem_ChampAnthems_02_T",
+      "image_path": "images/8758.png"
     },
     {
       "id": "8759",
@@ -2274,7 +2448,8 @@
       "path": "album_anthem_neonnights_2023_ftcochise.album_anthem_neonnights_2023_ftcochise",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_NeonNights_2023_ftCochise_T"
+      "thumbnail_package": "Album_Anthem_NeonNights_2023_ftCochise_T",
+      "image_path": "images/8759.png"
     },
     {
       "id": "8760",
@@ -2287,7 +2462,8 @@
       "path": "anthem_cochise_longway.anthem_cochise_longway",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_Cochise_LongWay_T"
+      "thumbnail_package": "Anthem_Cochise_LongWay_T",
+      "image_path": "images/8760.png"
     },
     {
       "id": "8761",
@@ -2300,7 +2476,8 @@
       "path": "anthem_cochise_pocketrocket.anthem_cochise_pocketrocket",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_Cochise_PocketRocket_T"
+      "thumbnail_package": "Anthem_Cochise_PocketRocket_T",
+      "image_path": "images/8761.png"
     },
     {
       "id": "8762",
@@ -2313,7 +2490,8 @@
       "path": "anthem_cochise_turnitup.anthem_cochise_turnitup",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_Cochise_TURNITUP_T"
+      "thumbnail_package": "Anthem_Cochise_TURNITUP_T",
+      "image_path": "images/8762.png"
     },
     {
       "id": "8763",
@@ -2326,7 +2504,8 @@
       "path": "anthem_fool_duality.anthem_fool_duality",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_FOOL_Duality_T"
+      "thumbnail_package": "Anthem_FOOL_Duality_T",
+      "image_path": "images/8763.png"
     },
     {
       "id": "8846",
@@ -2339,7 +2518,8 @@
       "path": "anthem_oddkidout_codes_featmacntaj.anthem_oddkidout_codes_featmacntaj",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_OddKidOut_CODES_featMacntaj_T"
+      "thumbnail_package": "Anthem_OddKidOut_CODES_featMacntaj_T",
+      "image_path": "images/8846.png"
     },
     {
       "id": "8947",
@@ -2352,7 +2532,8 @@
       "path": "anthem_zensei_oasis.anthem_zensei_oasis",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Anthem_zensei_Oasis_T"
+      "thumbnail_package": "Anthem_zensei_Oasis_T",
+      "image_path": "images/8947.png"
     },
     {
       "id": "8964",
@@ -2365,7 +2546,8 @@
       "path": "album_anthem_AL3JANDRO_DoTheseStoriesMakeMeHuman.album_anthem_AL3JANDRO_DoTheseStoriesMakeMeHuman",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_AL3JANDRO_DoTheseStoriesMakeMeHuman_T"
+      "thumbnail_package": "Album_Anthem_AL3JANDRO_DoTheseStoriesMakeMeHuman_T",
+      "image_path": "images/8964.png"
     },
     {
       "id": "8965",
@@ -2378,7 +2560,8 @@
       "path": "Anthem_AL3JANDRO_OnTheCanvas.Anthem_AL3JANDRO_OnTheCanvas",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_AL3JANDRO_OnTheCanvas_T"
+      "thumbnail_package": "Anthem_AL3JANDRO_OnTheCanvas_T",
+      "image_path": "images/8965.png"
     },
     {
       "id": "9101",
@@ -2391,7 +2574,8 @@
       "path": "album_anthem_spaceship.album_anthem_spaceship",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "album_anthem_spaceship_T"
+      "thumbnail_package": "album_anthem_spaceship_T",
+      "image_path": "images/9101.png"
     },
     {
       "id": "9102",
@@ -2404,7 +2588,8 @@
       "path": "anthem_beep_01.anthem_beep_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Beep_01_T"
+      "thumbnail_package": "Anthem_Beep_01_T",
+      "image_path": "images/9102.png"
     },
     {
       "id": "9116",
@@ -2417,7 +2602,8 @@
       "path": "anthem_fandf_04.anthem_fandf_04",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_FandF_04_T"
+      "thumbnail_package": "Anthem_FandF_04_T",
+      "image_path": "images/9116.png"
     },
     {
       "id": "9117",
@@ -2430,7 +2616,8 @@
       "path": "anthem_wintermajor2023.anthem_wintermajor2023",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_WinterMajor2023_T"
+      "thumbnail_package": "Anthem_WinterMajor2023_T",
+      "image_path": "images/9117.png"
     },
     {
       "id": "9184",
@@ -2443,7 +2630,8 @@
       "path": "Anthem_AL3JANDRO_SugarFree.Anthem_AL3JANDRO_SugarFree",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_AL3JANDRO_SugarFree_T"
+      "thumbnail_package": "Anthem_AL3JANDRO_SugarFree_T",
+      "image_path": "images/9184.png"
     },
     {
       "id": "9222",
@@ -2456,7 +2644,8 @@
       "path": "album_anthem_sfx.album_anthem_sfx",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_SFX_T"
+      "thumbnail_package": "Album_Anthem_SFX_T",
+      "image_path": "images/9222.png"
     },
     {
       "id": "9223",
@@ -2469,7 +2658,8 @@
       "path": "anthem_sfx_birthdayball.anthem_sfx_birthdayball",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_SFX_BirthdayBall_T"
+      "thumbnail_package": "Anthem_SFX_BirthdayBall_T",
+      "image_path": "images/9223.png"
     },
     {
       "id": "9232",
@@ -2482,7 +2672,8 @@
       "path": "album_anthem_trap.album_anthem_trap",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_Trap_T"
+      "thumbnail_package": "Album_Anthem_Trap_T",
+      "image_path": "images/9232.png"
     },
     {
       "id": "9233",
@@ -2495,7 +2686,8 @@
       "path": "anthem_trap_01.anthem_trap_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Trap_01_T"
+      "thumbnail_package": "Anthem_Trap_01_T",
+      "image_path": "images/9233.png"
     },
     {
       "id": "9251",
@@ -2508,7 +2700,8 @@
       "path": "anthem_sfx_crickets.anthem_sfx_crickets",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_SFX_Crickets_T"
+      "thumbnail_package": "Anthem_SFX_Crickets_T",
+      "image_path": "images/9251.png"
     },
     {
       "id": "9270",
@@ -2521,7 +2714,8 @@
       "path": "anthem_bhaskar_afterclapp_naoseiparar.anthem_bhaskar_afterclapp_naoseiparar",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Bhaskar_Afterclapp_NaoSeiParar_T"
+      "thumbnail_package": "Anthem_Bhaskar_Afterclapp_NaoSeiParar_T",
+      "image_path": "images/9270.png"
     },
     {
       "id": "9271",
@@ -2534,7 +2728,8 @@
       "path": "anthem_springmajor2023.anthem_springmajor2023",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_SpringMajor2023_T"
+      "thumbnail_package": "Anthem_SpringMajor2023_T",
+      "image_path": "images/9271.png"
     },
     {
       "id": "9400",
@@ -2547,7 +2742,8 @@
       "path": "anthem_worldchampionship2023.anthem_worldchampionship2023",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_WorldChampionship2023_T"
+      "thumbnail_package": "Anthem_WorldChampionship2023_T",
+      "image_path": "images/9400.png"
     },
     {
       "id": "9401",
@@ -2560,7 +2756,8 @@
       "path": "anthem_champanthems_03.anthem_champanthems_03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_ChampAnthems_03_T"
+      "thumbnail_package": "Anthem_ChampAnthems_03_T",
+      "image_path": "images/9401.png"
     },
     {
       "id": "9610",
@@ -2573,7 +2770,8 @@
       "path": "anthem_sfx_dialup.anthem_sfx_dialup",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_SFX_DialUp_T"
+      "thumbnail_package": "Anthem_SFX_DialUp_T",
+      "image_path": "images/9610.png"
     },
     {
       "id": "9620",
@@ -2586,7 +2784,8 @@
       "path": "album_anthem_hiphopclassicsvol1.album_anthem_hiphopclassicsvol1",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_HipHopClassicsVol1_T"
+      "thumbnail_package": "Album_Anthem_HipHopClassicsVol1_T",
+      "image_path": "images/9620.png"
     },
     {
       "id": "9621",
@@ -2599,7 +2798,8 @@
       "path": "anthem_hiphopclassicsvol1_01.anthem_hiphopclassicsvol1_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HipHopClassicsVol1_01_T"
+      "thumbnail_package": "Anthem_HipHopClassicsVol1_01_T",
+      "image_path": "images/9621.png"
     },
     {
       "id": "9622",
@@ -2612,7 +2812,8 @@
       "path": "anthem_hiphopclassicsvol1_02.anthem_hiphopclassicsvol1_02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HipHopClassicsVol1_02_T"
+      "thumbnail_package": "Anthem_HipHopClassicsVol1_02_T",
+      "image_path": "images/9622.png"
     },
     {
       "id": "9623",
@@ -2625,7 +2826,8 @@
       "path": "anthem_hiphopclassicsvol1_03.anthem_hiphopclassicsvol1_03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HipHopClassicsVol1_03_T"
+      "thumbnail_package": "Anthem_HipHopClassicsVol1_03_T",
+      "image_path": "images/9623.png"
     },
     {
       "id": "9625",
@@ -2638,7 +2840,8 @@
       "path": "anthem_hiphopclassicsvol1_05.anthem_hiphopclassicsvol1_05",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HipHopClassicsVol1_05_T"
+      "thumbnail_package": "Anthem_HipHopClassicsVol1_05_T",
+      "image_path": "images/9625.png"
     },
     {
       "id": "9630",
@@ -2651,7 +2854,8 @@
       "path": "anthem_dirtyphonics_burbanknights.anthem_dirtyphonics_burbanknights",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Dirtyphonics_BurbankNights_T"
+      "thumbnail_package": "Anthem_Dirtyphonics_BurbankNights_T",
+      "image_path": "images/9630.png"
     },
     {
       "id": "9668",
@@ -2664,7 +2868,8 @@
       "path": "anthem_hh2023_01.anthem_hh2023_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HH2023_01_T"
+      "thumbnail_package": "Anthem_HH2023_01_T",
+      "image_path": "images/9668.png"
     },
     {
       "id": "9672",
@@ -2677,7 +2882,8 @@
       "path": "anthem_fiestalatina_soccarbroadcaster.anthem_fiestalatina_soccarbroadcaster",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_FiestaLatina_SoccarBroadcaster_T"
+      "thumbnail_package": "Anthem_FiestaLatina_SoccarBroadcaster_T",
+      "image_path": "images/9672.png"
     },
     {
       "id": "9680",
@@ -2690,7 +2896,8 @@
       "path": "anthem_bobsramentheme.anthem_bobsramentheme",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_BobsRamenTheme_T"
+      "thumbnail_package": "Anthem_BobsRamenTheme_T",
+      "image_path": "images/9680.png"
     },
     {
       "id": "9708",
@@ -2703,7 +2910,8 @@
       "path": "anthem_lightscameraaction_02.anthem_lightscameraaction_02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_LightsCameraAction_02_T"
+      "thumbnail_package": "Anthem_LightsCameraAction_02_T",
+      "image_path": "images/9708.png"
     },
     {
       "id": "10003",
@@ -2716,7 +2924,8 @@
       "path": "anthem_EpicAudioTeam_DemoDisc20XX.anthem_EpicAudioTeam_DemoDisc20XX",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "anthem_EpicAudioTeam_DemoDisc20XX_T"
+      "thumbnail_package": "anthem_EpicAudioTeam_DemoDisc20XX_T",
+      "image_path": "images/10003.png"
     },
     {
       "id": "10004",
@@ -2729,7 +2938,8 @@
       "path": "anthem_epicaudioteam_4tonight.anthem_epicaudioteam_4tonight",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicAudioTeam_4Tonight_T"
+      "thumbnail_package": "Anthem_EpicAudioTeam_4Tonight_T",
+      "image_path": "images/10004.png"
     },
     {
       "id": "10016",
@@ -2742,7 +2952,8 @@
       "path": "album_anthem_monstercatgeneral.album_anthem_monstercatgeneral",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_MonstercatGeneral_T"
+      "thumbnail_package": "Album_Anthem_MonstercatGeneral_T",
+      "image_path": "images/10016.png"
     },
     {
       "id": "10017",
@@ -2755,7 +2966,8 @@
       "path": "anthem_thirst_bounce.anthem_thirst_bounce",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_THIRST_BOUNCE_T"
+      "thumbnail_package": "Anthem_THIRST_BOUNCE_T",
+      "image_path": "images/10017.png"
     },
     {
       "id": "10020",
@@ -2768,7 +2980,8 @@
       "path": "Anthem_TokyoMachine_FAROUTVIP.Anthem_TokyoMachine_FAROUTVIP",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_TokyoMachine_FAROUTVIP_T"
+      "thumbnail_package": "Anthem_TokyoMachine_FAROUTVIP_T",
+      "image_path": "images/10020.png"
     },
     {
       "id": "10145",
@@ -2781,7 +2994,8 @@
       "path": "album_anthem_radioclassics_rewind.album_anthem_radioclassics_rewind",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_RadioClassics_Rewind_T"
+      "thumbnail_package": "Album_Anthem_RadioClassics_Rewind_T",
+      "image_path": "images/10145.png"
     },
     {
       "id": "10146",
@@ -2794,7 +3008,8 @@
       "path": "Anthem_RadioClassics_Rewind_01.Anthem_RadioClassics_Rewind_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Rewind_01_T"
+      "thumbnail_package": "Anthem_RadioClassics_Rewind_01_T",
+      "image_path": "images/10146.png"
     },
     {
       "id": "10148",
@@ -2807,7 +3022,8 @@
       "path": "Anthem_RadioClassics_Rewind_03.Anthem_RadioClassics_Rewind_03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Rewind_03_T"
+      "thumbnail_package": "Anthem_RadioClassics_Rewind_03_T",
+      "image_path": "images/10148.png"
     },
     {
       "id": "10151",
@@ -2820,7 +3036,8 @@
       "path": "Anthem_RadioClassics_Rewind_06.Anthem_RadioClassics_Rewind_06",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Rewind_06_T"
+      "thumbnail_package": "Anthem_RadioClassics_Rewind_06_T",
+      "image_path": "images/10151.png"
     },
     {
       "id": "10153",
@@ -2833,7 +3050,8 @@
       "path": "Anthem_RadioClassics_Rewind_08.Anthem_RadioClassics_Rewind_08",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Rewind_08_T"
+      "thumbnail_package": "Anthem_RadioClassics_Rewind_08_T",
+      "image_path": "images/10153.png"
     },
     {
       "id": "10183",
@@ -2846,7 +3064,8 @@
       "path": "anthem_s14_lofihouse.anthem_s14_lofihouse",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_S14_LofiHouse_T"
+      "thumbnail_package": "Anthem_S14_LofiHouse_T",
+      "image_path": "images/10183.png"
     },
     {
       "id": "10207",
@@ -2859,7 +3078,8 @@
       "path": "Anthem_RadioClassics_Rewind_09.Anthem_RadioClassics_Rewind_09",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Rewind_09_T"
+      "thumbnail_package": "Anthem_RadioClassics_Rewind_09_T",
+      "image_path": "images/10207.png"
     },
     {
       "id": "10357",
@@ -2872,7 +3092,8 @@
       "path": "anthem_epicaudioteam_underwater.anthem_epicaudioteam_underwater",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicAudioTeam_Underwater_T"
+      "thumbnail_package": "Anthem_EpicAudioTeam_Underwater_T",
+      "image_path": "images/10357.png"
     },
     {
       "id": "10411",
@@ -2885,7 +3106,8 @@
       "path": "anthem_nostalgix_needyou.anthem_nostalgix_needyou",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Nostalgix_NeedYou_T"
+      "thumbnail_package": "Anthem_Nostalgix_NeedYou_T",
+      "image_path": "images/10411.png"
     },
     {
       "id": "10412",
@@ -2898,7 +3120,8 @@
       "path": "anthem_direct_ghost.anthem_direct_ghost",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Direct_Ghost_T"
+      "thumbnail_package": "Anthem_Direct_Ghost_T",
+      "image_path": "images/10412.png"
     },
     {
       "id": "10550",
@@ -2911,7 +3134,8 @@
       "path": "anthem_spartan.anthem_spartan",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Spartan_T"
+      "thumbnail_package": "Anthem_Spartan_T",
+      "image_path": "images/10550.png"
     },
     {
       "id": "10645",
@@ -2924,7 +3148,8 @@
       "path": "anthem_poppunk.anthem_poppunk",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_PopPunk_T"
+      "thumbnail_package": "Anthem_PopPunk_T",
+      "image_path": "images/10645.png"
     },
     {
       "id": "10718",
@@ -2937,7 +3162,8 @@
       "path": "album_anthem_stainless.album_anthem_stainless",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_Stainless_T"
+      "thumbnail_package": "Album_Anthem_Stainless_T",
+      "image_path": "images/10718.png"
     },
     {
       "id": "10719",
@@ -2950,7 +3176,8 @@
       "path": "anthem_stainless_01.anthem_stainless_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Stainless_01_T"
+      "thumbnail_package": "Anthem_Stainless_01_T",
+      "image_path": "images/10719.png"
     },
     {
       "id": "10720",
@@ -2963,7 +3190,8 @@
       "path": "anthem_stainless_02.anthem_stainless_02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Stainless_02_T"
+      "thumbnail_package": "Anthem_Stainless_02_T",
+      "image_path": "images/10720.png"
     },
     {
       "id": "10721",
@@ -2976,7 +3204,8 @@
       "path": "anthem_stainless_03.anthem_stainless_03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Stainless_03_T"
+      "thumbnail_package": "Anthem_Stainless_03_T",
+      "image_path": "images/10721.png"
     },
     {
       "id": "10733",
@@ -2989,7 +3218,8 @@
       "path": "Album_Anthem_RadioClassics_Vol3.Album_Anthem_RadioClassics_Vol3",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_RadioClassics_Vol3_T"
+      "thumbnail_package": "Album_Anthem_RadioClassics_Vol3_T",
+      "image_path": "images/10733.png"
     },
     {
       "id": "10734",
@@ -3002,7 +3232,8 @@
       "path": "anthem_radioclassics_vol301.anthem_radioclassics_vol301",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Vol301_T"
+      "thumbnail_package": "Anthem_RadioClassics_Vol301_T",
+      "image_path": "images/10734.png"
     },
     {
       "id": "10735",
@@ -3015,7 +3246,8 @@
       "path": "anthem_radioclassics_vol302.anthem_radioclassics_vol302",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Vol302_T"
+      "thumbnail_package": "Anthem_RadioClassics_Vol302_T",
+      "image_path": "images/10735.png"
     },
     {
       "id": "10736",
@@ -3028,7 +3260,8 @@
       "path": "anthem_radioclassics_vol303.anthem_radioclassics_vol303",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Vol303_T"
+      "thumbnail_package": "Anthem_RadioClassics_Vol303_T",
+      "image_path": "images/10736.png"
     },
     {
       "id": "10737",
@@ -3041,7 +3274,8 @@
       "path": "anthem_radioclassics_vol304.anthem_radioclassics_vol304",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Vol304_T"
+      "thumbnail_package": "Anthem_RadioClassics_Vol304_T",
+      "image_path": "images/10737.png"
     },
     {
       "id": "10738",
@@ -3054,7 +3288,8 @@
       "path": "anthem_radioclassics_vol305.anthem_radioclassics_vol305",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_RadioClassics_Vol305_T"
+      "thumbnail_package": "Anthem_RadioClassics_Vol305_T",
+      "image_path": "images/10738.png"
     },
     {
       "id": "10739",
@@ -3067,7 +3302,8 @@
       "path": "Anthem_MazareAndDeadPony_GenerationGap.Anthem_MazareAndDeadPony_GenerationGap",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_MazareAndDeadPony_GenerationGap_T"
+      "thumbnail_package": "Anthem_MazareAndDeadPony_GenerationGap_T",
+      "image_path": "images/10739.png"
     },
     {
       "id": "10742",
@@ -3080,7 +3316,8 @@
       "path": "anthem_vikkstarandmaskedwolf_knowmebetter_featjme.anthem_vikkstarandmaskedwolf_knowmebetter_featjme",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_VikkstarAndMaskedWolf_KnowMeBetter_featJme_T"
+      "thumbnail_package": "Anthem_VikkstarAndMaskedWolf_KnowMeBetter_featJme_T",
+      "image_path": "images/10742.png"
     },
     {
       "id": "10749",
@@ -3093,7 +3330,8 @@
       "path": "Album_Anthem_NeonNights2024.Album_Anthem_NeonNights2024",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_NeonNights2024_T"
+      "thumbnail_package": "Album_Anthem_NeonNights2024_T",
+      "image_path": "images/10749.png"
     },
     {
       "id": "10750",
@@ -3106,7 +3344,8 @@
       "path": "Anthem_ProjectGavel01.Anthem_ProjectGavel01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_ProjectGavel01_T"
+      "thumbnail_package": "Anthem_ProjectGavel01_T",
+      "image_path": "images/10750.png"
     },
     {
       "id": "10751",
@@ -3119,7 +3358,8 @@
       "path": "Anthem_ProjectGavel02.Anthem_ProjectGavel02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_ProjectGavel02_T"
+      "thumbnail_package": "Anthem_ProjectGavel02_T",
+      "image_path": "images/10751.png"
     },
     {
       "id": "10752",
@@ -3132,7 +3372,8 @@
       "path": "Anthem_ProjectGavel03.Anthem_ProjectGavel03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_ProjectGavel03_T"
+      "thumbnail_package": "Anthem_ProjectGavel03_T",
+      "image_path": "images/10752.png"
     },
     {
       "id": "10753",
@@ -3145,7 +3386,8 @@
       "path": "Anthem_ProjectGavel04.Anthem_ProjectGavel04",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_ProjectGavel04_T"
+      "thumbnail_package": "Anthem_ProjectGavel04_T",
+      "image_path": "images/10753.png"
     },
     {
       "id": "10755",
@@ -3158,7 +3400,8 @@
       "path": "anthem_fairlaneandsilverstein_takeitback.anthem_fairlaneandsilverstein_takeitback",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_FairlaneAndSilverstein_TakeItBack_T"
+      "thumbnail_package": "Anthem_FairlaneAndSilverstein_TakeItBack_T",
+      "image_path": "images/10755.png"
     },
     {
       "id": "10970",
@@ -3171,7 +3414,8 @@
       "path": "anthem_bossfightandhayve_deadlock.anthem_bossfightandhayve_deadlock",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_BossfightAndhayve_Deadlock_T"
+      "thumbnail_package": "Anthem_BossfightAndhayve_Deadlock_T",
+      "image_path": "images/10970.png"
     },
     {
       "id": "10971",
@@ -3184,7 +3428,8 @@
       "path": "anthem_lightscameraaction_03.anthem_lightscameraaction_03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_LightsCameraAction_03_T"
+      "thumbnail_package": "Anthem_LightsCameraAction_03_T",
+      "image_path": "images/10971.png"
     },
     {
       "id": "10972",
@@ -3197,7 +3442,8 @@
       "path": "anthem_mrbillandculprate_lie.anthem_mrbillandculprate_lie",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_MrBillAndCulprate_Lie_T"
+      "thumbnail_package": "Anthem_MrBillAndCulprate_Lie_T",
+      "image_path": "images/10972.png"
     },
     {
       "id": "10975",
@@ -3210,7 +3456,8 @@
       "path": "anthem_s16_spooky1.anthem_s16_spooky1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_S16_Spooky1_T"
+      "thumbnail_package": "Anthem_S16_Spooky1_T",
+      "image_path": "images/10975.png"
     },
     {
       "id": "10976",
@@ -3223,7 +3470,8 @@
       "path": "anthem_s16_spooky2.anthem_s16_spooky2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_S16_Spooky2_T"
+      "thumbnail_package": "Anthem_S16_Spooky2_T",
+      "image_path": "images/10976.png"
     },
     {
       "id": "10979",
@@ -3236,7 +3484,8 @@
       "path": "anthem_koven_turningpoint_worldsremix.anthem_koven_turningpoint_worldsremix",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Koven_TurningPoint_WorldsRemix_T"
+      "thumbnail_package": "Anthem_Koven_TurningPoint_WorldsRemix_T",
+      "image_path": "images/10979.png"
     },
     {
       "id": "11068",
@@ -3249,7 +3498,8 @@
       "path": "album_anthem_projectclyde.album_anthem_projectclyde",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_ProjectClyde_T"
+      "thumbnail_package": "Album_Anthem_ProjectClyde_T",
+      "image_path": "images/11068.png"
     },
     {
       "id": "11069",
@@ -3262,7 +3512,8 @@
       "path": "anthem_projectclyde_01.anthem_projectclyde_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_ProjectClyde_01_T"
+      "thumbnail_package": "Anthem_ProjectClyde_01_T",
+      "image_path": "images/11069.png"
     },
     {
       "id": "11070",
@@ -3275,7 +3526,8 @@
       "path": "anthem_projectclyde_02.anthem_projectclyde_02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_ProjectClyde_02_T"
+      "thumbnail_package": "Anthem_ProjectClyde_02_T",
+      "image_path": "images/11070.png"
     },
     {
       "id": "11071",
@@ -3288,7 +3540,8 @@
       "path": "anthem_projectclyde_03.anthem_projectclyde_03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_ProjectClyde_03_T"
+      "thumbnail_package": "Anthem_ProjectClyde_03_T",
+      "image_path": "images/11071.png"
     },
     {
       "id": "11253",
@@ -3301,7 +3554,8 @@
       "path": "anthem_teminiteandskybreak_accelerate.anthem_teminiteandskybreak_accelerate",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_TeminiteAndSkybreak_Accelerate_T"
+      "thumbnail_package": "Anthem_TeminiteAndSkybreak_Accelerate_T",
+      "image_path": "images/11253.png"
     },
     {
       "id": "11254",
@@ -3314,7 +3568,8 @@
       "path": "anthem_tokyomachine_play_vip.anthem_tokyomachine_play_vip",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_TOKYOMACHINE_PLAY_VIP_T"
+      "thumbnail_package": "Anthem_TOKYOMACHINE_PLAY_VIP_T",
+      "image_path": "images/11254.png"
     },
     {
       "id": "11272",
@@ -3327,7 +3582,8 @@
       "path": "anthem_s17_arcadecabinet.anthem_s17_arcadecabinet",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_S17_ArcadeCabinet_T"
+      "thumbnail_package": "Anthem_S17_ArcadeCabinet_T",
+      "image_path": "images/11272.png"
     },
     {
       "id": "11274",
@@ -3340,7 +3596,8 @@
       "path": "album_anthem_frostyfest2024.album_anthem_frostyfest2024",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "album_anthem_frostyfest2024_T"
+      "thumbnail_package": "album_anthem_frostyfest2024_T",
+      "image_path": "images/11274.png"
     },
     {
       "id": "11275",
@@ -3353,7 +3610,8 @@
       "path": "anthem_frostycat01.anthem_frostycat01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_FrostyCat01_T"
+      "thumbnail_package": "Anthem_FrostyCat01_T",
+      "image_path": "images/11275.png"
     },
     {
       "id": "11276",
@@ -3366,7 +3624,8 @@
       "path": "anthem_frostycat02.anthem_frostycat02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_FrostyCat02_T"
+      "thumbnail_package": "Anthem_FrostyCat02_T",
+      "image_path": "images/11276.png"
     },
     {
       "id": "11277",
@@ -3379,7 +3638,8 @@
       "path": "anthem_frostycat03.anthem_frostycat03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_FrostyCat03_T"
+      "thumbnail_package": "Anthem_FrostyCat03_T",
+      "image_path": "images/11277.png"
     },
     {
       "id": "11278",
@@ -3392,7 +3652,8 @@
       "path": "anthem_frostycat04.anthem_frostycat04",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_FrostyCat04_T"
+      "thumbnail_package": "Anthem_FrostyCat04_T",
+      "image_path": "images/11278.png"
     },
     {
       "id": "11279",
@@ -3405,7 +3666,8 @@
       "path": "anthem_frostycat05.anthem_frostycat05",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_FrostyCat05_T"
+      "thumbnail_package": "Anthem_FrostyCat05_T",
+      "image_path": "images/11279.png"
     },
     {
       "id": "11280",
@@ -3418,7 +3680,8 @@
       "path": "anthem_frostycat06.anthem_frostycat06",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_FrostyCat06_T"
+      "thumbnail_package": "Anthem_FrostyCat06_T",
+      "image_path": "images/11280.png"
     },
     {
       "id": "11281",
@@ -3431,7 +3694,8 @@
       "path": "anthem_frostycat07.anthem_frostycat07",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_FrostyCat07_T"
+      "thumbnail_package": "Anthem_FrostyCat07_T",
+      "image_path": "images/11281.png"
     },
     {
       "id": "11282",
@@ -3444,7 +3708,8 @@
       "path": "anthem_frostycat08.anthem_frostycat08",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_FrostyCat08_T"
+      "thumbnail_package": "Anthem_FrostyCat08_T",
+      "image_path": "images/11282.png"
     },
     {
       "id": "11283",
@@ -3457,7 +3722,8 @@
       "path": "anthem_s17_neon.anthem_s17_neon",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_S17_Neon_T"
+      "thumbnail_package": "Anthem_S17_Neon_T",
+      "image_path": "images/11283.png"
     },
     {
       "id": "11343",
@@ -3470,7 +3736,8 @@
       "path": "album_anthem_aventurine.album_anthem_aventurine",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_Aventurine_T"
+      "thumbnail_package": "Album_Anthem_Aventurine_T",
+      "image_path": "images/11343.png"
     },
     {
       "id": "11344",
@@ -3483,7 +3750,8 @@
       "path": "anthem_aventurine01.anthem_aventurine01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Aventurine01_T"
+      "thumbnail_package": "Anthem_Aventurine01_T",
+      "image_path": "images/11344.png"
     },
     {
       "id": "11346",
@@ -3496,7 +3764,8 @@
       "path": "anthem_aventurine02.anthem_aventurine02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Aventurine02_T"
+      "thumbnail_package": "Anthem_Aventurine02_T",
+      "image_path": "images/11346.png"
     },
     {
       "id": "11384",
@@ -3509,7 +3778,8 @@
       "path": "anthem_aventurine03.anthem_aventurine03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Aventurine03_T"
+      "thumbnail_package": "Anthem_Aventurine03_T",
+      "image_path": "images/11384.png"
     },
     {
       "id": "11386",
@@ -3522,7 +3792,8 @@
       "path": "anthem_aventurine04.anthem_aventurine04",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Aventurine04_T"
+      "thumbnail_package": "Anthem_Aventurine04_T",
+      "image_path": "images/11386.png"
     },
     {
       "id": "11515",
@@ -3535,7 +3806,8 @@
       "path": "anthem_badcomputer_breathe.anthem_badcomputer_breathe",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_BadComputer_Breathe_T"
+      "thumbnail_package": "Anthem_BadComputer_Breathe_T",
+      "image_path": "images/11515.png"
     },
     {
       "id": "11577",
@@ -3548,7 +3820,8 @@
       "path": "anthem_pmoney_whiney_hayve_99octane.anthem_pmoney_whiney_hayve_99octane",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_PMoney_Whiney_Hayve_99Octane_T"
+      "thumbnail_package": "Anthem_PMoney_Whiney_Hayve_99Octane_T",
+      "image_path": "images/11577.png"
     },
     {
       "id": "11592",
@@ -3561,7 +3834,8 @@
       "path": "anthem_parkwild_showmethestars.anthem_parkwild_showmethestars",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Parkwild_ShowMeTheStars_T"
+      "thumbnail_package": "Anthem_Parkwild_ShowMeTheStars_T",
+      "image_path": "images/11592.png"
     },
     {
       "id": "11595",
@@ -3574,7 +3848,8 @@
       "path": "anthem_haj_whatasave.anthem_haj_whatasave",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_HAJ_WhatASave_T"
+      "thumbnail_package": "Anthem_HAJ_WhatASave_T",
+      "image_path": "images/11595.png"
     },
     {
       "id": "11597",
@@ -3587,7 +3862,8 @@
       "path": "anthem_parkwild_ifyouliketogofast.anthem_parkwild_ifyouliketogofast",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Anthem_Parkwild_IfYouLikeToGoFast_T"
+      "thumbnail_package": "Anthem_Parkwild_IfYouLikeToGoFast_T",
+      "image_path": "images/11597.png"
     },
     {
       "id": "11665",
@@ -3600,7 +3876,8 @@
       "path": "anthem_habstrakt_zero200.anthem_habstrakt_zero200",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Habstrakt_ZERO200_T"
+      "thumbnail_package": "Anthem_Habstrakt_ZERO200_T",
+      "image_path": "images/11665.png"
     },
     {
       "id": "11738",
@@ -3613,7 +3890,8 @@
       "path": "anthem_evilornament.anthem_evilornament",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "anthem_evilornament_T"
+      "thumbnail_package": "anthem_evilornament_T",
+      "image_path": "images/11738.png"
     },
     {
       "id": "11899",
@@ -3626,7 +3904,8 @@
       "path": "anthem_hollywoodprinciple_breathingunderwater_vip.anthem_hollywoodprinciple_breathingunderwater_vip",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_HollywoodPrinciple_BreathingUnderwater_VIP_T"
+      "thumbnail_package": "Anthem_HollywoodPrinciple_BreathingUnderwater_VIP_T",
+      "image_path": "images/11899.png"
     },
     {
       "id": "11911",
@@ -3639,7 +3918,8 @@
       "path": "album_anthem_monstercat2025.album_anthem_monstercat2025",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_Monstercat2025_T"
+      "thumbnail_package": "Album_Anthem_Monstercat2025_T",
+      "image_path": "images/11911.png"
     },
     {
       "id": "11912",
@@ -3652,7 +3932,8 @@
       "path": "anthem_slushii_loveuneedu.anthem_slushii_loveuneedu",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Slushii_LoveUNeedU_T"
+      "thumbnail_package": "Anthem_Slushii_LoveUNeedU_T",
+      "image_path": "images/11912.png"
     },
     {
       "id": "11913",
@@ -3665,7 +3946,8 @@
       "path": "anthem_diontimmer_shiawase.anthem_diontimmer_shiawase",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_DionTimmer_Shiawase_T"
+      "thumbnail_package": "Anthem_DionTimmer_Shiawase_T",
+      "image_path": "images/11913.png"
     },
     {
       "id": "11914",
@@ -3678,7 +3960,8 @@
       "path": "anthem_snavs_us.anthem_snavs_us",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Snavs_Us_T"
+      "thumbnail_package": "Anthem_Snavs_Us_T",
+      "image_path": "images/11914.png"
     },
     {
       "id": "11915",
@@ -3691,7 +3974,8 @@
       "path": "anthem_stephenwalking_glide.anthem_stephenwalking_glide",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_StephenWalking_Glide_T"
+      "thumbnail_package": "Anthem_StephenWalking_Glide_T",
+      "image_path": "images/11915.png"
     },
     {
       "id": "11916",
@@ -3704,7 +3988,8 @@
       "path": "anthem_tokyomachine_rockit.anthem_tokyomachine_rockit",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_TokyoMachine_RockIt_T"
+      "thumbnail_package": "Anthem_TokyoMachine_RockIt_T",
+      "image_path": "images/11916.png"
     },
     {
       "id": "11917",
@@ -3717,7 +4002,8 @@
       "path": "anthem_hollywoodprinciple_drawkward_solareclipses_vip.anthem_hollywoodprinciple_drawkward_solareclipses_vip",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "anthem_hollywoodprinciple_drawkward_solareclipses_vip_T"
+      "thumbnail_package": "anthem_hollywoodprinciple_drawkward_solareclipses_vip_T",
+      "image_path": "images/11917.png"
     },
     {
       "id": "11918",
@@ -3730,7 +4016,8 @@
       "path": "anthem_conro_therapy.anthem_conro_therapy",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Conro_Therapy_T"
+      "thumbnail_package": "Anthem_Conro_Therapy_T",
+      "image_path": "images/11918.png"
     },
     {
       "id": "11919",
@@ -3743,7 +4030,8 @@
       "path": "anthem_crankdat_powerstone.anthem_crankdat_powerstone",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Crankdat_PowerStone_T"
+      "thumbnail_package": "Anthem_Crankdat_PowerStone_T",
+      "image_path": "images/11919.png"
     },
     {
       "id": "11920",
@@ -3756,7 +4044,8 @@
       "path": "anthem_foolextraterra_agonize.anthem_foolextraterra_agonize",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_FoolExtraTerra_Agonize_T"
+      "thumbnail_package": "Anthem_FoolExtraTerra_Agonize_T",
+      "image_path": "images/11920.png"
     },
     {
       "id": "11921",
@@ -3769,7 +4058,8 @@
       "path": "anthem_koven_gold.anthem_koven_gold",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Koven_Gold_T"
+      "thumbnail_package": "Anthem_Koven_Gold_T",
+      "image_path": "images/11921.png"
     },
     {
       "id": "11922",
@@ -3782,7 +4072,8 @@
       "path": "anthem_koven_lionsvip.anthem_koven_lionsvip",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Koven_LionsVIP_T"
+      "thumbnail_package": "Anthem_Koven_LionsVIP_T",
+      "image_path": "images/11922.png"
     },
     {
       "id": "11923",
@@ -3795,7 +4086,8 @@
       "path": "anthem_shingonakamura_glow.anthem_shingonakamura_glow",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_ShingoNakamura_Glow_T"
+      "thumbnail_package": "Anthem_ShingoNakamura_Glow_T",
+      "image_path": "images/11923.png"
     },
     {
       "id": "11924",
@@ -3808,7 +4100,8 @@
       "path": "anthem_throttle_forme.anthem_throttle_forme",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Throttle_ForMe_T"
+      "thumbnail_package": "Anthem_Throttle_ForMe_T",
+      "image_path": "images/11924.png"
     },
     {
       "id": "11925",
@@ -3821,7 +4114,8 @@
       "path": "anthem_hollywoodprinciple_fireworkvip.anthem_hollywoodprinciple_fireworkvip",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_HollywoodPrinciple_FireworkVIP_T"
+      "thumbnail_package": "Anthem_HollywoodPrinciple_FireworkVIP_T",
+      "image_path": "images/11925.png"
     },
     {
       "id": "11928",
@@ -3834,7 +4128,8 @@
       "path": "anthem_fool_duality_vip.anthem_fool_duality_vip",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_FOOL_Duality_VIP_T"
+      "thumbnail_package": "Anthem_FOOL_Duality_VIP_T",
+      "image_path": "images/11928.png"
     },
     {
       "id": "11929",
@@ -3847,7 +4142,8 @@
       "path": "anthem_bossfight_endgame_vip.anthem_bossfight_endgame_vip",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Bossfight_Endgame_VIP_T"
+      "thumbnail_package": "Anthem_Bossfight_Endgame_VIP_T",
+      "image_path": "images/11929.png"
     },
     {
       "id": "11948",
@@ -3860,7 +4156,8 @@
       "path": "anthem_tokyomachine_teminite_boomkitty_busted.anthem_tokyomachine_teminite_boomkitty_busted",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_TokyoMachine_Teminite_BoomKitty_Busted_T"
+      "thumbnail_package": "Anthem_TokyoMachine_Teminite_BoomKitty_Busted_T",
+      "image_path": "images/11948.png"
     },
     {
       "id": "11989",
@@ -3873,7 +4170,8 @@
       "path": "anthem_epicgames_thisisrocketleague.anthem_epicgames_thisisrocketleague",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicGames_ThisIsRocketLeague_T"
+      "thumbnail_package": "Anthem_EpicGames_ThisIsRocketLeague_T",
+      "image_path": "images/11989.png"
     },
     {
       "id": "12002",
@@ -3886,7 +4184,8 @@
       "path": "album_anthem_rocketleagueyear10.album_anthem_rocketleagueyear10",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "album_anthem_rocketleagueyear10_T"
+      "thumbnail_package": "album_anthem_rocketleagueyear10_T",
+      "image_path": "images/12002.png"
     },
     {
       "id": "12004",
@@ -3899,7 +4198,8 @@
       "path": "anthem_dragoncat_01.anthem_dragoncat_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "anthem_dragoncat_01_T"
+      "thumbnail_package": "anthem_dragoncat_01_T",
+      "image_path": "images/12004.png"
     },
     {
       "id": "12005",
@@ -3912,7 +4212,8 @@
       "path": "anthem_dragoncat_02.anthem_dragoncat_02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "anthem_dragoncat_02_T"
+      "thumbnail_package": "anthem_dragoncat_02_T",
+      "image_path": "images/12005.png"
     },
     {
       "id": "12006",
@@ -3925,7 +4226,8 @@
       "path": "anthem_dragoncat_04.anthem_dragoncat_04",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "anthem_dragoncat_04_T"
+      "thumbnail_package": "anthem_dragoncat_04_T",
+      "image_path": "images/12006.png"
     },
     {
       "id": "12007",
@@ -3938,7 +4240,8 @@
       "path": "anthem_dragoncat_06.anthem_dragoncat_06",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "anthem_dragoncat_06_T"
+      "thumbnail_package": "anthem_dragoncat_06_T",
+      "image_path": "images/12007.png"
     },
     {
       "id": "12008",
@@ -3951,7 +4254,8 @@
       "path": "anthem_dragoncat_03.anthem_dragoncat_03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "anthem_dragoncat_03_T"
+      "thumbnail_package": "anthem_dragoncat_03_T",
+      "image_path": "images/12008.png"
     },
     {
       "id": "12013",
@@ -3964,7 +4268,8 @@
       "path": "anthem_dragoncat_05.anthem_dragoncat_05",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "anthem_dragoncat_05_T"
+      "thumbnail_package": "anthem_dragoncat_05_T",
+      "image_path": "images/12013.png"
     },
     {
       "id": "12139",
@@ -3977,7 +4282,8 @@
       "path": "anthem_feint_atlas.anthem_feint_atlas",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Feint_Atlas_T"
+      "thumbnail_package": "Anthem_Feint_Atlas_T",
+      "image_path": "images/12139.png"
     },
     {
       "id": "12140",
@@ -3990,7 +4296,8 @@
       "path": "anthem_internetgirl_treathimlikeababy.anthem_internetgirl_treathimlikeababy",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_InternetGirl_TREATHIMLIKEABABY_T"
+      "thumbnail_package": "Anthem_InternetGirl_TREATHIMLIKEABABY_T",
+      "image_path": "images/12140.png"
     },
     {
       "id": "12144",
@@ -4003,7 +4310,8 @@
       "path": "anthem_bishu_thirdperson.anthem_bishu_thirdperson",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Bishu_ThirdPerson_T"
+      "thumbnail_package": "Anthem_Bishu_ThirdPerson_T",
+      "image_path": "images/12144.png"
     },
     {
       "id": "12145",
@@ -4016,7 +4324,8 @@
       "path": "anthem_puppet_dynamo.anthem_puppet_dynamo",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Puppet_Dynamo_T"
+      "thumbnail_package": "Anthem_Puppet_Dynamo_T",
+      "image_path": "images/12145.png"
     },
     {
       "id": "12151",
@@ -4029,7 +4338,8 @@
       "path": "anthem_epicgames_s20autotournament.anthem_epicgames_s20autotournament",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicGames_S20AutoTournament_T"
+      "thumbnail_package": "Anthem_EpicGames_S20AutoTournament_T",
+      "image_path": "images/12151.png"
     },
     {
       "id": "12152",
@@ -4042,7 +4352,8 @@
       "path": "anthem_curioustuna01.anthem_curioustuna01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_CuriousTuna01_T"
+      "thumbnail_package": "Anthem_CuriousTuna01_T",
+      "image_path": "images/12152.png"
     },
     {
       "id": "12192",
@@ -4055,7 +4366,8 @@
       "path": "Album_Anthem_PopularSongs.Album_Anthem_PopularSongs",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_PopularSongs_T"
+      "thumbnail_package": "Album_Anthem_PopularSongs_T",
+      "image_path": "images/12192.png"
     },
     {
       "id": "12212",
@@ -4068,7 +4380,8 @@
       "path": "Album_Anthem_ThemeSongs.Album_Anthem_ThemeSongs",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "Album_Anthem_ThemeSongs_T"
+      "thumbnail_package": "Album_Anthem_ThemeSongs_T",
+      "image_path": "images/12212.png"
     },
     {
       "id": "12352",
@@ -4081,7 +4394,8 @@
       "path": "anthem_chrome02.anthem_chrome02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Chrome02_T"
+      "thumbnail_package": "Anthem_Chrome02_T",
+      "image_path": "images/12352.png"
     },
     {
       "id": "12353",
@@ -4094,7 +4408,8 @@
       "path": "anthem_rpchrome.anthem_rpchrome",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_RPChrome_T"
+      "thumbnail_package": "Anthem_RPChrome_T",
+      "image_path": "images/12353.png"
     },
     {
       "id": "12371",
@@ -4107,7 +4422,8 @@
       "path": "anthem_chrome01.anthem_chrome01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Chrome01_T"
+      "thumbnail_package": "Anthem_Chrome01_T",
+      "image_path": "images/12371.png"
     },
     {
       "id": "12372",
@@ -4120,7 +4436,8 @@
       "path": "anthem_chrome03.anthem_chrome03",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Chrome03_T"
+      "thumbnail_package": "Anthem_Chrome03_T",
+      "image_path": "images/12372.png"
     },
     {
       "id": "12387",
@@ -4133,7 +4450,8 @@
       "path": "anthem_caster_sixofwands.anthem_caster_sixofwands",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Caster_SixOfWands_T"
+      "thumbnail_package": "Anthem_Caster_SixOfWands_T",
+      "image_path": "images/12387.png"
     },
     {
       "id": "12389",
@@ -4146,7 +4464,8 @@
       "path": "anthem_epicgames_s21autotournament.anthem_epicgames_s21autotournament",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicGames_S21AutoTournament_T"
+      "thumbnail_package": "Anthem_EpicGames_S21AutoTournament_T",
+      "image_path": "images/12389.png"
     },
     {
       "id": "12391",
@@ -4159,7 +4478,8 @@
       "path": "anthem_ellis_orbit.anthem_ellis_orbit",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Ellis_Orbit_T"
+      "thumbnail_package": "Anthem_Ellis_Orbit_T",
+      "image_path": "images/12391.png"
     },
     {
       "id": "12392",
@@ -4172,7 +4492,8 @@
       "path": "anthem_estiva_parlezvous.anthem_estiva_parlezvous",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Estiva_ParlezVous_T"
+      "thumbnail_package": "Anthem_Estiva_ParlezVous_T",
+      "image_path": "images/12392.png"
     },
     {
       "id": "12393",
@@ -4185,7 +4506,8 @@
       "path": "anthem_halfanorange_marktwain.anthem_halfanorange_marktwain",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HalfAnOrange_MarkTwain_T"
+      "thumbnail_package": "Anthem_HalfAnOrange_MarkTwain_T",
+      "image_path": "images/12393.png"
     },
     {
       "id": "12394",
@@ -4198,7 +4520,8 @@
       "path": "anthem_televisor_neon.anthem_televisor_neon",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Televisor_Neon_T"
+      "thumbnail_package": "Anthem_Televisor_Neon_T",
+      "image_path": "images/12394.png"
     },
     {
       "id": "12396",
@@ -4211,7 +4534,8 @@
       "path": "anthem_chrome04.anthem_chrome04",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Chrome04_T"
+      "thumbnail_package": "Anthem_Chrome04_T",
+      "image_path": "images/12396.png"
     },
     {
       "id": "12401",
@@ -4224,7 +4548,8 @@
       "path": "Anthem_LionsMane02.Anthem_LionsMane02",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_LionsMane02_T"
+      "thumbnail_package": "Anthem_LionsMane02_T",
+      "image_path": "images/12401.png"
     },
     {
       "id": "12443",
@@ -4237,7 +4562,8 @@
       "path": "anthem_2026rlcsboston.anthem_2026rlcsboston",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_2026RLCSBoston_T"
+      "thumbnail_package": "Anthem_2026RLCSBoston_T",
+      "image_path": "images/12443.png"
     },
     {
       "id": "12513",
@@ -4250,7 +4576,8 @@
       "path": "album_anthem_monstercat2026.album_anthem_monstercat2026",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "album_anthem_monstercat2026_T"
+      "thumbnail_package": "album_anthem_monstercat2026_T",
+      "image_path": "images/12513.png"
     },
     {
       "id": "12514",
@@ -4263,7 +4590,8 @@
       "path": "anthem_thirst_alldaway.anthem_thirst_alldaway",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_Thirst_Alldaway_T"
+      "thumbnail_package": "Anthem_Thirst_Alldaway_T",
+      "image_path": "images/12514.png"
     },
     {
       "id": "12525",
@@ -4276,7 +4604,8 @@
       "path": "anthem_fool_drifter.anthem_fool_drifter",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_FOOL_Drifter_T"
+      "thumbnail_package": "Anthem_FOOL_Drifter_T",
+      "image_path": "images/12525.png"
     },
     {
       "id": "12526",
@@ -4289,7 +4618,8 @@
       "path": "anthem_thirst_mayhem.anthem_thirst_mayhem",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Thirst_Mayhem_T"
+      "thumbnail_package": "Anthem_Thirst_Mayhem_T",
+      "image_path": "images/12526.png"
     },
     {
       "id": "12528",
@@ -4302,7 +4632,8 @@
       "path": "anthem_prey_showmeyourway.anthem_prey_showmeyourway",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Prey_ShowMeYourWay_T"
+      "thumbnail_package": "Anthem_Prey_ShowMeYourWay_T",
+      "image_path": "images/12528.png"
     },
     {
       "id": "12533",
@@ -4315,7 +4646,8 @@
       "path": "anthem_nvrxmarv_volkswagenfunk.anthem_nvrxmarv_volkswagenfunk",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Nvrxmarv_VolkswagenFunk_T"
+      "thumbnail_package": "Anthem_Nvrxmarv_VolkswagenFunk_T",
+      "image_path": "images/12533.png"
     },
     {
       "id": "12724",
@@ -4328,7 +4660,8 @@
       "path": "anthem_habstraktlizdek_surge.anthem_habstraktlizdek_surge",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Anthem_HabstraktLizdek_Surge_T"
+      "thumbnail_package": "Anthem_HabstraktLizdek_Surge_T",
+      "image_path": "images/12724.png"
     },
     {
       "id": "12845",
@@ -4341,7 +4674,8 @@
       "path": "Anthem_Wuki_Rainbow.Anthem_Wuki_Rainbow",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Wuki_Rainbow_T"
+      "thumbnail_package": "Anthem_Wuki_Rainbow_T",
+      "image_path": "images/12845.png"
     },
     {
       "id": "12876",
@@ -4354,7 +4688,8 @@
       "path": "anthem_ehok_wearmyflag.anthem_ehok_wearmyflag",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_ehok_WearMyFlag_T"
+      "thumbnail_package": "Anthem_ehok_WearMyFlag_T",
+      "image_path": "images/12876.png"
     },
     {
       "id": "12878",
@@ -4367,7 +4702,8 @@
       "path": "anthem_nostalgixkiesza_dancingthroughitall.anthem_nostalgixkiesza_dancingthroughitall",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_NostalgixKiesza_DancingThroughItAll_T"
+      "thumbnail_package": "Anthem_NostalgixKiesza_DancingThroughItAll_T",
+      "image_path": "images/12878.png"
     },
     {
       "id": "12889",
@@ -4380,7 +4716,8 @@
       "path": "anthem_kimpetras_dtla.anthem_kimpetras_dtla",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_KimPetras_DTLA_T"
+      "thumbnail_package": "Anthem_KimPetras_DTLA_T",
+      "image_path": "images/12889.png"
     },
     {
       "id": "12891",
@@ -4393,7 +4730,8 @@
       "path": "anthem_hayve_whatitfeelslike.anthem_hayve_whatitfeelslike",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_Hayve_WhatItFeelsLike_T"
+      "thumbnail_package": "Anthem_Hayve_WhatItFeelsLike_T",
+      "image_path": "images/12891.png"
     },
     {
       "id": "12913",
@@ -4406,7 +4744,11 @@
       "thumbnail_package": "Anthem_S23ItemShop_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 4,
+      "paintable": false,
+      "path": "Anthem_S23ItemShop.Anthem_S23ItemShop",
+      "image_path": "images/12913.png"
     },
     {
       "id": "12914",
@@ -4419,7 +4761,8 @@
       "path": "anthem_tiffanyday_pretty4U.anthem_tiffanyday_pretty4U",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_TiffanyDay_PRETTY4U_T"
+      "thumbnail_package": "Anthem_TiffanyDay_PRETTY4U_T",
+      "image_path": "images/12914.png"
     },
     {
       "id": "12922",
@@ -4432,7 +4775,8 @@
       "path": "anthem_epicaudioteam_s23autotournament.anthem_epicaudioteam_s23autotournament",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicAudioTeam_S23AutoTournament_T"
+      "thumbnail_package": "Anthem_EpicAudioTeam_S23AutoTournament_T",
+      "image_path": "images/12922.png"
     },
     {
       "id": "12923",
@@ -4445,7 +4789,8 @@
       "path": "anthem_epicaudioteam_s23rankrewards01.anthem_epicaudioteam_s23rankrewards01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards01_T"
+      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards01_T",
+      "image_path": "images/12923.png"
     },
     {
       "id": "12941",
@@ -4458,7 +4803,8 @@
       "path": "anthem_epicaudioteam_s23rankrewards02.anthem_epicaudioteam_s23rankrewards02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards02_T"
+      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards02_T",
+      "image_path": "images/12941.png"
     },
     {
       "id": "12942",
@@ -4471,7 +4817,8 @@
       "path": "anthem_epicaudioteam_s23rankrewards03.anthem_epicaudioteam_s23rankrewards03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards03_T"
+      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards03_T",
+      "image_path": "images/12942.png"
     },
     {
       "id": "12943",
@@ -4484,7 +4831,8 @@
       "path": "anthem_epicaudioteam_s23rankrewards04.anthem_epicaudioteam_s23rankrewards04",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards04_T"
+      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards04_T",
+      "image_path": "images/12943.png"
     },
     {
       "id": "12944",
@@ -4497,7 +4845,8 @@
       "path": "anthem_epicaudioteam_s23rankrewards05.anthem_epicaudioteam_s23rankrewards05",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards05_T"
+      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards05_T",
+      "image_path": "images/12944.png"
     },
     {
       "id": "12945",
@@ -4510,7 +4859,8 @@
       "path": "anthem_epicaudioteam_s23rankrewards06.anthem_epicaudioteam_s23rankrewards06",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards06_T"
+      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards06_T",
+      "image_path": "images/12945.png"
     },
     {
       "id": "12946",
@@ -4523,7 +4873,8 @@
       "path": "anthem_epicaudioteam_s23rankrewards07.anthem_epicaudioteam_s23rankrewards07",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards07_T"
+      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards07_T",
+      "image_path": "images/12946.png"
     },
     {
       "id": "12947",
@@ -4536,7 +4887,8 @@
       "path": "anthem_epicaudioteam_s23rankrewards08.anthem_epicaudioteam_s23rankrewards08",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards08_T"
+      "thumbnail_package": "Anthem_EpicAudioTeam_S23RankRewards08_T",
+      "image_path": "images/12947.png"
     },
     {
       "id": "13147",
@@ -4549,7 +4901,11 @@
       "thumbnail_package": "Anthem_Primate_Booyah_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "Anthem_Primate_Booyah.Anthem_Primate_Booyah",
+      "image_path": "images/13147.png"
     },
     {
       "id": "13148",
@@ -4562,7 +4918,11 @@
       "thumbnail_package": "Anthem_seanpitaro_mirrors_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 2,
+      "paintable": false,
+      "path": "anthem_seanpitaro_mirrors.anthem_seanpitaro_mirrors",
+      "image_path": "images/13148.png"
     },
     {
       "id": "13149",
@@ -4575,7 +4935,53 @@
       "thumbnail_package": "Anthem_SPORTMODE_BACKSPIN_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "anthem_sportmode_backspin.anthem_sportmode_backspin",
+      "image_path": "images/13149.png"
+    },
+    {
+      "id": "13144",
+      "internal_name": "album_anthem_season24",
+      "name": "Season 24",
+      "upk_path": "album_anthem_season24_SF.upk",
+      "quality": "Common",
+      "quality_id": 0,
+      "paintable": false,
+      "package": "album_anthem_season24",
+      "path": "album_anthem_season24.album_anthem_season24",
+      "thumbnail": "album_anthem_Season24_T_SF.upk",
+      "thumbnail_package": "album_anthem_Season24_T",
+      "image_path": "images/13144.png"
+    },
+    {
+      "id": "13145",
+      "internal_name": "anthem_BassVenturaLGJ_Doublin",
+      "name": "Doublin",
+      "upk_path": "anthem_BassVenturaLGJ_Doublin_SF.upk",
+      "quality": "Import",
+      "quality_id": 4,
+      "paintable": false,
+      "package": "anthem_BassVenturaLGJ_Doublin",
+      "path": "anthem_BassVenturaLGJ_Doublin.anthem_BassVenturaLGJ_Doublin",
+      "thumbnail": "Anthem_BassVenturaLGJ_Doublin_T_SF.upk",
+      "thumbnail_package": "Anthem_BassVenturaLGJ_Doublin_T",
+      "image_path": "images/13145.png"
+    },
+    {
+      "id": "13146",
+      "internal_name": "anthem_mrbillvctre_absence",
+      "name": "Absence",
+      "upk_path": "anthem_mrbillvctre_absence_SF.upk",
+      "quality": "Import",
+      "quality_id": 4,
+      "paintable": false,
+      "package": "anthem_mrbillvctre_absence",
+      "path": "anthem_mrbillvctre_absence.anthem_mrbillvctre_absence",
+      "thumbnail": "Anthem_MrBillVctre_Absence_T_SF.upk",
+      "thumbnail_package": "Anthem_MrBillVctre_Absence_T",
+      "image_path": "images/13146.png"
     }
   ]
 }

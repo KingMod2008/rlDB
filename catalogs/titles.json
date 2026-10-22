@@ -1,7 +1,7 @@
 {
-  "hash": "seed-4b997598b11d8101",
-  "updated_at": "2026-07-25T10:22:22.834283+10:00",
-  "count": 1446,
+  "hash": "0de20f6bf824b9aebb667b0a3ca067c1e0ee81d2805a23b0ba546ba4d5412e9b",
+  "updated_at": "2026-10-22T09:53:20Z",
+  "count": 1475,
   "categories": [
     {
       "id": "AuraFarmer",
@@ -19,14 +19,9 @@
       "glow": "FF2800"
     },
     {
-      "id": "AutoTour_CompletedSuperSonicLegend_1",
+      "id": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
-    },
-    {
-      "id": "AutoTour_CompletedSuperSonicLegend_2",
-      "color": "FF8DDD",
-      "glow": "FF8DDD"
     },
     {
       "id": "Champion",
@@ -69,11 +64,6 @@
       "glow": "4A0000"
     },
     {
-      "id": "Participant",
-      "color": "FFEB5C",
-      "glow": null
-    },
-    {
       "id": "PocketLeague",
       "color": "FFA900",
       "glow": "0062FF"
@@ -87,11 +77,6 @@
       "id": "RLCS_Champion",
       "color": "AEF7FF",
       "glow": "43AFFF"
-    },
-    {
-      "id": "Ranked_Champion",
-      "color": "DBD2FF",
-      "glow": "8C50FF"
     },
     {
       "id": "Ravenclaw",
@@ -127,6 +112,16 @@
       "id": "Slytherin",
       "color": "BEBEBE",
       "glow": "006351"
+    },
+    {
+      "id": "StatTitleThreshold0",
+      "color": null,
+      "glow": "000000"
+    },
+    {
+      "id": "TopRank_Purple",
+      "color": null,
+      "glow": "FF8DDD"
     },
     {
       "id": "World_Cup_Gold",
@@ -183,6 +178,34 @@
       "category": "RLCS_Champion",
       "color": "AEF7FF",
       "glow": "43AFFF"
+    },
+    {
+      "id": "2026_CRL_Fall_Champion",
+      "text": "2026 CRL Fall Champion",
+      "category": "Champion",
+      "color": "FFEB5C",
+      "glow": "FFA300"
+    },
+    {
+      "id": "2026_CRL_Fall_Championship_Contender",
+      "text": "2026 CRL Fall Championship Contender",
+      "category": "Champion",
+      "color": "FFEB5C",
+      "glow": "FFA300"
+    },
+    {
+      "id": "2026_CRL_Spring_Champion",
+      "text": "2026 CRL Spring Champion",
+      "category": "Champion",
+      "color": "FFEB5C",
+      "glow": "FFA300"
+    },
+    {
+      "id": "2026_CRL_Spring_Championship_Contender",
+      "text": "2026 CRL Spring Championship Contender",
+      "category": "Champion",
+      "color": "FFEB5C",
+      "glow": "FFA300"
     },
     {
       "id": "3Time_World_Champion",
@@ -304,6 +327,20 @@
       "glow": null
     },
     {
+      "id": "RocketRivalry_S24_Team4",
+      "text": "ALMOST IMPOSSIBLE",
+      "category": "Community_Spotlight",
+      "color": "BF5FFF",
+      "glow": null
+    },
+    {
+      "id": "RocketRivalry_S24_Team4_Creator",
+      "text": "ALMOST IMPOSSIBLE",
+      "category": "Community_Spotlight_Creator",
+      "color": "BF5FFF",
+      "glow": "BF5FFF"
+    },
+    {
       "id": "Rundown_GDPD_Anchor_Orchestrator",
       "text": "Anchor Orchestrator",
       "category": null,
@@ -423,6 +460,13 @@
       "glow": null
     },
     {
+      "id": "ViralBallGame2026_Title03",
+      "text": "Ball Game",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
       "id": "RP3_Ballistic",
       "text": "Ballistic",
       "category": null,
@@ -528,7 +572,7 @@
       "glow": null
     },
     {
-      "id": "Team_Bosnia-Herzegovina_World_Cup_2026",
+      "id": "Team_Bosnia-Herzegovina_World_Cup",
       "text": "Bosnia & Herz. '26 {flag_ba}",
       "category": null,
       "color": null,
@@ -557,7 +601,7 @@
     },
     {
       "id": "ButtonMasher",
-      "text": "Button Masher\t",
+      "text": "Button Masher",
       "category": null,
       "color": null,
       "glow": null
@@ -572,13 +616,6 @@
     {
       "id": "CALL_ME_CLUTCH",
       "text": "CALL ME CLUTCH",
-      "category": null,
-      "color": null,
-      "glow": null
-    },
-    {
-      "id": "Cancer_Free_Est._2023",
-      "text": "Cancer Free Est. 2023",
       "category": null,
       "color": null,
       "glow": null
@@ -649,6 +686,13 @@
     {
       "id": "CLIP_MACHINE",
       "text": "CLIP MACHINE",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "RP_S24_PremiumTitle01",
+      "text": "Clip This",
       "category": null,
       "color": null,
       "glow": null
@@ -908,6 +952,20 @@
     {
       "id": "2024_CRL_Fall_Championship_Contender",
       "text": "CRL Fall 2024 Contender",
+      "category": "Champion",
+      "color": "FFEB5C",
+      "glow": "FFA300"
+    },
+    {
+      "id": "2025_CRL_Fall_Champion",
+      "text": "CRL Fall 2025 Champion",
+      "category": "Champion",
+      "color": "FFEB5C",
+      "glow": "FFA300"
+    },
+    {
+      "id": "2025_CRL_Fall_Championship_Contender",
+      "text": "CRL Fall 2025 Contender",
       "category": "Champion",
       "color": "FFEB5C",
       "glow": "FFA300"
@@ -1333,43 +1391,8 @@
       "glow": "FFA300"
     },
     {
-      "id": "Est_2015",
+      "id": "Est",
       "text": "EST. 2015",
-      "category": null,
-      "color": null,
-      "glow": null
-    },
-    {
-      "id": "Est_2016",
-      "text": "EST. 2016",
-      "category": null,
-      "color": null,
-      "glow": null
-    },
-    {
-      "id": "Est_2017",
-      "text": "EST. 2017",
-      "category": null,
-      "color": null,
-      "glow": null
-    },
-    {
-      "id": "Est_2018",
-      "text": "EST. 2018",
-      "category": null,
-      "color": null,
-      "glow": null
-    },
-    {
-      "id": "Est_2019",
-      "text": "EST. 2019",
-      "category": null,
-      "color": null,
-      "glow": null
-    },
-    {
-      "id": "Est_2020",
-      "text": "EST. 2020",
       "category": null,
       "color": null,
       "glow": null
@@ -1394,6 +1417,27 @@
       "category": null,
       "color": null,
       "glow": null
+    },
+    {
+      "id": "ViralBallGame2026_Title01",
+      "text": "FEIK",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "RocketRivalry_S24_Team3",
+      "text": "FENOMENO",
+      "category": "Community_Spotlight",
+      "color": "BF5FFF",
+      "glow": null
+    },
+    {
+      "id": "RocketRivalry_S24_Team3_Creator",
+      "text": "FENOMENO",
+      "category": "Community_Spotlight_Creator",
+      "color": "BF5FFF",
+      "glow": "BF5FFF"
     },
     {
       "id": "SE_FieldGeneral",
@@ -1550,6 +1594,20 @@
       "glow": null
     },
     {
+      "id": "RocketRivalry_S24_Team1",
+      "text": "FORK IN THE ROAD",
+      "category": "Community_Spotlight",
+      "color": "BF5FFF",
+      "glow": null
+    },
+    {
+      "id": "RocketRivalry_S24_Team1_Creator",
+      "text": "FORK IN THE ROAD",
+      "category": "Community_Spotlight_Creator",
+      "color": "BF5FFF",
+      "glow": "BF5FFF"
+    },
+    {
       "id": "SE_FreePlayerTitle",
       "text": "Free Player Title",
       "category": null,
@@ -1562,6 +1620,20 @@
       "category": null,
       "color": null,
       "glow": null
+    },
+    {
+      "id": "RocketRivalry_S24_Team5",
+      "text": "FREESTYLER",
+      "category": "Community_Spotlight",
+      "color": "BF5FFF",
+      "glow": null
+    },
+    {
+      "id": "RocketRivalry_S24_Team5_Creator",
+      "text": "FREESTYLER",
+      "category": "Community_Spotlight_Creator",
+      "color": "BF5FFF",
+      "glow": "BF5FFF"
     },
     {
       "id": "SE_Frost_Boss",
@@ -1608,6 +1680,13 @@
     {
       "id": "RP7_Gearshifter",
       "text": "Gearshifter",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "RP_S24_PremiumTitle03",
+      "text": "Generational Talent",
       "category": null,
       "color": null,
       "glow": null
@@ -1788,6 +1867,13 @@
       "glow": null
     },
     {
+      "id": "RLCSWC_Title_01",
+      "text": "Heartless",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
       "id": "Heatseeker_Hero",
       "text": "Heatseeker Hero",
       "category": null,
@@ -1851,6 +1937,13 @@
       "glow": null
     },
     {
+      "id": "I_always_come_back",
+      "text": "I always come back",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
       "id": "I_GOT_IT_HABIBI",
       "text": "I GOT IT, HABIBI!",
       "category": null,
@@ -1870,20 +1963,6 @@
       "category": null,
       "color": null,
       "glow": null
-    },
-    {
-      "id": "I'm_Zen",
-      "text": "I'm Zen",
-      "category": "Community_Spotlight",
-      "color": "BF5FFF",
-      "glow": null
-    },
-    {
-      "id": "I'm_Zen_Creator",
-      "text": "I'm Zen",
-      "category": "Community_Spotlight_Creator",
-      "color": "BF5FFF",
-      "glow": "BF5FFF"
     },
     {
       "id": "Ice_Cold",
@@ -1935,6 +2014,34 @@
       "glow": null
     },
     {
+      "id": "RocketRivalry_S24_Team6",
+      "text": "JACK OF ALL TRADES",
+      "category": "Community_Spotlight",
+      "color": "BF5FFF",
+      "glow": null
+    },
+    {
+      "id": "RocketRivalry_S24_Team6_Creator",
+      "text": "JACK OF ALL TRADES",
+      "category": "Community_Spotlight_Creator",
+      "color": "BF5FFF",
+      "glow": "BF5FFF"
+    },
+    {
+      "id": "jstncrdbl",
+      "text": "jstncrdbl",
+      "category": "Community_Spotlight",
+      "color": "BF5FFF",
+      "glow": null
+    },
+    {
+      "id": "jstncrdbl_Creator",
+      "text": "jstncrdbl",
+      "category": "Community_Spotlight_Creator",
+      "color": "BF5FFF",
+      "glow": "BF5FFF"
+    },
+    {
       "id": "RP5_Juggler",
       "text": "Juggler",
       "category": null,
@@ -1956,11 +2063,11 @@
       "glow": "BF5FFF"
     },
     {
-      "id": "Johnnyboi_Creator_Spotlight",
-      "text": "Kickoff Merchant",
-      "category": "Community_Spotlight_Creator",
-      "color": "BF5FFF",
-      "glow": "BF5FFF"
+      "id": "KHearts_2026_Title01",
+      "text": "KEYBLADE'S CHOSEN",
+      "category": null,
+      "color": null,
+      "glow": null
     },
     {
       "id": "Johnnyboi_Community_Spotlight",
@@ -1968,6 +2075,13 @@
       "category": "Community_Spotlight",
       "color": "BF5FFF",
       "glow": null
+    },
+    {
+      "id": "Johnnyboi_Creator_Spotlight",
+      "text": "Kickoff Merchant",
+      "category": "Community_Spotlight_Creator",
+      "color": "BF5FFF",
+      "glow": "BF5FFF"
     },
     {
       "id": "RP13_Kinda_Big_Deal",
@@ -2166,6 +2280,20 @@
       "glow": null
     },
     {
+      "id": "RocketRivalry_S24_Team7",
+      "text": "MENA AURA",
+      "category": "Community_Spotlight",
+      "color": "BF5FFF",
+      "glow": null
+    },
+    {
+      "id": "RocketRivalry_S24_Team7_Creator",
+      "text": "MENA AURA",
+      "category": "Community_Spotlight_Creator",
+      "color": "BF5FFF",
+      "glow": "BF5FFF"
+    },
+    {
       "id": "Bracket_Rivalry_Team6",
       "text": "MENA LEGEND",
       "category": "Rivalry_Red",
@@ -2327,6 +2455,13 @@
       "glow": null
     },
     {
+      "id": "Okay_Boomer",
+      "text": "Okay Boomer",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
       "id": "FR_Onliner",
       "text": "Onliner",
       "category": null,
@@ -2350,6 +2485,13 @@
     {
       "id": "RP17_Party_Planner",
       "text": "Party Planner",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "RP_S24_FreeTitle01",
+      "text": "Passenger Princess",
       "category": null,
       "color": null,
       "glow": null
@@ -2392,6 +2534,13 @@
     {
       "id": "Physical_Media_Collector",
       "text": "Physical Media Collector",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "ViralBallGame2026_Title02",
+      "text": "PINCH",
       "category": null,
       "color": null,
       "glow": null
@@ -2465,6 +2614,20 @@
       "category": null,
       "color": null,
       "glow": null
+    },
+    {
+      "id": "Professional_Yapper",
+      "text": "Professional Yapper",
+      "category": "Community_Spotlight",
+      "color": "BF5FFF",
+      "glow": null
+    },
+    {
+      "id": "Professional_Yapper_Creator",
+      "text": "Professional Yapper",
+      "category": "Community_Spotlight_Creator",
+      "color": "BF5FFF",
+      "glow": "BF5FFF"
     },
     {
       "id": "RP2_ProfessorOfPhysics",
@@ -2761,6 +2924,13 @@
       "glow": "43AFFF"
     },
     {
+      "id": "RLCS_2025_1v1_World_Champion",
+      "text": "RLCS 2025 1v1 World Champion",
+      "category": "RLCS_Champion",
+      "color": "AEF7FF",
+      "glow": "43AFFF"
+    },
+    {
       "id": "RLCS_2025_Major_1_Champion",
       "text": "RLCS 2025 Birmingham Major Champion",
       "category": "RLCS_Champion",
@@ -2819,6 +2989,20 @@
     {
       "id": "RLCS_2025_World_Championship_Contender",
       "text": "RLCS 2025 World Championship Contender",
+      "category": "RLCS_Champion",
+      "color": "AEF7FF",
+      "glow": "43AFFF"
+    },
+    {
+      "id": "RLCS_2026_1v1_World_Champion",
+      "text": "RLCS 2026 1v1 World Champion",
+      "category": "RLCS_Champion",
+      "color": "AEF7FF",
+      "glow": "43AFFF"
+    },
+    {
+      "id": "RLCS_2026_2v2_World_Champion",
+      "text": "RLCS 2026 2v2 World Champion",
       "category": "RLCS_Champion",
       "color": "AEF7FF",
       "glow": "43AFFF"
@@ -3272,6 +3456,13 @@
       "glow": "43AFFF"
     },
     {
+      "id": "World_Championship_2026_Attendee",
+      "text": "RLCS World Championship 2026 Attendee",
+      "category": "Community_Spotlight",
+      "color": "BF5FFF",
+      "glow": null
+    },
+    {
       "id": "RLCS_World_Champion_Contender",
       "text": "RLCS World Championship Contender",
       "category": "RLCS_Champion",
@@ -3617,14 +3808,14 @@
     {
       "id": "AutoTour_01_SuperSonicLegend_1",
       "text": "S1 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_01_SuperSonicLegend_2",
       "text": "S1 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -3799,14 +3990,14 @@
     {
       "id": "AutoTour_10_SuperSonicLegend_1",
       "text": "S10 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_10_SuperSonicLegend_2",
       "text": "S10 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -3981,14 +4172,14 @@
     {
       "id": "AutoTour_11_SuperSonicLegend_1",
       "text": "S11 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_11_SuperSonicLegend_2",
       "text": "S11 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -4163,14 +4354,14 @@
     {
       "id": "AutoTour_12_SuperSonicLegend_1",
       "text": "S12 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_12_SuperSonicLegend_2",
       "text": "S12 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -4331,14 +4522,14 @@
     {
       "id": "AutoTour_13_SuperSonicLegend_1",
       "text": "S13 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_13_SuperSonicLegend_2",
       "text": "S13 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -4499,14 +4690,14 @@
     {
       "id": "AutoTour_14_SuperSonicLegend_1",
       "text": "S14 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_14_SuperSonicLegend_2",
       "text": "S14 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -4667,14 +4858,14 @@
     {
       "id": "AutoTour_15_SuperSonicLegend_1",
       "text": "S15 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_15_SuperSonicLegend_2",
       "text": "S15 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -4835,14 +5026,14 @@
     {
       "id": "AutoTour_16_SuperSonicLegend_1",
       "text": "S16 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_16_SuperSonicLegend_2",
       "text": "S16 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -5010,14 +5201,14 @@
     {
       "id": "AutoTour_17_SuperSonicLegend_1",
       "text": "S17 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_17_SuperSonicLegend_2",
       "text": "S17 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -5178,14 +5369,14 @@
     {
       "id": "AutoTour_18_SuperSonicLegend_1",
       "text": "S18 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_18_SuperSonicLegend_2",
       "text": "S18 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -5346,14 +5537,14 @@
     {
       "id": "AutoTour_19_SuperSonicLegend_1",
       "text": "S19 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_19_SuperSonicLegend_2",
       "text": "S19 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -5528,14 +5719,14 @@
     {
       "id": "AutoTour_02_SuperSonicLegend_1",
       "text": "S2 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_02_SuperSonicLegend_2",
       "text": "S2 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -5638,17 +5829,10 @@
       "glow": "E8E8E8"
     },
     {
-      "id": "Pentathlon_20_Bronze_1",
+      "id": "Pentathlon_20_Bronze",
       "text": "S20 {Bronze} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_20_Bronze_2",
-      "text": "S20 {Bronze} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -5666,17 +5850,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_20_Champion_1",
+      "id": "Pentathlon_20_Champion",
       "text": "S20 {Champion} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_20_Champion_2",
-      "text": "S20 {Champion} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -5694,17 +5871,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_20_Diamond_1",
+      "id": "Pentathlon_20_Diamond",
       "text": "S20 {Diamond} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_20_Diamond_2",
-      "text": "S20 {Diamond} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -5722,17 +5892,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_20_Gold_1",
+      "id": "Pentathlon_20_Gold",
       "text": "S20 {Gold} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_20_Gold_2",
-      "text": "S20 {Gold} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -5750,18 +5913,11 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_20_GrandChampion_1",
+      "id": "Pentathlon_20_GrandChampion",
       "text": "S20 {GrandChampion} Pentathlon Winner",
       "category": null,
       "color": null,
       "glow": null
-    },
-    {
-      "id": "Pentathlon_20_GrandChampion_2",
-      "text": "S20 {GrandChampion} Pentathlon Winner",
-      "category": "AutoTour_CompletedGC",
-      "color": "FF2800",
-      "glow": "FF2800"
     },
     {
       "id": "AutoTour_20_GrandChampion_1",
@@ -5778,45 +5934,31 @@
       "glow": "FF2800"
     },
     {
-      "id": "Pentathlon_20_SuperSonicLegend_1",
+      "id": "Pentathlon_20_SuperSonicLegend",
       "text": "S20 {Legend} Pentathlon Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
-      "id": "Pentathlon_20_SuperSonicLegend_2",
-      "text": "S20 {Legend} Pentathlon Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
-      "color": "FF8DDD",
-      "glow": "FF8DDD"
-    },
-    {
       "id": "AutoTour_20_SuperSonicLegend_1",
       "text": "S20 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_20_SuperSonicLegend_2",
       "text": "S20 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
     {
-      "id": "Pentathlon_20_Platinum_1",
+      "id": "Pentathlon_20_Platinum",
       "text": "S20 {Platinum} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_20_Platinum_2",
-      "text": "S20 {Platinum} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -5834,17 +5976,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_20_Silver_1",
+      "id": "Pentathlon_20_Silver",
       "text": "S20 {Silver} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_20_Silver_2",
-      "text": "S20 {Silver} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -5946,17 +6081,10 @@
       "glow": "E8E8E8"
     },
     {
-      "id": "Pentathlon_21_Bronze_1",
+      "id": "Pentathlon_21_Bronze",
       "text": "S21 {Bronze} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_21_Bronze_2",
-      "text": "S21 {Bronze} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -5974,17 +6102,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_21_Champion_1",
+      "id": "Pentathlon_21_Champion",
       "text": "S21 {Champion} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_21_Champion_2",
-      "text": "S21 {Champion} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6002,17 +6123,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_21_Diamond_1",
+      "id": "Pentathlon_21_Diamond",
       "text": "S21 {Diamond} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_21_Diamond_2",
-      "text": "S21 {Diamond} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6030,17 +6144,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_21_Gold_1",
+      "id": "Pentathlon_21_Gold",
       "text": "S21 {Gold} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_21_Gold_2",
-      "text": "S21 {Gold} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6058,18 +6165,11 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_21_GrandChampion_1",
+      "id": "Pentathlon_21_GrandChampion",
       "text": "S21 {GrandChampion} Pentathlon Winner",
       "category": null,
       "color": null,
       "glow": null
-    },
-    {
-      "id": "Pentathlon_21_GrandChampion_2",
-      "text": "S21 {GrandChampion} Pentathlon Winner",
-      "category": "AutoTour_CompletedGC",
-      "color": "FF2800",
-      "glow": "FF2800"
     },
     {
       "id": "AutoTour_21_GrandChampion_1",
@@ -6086,45 +6186,31 @@
       "glow": "FF2800"
     },
     {
-      "id": "Pentathlon_21_SuperSonicLegend_1",
+      "id": "Pentathlon_21_SuperSonicLegend",
       "text": "S21 {Legend} Pentathlon Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
-      "id": "Pentathlon_21_SuperSonicLegend_2",
-      "text": "S21 {Legend} Pentathlon Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
-      "color": "FF8DDD",
-      "glow": "FF8DDD"
-    },
-    {
       "id": "AutoTour_21_SuperSonicLegend_1",
       "text": "S21 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_21_SuperSonicLegend_2",
       "text": "S21 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
     {
-      "id": "Pentathlon_21_Platinum_1",
+      "id": "Pentathlon_21_Platinum",
       "text": "S21 {Platinum} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_21_Platinum_2",
-      "text": "S21 {Platinum} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6142,17 +6228,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_21_Silver_1",
+      "id": "Pentathlon_21_Silver",
       "text": "S21 {Silver} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_21_Silver_2",
-      "text": "S21 {Silver} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6254,17 +6333,10 @@
       "glow": "E8E8E8"
     },
     {
-      "id": "Pentathlon_22_Bronze_1",
+      "id": "Pentathlon_22_Bronze",
       "text": "S22 {Bronze} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_22_Bronze_2",
-      "text": "S22 {Bronze} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6282,17 +6354,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_22_Champion_1",
+      "id": "Pentathlon_22_Champion",
       "text": "S22 {Champion} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_22_Champion_2",
-      "text": "S22 {Champion} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6310,17 +6375,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_22_Diamond_1",
+      "id": "Pentathlon_22_Diamond",
       "text": "S22 {Diamond} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_22_Diamond_2",
-      "text": "S22 {Diamond} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6338,17 +6396,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_22_Gold_1",
+      "id": "Pentathlon_22_Gold",
       "text": "S22 {Gold} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_22_Gold_2",
-      "text": "S22 {Gold} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6366,18 +6417,11 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_22_GrandChampion_1",
+      "id": "Pentathlon_22_GrandChampion",
       "text": "S22 {GrandChampion} Pentathlon Winner",
       "category": null,
       "color": null,
       "glow": null
-    },
-    {
-      "id": "Pentathlon_22_GrandChampion_2",
-      "text": "S22 {GrandChampion} Pentathlon Winner",
-      "category": "AutoTour_CompletedGC",
-      "color": "FF2800",
-      "glow": "FF2800"
     },
     {
       "id": "AutoTour_22_GrandChampion_1",
@@ -6394,45 +6438,31 @@
       "glow": "FF2800"
     },
     {
-      "id": "Pentathlon_22_SuperSonicLegend_1",
+      "id": "Pentathlon_22_SuperSonicLegend",
       "text": "S22 {Legend} Pentathlon Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
-      "id": "Pentathlon_22_SuperSonicLegend_2",
-      "text": "S22 {Legend} Pentathlon Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
-      "color": "FF8DDD",
-      "glow": "FF8DDD"
-    },
-    {
       "id": "AutoTour_22_SuperSonicLegend_1",
       "text": "S22 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_22_SuperSonicLegend_2",
       "text": "S22 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
     {
-      "id": "Pentathlon_22_Platinum_1",
+      "id": "Pentathlon_22_Platinum",
       "text": "S22 {Platinum} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_22_Platinum_2",
-      "text": "S22 {Platinum} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6450,17 +6480,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_22_Silver_1",
+      "id": "Pentathlon_22_Silver",
       "text": "S22 {Silver} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_22_Silver_2",
-      "text": "S22 {Silver} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6478,17 +6501,115 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_23_Bronze_1",
+      "id": "S23_1v1_TopRank",
+      "text": "S23 1V1 TOP 100",
+      "category": "TopRank_Purple",
+      "color": null,
+      "glow": "FF8DDD"
+    },
+    {
+      "id": "S23_2v2_TopRank",
+      "text": "S23 2V2 TOP 100",
+      "category": "TopRank_Purple",
+      "color": null,
+      "glow": "FF8DDD"
+    },
+    {
+      "id": "S23_3v3_TopRank",
+      "text": "S23 3V3 TOP 100",
+      "category": "TopRank_Purple",
+      "color": null,
+      "glow": "FF8DDD"
+    },
+    {
+      "id": "S37_Grand_Champion_Snowday",
+      "text": "S23 Blizzard Wizard",
+      "category": "SZN_1_Red",
+      "color": "FF2800",
+      "glow": "FF2800"
+    },
+    {
+      "id": "S37_Grand_Champion_Hoops",
+      "text": "S23 Dunk Master",
+      "category": "SZN_1_Red",
+      "color": "FF2800",
+      "glow": "FF2800"
+    },
+    {
+      "id": "S37_Grand_Champion_Dropshot",
+      "text": "S23 Floor Destroyer",
+      "category": "SZN_1_Red",
+      "color": "FF2800",
+      "glow": "FF2800"
+    },
+    {
+      "id": "S37_Grand_Champion",
+      "text": "S23 Grand Champion",
+      "category": "SZN_1_Red",
+      "color": "FF2800",
+      "glow": "FF2800"
+    },
+    {
+      "id": "S37_Grand_Champion_Heatseeker",
+      "text": "S23 HEATSEEKER ACE",
+      "category": "SZN_1_Red",
+      "color": "FF2800",
+      "glow": "FF2800"
+    },
+    {
+      "id": "S37_SSL_Snowday",
+      "text": "S23 Ice Titan",
+      "category": "SZN_1_White",
+      "color": "E8E8E8",
+      "glow": "E8E8E8"
+    },
+    {
+      "id": "S37_SSL_Hoops",
+      "text": "S23 Legendary Baller",
+      "category": "SZN_1_White",
+      "color": "E8E8E8",
+      "glow": "E8E8E8"
+    },
+    {
+      "id": "S37_Grand_Champion_Rumble",
+      "text": "S23 RNG Champ",
+      "category": "SZN_1_Red",
+      "color": "FF2800",
+      "glow": "FF2800"
+    },
+    {
+      "id": "S37_SSL_Rumble",
+      "text": "S23 RNGenius",
+      "category": "SZN_1_White",
+      "color": "E8E8E8",
+      "glow": "E8E8E8"
+    },
+    {
+      "id": "S37_SSL_Heetseeker",
+      "text": "S23 SUPER SEEKING LEGEND",
+      "category": "SZN_1_White",
+      "color": "E8E8E8",
+      "glow": "E8E8E8"
+    },
+    {
+      "id": "S37_SuperSonic_Legend",
+      "text": "S23 Supersonic Legend",
+      "category": "SZN_1_White",
+      "color": "E8E8E8",
+      "glow": "E8E8E8"
+    },
+    {
+      "id": "S37_SSL_Dropshot",
+      "text": "S23 Tile Annihilator",
+      "category": "SZN_1_White",
+      "color": "E8E8E8",
+      "glow": "E8E8E8"
+    },
+    {
+      "id": "Pentathlon_23_Bronze",
       "text": "S23 {Bronze} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_23_Bronze_2",
-      "text": "S23 {Bronze} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6506,17 +6627,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_23_Champion_1",
+      "id": "Pentathlon_23_Champion",
       "text": "S23 {Champion} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_23_Champion_2",
-      "text": "S23 {Champion} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6534,17 +6648,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_23_Diamond_1",
+      "id": "Pentathlon_23_Diamond",
       "text": "S23 {Diamond} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_23_Diamond_2",
-      "text": "S23 {Diamond} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6562,17 +6669,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_23_Gold_1",
+      "id": "Pentathlon_23_Gold",
       "text": "S23 {Gold} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_23_Gold_2",
-      "text": "S23 {Gold} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6590,18 +6690,11 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_23_GrandChampion_1",
+      "id": "Pentathlon_23_GrandChampion",
       "text": "S23 {GrandChampion} Pentathlon Winner",
       "category": null,
       "color": null,
       "glow": null
-    },
-    {
-      "id": "Pentathlon_23_GrandChampion_2",
-      "text": "S23 {GrandChampion} Pentathlon Winner",
-      "category": "AutoTour_CompletedGC",
-      "color": "FF2800",
-      "glow": "FF2800"
     },
     {
       "id": "AutoTour_23_GrandChampion_1",
@@ -6618,45 +6711,31 @@
       "glow": "FF2800"
     },
     {
-      "id": "Pentathlon_23_SuperSonicLegend_1",
+      "id": "Pentathlon_23_SuperSonicLegend",
       "text": "S23 {Legend} Pentathlon Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
-      "id": "Pentathlon_23_SuperSonicLegend_2",
-      "text": "S23 {Legend} Pentathlon Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
-      "color": "FF8DDD",
-      "glow": "FF8DDD"
-    },
-    {
       "id": "AutoTour_23_SuperSonicLegend_1",
       "text": "S23 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_23_SuperSonicLegend_2",
       "text": "S23 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
     {
-      "id": "Pentathlon_23_Platinum_1",
+      "id": "Pentathlon_23_Platinum",
       "text": "S23 {Platinum} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_23_Platinum_2",
-      "text": "S23 {Platinum} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6674,17 +6753,10 @@
       "glow": null
     },
     {
-      "id": "Pentathlon_23_Silver_1",
+      "id": "Pentathlon_23_Silver",
       "text": "S23 {Silver} Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_23_Silver_2",
-      "text": "S23 {Silver} Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6702,24 +6774,185 @@
       "glow": null
     },
     {
-      "id": "Test_Title2",
-      "text": "S24 MVPs: 15",
-      "category": "StatTrackerStage2",
+      "id": "S24_MVP_TRACKER",
+      "text": "S24 MVPs: {StatValue}",
+      "category": "StatTitleThreshold0",
+      "color": null,
+      "glow": "000000"
+    },
+    {
+      "id": "S24_WINS_TRACKER",
+      "text": "S24 Wins: {StatValue}",
+      "category": "StatTitleThreshold0",
+      "color": null,
+      "glow": "000000"
+    },
+    {
+      "id": "Pentathlon_24_Bronze",
+      "text": "S24 {Bronze} Pentathlon Winner",
+      "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Test_Title3",
-      "text": "S24 MVPs: 25",
-      "category": "StatTrackerStage3",
+      "id": "AutoTour_24_Bronze_1",
+      "text": "S24 {Bronze} Tournament Winner",
+      "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Test_Title1",
-      "text": "S24 MVPs: 5",
-      "category": "StatTrackerStage1",
+      "id": "AutoTour_24_Bronze_2",
+      "text": "S24 {Bronze} Tournament Winner",
+      "category": "AutoTour_Completed",
+      "color": "9BFF00",
+      "glow": null
+    },
+    {
+      "id": "Pentathlon_24_Champion",
+      "text": "S24 {Champion} Pentathlon Winner",
+      "category": null,
       "color": null,
+      "glow": null
+    },
+    {
+      "id": "AutoTour_24_Champion_1",
+      "text": "S24 {Champion} Tournament Winner",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "AutoTour_24_Champion_2",
+      "text": "S24 {Champion} Tournament Winner",
+      "category": "AutoTour_Completed",
+      "color": "9BFF00",
+      "glow": null
+    },
+    {
+      "id": "Pentathlon_24_Diamond",
+      "text": "S24 {Diamond} Pentathlon Winner",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "AutoTour_24_Diamond_1",
+      "text": "S24 {Diamond} Tournament Winner",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "AutoTour_24_Diamond_2",
+      "text": "S24 {Diamond} Tournament Winner",
+      "category": "AutoTour_Completed",
+      "color": "9BFF00",
+      "glow": null
+    },
+    {
+      "id": "Pentathlon_24_Gold",
+      "text": "S24 {Gold} Pentathlon Winner",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "AutoTour_24_Gold_1",
+      "text": "S24 {Gold} Tournament Winner",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "AutoTour_24_Gold_2",
+      "text": "S24 {Gold} Tournament Winner",
+      "category": "AutoTour_Completed",
+      "color": "9BFF00",
+      "glow": null
+    },
+    {
+      "id": "Pentathlon_24_GrandChampion",
+      "text": "S24 {GrandChampion} Pentathlon Winner",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "AutoTour_24_GrandChampion_1",
+      "text": "S24 {GrandChampion} Tournament Winner",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "AutoTour_24_GrandChampion_2",
+      "text": "S24 {GrandChampion} Tournament Winner",
+      "category": "AutoTour_CompletedGC",
+      "color": "FF2800",
+      "glow": "FF2800"
+    },
+    {
+      "id": "Pentathlon_24_SuperSonicLegend",
+      "text": "S24 {Legend} Pentathlon Winner",
+      "category": "AutoTour_CompletedSuperSonicLegend",
+      "color": "F0FFF9",
+      "glow": "F0FFF9"
+    },
+    {
+      "id": "AutoTour_24_SuperSonicLegend_1",
+      "text": "S24 {Legend} Tournament Winner",
+      "category": "AutoTour_CompletedSuperSonicLegend",
+      "color": "F0FFF9",
+      "glow": "F0FFF9"
+    },
+    {
+      "id": "AutoTour_24_SuperSonicLegend_2",
+      "text": "S24 {Legend} Tournament Winner",
+      "category": "AutoTour_CompletedSuperSonicLegend",
+      "color": "FF8DDD",
+      "glow": "FF8DDD"
+    },
+    {
+      "id": "Pentathlon_24_Platinum",
+      "text": "S24 {Platinum} Pentathlon Winner",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "AutoTour_24_Platinum_1",
+      "text": "S24 {Platinum} Tournament Winner",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "AutoTour_24_Platinum_2",
+      "text": "S24 {Platinum} Tournament Winner",
+      "category": "AutoTour_Completed",
+      "color": "9BFF00",
+      "glow": null
+    },
+    {
+      "id": "Pentathlon_24_Silver",
+      "text": "S24 {Silver} Pentathlon Winner",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "AutoTour_24_Silver_1",
+      "text": "S24 {Silver} Tournament Winner",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "AutoTour_24_Silver_2",
+      "text": "S24 {Silver} Tournament Winner",
+      "category": "AutoTour_Completed",
+      "color": "9BFF00",
       "glow": null
     },
     {
@@ -6865,14 +7098,14 @@
     {
       "id": "AutoTour_03_SuperSonicLegend_1",
       "text": "S3 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_03_SuperSonicLegend_2",
       "text": "S3 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -7047,14 +7280,14 @@
     {
       "id": "AutoTour_04_SuperSonicLegend_1",
       "text": "S4 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_04_SuperSonicLegend_2",
       "text": "S4 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -7229,14 +7462,14 @@
     {
       "id": "AutoTour_05_SuperSonicLegend_1",
       "text": "S5 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_05_SuperSonicLegend_2",
       "text": "S5 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -7411,14 +7644,14 @@
     {
       "id": "AutoTour_06_SuperSonicLegend_1",
       "text": "S6 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_06_SuperSonicLegend_2",
       "text": "S6 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -7593,14 +7826,14 @@
     {
       "id": "AutoTour_07_SuperSonicLegend_1",
       "text": "S7 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_07_SuperSonicLegend_2",
       "text": "S7 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -7775,14 +8008,14 @@
     {
       "id": "AutoTour_08_SuperSonicLegend_1",
       "text": "S8 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_08_SuperSonicLegend_2",
       "text": "S8 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -7957,14 +8190,14 @@
     {
       "id": "AutoTour_09_SuperSonicLegend_1",
       "text": "S9 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
       "id": "AutoTour_09_SuperSonicLegend_2",
       "text": "S9 {Legend} Tournament Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "FF8DDD",
       "glow": "FF8DDD"
     },
@@ -8515,6 +8748,20 @@
       "glow": null
     },
     {
+      "id": "RocketRivalry_S24_Team8",
+      "text": "STAY TWISTY",
+      "category": "Community_Spotlight",
+      "color": "BF5FFF",
+      "glow": null
+    },
+    {
+      "id": "RocketRivalry_S24_Team8_Creator",
+      "text": "STAY TWISTY",
+      "category": "Community_Spotlight_Creator",
+      "color": "BF5FFF",
+      "glow": "BF5FFF"
+    },
+    {
       "id": "RP3_Steamroller",
       "text": "Steamroller",
       "category": null,
@@ -8634,6 +8881,13 @@
       "glow": null
     },
     {
+      "id": "P5_TAKE_YOUR_HEART",
+      "text": "TAKE YOUR HEART",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
       "id": "AoRL_Tchiki_Tchiki",
       "text": "Tchiki Tchiki",
       "category": null,
@@ -8641,231 +8895,231 @@
       "glow": null
     },
     {
-      "id": "Team_Algeria_World_Cup_2026",
+      "id": "Team_Algeria_World_Cup",
       "text": "Team Algeria '26 {flag_dz}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Argentina_World_Cup_2026",
+      "id": "Team_Argentina_World_Cup",
       "text": "Team Argentina '26 {flag_ar}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Australia_World_Cup_2026",
+      "id": "Team_Australia_World_Cup",
       "text": "Team Australia '26 {flag_au}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Austria_World_Cup_2026",
+      "id": "Team_Austria_World_Cup",
       "text": "Team Austria '26 {flag_at}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Belgium_World_Cup_2026",
+      "id": "Team_Belgium_World_Cup",
       "text": "Team Belgium '26 {flag_be}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Brazil_World_Cup_2026",
+      "id": "Team_Brazil_World_Cup",
       "text": "Team Brazil '26 {flag_br}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Cabo_Verde_World_Cup_2026",
+      "id": "Team_Cabo_Verde_World_Cup",
       "text": "Team Cabo Verde '26 {flag_cv}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Canada_World_Cup_2026",
+      "id": "Team_Canada_World_Cup",
       "text": "Team Canada '26 {flag_ca}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Colombia_World_Cup_2026",
+      "id": "Team_Colombia_World_Cup",
       "text": "Team Colombia '26 {flag_co}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Congo_DR_World_Cup_2026",
+      "id": "Team_Congo_DR_World_Cup",
       "text": "Team Congo DR '26 {flag_cd}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Croatia_World_Cup_2026",
+      "id": "Team_Croatia_World_Cup",
       "text": "Team Croatia '26 {flag_hr}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Curacao_World_Cup_2026",
+      "id": "Team_Curacao_World_Cup",
       "text": "Team Curaçao '26 {flag_cw}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Czechia_World_Cup_2026",
+      "id": "Team_Czechia_World_Cup",
       "text": "Team Czechia '26 {flag_cz}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Cote_dIvoire_World_Cup_2026",
+      "id": "Team_Cote_dIvoire_World_Cup",
       "text": "Team Côte d'Ivoire '26 {flag_ci}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Ecuador_World_Cup_2026",
+      "id": "Team_Ecuador_World_Cup",
       "text": "Team Ecuador '26 {flag_ec}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Egypt_World_Cup_2026",
+      "id": "Team_Egypt_World_Cup",
       "text": "Team Egypt '26 {flag_eg}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_England_World_Cup_2026",
+      "id": "Team_England_World_Cup",
       "text": "Team England '26 {flag_en}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_France_World_Cup_2026",
+      "id": "Team_France_World_Cup",
       "text": "Team France '26 {flag_fr}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Germany_World_Cup_2026",
+      "id": "Team_Germany_World_Cup",
       "text": "Team Germany '26 {flag_de}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Ghana_World_Cup_2026",
+      "id": "Team_Ghana_World_Cup",
       "text": "Team Ghana '26 {flag_gh}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Haiti_World_Cup_2026",
+      "id": "Team_Haiti_World_Cup",
       "text": "Team Haiti '26 {flag_ht}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Iran_World_Cup_2026",
+      "id": "Team_Iran_World_Cup",
       "text": "Team Iran '26 {flag_ir}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Iraq_World_Cup_2026",
+      "id": "Team_Iraq_World_Cup",
       "text": "Team Iraq '26 {flag_iq}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Japan_World_Cup_2026",
+      "id": "Team_Japan_World_Cup",
       "text": "Team Japan '26 {flag_jp}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Jordan_World_Cup_2026",
+      "id": "Team_Jordan_World_Cup",
       "text": "Team Jordan '26 {flag_jo}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Korea_Republic_World_Cup_2026",
+      "id": "Team_Korea_Republic_World_Cup",
       "text": "Team Korea Republic '26 {flag_kr}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Mexico_World_Cup_2026",
+      "id": "Team_Mexico_World_Cup",
       "text": "Team Mexico '26 {flag_mx}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Morocco_World_Cup_2026",
+      "id": "Team_Morocco_World_Cup",
       "text": "Team Morocco '26 {flag_ma}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Netherlands_World_Cup_2026",
+      "id": "Team_Netherlands_World_Cup",
       "text": "Team Netherlands '26 {flag_nl}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_New_Zealand_World_Cup_2026",
+      "id": "Team_New_Zealand_World_Cup",
       "text": "Team New Zealand '26 {flag_nz}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Norway_World_Cup_2026",
+      "id": "Team_Norway_World_Cup",
       "text": "Team Norway '26 {flag_no}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Panama_World_Cup_2026",
+      "id": "Team_Panama_World_Cup",
       "text": "Team Panama '26 {flag_pa}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Paraguay_World_Cup_2026",
+      "id": "Team_Paraguay_World_Cup",
       "text": "Team Paraguay '26 {flag_py}",
       "category": null,
       "color": null,
@@ -8879,63 +9133,63 @@
       "glow": null
     },
     {
-      "id": "Team_Portugal_World_Cup_2026",
+      "id": "Team_Portugal_World_Cup",
       "text": "Team Portugal '26 {flag_pt}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Qatar_World_Cup_2026",
+      "id": "Team_Qatar_World_Cup",
       "text": "Team Qatar '26 {flag_qa}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Saudi_Arabia_World_Cup_2026",
+      "id": "Team_Saudi_Arabia_World_Cup",
       "text": "Team Saudi Arabia '26 {flag_sa}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Scotland_World_Cup_2026",
+      "id": "Team_Scotland_World_Cup",
       "text": "Team Scotland '26 {flag_sc}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Senegal_World_Cup_2026",
+      "id": "Team_Senegal_World_Cup",
       "text": "Team Senegal '26 {flag_sn}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_South_Africa_World_Cup_2026",
+      "id": "Team_South_Africa_World_Cup",
       "text": "Team South Africa '26 {flag_za}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Spain_World_Cup_2026",
+      "id": "Team_Spain_World_Cup",
       "text": "Team Spain '26 {flag_es}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Sweden_World_Cup_2026",
+      "id": "Team_Sweden_World_Cup",
       "text": "Team Sweden '26 {flag_se}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Switzerland_World_Cup_2026",
+      "id": "Team_Switzerland_World_Cup",
       "text": "Team Switzerland '26 {flag_ch}",
       "category": null,
       "color": null,
@@ -8949,35 +9203,35 @@
       "glow": null
     },
     {
-      "id": "Team_Tunisia_World_Cup_2026",
+      "id": "Team_Tunisia_World_Cup",
       "text": "Team Tunisia '26 {flag_tn}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Turkiye_World_Cup_2026",
+      "id": "Team_Turkiye_World_Cup",
       "text": "Team Türkiye '26 {flag_tr}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Uruguay_World_Cup_2026",
+      "id": "Team_Uruguay_World_Cup",
       "text": "Team Uruguay '26 {flag_uy}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_USA_World_Cup_2026",
+      "id": "Team_USA_World_Cup",
       "text": "Team USA '26 {flag_us}",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Team_Uzbekistan_World_Cup_2026",
+      "id": "Team_Uzbekistan_World_Cup",
       "text": "Team Uzbekistan '26 {flag_uz}",
       "category": null,
       "color": null,
@@ -8993,6 +9247,27 @@
     {
       "id": "Telepath",
       "text": "Telepath",
+      "category": null,
+      "color": null,
+      "glow": null
+    },
+    {
+      "id": "RocketRivalry_S24_Team2",
+      "text": "TENACIOUS LEGEND",
+      "category": "Community_Spotlight",
+      "color": "BF5FFF",
+      "glow": null
+    },
+    {
+      "id": "RocketRivalry_S24_Team2_Creator",
+      "text": "TENACIOUS LEGEND",
+      "category": "Community_Spotlight_Creator",
+      "color": "BF5FFF",
+      "glow": "BF5FFF"
+    },
+    {
+      "id": "RP_S24_PremiumTitle02",
+      "text": "Thanks for Watching",
       "category": null,
       "color": null,
       "glow": null
@@ -9292,6 +9567,13 @@
       "glow": "FFA300"
     },
     {
+      "id": "Unstoppable",
+      "text": "UNSTOPPABLE {Train}",
+      "category": "AuraFarmer",
+      "color": "E1F8FF",
+      "glow": "4B99F7"
+    },
+    {
       "id": "UPPER_90_SPECIALIST",
       "text": "UPPER 90 SPECIALIST",
       "category": null,
@@ -9469,20 +9751,6 @@
     {
       "id": "Australia_World_Cup_2026_Champion_Gold",
       "text": "World Cup Champion '26 {flag_au}",
-      "category": "World_Cup_Gold",
-      "color": "FFCF5C",
-      "glow": null
-    },
-    {
-      "id": "Bosnia_&_Herz._World_Cup_2026_Champion",
-      "text": "World Cup Champion '26 {flag_ba}",
-      "category": null,
-      "color": null,
-      "glow": null
-    },
-    {
-      "id": "Bosnia_&_Herz._World_Cup_2026_Champion_Gold",
-      "text": "World Cup Champion '26 {flag_ba}",
       "category": "World_Cup_Gold",
       "color": "FFCF5C",
       "glow": null
@@ -10125,13 +10393,6 @@
       "glow": null
     },
     {
-      "id": "You're_Too_Slow",
-      "text": "You're Too Slow",
-      "category": null,
-      "color": null,
-      "glow": null
-    },
-    {
       "id": "RP11_Zero_G",
       "text": "Zero-G",
       "category": null,
@@ -10139,122 +10400,59 @@
       "glow": null
     },
     {
-      "id": "Zoinks!",
-      "text": "Zoinks!",
-      "category": null,
-      "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_19_Bronze_1",
+      "id": "Pentathlon_19_Bronze",
       "text": "{Bronze} 10th Anniversary Pentathlon Winner",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Pentathlon_19_Bronze_2",
-      "text": "{Bronze} 10th Anniversary Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_19_Champion_1",
+      "id": "Pentathlon_19_Champion",
       "text": "{Champion} 10th Anniversary Pentathlon Winner",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Pentathlon_19_Champion_2",
-      "text": "{Champion} 10th Anniversary Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_19_Diamond_1",
+      "id": "Pentathlon_19_Diamond",
       "text": "{Diamond} 10th Anniversary Pentathlon Winner",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Pentathlon_19_Diamond_2",
-      "text": "{Diamond} 10th Anniversary Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_19_Gold_1",
+      "id": "Pentathlon_19_Gold",
       "text": "{Gold} 10th Anniversary Pentathlon Winner",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Pentathlon_19_Gold_2",
-      "text": "{Gold} 10th Anniversary Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_19_GrandChampion_1",
+      "id": "Pentathlon_19_GrandChampion",
       "text": "{GrandChampion} 10th Anniversary Pentathlon Winner",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Pentathlon_19_GrandChampion_2",
-      "text": "{GrandChampion} 10th Anniversary Pentathlon Winner",
-      "category": "AutoTour_CompletedGC",
-      "color": "FF2800",
-      "glow": "FF2800"
-    },
-    {
-      "id": "Pentathlon_19_SuperSonicLegend_1",
+      "id": "Pentathlon_19_SuperSonicLegend",
       "text": "{Legend} 10th Anniversary Pentathlon Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_1",
+      "category": "AutoTour_CompletedSuperSonicLegend",
       "color": "F0FFF9",
       "glow": "F0FFF9"
     },
     {
-      "id": "Pentathlon_19_SuperSonicLegend_2",
-      "text": "{Legend} 10th Anniversary Pentathlon Winner",
-      "category": "AutoTour_CompletedSuperSonicLegend_2",
-      "color": "FF8DDD",
-      "glow": "FF8DDD"
-    },
-    {
-      "id": "Pentathlon_19_Platinum_1",
+      "id": "Pentathlon_19_Platinum",
       "text": "{Platinum} 10th Anniversary Pentathlon Winner",
       "category": null,
       "color": null,
       "glow": null
     },
     {
-      "id": "Pentathlon_19_Platinum_2",
-      "text": "{Platinum} 10th Anniversary Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_19_Silver_1",
+      "id": "Pentathlon_19_Silver",
       "text": "{Silver} 10th Anniversary Pentathlon Winner",
       "category": null,
       "color": null,
-      "glow": null
-    },
-    {
-      "id": "Pentathlon_19_Silver_2",
-      "text": "{Silver} 10th Anniversary Pentathlon Winner",
-      "category": "AutoTour_Completed",
-      "color": "9BFF00",
       "glow": null
     }
   ]

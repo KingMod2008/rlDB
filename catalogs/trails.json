@@ -12,7 +12,8 @@
       "path": "SS_ScifiStreak.SS_ScifiStreak",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_ScifiStreak_T"
+      "thumbnail_package": "SS_ScifiStreak_T",
+      "image_path": "images/1898.png"
     },
     {
       "id": "1899",
@@ -25,7 +26,8 @@
       "path": "SS_ToonFlames.SS_ToonFlames",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_ToonFlames_T"
+      "thumbnail_package": "SS_ToonFlames_T",
+      "image_path": "images/1899.png"
     },
     {
       "id": "1900",
@@ -38,7 +40,8 @@
       "path": "SS_ToonSparks.SS_ToonSparks",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_ToonSparks_T"
+      "thumbnail_package": "SS_ToonSparks_T",
+      "image_path": "images/1900.png"
     },
     {
       "id": "1948",
@@ -51,7 +54,8 @@
       "path": "ss_default.ss_default",
       "quality_id": 0,
       "paintable": true,
-      "thumbnail_package": "SS_Default_T"
+      "thumbnail_package": "SS_Default_T",
+      "image_path": "images/1948.png"
     },
     {
       "id": "1964",
@@ -64,7 +68,8 @@
       "path": "ss_darkcar.ss_darkcar",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_DarkCar_T"
+      "thumbnail_package": "SS_DarkCar_T",
+      "image_path": "images/1964.png"
     },
     {
       "id": "1966",
@@ -77,7 +82,8 @@
       "path": "SS_GreyCar.SS_GreyCar",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_GreyCar_T"
+      "thumbnail_package": "SS_GreyCar_T",
+      "image_path": "images/1966.png"
     },
     {
       "id": "1974",
@@ -90,7 +96,8 @@
       "path": "ss_Lightning.ss_Lightning",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Lightning_T"
+      "thumbnail_package": "SS_Lightning_T",
+      "image_path": "images/1974.png"
     },
     {
       "id": "1996",
@@ -103,7 +110,8 @@
       "path": "ss_tier_01.SS_Tier_01_Bronze",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Tier_01_T"
+      "thumbnail_package": "SS_Tier_01_T",
+      "image_path": "images/1996.png"
     },
     {
       "id": "1997",
@@ -116,7 +124,8 @@
       "path": "ss_tier_01.SS_Tier_01_Silver",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Tier_01_T"
+      "thumbnail_package": "SS_Tier_01_T",
+      "image_path": "images/1997.png"
     },
     {
       "id": "1998",
@@ -129,7 +138,8 @@
       "path": "ss_tier_02.SS_Tier_02_Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Tier_02_T"
+      "thumbnail_package": "SS_Tier_02_T",
+      "image_path": "images/1998.png"
     },
     {
       "id": "1999",
@@ -142,7 +152,8 @@
       "path": "ss_tier_02.SS_Tier_02_Platinum",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Tier_02_T"
+      "thumbnail_package": "SS_Tier_02_T",
+      "image_path": "images/1999.png"
     },
     {
       "id": "2000",
@@ -155,7 +166,8 @@
       "path": "ss_tier_03.ss_tier_03_Diamond",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "ss_tier_03_T"
+      "thumbnail_package": "ss_tier_03_T",
+      "image_path": "images/2000.png"
     },
     {
       "id": "2001",
@@ -168,7 +180,8 @@
       "path": "ss_tier_04.SS_Tier_04_Champion",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Tier_04_T"
+      "thumbnail_package": "SS_Tier_04_T",
+      "image_path": "images/2001.png"
     },
     {
       "id": "2047",
@@ -181,7 +194,8 @@
       "path": "ss_Toonrocks.ss_Toonrocks",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_ToonRocks_T"
+      "thumbnail_package": "SS_ToonRocks_T",
+      "image_path": "images/2047.png"
     },
     {
       "id": "2357",
@@ -194,7 +208,8 @@
       "path": "ss_orangeblack.ss_orangeblack",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_OrangeBlack_T"
+      "thumbnail_package": "SS_OrangeBlack_T",
+      "image_path": "images/2357.png"
     },
     {
       "id": "2359",
@@ -207,7 +222,8 @@
       "path": "ss_zigzag.ss_zigzag",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_ZigZag_T"
+      "thumbnail_package": "SS_ZigZag_T",
+      "image_path": "images/2359.png"
     },
     {
       "id": "2400",
@@ -220,7 +236,8 @@
       "path": "ss_redwhite.ss_redwhite",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "SS_RedWhite_T"
+      "thumbnail_package": "SS_RedWhite_T",
+      "image_path": "images/2400.png"
     },
     {
       "id": "2695",
@@ -233,7 +250,8 @@
       "path": "SS_LuminousSparks.SS_LuminousSparks",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_LuminousSparks_T"
+      "thumbnail_package": "SS_LuminousSparks_T",
+      "image_path": "images/2695.png"
     },
     {
       "id": "2704",
@@ -246,7 +264,8 @@
       "path": "ss_equalizer.ss_equalizer",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Equalizer_T"
+      "thumbnail_package": "SS_Equalizer_T",
+      "image_path": "images/2704.png"
     },
     {
       "id": "2724",
@@ -259,7 +278,8 @@
       "path": "ss_flowergrow.ss_flowergrow",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_FlowerGrow_T"
+      "thumbnail_package": "SS_FlowerGrow_T",
+      "image_path": "images/2724.png"
     },
     {
       "id": "2737",
@@ -272,7 +292,8 @@
       "path": "ss_rainbow.ss_rainbow",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Rainbow_T"
+      "thumbnail_package": "SS_Rainbow_T",
+      "image_path": "images/2737.png"
     },
     {
       "id": "2777",
@@ -285,7 +306,8 @@
       "path": "ss_berry.ss_berry",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_Berry_T"
+      "thumbnail_package": "SS_Berry_T",
+      "image_path": "images/2777.png"
     },
     {
       "id": "2779",
@@ -298,7 +320,8 @@
       "path": "ss_eggplant.ss_eggplant",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_Eggplant_T"
+      "thumbnail_package": "SS_Eggplant_T",
+      "image_path": "images/2779.png"
     },
     {
       "id": "2850",
@@ -311,7 +334,8 @@
       "path": "ss_heartbeat.ss_heartbeat",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "ss_heartbeat_T"
+      "thumbnail_package": "ss_heartbeat_T",
+      "image_path": "images/2850.png"
     },
     {
       "id": "2925",
@@ -324,7 +348,8 @@
       "path": "ss_toonwater.ss_toonwater",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_ToonWater_T"
+      "thumbnail_package": "SS_ToonWater_T",
+      "image_path": "images/2925.png"
     },
     {
       "id": "3220",
@@ -337,7 +362,8 @@
       "path": "ss_binary.ss_binary",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Binary_T"
+      "thumbnail_package": "SS_Binary_T",
+      "image_path": "images/3220.png"
     },
     {
       "id": "3222",
@@ -350,7 +376,8 @@
       "path": "ss_charged_Tier1.ss_charged_Tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Charged_Tier1_T"
+      "thumbnail_package": "SS_Charged_Tier1_T",
+      "image_path": "images/3222.png"
     },
     {
       "id": "3223",
@@ -363,7 +390,8 @@
       "path": "ss_charged_Tier2.ss_charged_Tier2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Charged_Tier2_T"
+      "thumbnail_package": "SS_Charged_Tier2_T",
+      "image_path": "images/3223.png"
     },
     {
       "id": "3224",
@@ -376,7 +404,8 @@
       "path": "ss_charged_Tier3.ss_charged_Tier3",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Charged_Tier3_T"
+      "thumbnail_package": "SS_Charged_Tier3_T",
+      "image_path": "images/3224.png"
     },
     {
       "id": "3342",
@@ -389,7 +418,8 @@
       "path": "ss_strobe.ss_strobe",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Strobe_T"
+      "thumbnail_package": "SS_Strobe_T",
+      "image_path": "images/3342.png"
     },
     {
       "id": "3561",
@@ -402,7 +432,8 @@
       "path": "ss_frost.ss_frost",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Frost_T"
+      "thumbnail_package": "SS_Frost_T",
+      "image_path": "images/3561.png"
     },
     {
       "id": "3575",
@@ -415,7 +446,8 @@
       "path": "ss_beyond_tier1.ss_beyond_tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Beyond_Tier1_T"
+      "thumbnail_package": "SS_Beyond_Tier1_T",
+      "image_path": "images/3575.png"
     },
     {
       "id": "3576",
@@ -428,7 +460,8 @@
       "path": "ss_beyond_tier2.ss_beyond_tier2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Beyond_Tier2_T"
+      "thumbnail_package": "SS_Beyond_Tier2_T",
+      "image_path": "images/3576.png"
     },
     {
       "id": "3577",
@@ -441,7 +474,8 @@
       "path": "SS_Beyond_Tier3.SS_Beyond_Tier3",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Beyond_Tier3_T"
+      "thumbnail_package": "SS_Beyond_Tier3_T",
+      "image_path": "images/3577.png"
     },
     {
       "id": "3743",
@@ -454,7 +488,8 @@
       "path": "ss_cnsparks.ss_cnsparks",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_CNSparks_T"
+      "thumbnail_package": "SS_CNSparks_T",
+      "image_path": "images/3743.png"
     },
     {
       "id": "3954",
@@ -467,7 +502,8 @@
       "path": "ss_blade_tier3.ss_blade_tier3",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Blade_Tier3_T"
+      "thumbnail_package": "SS_Blade_Tier3_T",
+      "image_path": "images/3954.png"
     },
     {
       "id": "4011",
@@ -480,7 +516,8 @@
       "path": "ss_blade_tier1.ss_blade_tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Blade_Tier1_T"
+      "thumbnail_package": "SS_Blade_Tier1_T",
+      "image_path": "images/4011.png"
     },
     {
       "id": "4012",
@@ -493,7 +530,8 @@
       "path": "ss_blade_tier2.ss_blade_tier2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Blade_Tier2_T"
+      "thumbnail_package": "SS_Blade_Tier2_T",
+      "image_path": "images/4012.png"
     },
     {
       "id": "4229",
@@ -506,7 +544,8 @@
       "path": "ss_tiretracks.ss_tiretracks_tier2",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_TireTracks_T"
+      "thumbnail_package": "SS_TireTracks_T",
+      "image_path": "images/4229.png"
     },
     {
       "id": "4338",
@@ -519,7 +558,8 @@
       "path": "ss_tiretracks.ss_tiretracks_tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_TireTracks_T"
+      "thumbnail_package": "SS_TireTracks_T",
+      "image_path": "images/4338.png"
     },
     {
       "id": "4480",
@@ -532,7 +572,8 @@
       "path": "ss_holidaylights.ss_holidaylights",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "ss_holidaylights_T"
+      "thumbnail_package": "ss_holidaylights_T",
+      "image_path": "images/4480.png"
     },
     {
       "id": "4507",
@@ -545,7 +586,8 @@
       "path": "ss_glaucous.ss_glaucous",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "ss_glaucous_T"
+      "thumbnail_package": "ss_glaucous_T",
+      "image_path": "images/4507.png"
     },
     {
       "id": "4686",
@@ -558,7 +600,8 @@
       "path": "ss_anime.ss_anime",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "ss_anime_T"
+      "thumbnail_package": "ss_anime_T",
+      "image_path": "images/4686.png"
     },
     {
       "id": "4785",
@@ -571,7 +614,8 @@
       "path": "ss_geotech.ss_geotech",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_geotech_T"
+      "thumbnail_package": "SS_geotech_T",
+      "image_path": "images/4785.png"
     },
     {
       "id": "4820",
@@ -584,7 +628,8 @@
       "path": "ss_hexfade.ss_hexfade",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "ss_hexfade_T"
+      "thumbnail_package": "ss_hexfade_T",
+      "image_path": "images/4820.png"
     },
     {
       "id": "4944",
@@ -597,7 +642,8 @@
       "path": "ss_crystal.ss_crystal",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Crystal_T"
+      "thumbnail_package": "SS_Crystal_T",
+      "image_path": "images/4944.png"
     },
     {
       "id": "5033",
@@ -610,7 +656,8 @@
       "path": "ss_animesmoke.ss_animesmoke",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_animesmoke_T"
+      "thumbnail_package": "SS_animesmoke_T",
+      "image_path": "images/5033.png"
     },
     {
       "id": "5081",
@@ -623,7 +670,8 @@
       "path": "SS_Ground_Cracks.SS_Ground_Cracks",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Ground_Cracks_T"
+      "thumbnail_package": "SS_Ground_Cracks_T",
+      "image_path": "images/5081.png"
     },
     {
       "id": "5082",
@@ -636,7 +684,8 @@
       "path": "ss_retrotrails.ss_retrotrails",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Retrotrails_T"
+      "thumbnail_package": "SS_Retrotrails_T",
+      "image_path": "images/5082.png"
     },
     {
       "id": "5167",
@@ -649,7 +698,8 @@
       "path": "ss_electrobeam.ss_electrobeam",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "ss_ElectroBeam_T"
+      "thumbnail_package": "ss_ElectroBeam_T",
+      "image_path": "images/5167.png"
     },
     {
       "id": "5314",
@@ -662,7 +712,8 @@
       "path": "ss_ToonRocks_psplus.ss_ToonRocks_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "SS_ToonRocks_psplus_T"
+      "thumbnail_package": "SS_ToonRocks_psplus_T",
+      "image_path": "images/5314.png"
     },
     {
       "id": "5421",
@@ -675,7 +726,8 @@
       "path": "ss_animated_lines.ss_animated_lines",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Animated_Lines_T"
+      "thumbnail_package": "SS_Animated_Lines_T",
+      "image_path": "images/5421.png"
     },
     {
       "id": "5455",
@@ -688,7 +740,8 @@
       "path": "ss_trailblazer.ss_trailblazer",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_TrailBlazer_T"
+      "thumbnail_package": "SS_TrailBlazer_T",
+      "image_path": "images/5455.png"
     },
     {
       "id": "5464",
@@ -701,7 +754,8 @@
       "path": "ss_2d_smoke.ss_2d_smoke",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_2D_Smoke_T"
+      "thumbnail_package": "SS_2D_Smoke_T",
+      "image_path": "images/5464.png"
     },
     {
       "id": "5465",
@@ -714,7 +768,8 @@
       "path": "ss_candy.ss_candy",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Candy_T"
+      "thumbnail_package": "SS_Candy_T",
+      "image_path": "images/5465.png"
     },
     {
       "id": "5483",
@@ -727,7 +782,8 @@
       "path": "SS_Lightning_psplus.SS_Lightning_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "ss_Lightning_PSPlus_T"
+      "thumbnail_package": "ss_Lightning_PSPlus_T",
+      "image_path": "images/5483.png"
     },
     {
       "id": "5487",
@@ -740,7 +796,8 @@
       "path": "ss_space_tear.ss_space_tear",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Space_Tear_T"
+      "thumbnail_package": "SS_Space_Tear_T",
+      "image_path": "images/5487.png"
     },
     {
       "id": "5521",
@@ -753,7 +810,8 @@
       "path": "ss_chains.ss_chains",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Chains_T"
+      "thumbnail_package": "SS_Chains_T",
+      "image_path": "images/5521.png"
     },
     {
       "id": "5526",
@@ -766,7 +824,8 @@
       "path": "ss_ink_brush.ss_ink_brush",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Ink_Brush_T"
+      "thumbnail_package": "SS_Ink_Brush_T",
+      "image_path": "images/5526.png"
     },
     {
       "id": "5587",
@@ -779,7 +838,8 @@
       "path": "ss_pixelatedarrows.ss_pixelatedarrows",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_PixelatedArrows_T"
+      "thumbnail_package": "SS_PixelatedArrows_T",
+      "image_path": "images/5587.png"
     },
     {
       "id": "5591",
@@ -792,7 +852,8 @@
       "path": "ss_smoke.ss_smoke",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Smoke_T"
+      "thumbnail_package": "SS_Smoke_T",
+      "image_path": "images/5591.png"
     },
     {
       "id": "5614",
@@ -805,7 +866,8 @@
       "path": "ss_mud.ss_mud",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_Mud_T"
+      "thumbnail_package": "SS_Mud_T",
+      "image_path": "images/5614.png"
     },
     {
       "id": "5631",
@@ -818,7 +880,8 @@
       "path": "ss_synthwave.ss_synthwave",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_SynthWave_T"
+      "thumbnail_package": "SS_SynthWave_T",
+      "image_path": "images/5631.png"
     },
     {
       "id": "5674",
@@ -831,7 +894,8 @@
       "path": "ss_mangaoutline.ss_mangaoutline",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "ss_mangaoutline_T"
+      "thumbnail_package": "ss_mangaoutline_T",
+      "image_path": "images/5674.png"
     },
     {
       "id": "5703",
@@ -844,7 +908,8 @@
       "path": "ss_pixelatedcautiontape.ss_pixelatedcautiontape",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_PixelatedCautionTape_T"
+      "thumbnail_package": "SS_PixelatedCautionTape_T",
+      "image_path": "images/5703.png"
     },
     {
       "id": "5706",
@@ -857,7 +922,8 @@
       "path": "ss_sticker_rocket.ss_sticker_rocket",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Sticker_Rocket_T"
+      "thumbnail_package": "SS_Sticker_Rocket_T",
+      "image_path": "images/5706.png"
     },
     {
       "id": "5743",
@@ -870,7 +936,8 @@
       "path": "ss_spell_streak.ss_spell_streak",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_Spell_Streak_T"
+      "thumbnail_package": "SS_Spell_Streak_T",
+      "image_path": "images/5743.png"
     },
     {
       "id": "5747",
@@ -883,7 +950,8 @@
       "path": "ss_neon_shapes.ss_neon_shapes",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Neon_Shapes_T"
+      "thumbnail_package": "SS_Neon_Shapes_T",
+      "image_path": "images/5747.png"
     },
     {
       "id": "5754",
@@ -896,7 +964,8 @@
       "path": "ss_energy_wave.ss_energy_wave",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Energy_Wave_T"
+      "thumbnail_package": "SS_Energy_Wave_T",
+      "image_path": "images/5754.png"
     },
     {
       "id": "5755",
@@ -909,7 +978,8 @@
       "path": "ss_sharkfin.ss_sharkfin",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Sharkfin_T"
+      "thumbnail_package": "SS_Sharkfin_T",
+      "image_path": "images/5755.png"
     },
     {
       "id": "5763",
@@ -922,7 +992,8 @@
       "path": "ss_unicorn.ss_unicorn",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "ss_Unicorn_T"
+      "thumbnail_package": "ss_Unicorn_T",
+      "image_path": "images/5763.png"
     },
     {
       "id": "5817",
@@ -935,7 +1006,8 @@
       "path": "ss_toony_beam.ss_toony_beam",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Toony_Beam_T"
+      "thumbnail_package": "SS_Toony_Beam_T",
+      "image_path": "images/5817.png"
     },
     {
       "id": "5844",
@@ -948,7 +1020,8 @@
       "path": "ss_magic_fire.ss_magic_fire",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Magic_Fire_T"
+      "thumbnail_package": "SS_Magic_Fire_T",
+      "image_path": "images/5844.png"
     },
     {
       "id": "5856",
@@ -961,7 +1034,8 @@
       "path": "ss_glitchbolt.ss_glitchbolt",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_GlitchBolt_T"
+      "thumbnail_package": "SS_GlitchBolt_T",
+      "image_path": "images/5856.png"
     },
     {
       "id": "5857",
@@ -974,7 +1048,8 @@
       "path": "ss_aurora.ss_aurora",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Aurora_T"
+      "thumbnail_package": "SS_Aurora_T",
+      "image_path": "images/5857.png"
     },
     {
       "id": "5917",
@@ -987,7 +1062,8 @@
       "path": "ss_apexstripes.ss_apexstripes",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "ss_apexstripes_T"
+      "thumbnail_package": "ss_apexstripes_T",
+      "image_path": "images/5917.png"
     },
     {
       "id": "5943",
@@ -1000,7 +1076,8 @@
       "path": "ss_starbeam.ss_starbeam",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_StarBeam_T"
+      "thumbnail_package": "SS_StarBeam_T",
+      "image_path": "images/5943.png"
     },
     {
       "id": "5960",
@@ -1013,7 +1090,8 @@
       "path": "ss_tixy01.ss_tixy01",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_TIXY01_T"
+      "thumbnail_package": "SS_TIXY01_T",
+      "image_path": "images/5960.png"
     },
     {
       "id": "6015",
@@ -1026,7 +1104,8 @@
       "path": "ss_nct.ss_nct",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_nct_T"
+      "thumbnail_package": "SS_nct_T",
+      "image_path": "images/6015.png"
     },
     {
       "id": "6078",
@@ -1039,7 +1118,8 @@
       "path": "ss_sand.ss_sand",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Sand_T"
+      "thumbnail_package": "SS_Sand_T",
+      "image_path": "images/6078.png"
     },
     {
       "id": "6888",
@@ -1052,7 +1132,8 @@
       "path": "ss_gbrc.ss_gbrc",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_GBRC_T"
+      "thumbnail_package": "SS_GBRC_T",
+      "image_path": "images/6888.png"
     },
     {
       "id": "6998",
@@ -1065,7 +1146,8 @@
       "path": "ss_core.ss_core",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Core_T"
+      "thumbnail_package": "SS_Core_T",
+      "image_path": "images/6998.png"
     },
     {
       "id": "7182",
@@ -1078,7 +1160,8 @@
       "path": "ss_pyrite.ss_pyrite",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "ss_pyrite_T"
+      "thumbnail_package": "ss_pyrite_T",
+      "image_path": "images/7182.png"
     },
     {
       "id": "7366",
@@ -1091,7 +1174,8 @@
       "path": "ss_braid.ss_braid",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "ss_braid_T"
+      "thumbnail_package": "ss_braid_T",
+      "image_path": "images/7366.png"
     },
     {
       "id": "7422",
@@ -1104,7 +1188,8 @@
       "path": "ss_tomb.ss_tomb",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_Tomb_T"
+      "thumbnail_package": "SS_Tomb_T",
+      "image_path": "images/7422.png"
     },
     {
       "id": "7504",
@@ -1117,7 +1202,8 @@
       "path": "ss_sphexe.ss_sphexe",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Sphexe_T"
+      "thumbnail_package": "SS_Sphexe_T",
+      "image_path": "images/7504.png"
     },
     {
       "id": "7700",
@@ -1130,7 +1216,8 @@
       "path": "ss_doughnut.ss_doughnut",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Doughnut_T"
+      "thumbnail_package": "SS_Doughnut_T",
+      "image_path": "images/7700.png"
     },
     {
       "id": "7741",
@@ -1143,7 +1230,8 @@
       "path": "ss_phoenix.ss_phoenix",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "ss_phoenix_T"
+      "thumbnail_package": "ss_phoenix_T",
+      "image_path": "images/7741.png"
     },
     {
       "id": "7799",
@@ -1156,7 +1244,8 @@
       "path": "ss_stylizedflame.ss_stylizedflame",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_StylizedFlame_T"
+      "thumbnail_package": "SS_StylizedFlame_T",
+      "image_path": "images/7799.png"
     },
     {
       "id": "7927",
@@ -1169,7 +1258,8 @@
       "path": "ss_Krylo.ss_Krylo",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Krylo_T"
+      "thumbnail_package": "SS_Krylo_T",
+      "image_path": "images/7927.png"
     },
     {
       "id": "7954",
@@ -1182,7 +1272,8 @@
       "path": "ss_fireball.ss_fireball",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Fireball_T"
+      "thumbnail_package": "SS_Fireball_T",
+      "image_path": "images/7954.png"
     },
     {
       "id": "7959",
@@ -1208,7 +1299,8 @@
       "path": "ss_singularity.ss_singularity",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Singularity_T"
+      "thumbnail_package": "SS_Singularity_T",
+      "image_path": "images/7962.png"
     },
     {
       "id": "7990",
@@ -1221,7 +1313,8 @@
       "path": "ss_mandalas.ss_mandalas",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Mandalas_T"
+      "thumbnail_package": "SS_Mandalas_T",
+      "image_path": "images/7990.png"
     },
     {
       "id": "8112",
@@ -1234,7 +1327,11 @@
       "thumbnail_package": "SS_GhostHand_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 3,
+      "paintable": true,
+      "path": "ss_ghosthand.ss_ghosthand",
+      "image_path": "images/8112.png"
     },
     {
       "id": "8191",
@@ -1247,7 +1344,8 @@
       "path": "ss_pinwheel.ss_pinwheel",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Pinwheel_T"
+      "thumbnail_package": "SS_Pinwheel_T",
+      "image_path": "images/8191.png"
     },
     {
       "id": "8263",
@@ -1260,7 +1358,8 @@
       "path": "ss_cosmicdice.ss_cosmicdice",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_CosmicDice_T"
+      "thumbnail_package": "SS_CosmicDice_T",
+      "image_path": "images/8263.png"
     },
     {
       "id": "8351",
@@ -1273,7 +1372,8 @@
       "path": "ss_tornado.ss_tornado",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Tornado_T"
+      "thumbnail_package": "SS_Tornado_T",
+      "image_path": "images/8351.png"
     },
     {
       "id": "8436",
@@ -1286,7 +1386,8 @@
       "path": "SS_GreenAir.SS_GreenAir",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_GreenAir_T"
+      "thumbnail_package": "SS_GreenAir_T",
+      "image_path": "images/8436.png"
     },
     {
       "id": "8438",
@@ -1299,7 +1400,8 @@
       "path": "ss_toilettepaper.ss_toilettepaper",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_ToilettePaper_T"
+      "thumbnail_package": "SS_ToilettePaper_T",
+      "image_path": "images/8438.png"
     },
     {
       "id": "8443",
@@ -1312,7 +1414,8 @@
       "path": "ss_bender.ss_bender",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Bender_T"
+      "thumbnail_package": "SS_Bender_T",
+      "image_path": "images/8443.png"
     },
     {
       "id": "8564",
@@ -1325,7 +1428,8 @@
       "path": "ss_linecolors.ss_linecolors",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_LineColors_T"
+      "thumbnail_package": "SS_LineColors_T",
+      "image_path": "images/8564.png"
     },
     {
       "id": "8615",
@@ -1338,7 +1442,8 @@
       "path": "ss_bubblegum.FX.ss_bubblegum",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_BubbleGum_T"
+      "thumbnail_package": "SS_BubbleGum_T",
+      "image_path": "images/8615.png"
     },
     {
       "id": "8729",
@@ -1351,7 +1456,8 @@
       "path": "ss_psydrill.ss_psydrill",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Psydrill_T"
+      "thumbnail_package": "SS_Psydrill_T",
+      "image_path": "images/8729.png"
     },
     {
       "id": "8748",
@@ -1364,7 +1470,8 @@
       "path": "SS_PlasmaEnergy.SS_PlasmaEnergy",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_PlasmaEnergy_T"
+      "thumbnail_package": "SS_PlasmaEnergy_T",
+      "image_path": "images/8748.png"
     },
     {
       "id": "8802",
@@ -1377,7 +1484,8 @@
       "path": "ss_honeybees.ss_honeybees",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "SS_HoneyBees_T"
+      "thumbnail_package": "SS_HoneyBees_T",
+      "image_path": "images/8802.png"
     },
     {
       "id": "8803",
@@ -1390,7 +1498,8 @@
       "path": "ss_magicsplash.ss_magicsplash",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_MagicSplash_T"
+      "thumbnail_package": "SS_MagicSplash_T",
+      "image_path": "images/8803.png"
     },
     {
       "id": "8875",
@@ -1403,7 +1512,8 @@
       "path": "ss_fireflies.ss_fireflies",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Fireflies_T"
+      "thumbnail_package": "SS_Fireflies_T",
+      "image_path": "images/8875.png"
     },
     {
       "id": "8969",
@@ -1416,7 +1526,8 @@
       "path": "ss_stringyball.FX.ss_stringyball",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_StringyBall_T"
+      "thumbnail_package": "SS_StringyBall_T",
+      "image_path": "images/8969.png"
     },
     {
       "id": "9091",
@@ -1429,7 +1540,8 @@
       "path": "ss_pixelated.SS_Pix_01_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Pixelated_T"
+      "thumbnail_package": "SS_Pixelated_T",
+      "image_path": "images/9091.png"
     },
     {
       "id": "9092",
@@ -1442,7 +1554,8 @@
       "path": "ss_pixelated.SS_Pix_02_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Pixelated_T"
+      "thumbnail_package": "SS_Pixelated_T",
+      "image_path": "images/9092.png"
     },
     {
       "id": "9093",
@@ -1455,7 +1568,8 @@
       "path": "ss_pixelated.SS_Pix_03_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Pixelated_T"
+      "thumbnail_package": "SS_Pixelated_T",
+      "image_path": "images/9093.png"
     },
     {
       "id": "9094",
@@ -1468,7 +1582,8 @@
       "path": "ss_pixelated.SS_Pix_04_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Pixelated_T"
+      "thumbnail_package": "SS_Pixelated_T",
+      "image_path": "images/9094.png"
     },
     {
       "id": "9095",
@@ -1481,7 +1596,8 @@
       "path": "ss_pixelated.SS_Pix_05_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Pixelated_T"
+      "thumbnail_package": "SS_Pixelated_T",
+      "image_path": "images/9095.png"
     },
     {
       "id": "9096",
@@ -1494,7 +1610,8 @@
       "path": "ss_pixelated.SS_Pix_06_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Pixelated_T"
+      "thumbnail_package": "SS_Pixelated_T",
+      "image_path": "images/9096.png"
     },
     {
       "id": "9097",
@@ -1507,7 +1624,8 @@
       "path": "ss_pixelated.SS_Pix_07_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Pixelated_T"
+      "thumbnail_package": "SS_Pixelated_T",
+      "image_path": "images/9097.png"
     },
     {
       "id": "9098",
@@ -1520,7 +1638,8 @@
       "path": "ss_pixelated.SS_Pix_08_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Pixelated_T"
+      "thumbnail_package": "SS_Pixelated_T",
+      "image_path": "images/9098.png"
     },
     {
       "id": "9162",
@@ -1533,7 +1652,8 @@
       "path": "ss_stylizedflame_bw.ss_stylizedflame_bw",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_StylizedFlame_BW_T"
+      "thumbnail_package": "SS_StylizedFlame_BW_T",
+      "image_path": "images/9162.png"
     },
     {
       "id": "9216",
@@ -1546,7 +1666,8 @@
       "path": "ss_smokerun.ss_smokerun",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_SmokeRun_T"
+      "thumbnail_package": "SS_SmokeRun_T",
+      "image_path": "images/9216.png"
     },
     {
       "id": "9319",
@@ -1559,7 +1680,8 @@
       "path": "ss_interface.ss_interface",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Interface_T"
+      "thumbnail_package": "SS_Interface_T",
+      "image_path": "images/9319.png"
     },
     {
       "id": "9371",
@@ -1572,7 +1694,8 @@
       "path": "ss_glitched.ss_glitched",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Glitched_T"
+      "thumbnail_package": "SS_Glitched_T",
+      "image_path": "images/9371.png"
     },
     {
       "id": "9415",
@@ -1585,7 +1708,8 @@
       "path": "SS_NeonTraces.SS_NeonTraces",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_NeonTraces_T"
+      "thumbnail_package": "SS_NeonTraces_T",
+      "image_path": "images/9415.png"
     },
     {
       "id": "9425",
@@ -1598,7 +1722,8 @@
       "path": "ss_cybersecurity.ss_cybersecurity",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_CyberSecurity_T"
+      "thumbnail_package": "SS_CyberSecurity_T",
+      "image_path": "images/9425.png"
     },
     {
       "id": "9560",
@@ -1611,7 +1736,8 @@
       "path": "ss_zigzag_lh.ss_zigzag_lh",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_ZigZag_LH_T"
+      "thumbnail_package": "SS_ZigZag_LH_T",
+      "image_path": "images/9560.png"
     },
     {
       "id": "9657",
@@ -1624,7 +1750,8 @@
       "path": "ss_filetransfer.ss_filetransfer",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_FileTransfer_T"
+      "thumbnail_package": "SS_FileTransfer_T",
+      "image_path": "images/9657.png"
     },
     {
       "id": "9679",
@@ -1637,7 +1764,8 @@
       "path": "ss_binary_psplus.ss_binary_psplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "SS_Binary_psplus_T"
+      "thumbnail_package": "SS_Binary_psplus_T",
+      "image_path": "images/9679.png"
     },
     {
       "id": "9711",
@@ -1650,7 +1778,8 @@
       "path": "SS_Lightning_GP.SS_Lightning_GP",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "ss_Lightning_GP_T"
+      "thumbnail_package": "ss_Lightning_GP_T",
+      "image_path": "images/9711.png"
     },
     {
       "id": "9850",
@@ -1663,7 +1792,8 @@
       "path": "ss_bloodshot.FX.ss_bloodshot",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_Bloodshot_T"
+      "thumbnail_package": "SS_Bloodshot_T",
+      "image_path": "images/9850.png"
     },
     {
       "id": "9851",
@@ -1676,7 +1806,8 @@
       "path": "ss_lp_fire.FX.ss_lp_fire",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_LP_Fire_T"
+      "thumbnail_package": "SS_LP_Fire_T",
+      "image_path": "images/9851.png"
     },
     {
       "id": "9852",
@@ -1689,7 +1820,8 @@
       "path": "ss_laserbeam.ss_laserbeam",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_LaserBeam_T"
+      "thumbnail_package": "SS_LaserBeam_T",
+      "image_path": "images/9852.png"
     },
     {
       "id": "9909",
@@ -1702,7 +1834,8 @@
       "path": "ss_fish.ss_fish",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Fish_T"
+      "thumbnail_package": "SS_Fish_T",
+      "image_path": "images/9909.png"
     },
     {
       "id": "9947",
@@ -1715,7 +1848,8 @@
       "path": "ss_pulsed_energy.FX.ss_pulsed_energy",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_Pulsed_Energy_T"
+      "thumbnail_package": "SS_Pulsed_Energy_T",
+      "image_path": "images/9947.png"
     },
     {
       "id": "10043",
@@ -1728,7 +1862,8 @@
       "path": "ss_rapid_rush.FX.ss_rapid_rush",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_Rapid_Rush_T"
+      "thumbnail_package": "SS_Rapid_Rush_T",
+      "image_path": "images/10043.png"
     },
     {
       "id": "10053",
@@ -1741,7 +1876,8 @@
       "path": "ss_pearldream.ss_pearldream",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_PearlDream_T"
+      "thumbnail_package": "SS_PearlDream_T",
+      "image_path": "images/10053.png"
     },
     {
       "id": "10091",
@@ -1754,7 +1890,8 @@
       "path": "SS_RageUnleashed.FX.SS_RageUnleashed",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_RageUnleashed_T"
+      "thumbnail_package": "SS_RageUnleashed_T",
+      "image_path": "images/10091.png"
     },
     {
       "id": "10121",
@@ -1780,7 +1917,8 @@
       "path": "ss_ramen.FX.ss_ramen",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Ramen_T"
+      "thumbnail_package": "SS_Ramen_T",
+      "image_path": "images/10122.png"
     },
     {
       "id": "10141",
@@ -1793,7 +1931,8 @@
       "path": "ss_necromancer.ss_necromancer",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Necromancer_T"
+      "thumbnail_package": "SS_Necromancer_T",
+      "image_path": "images/10141.png"
     },
     {
       "id": "10156",
@@ -1806,7 +1945,8 @@
       "path": "ss_driftsmoke.ss_driftsmoke",
       "quality_id": 0,
       "paintable": true,
-      "thumbnail_package": "SS_DriftSmoke_T"
+      "thumbnail_package": "SS_DriftSmoke_T",
+      "image_path": "images/10156.png"
     },
     {
       "id": "10223",
@@ -1819,7 +1959,8 @@
       "path": "ss_kirby.ss_kirby",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_Kirby_T"
+      "thumbnail_package": "SS_Kirby_T",
+      "image_path": "images/10223.png"
     },
     {
       "id": "10385",
@@ -1832,7 +1973,8 @@
       "path": "SS_StylizedRainbow.SS_StylizedRainbow",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_StylizedRainbow_T"
+      "thumbnail_package": "SS_StylizedRainbow_T",
+      "image_path": "images/10385.png"
     },
     {
       "id": "10406",
@@ -1845,7 +1987,8 @@
       "path": "ss_lava2.ss_lava2",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_Lava2_T"
+      "thumbnail_package": "SS_Lava2_T",
+      "image_path": "images/10406.png"
     },
     {
       "id": "10420",
@@ -1858,7 +2001,8 @@
       "path": "SS_Magma.SS_Magma",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_Magma_T"
+      "thumbnail_package": "SS_Magma_T",
+      "image_path": "images/10420.png"
     },
     {
       "id": "10454",
@@ -1871,7 +2015,8 @@
       "path": "ss_neocypher.FX.ss_neocypher",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_NeoCypher_T"
+      "thumbnail_package": "SS_NeoCypher_T",
+      "image_path": "images/10454.png"
     },
     {
       "id": "10467",
@@ -1884,7 +2029,8 @@
       "path": "ss_sakura.FX.ss_sakura",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Sakura_T"
+      "thumbnail_package": "SS_Sakura_T",
+      "image_path": "images/10467.png"
     },
     {
       "id": "10468",
@@ -1897,7 +2043,8 @@
       "path": "ss_bluebolt.FX.ss_bluebolt",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_BlueBolt_T"
+      "thumbnail_package": "SS_BlueBolt_T",
+      "image_path": "images/10468.png"
     },
     {
       "id": "10469",
@@ -1910,7 +2057,8 @@
       "path": "ss_octo.FX.ss_octo",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Octo_T"
+      "thumbnail_package": "SS_Octo_T",
+      "image_path": "images/10469.png"
     },
     {
       "id": "10472",
@@ -1923,7 +2071,8 @@
       "path": "ss_helix.FX.ss_helix",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Helix_T"
+      "thumbnail_package": "SS_Helix_T",
+      "image_path": "images/10472.png"
     },
     {
       "id": "10478",
@@ -1936,7 +2085,8 @@
       "path": "ss_popstar.FX.ss_popstar",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_PopStar_T"
+      "thumbnail_package": "SS_PopStar_T",
+      "image_path": "images/10478.png"
     },
     {
       "id": "10479",
@@ -1949,7 +2099,8 @@
       "path": "SS_SolarBeam.FX.SS_SolarBeam",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_SolarBeam_T"
+      "thumbnail_package": "SS_SolarBeam_T",
+      "image_path": "images/10479.png"
     },
     {
       "id": "10509",
@@ -1962,7 +2113,8 @@
       "path": "ss_stylized_strike.ss_stylized_strike",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Stylized_Strike_T"
+      "thumbnail_package": "SS_Stylized_Strike_T",
+      "image_path": "images/10509.png"
     },
     {
       "id": "10516",
@@ -1975,7 +2127,8 @@
       "path": "ss_powerbeam.ss_powerbeam",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_PowerBeam_T"
+      "thumbnail_package": "SS_PowerBeam_T",
+      "image_path": "images/10516.png"
     },
     {
       "id": "10536",
@@ -1988,7 +2141,8 @@
       "path": "ss_dagger.FX.ss_dagger",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_Dagger_T"
+      "thumbnail_package": "SS_Dagger_T",
+      "image_path": "images/10536.png"
     },
     {
       "id": "10613",
@@ -2001,7 +2155,8 @@
       "path": "SS_Gaudy.SS_Gaudy",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Gaudy_T"
+      "thumbnail_package": "SS_Gaudy_T",
+      "image_path": "images/10613.png"
     },
     {
       "id": "10625",
@@ -2014,7 +2169,8 @@
       "path": "ss_surrealrush.ss_surrealrush",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_SurrealRush_T"
+      "thumbnail_package": "SS_SurrealRush_T",
+      "image_path": "images/10625.png"
     },
     {
       "id": "10708",
@@ -2027,7 +2183,8 @@
       "path": "ss_neonsoul.ss_neonsoul",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_NeonSoul_T"
+      "thumbnail_package": "SS_NeonSoul_T",
+      "image_path": "images/10708.png"
     },
     {
       "id": "10710",
@@ -2040,7 +2197,8 @@
       "path": "ss_electrogalactic.ss_electrogalactic",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_ElectroGalactic_T"
+      "thumbnail_package": "SS_ElectroGalactic_T",
+      "image_path": "images/10710.png"
     },
     {
       "id": "10716",
@@ -2053,7 +2211,8 @@
       "path": "ss_techno.ss_techno",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_Techno_T"
+      "thumbnail_package": "SS_Techno_T",
+      "image_path": "images/10716.png"
     },
     {
       "id": "10743",
@@ -2066,7 +2225,8 @@
       "path": "ss_gps.FX.ss_gps",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_GPS_T"
+      "thumbnail_package": "SS_GPS_T",
+      "image_path": "images/10743.png"
     },
     {
       "id": "10744",
@@ -2079,7 +2239,8 @@
       "path": "ss_scribble.FX.ss_scribble",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Scribble_T"
+      "thumbnail_package": "SS_Scribble_T",
+      "image_path": "images/10744.png"
     },
     {
       "id": "10782",
@@ -2092,7 +2253,8 @@
       "path": "ss_sticky.ss_sticky",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Sticky_T"
+      "thumbnail_package": "SS_Sticky_T",
+      "image_path": "images/10782.png"
     },
     {
       "id": "10788",
@@ -2105,7 +2267,8 @@
       "path": "ss_sticky_02.ss_sticky_02",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_Sticky_02_T"
+      "thumbnail_package": "SS_Sticky_02_T",
+      "image_path": "images/10788.png"
     },
     {
       "id": "10795",
@@ -2118,7 +2281,8 @@
       "path": "ss_kitty_rare.ss_kitty_rare",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Kitty_Rare_T"
+      "thumbnail_package": "SS_Kitty_Rare_T",
+      "image_path": "images/10795.png"
     },
     {
       "id": "10820",
@@ -2131,7 +2295,8 @@
       "path": "ss_hero.ss_hero",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_Hero_T"
+      "thumbnail_package": "SS_Hero_T",
+      "image_path": "images/10820.png"
     },
     {
       "id": "10963",
@@ -2144,7 +2309,8 @@
       "path": "SS_Deepspace.SS_Deepspace",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Deepspace_T"
+      "thumbnail_package": "SS_Deepspace_T",
+      "image_path": "images/10963.png"
     },
     {
       "id": "11031",
@@ -2157,7 +2323,8 @@
       "path": "ss_gray_two.ss_gray_two",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "ss_gray_two_T"
+      "thumbnail_package": "ss_gray_two_T",
+      "image_path": "images/11031.png"
     },
     {
       "id": "11052",
@@ -2170,7 +2337,8 @@
       "path": "ss_hologlass.ss_hologlass",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Hologlass_T"
+      "thumbnail_package": "SS_Hologlass_T",
+      "image_path": "images/11052.png"
     },
     {
       "id": "11078",
@@ -2183,7 +2351,8 @@
       "path": "ss_splitenergy.ss_splitenergy",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_SplitEnergy_T"
+      "thumbnail_package": "SS_SplitEnergy_T",
+      "image_path": "images/11078.png"
     },
     {
       "id": "11178",
@@ -2196,7 +2365,8 @@
       "path": "ss_aventurine.ss_aventurine",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_Aventurine_T"
+      "thumbnail_package": "SS_Aventurine_T",
+      "image_path": "images/11178.png"
     },
     {
       "id": "11234",
@@ -2209,7 +2379,8 @@
       "path": "ss_daikon.ss_daikon",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Daikon_T"
+      "thumbnail_package": "SS_Daikon_T",
+      "image_path": "images/11234.png"
     },
     {
       "id": "11301",
@@ -2222,7 +2393,8 @@
       "path": "ss_astralradiance.ss_astralradiance",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_AstralRadiance_T"
+      "thumbnail_package": "SS_AstralRadiance_T",
+      "image_path": "images/11301.png"
     },
     {
       "id": "11319",
@@ -2235,7 +2407,8 @@
       "path": "ss_forestspirit.ss_forestspirit",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_ForestSpirit_T"
+      "thumbnail_package": "SS_ForestSpirit_T",
+      "image_path": "images/11319.png"
     },
     {
       "id": "11370",
@@ -2248,7 +2421,8 @@
       "path": "ss_disco.ss_disco",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_Disco_T"
+      "thumbnail_package": "SS_Disco_T",
+      "image_path": "images/11370.png"
     },
     {
       "id": "11424",
@@ -2261,7 +2435,8 @@
       "path": "ss_toopher.ss_toopher",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Toopher_T"
+      "thumbnail_package": "SS_Toopher_T",
+      "image_path": "images/11424.png"
     },
     {
       "id": "11509",
@@ -2274,7 +2449,8 @@
       "path": "ss_frog.ss_frog",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Frog_T"
+      "thumbnail_package": "SS_Frog_T",
+      "image_path": "images/11509.png"
     },
     {
       "id": "11523",
@@ -2287,7 +2463,8 @@
       "path": "ss_magical.ss_magical",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Magical_T"
+      "thumbnail_package": "SS_Magical_T",
+      "image_path": "images/11523.png"
     },
     {
       "id": "11601",
@@ -2300,7 +2477,8 @@
       "path": "ss_psychomatic.ss_psychomatic",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Psychomatic_T"
+      "thumbnail_package": "SS_Psychomatic_T",
+      "image_path": "images/11601.png"
     },
     {
       "id": "11652",
@@ -2313,7 +2491,8 @@
       "path": "ss_skullchromatic.ss_skullchromatic",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_SkullChromatic_T"
+      "thumbnail_package": "SS_SkullChromatic_T",
+      "image_path": "images/11652.png"
     },
     {
       "id": "11696",
@@ -2326,7 +2505,8 @@
       "path": "ss_evilornament.ss_evilornament",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_EvilOrnament_T"
+      "thumbnail_package": "SS_EvilOrnament_T",
+      "image_path": "images/11696.png"
     },
     {
       "id": "11733",
@@ -2339,7 +2519,8 @@
       "path": "ss_slimefire.FX.ss_slimefire",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_Slimefire_T"
+      "thumbnail_package": "SS_Slimefire_T",
+      "image_path": "images/11733.png"
     },
     {
       "id": "11746",
@@ -2352,7 +2533,8 @@
       "path": "ss_rp10year.ss_rp10year",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_RP10year_T"
+      "thumbnail_package": "SS_RP10year_T",
+      "image_path": "images/11746.png"
     },
     {
       "id": "11758",
@@ -2365,7 +2547,8 @@
       "path": "ss_geniesmoke.ss_geniesmoke",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "SS_GenieSmoke_T"
+      "thumbnail_package": "SS_GenieSmoke_T",
+      "image_path": "images/11758.png"
     },
     {
       "id": "11823",
@@ -2378,7 +2561,8 @@
       "path": "ss_dragoncat.ss_dragoncat",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_DragonCat_T"
+      "thumbnail_package": "SS_DragonCat_T",
+      "image_path": "images/11823.png"
     },
     {
       "id": "11858",
@@ -2391,7 +2575,8 @@
       "path": "ss_dragoncatlte.ss_dragoncatlte",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_DragonCatLTE_T"
+      "thumbnail_package": "SS_DragonCatLTE_T",
+      "image_path": "images/11858.png"
     },
     {
       "id": "11881",
@@ -2404,7 +2589,8 @@
       "path": "ss_mooncake.ss_mooncake",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_Mooncake_T"
+      "thumbnail_package": "SS_Mooncake_T",
+      "image_path": "images/11881.png"
     },
     {
       "id": "11934",
@@ -2417,7 +2603,8 @@
       "path": "ss_s19championsroadlte.ss_s19championsroadlte",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_S19ChampionsRoadLTE_T"
+      "thumbnail_package": "SS_S19ChampionsRoadLTE_T",
+      "image_path": "images/11934.png"
     },
     {
       "id": "12051",
@@ -2430,7 +2617,8 @@
       "path": "ss_goth.FX.ss_goth",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_Goth_T"
+      "thumbnail_package": "SS_Goth_T",
+      "image_path": "images/12051.png"
     },
     {
       "id": "12111",
@@ -2443,7 +2631,8 @@
       "path": "ss_banjo.ss_banjo",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_Banjo_T"
+      "thumbnail_package": "SS_Banjo_T",
+      "image_path": "images/12111.png"
     },
     {
       "id": "12230",
@@ -2456,7 +2645,8 @@
       "path": "ss_lionsmane01.ss_lionsmane01",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_LionsMane01_T"
+      "thumbnail_package": "SS_LionsMane01_T",
+      "image_path": "images/12230.png"
     },
     {
       "id": "12236",
@@ -2469,7 +2659,8 @@
       "path": "ss_oilslick.ss_oilslick",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_OilSlick_T"
+      "thumbnail_package": "SS_OilSlick_T",
+      "image_path": "images/12236.png"
     },
     {
       "id": "12237",
@@ -2482,7 +2673,8 @@
       "path": "ss_sprinkle.ss_sprinkle",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_Sprinkle_T"
+      "thumbnail_package": "SS_Sprinkle_T",
+      "image_path": "images/12237.png"
     },
     {
       "id": "12239",
@@ -2495,7 +2687,8 @@
       "path": "ss_crimetape.ss_crimetape",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_CrimeTape_T"
+      "thumbnail_package": "SS_CrimeTape_T",
+      "image_path": "images/12239.png"
     },
     {
       "id": "12241",
@@ -2508,7 +2701,8 @@
       "path": "ss_sprinklelte01.ss_sprinklelte01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_SprinkleLTE01_T"
+      "thumbnail_package": "SS_SprinkleLTE01_T",
+      "image_path": "images/12241.png"
     },
     {
       "id": "12278",
@@ -2521,7 +2715,8 @@
       "path": "ss_chrome.ss_chrome",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_Chrome_T"
+      "thumbnail_package": "SS_Chrome_T",
+      "image_path": "images/12278.png"
     },
     {
       "id": "12309",
@@ -2534,7 +2729,8 @@
       "path": "ss_blightshield01.ss_blightshield01",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "SS_BlightShield01_T"
+      "thumbnail_package": "SS_BlightShield01_T",
+      "image_path": "images/12309.png"
     },
     {
       "id": "12448",
@@ -2560,7 +2756,8 @@
       "path": "ss_decored.ss_decored",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_DecoRed_T"
+      "thumbnail_package": "SS_DecoRed_T",
+      "image_path": "images/12544.png"
     },
     {
       "id": "12588",
@@ -2573,7 +2770,8 @@
       "path": "ss_decoblue.ss_decoblue",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_DecoBlue_T"
+      "thumbnail_package": "SS_DecoBlue_T",
+      "image_path": "images/12588.png"
     },
     {
       "id": "12630",
@@ -2586,7 +2784,8 @@
       "path": "ss_courgette01.FX.ss_courgette01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "SS_Courgette01_T"
+      "thumbnail_package": "SS_Courgette01_T",
+      "image_path": "images/12630.png"
     },
     {
       "id": "12636",
@@ -2599,7 +2798,8 @@
       "path": "ss_daynight.ss_daynight",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "SS_DayNight_T"
+      "thumbnail_package": "SS_DayNight_T",
+      "image_path": "images/12636.png"
     },
     {
       "id": "12729",
@@ -2612,7 +2812,8 @@
       "path": "ss_inkyoil.ss_inkyoil",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_InkyOil_T"
+      "thumbnail_package": "SS_InkyOil_T",
+      "image_path": "images/12729.png"
     },
     {
       "id": "12768",
@@ -2625,7 +2826,8 @@
       "path": "ss_blackflame.ss_blackflame",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_BlackFlame_T"
+      "thumbnail_package": "SS_BlackFlame_T",
+      "image_path": "images/12768.png"
     },
     {
       "id": "12782",
@@ -2638,7 +2840,8 @@
       "path": "ss_infraredglow.ss_infraredglow",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "SS_InfraredGlow_T"
+      "thumbnail_package": "SS_InfraredGlow_T",
+      "image_path": "images/12782.png"
     },
     {
       "id": "12824",
@@ -2651,7 +2854,11 @@
       "thumbnail_package": "ss_opticorangelte01_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "ss_opticorangelte01.ss_opticorangelte01",
+      "image_path": "images/12824.png"
     },
     {
       "id": "12994",
@@ -2664,7 +2871,11 @@
       "thumbnail_package": "SS_RoadSparks_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": true,
+      "path": "ss_roadsparks.ss_roadsparks",
+      "image_path": "images/12994.png"
     },
     {
       "id": "13003",
@@ -2677,7 +2888,11 @@
       "thumbnail_package": "SS_ChromaticAberration_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": true,
+      "path": "ss_chromaticaberration.FX.ss_chromaticaberration",
+      "image_path": "images/13003.png"
     },
     {
       "id": "13014",
@@ -2690,7 +2905,11 @@
       "thumbnail_package": "SS_KawaiiStickers_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": true,
+      "path": "ss_kawaiistickers.ss_kawaiistickers",
+      "image_path": "images/13014.png"
     },
     {
       "id": "13039",
@@ -2703,7 +2922,53 @@
       "thumbnail_package": "SS_IconColors_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": true,
+      "path": "ss_iconcolors.ss_iconcolors",
+      "image_path": "images/13039.png"
+    },
+    {
+      "id": "12967",
+      "internal_name": "ss_umbragenesislte01",
+      "name": "Morgana's Token",
+      "upk_path": "ss_umbragenesislte01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "ss_umbragenesislte01",
+      "path": "ss_umbragenesislte01.ss_umbragenesislte01",
+      "thumbnail": "SS_UmbraGenesisLTE01_T_SF.upk",
+      "thumbnail_package": "SS_UmbraGenesisLTE01_T",
+      "image_path": "images/12967.png"
+    },
+    {
+      "id": "12973",
+      "internal_name": "ss_luckyonyx01",
+      "name": "Anti-Magic",
+      "upk_path": "ss_luckyonyx01_SF.upk",
+      "quality": "Import",
+      "quality_id": 4,
+      "paintable": false,
+      "package": "ss_luckyonyx01",
+      "path": "ss_luckyonyx01.ss_luckyonyx01",
+      "thumbnail": "SS_LuckyOnyx01_T_SF.upk",
+      "thumbnail_package": "SS_LuckyOnyx01_T",
+      "image_path": "images/12973.png"
+    },
+    {
+      "id": "13097",
+      "internal_name": "ss_mvp01",
+      "name": "Light Speed",
+      "upk_path": "ss_mvp01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "ss_mvp01",
+      "path": "ss_mvp01.ss_mvp01",
+      "thumbnail": "SS_MVP01_T_SF.upk",
+      "thumbnail_package": "SS_MVP01_T",
+      "image_path": "images/13097.png"
     }
   ]
 }

@@ -12,7 +12,8 @@
       "path": "Hat_AlphaHat.Hat_AlphaHat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_AlphaHat_T"
+      "thumbnail_package": "Hat_AlphaHat_T",
+      "image_path": "images/224.png"
     },
     {
       "id": "225",
@@ -25,7 +26,8 @@
       "path": "Hat_Beanie.Hat_Beanie",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Beanie_T"
+      "thumbnail_package": "Hat_Beanie_T",
+      "image_path": "images/225.png"
     },
     {
       "id": "227",
@@ -38,7 +40,8 @@
       "path": "Hat_BPH.Hat_BPH",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_BPH_T"
+      "thumbnail_package": "Hat_BPH_T",
+      "image_path": "images/227.png"
     },
     {
       "id": "228",
@@ -51,7 +54,8 @@
       "path": "Hat_Crown.Hat_Crown",
       "quality_id": 0,
       "paintable": true,
-      "thumbnail_package": "Hat_Crown_T"
+      "thumbnail_package": "Hat_Crown_T",
+      "image_path": "images/228.png"
     },
     {
       "id": "229",
@@ -64,7 +68,8 @@
       "path": "Hat_DevilHorns.Hat_DevilHorns",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_DevilHorns_T"
+      "thumbnail_package": "Hat_DevilHorns_T",
+      "image_path": "images/229.png"
     },
     {
       "id": "230",
@@ -77,7 +82,8 @@
       "path": "Hat_Fez.Hat_Fez",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Fez_T"
+      "thumbnail_package": "Hat_Fez_T",
+      "image_path": "images/230.png"
     },
     {
       "id": "231",
@@ -90,7 +96,8 @@
       "path": "Hat_Fireman.Hat_Fireman",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Fireman_T"
+      "thumbnail_package": "Hat_Fireman_T",
+      "image_path": "images/231.png"
     },
     {
       "id": "232",
@@ -103,7 +110,8 @@
       "path": "Hat_Halo.Hat_Halo",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Halo_T"
+      "thumbnail_package": "Hat_Halo_T",
+      "image_path": "images/232.png"
     },
     {
       "id": "233",
@@ -116,7 +124,8 @@
       "path": "Hat_Hardhat.Hat_Hardhat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Hardhat_T"
+      "thumbnail_package": "Hat_Hardhat_T",
+      "image_path": "images/233.png"
     },
     {
       "id": "234",
@@ -129,7 +138,8 @@
       "path": "Hat_Mariachi.Hat_Mariachi",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Mariachi_T"
+      "thumbnail_package": "Hat_Mariachi_T",
+      "image_path": "images/234.png"
     },
     {
       "id": "235",
@@ -142,7 +152,8 @@
       "path": "Hat_PirateHat.Hat_PirateHat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_PirateHat_T"
+      "thumbnail_package": "Hat_PirateHat_T",
+      "image_path": "images/235.png"
     },
     {
       "id": "236",
@@ -155,7 +166,8 @@
       "path": "Hat_PizzaLight.Hat_PizzaLight",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_PizzaLight_T"
+      "thumbnail_package": "Hat_PizzaLight_T",
+      "image_path": "images/236.png"
     },
     {
       "id": "237",
@@ -168,7 +180,8 @@
       "path": "Hat_PoliceSiren.Hat_PoliceSiren",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_PoliceSiren_T"
+      "thumbnail_package": "Hat_PoliceSiren_T",
+      "image_path": "images/237.png"
     },
     {
       "id": "238",
@@ -181,7 +194,8 @@
       "path": "Hat_Sombrero.Hat_Sombrero",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Sombrero_T"
+      "thumbnail_package": "Hat_Sombrero_T",
+      "image_path": "images/238.png"
     },
     {
       "id": "239",
@@ -194,7 +208,8 @@
       "path": "Hat_Taxi.Hat_Taxi",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Taxi_T"
+      "thumbnail_package": "Hat_Taxi_T",
+      "image_path": "images/239.png"
     },
     {
       "id": "240",
@@ -207,7 +222,8 @@
       "path": "Hat_TopHat.Hat_TopHat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_TopHat_T"
+      "thumbnail_package": "Hat_TopHat_T",
+      "image_path": "images/240.png"
     },
     {
       "id": "241",
@@ -220,7 +236,8 @@
       "path": "Hat_Viking_Helmet.Hat_Viking_Helmet",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Viking_Helmet_T"
+      "thumbnail_package": "Hat_Viking_Helmet_T",
+      "image_path": "images/241.png"
     },
     {
       "id": "242",
@@ -233,7 +250,8 @@
       "path": "Hat_Witch.Hat_Witch",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Witch_T"
+      "thumbnail_package": "Hat_Witch_T",
+      "image_path": "images/242.png"
     },
     {
       "id": "243",
@@ -246,7 +264,8 @@
       "path": "Hat_WizardHat.Hat_WizardHat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_WizardHat_T"
+      "thumbnail_package": "Hat_WizardHat_T",
+      "image_path": "images/243.png"
     },
     {
       "id": "390",
@@ -259,7 +278,8 @@
       "path": "Hat_TourneyWinner.Hat_TourneyWinner",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_TourneyWinner_T"
+      "thumbnail_package": "Hat_TourneyWinner_T",
+      "image_path": "images/390.png"
     },
     {
       "id": "493",
@@ -272,7 +292,8 @@
       "path": "Hat_BeerHelmet.Hat_BeerHelmet",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_BeerHelmet_T"
+      "thumbnail_package": "Hat_BeerHelmet_T",
+      "image_path": "images/493.png"
     },
     {
       "id": "494",
@@ -285,7 +306,8 @@
       "path": "Hat_DWI.Hat_DWI",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_DWI_T"
+      "thumbnail_package": "Hat_DWI_T",
+      "image_path": "images/494.png"
     },
     {
       "id": "495",
@@ -298,7 +320,8 @@
       "path": "Hat_Tiara.Hat_Tiara",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Tiara_T"
+      "thumbnail_package": "Hat_Tiara_T",
+      "image_path": "images/495.png"
     },
     {
       "id": "521",
@@ -311,7 +334,8 @@
       "path": "Hat_BoomBox.Hat_BoomBox",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_BoomBox_T"
+      "thumbnail_package": "Hat_BoomBox_T",
+      "image_path": "images/521.png"
     },
     {
       "id": "546",
@@ -324,7 +348,8 @@
       "path": "Hat_CatOLantern.Hat_CatOLantern",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_CatOLantern_T"
+      "thumbnail_package": "Hat_CatOLantern_T",
+      "image_path": "images/546.png"
     },
     {
       "id": "547",
@@ -337,7 +362,8 @@
       "path": "Hat_TrainConductor.Hat_TrainConductor",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_TrainConductor_T"
+      "thumbnail_package": "Hat_TrainConductor_T",
+      "image_path": "images/547.png"
     },
     {
       "id": "579",
@@ -350,7 +376,8 @@
       "path": "Hat_SharkFin.Hat_SharkFin",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_SharkFin_T"
+      "thumbnail_package": "Hat_SharkFin_T",
+      "image_path": "images/579.png"
     },
     {
       "id": "580",
@@ -363,7 +390,8 @@
       "path": "Hat_Tricorn.Hat_Tricorn",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Tricorn_T"
+      "thumbnail_package": "Hat_Tricorn_T",
+      "image_path": "images/580.png"
     },
     {
       "id": "638",
@@ -376,7 +404,8 @@
       "path": "Hat_Mohawk.Hat_Mohawk",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Mohawk_T"
+      "thumbnail_package": "Hat_Mohawk_T",
+      "image_path": "images/638.png"
     },
     {
       "id": "639",
@@ -389,7 +418,8 @@
       "path": "Hat_RegularChristmasTree.Hat_RegularChristmasTree",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_RegularChristmasTree_T"
+      "thumbnail_package": "Hat_RegularChristmasTree_T",
+      "image_path": "images/639.png"
     },
     {
       "id": "640",
@@ -402,7 +432,8 @@
       "path": "Hat_ReindeerAntlers.Hat_ReindeerAntlers",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_ReindeerAntlers_T"
+      "thumbnail_package": "Hat_ReindeerAntlers_T",
+      "image_path": "images/640.png"
     },
     {
       "id": "641",
@@ -415,7 +446,8 @@
       "path": "Hat_SadChristmasTree.Hat_SadChristmasTree",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_SadChristmasTree_T"
+      "thumbnail_package": "Hat_SadChristmasTree_T",
+      "image_path": "images/641.png"
     },
     {
       "id": "642",
@@ -428,7 +460,8 @@
       "path": "Hat_SantaHat.Hat_SantaHat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_SantaHat_T"
+      "thumbnail_package": "Hat_SantaHat_T",
+      "image_path": "images/642.png"
     },
     {
       "id": "644",
@@ -441,7 +474,8 @@
       "path": "Hat_LightBulb.Hat_LightBulb",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_LightBulb_T"
+      "thumbnail_package": "Hat_LightBulb_T",
+      "image_path": "images/644.png"
     },
     {
       "id": "661",
@@ -454,7 +488,8 @@
       "path": "Hat_PortalCake.Hat_PortalCake",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Hat_PortalCake_T"
+      "thumbnail_package": "Hat_PortalCake_T",
+      "image_path": "images/661.png"
     },
     {
       "id": "685",
@@ -467,7 +502,8 @@
       "path": "Hat_CowSkull.Hat_CowSkull",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_CowSkull_T"
+      "thumbnail_package": "Hat_CowSkull_T",
+      "image_path": "images/685.png"
     },
     {
       "id": "705",
@@ -480,7 +516,8 @@
       "path": "Crown_Bronze.Crown_Bronze",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Crown_Bronze_T"
+      "thumbnail_package": "Crown_Bronze_T",
+      "image_path": "images/705.png"
     },
     {
       "id": "706",
@@ -493,7 +530,8 @@
       "path": "Crown_Gold.Crown_Gold",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Crown_Gold_T"
+      "thumbnail_package": "Crown_Gold_T",
+      "image_path": "images/706.png"
     },
     {
       "id": "707",
@@ -506,7 +544,8 @@
       "path": "Crown_Platinum.Crown_Platinum",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Crown_Platinum_T"
+      "thumbnail_package": "Crown_Platinum_T",
+      "image_path": "images/707.png"
     },
     {
       "id": "708",
@@ -519,7 +558,8 @@
       "path": "Crown_Silver.Crown_Silver",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Crown_Silver_T"
+      "thumbnail_package": "Crown_Silver_T",
+      "image_path": "images/708.png"
     },
     {
       "id": "740",
@@ -532,7 +572,8 @@
       "path": "Hat_Boot.Hat_Boot",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Boot_T"
+      "thumbnail_package": "Hat_Boot_T",
+      "image_path": "images/740.png"
     },
     {
       "id": "741",
@@ -545,7 +586,8 @@
       "path": "Hat_CaptainHat.Hat_CaptainHat",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_CaptainHat_T"
+      "thumbnail_package": "Hat_CaptainHat_T",
+      "image_path": "images/741.png"
     },
     {
       "id": "742",
@@ -558,7 +600,8 @@
       "path": "Hat_DetectiveHat.Hat_DetectiveHat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_DetectiveHat_T"
+      "thumbnail_package": "Hat_DetectiveHat_T",
+      "image_path": "images/742.png"
     },
     {
       "id": "743",
@@ -571,7 +614,8 @@
       "path": "HAT_DoughboyHelmet.HAT_DoughboyHelmet",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "HAT_DoughboyHelmet_T"
+      "thumbnail_package": "HAT_DoughboyHelmet_T",
+      "image_path": "images/743.png"
     },
     {
       "id": "744",
@@ -584,7 +628,8 @@
       "path": "HAT_FruitHat.HAT_FruitHat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "HAT_FruitHat_T"
+      "thumbnail_package": "HAT_FruitHat_T",
+      "image_path": "images/744.png"
     },
     {
       "id": "745",
@@ -597,7 +642,8 @@
       "path": "HAT_GentlemanHat.HAT_GentlemanHat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "HAT_GentlemanHat_T"
+      "thumbnail_package": "HAT_GentlemanHat_T",
+      "image_path": "images/745.png"
     },
     {
       "id": "746",
@@ -610,7 +656,8 @@
       "path": "Hat_PoliceHat.Hat_PoliceHat",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_PoliceHat_T"
+      "thumbnail_package": "Hat_PoliceHat_T",
+      "image_path": "images/746.png"
     },
     {
       "id": "747",
@@ -623,7 +670,8 @@
       "path": "HAT_TrafficCone.HAT_TrafficCone",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "HAT_TrafficCone_T"
+      "thumbnail_package": "HAT_TrafficCone_T",
+      "image_path": "images/747.png"
     },
     {
       "id": "748",
@@ -636,7 +684,8 @@
       "path": "Hat_Unihorn.Hat_Unihorn",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Unihorn_T"
+      "thumbnail_package": "Hat_Unihorn_T",
+      "image_path": "images/748.png"
     },
     {
       "id": "756",
@@ -649,7 +698,8 @@
       "path": "Hat_ChefsHat.Hat_ChefsHat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_ChefsHat_T"
+      "thumbnail_package": "Hat_ChefsHat_T",
+      "image_path": "images/756.png"
     },
     {
       "id": "769",
@@ -662,7 +712,8 @@
       "path": "Hat_Cockroach.Hat_Cockroach",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Cockroach_T"
+      "thumbnail_package": "Hat_Cockroach_T",
+      "image_path": "images/769.png"
     },
     {
       "id": "770",
@@ -675,7 +726,8 @@
       "path": "Hat_Paper_Boat.Hat_Paper_Boat",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Paper_Boat_T"
+      "thumbnail_package": "Hat_Paper_Boat_T",
+      "image_path": "images/770.png"
     },
     {
       "id": "771",
@@ -688,7 +740,8 @@
       "path": "Hat_Rasta.Hat_Rasta",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Rasta_T"
+      "thumbnail_package": "Hat_Rasta_T",
+      "image_path": "images/771.png"
     },
     {
       "id": "772",
@@ -701,7 +754,8 @@
       "path": "Hat_Plunger.Hat_Plunger",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Plunger_T"
+      "thumbnail_package": "Hat_Plunger_T",
+      "image_path": "images/772.png"
     },
     {
       "id": "773",
@@ -714,7 +768,8 @@
       "path": "Hat_Shuriken.Hat_Shuriken",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Shuriken_T"
+      "thumbnail_package": "Hat_Shuriken_T",
+      "image_path": "images/773.png"
     },
     {
       "id": "774",
@@ -727,7 +782,8 @@
       "path": "Hat_Antlers.Hat_Antlers",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Antlers_T"
+      "thumbnail_package": "Hat_Antlers_T",
+      "image_path": "images/774.png"
     },
     {
       "id": "775",
@@ -740,7 +796,8 @@
       "path": "Hat_Beret.Hat_Beret",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Beret_T"
+      "thumbnail_package": "Hat_Beret_T",
+      "image_path": "images/775.png"
     },
     {
       "id": "776",
@@ -753,7 +810,8 @@
       "path": "Hat_BikerHat.Hat_BikerHat",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_BikerHat_T"
+      "thumbnail_package": "Hat_BikerHat_T",
+      "image_path": "images/776.png"
     },
     {
       "id": "778",
@@ -766,7 +824,8 @@
       "path": "Hat_GraduationCap.Hat_GraduationCap",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_GraduationCap_T"
+      "thumbnail_package": "Hat_GraduationCap_T",
+      "image_path": "images/778.png"
     },
     {
       "id": "780",
@@ -779,7 +838,8 @@
       "path": "Hat_Rhino.Hat_Rhino",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Rhino_T"
+      "thumbnail_package": "Hat_Rhino_T",
+      "image_path": "images/780.png"
     },
     {
       "id": "782",
@@ -792,7 +852,8 @@
       "path": "Hat_RatTrap.Hat_RatTrap",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_RatTrap_T"
+      "thumbnail_package": "Hat_RatTrap_T",
+      "image_path": "images/782.png"
     },
     {
       "id": "789",
@@ -805,7 +866,8 @@
       "path": "Hat_BirthdayCake.Hat_BirthdayCake",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_BirthdayCake_T"
+      "thumbnail_package": "Hat_BirthdayCake_T",
+      "image_path": "images/789.png"
     },
     {
       "id": "790",
@@ -818,7 +880,8 @@
       "path": "Hat_DerbyHat.Hat_DerbyHat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_DerbyHat_T"
+      "thumbnail_package": "Hat_DerbyHat_T",
+      "image_path": "images/790.png"
     },
     {
       "id": "792",
@@ -831,7 +894,8 @@
       "path": "Hat_Deerstalker.Hat_Deerstalker",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Deerstalker_T"
+      "thumbnail_package": "Hat_Deerstalker_T",
+      "image_path": "images/792.png"
     },
     {
       "id": "795",
@@ -844,7 +908,8 @@
       "path": "Hat_Chainsaw.Hat_Chainsaw",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Chainsaw_T"
+      "thumbnail_package": "Hat_Chainsaw_T",
+      "image_path": "images/795.png"
     },
     {
       "id": "796",
@@ -857,7 +922,8 @@
       "path": "hat_deadmau5.hat_deadmau5",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Hat_Deadmau5_T"
+      "thumbnail_package": "Hat_Deadmau5_T",
+      "image_path": "images/796.png"
     },
     {
       "id": "809",
@@ -870,7 +936,8 @@
       "path": "hat_clown.hat_clown",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Clown_T"
+      "thumbnail_package": "Hat_Clown_T",
+      "image_path": "images/809.png"
     },
     {
       "id": "810",
@@ -883,7 +950,8 @@
       "path": "Hat_CatEars.Hat_CatEars",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_CatEars_T"
+      "thumbnail_package": "Hat_CatEars_T",
+      "image_path": "images/810.png"
     },
     {
       "id": "811",
@@ -896,7 +964,8 @@
       "path": "Hat_Bow.Hat_Bow",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Bow_T"
+      "thumbnail_package": "Hat_Bow_T",
+      "image_path": "images/811.png"
     },
     {
       "id": "812",
@@ -909,7 +978,8 @@
       "path": "Hat_Party.Hat_Party",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Party_T"
+      "thumbnail_package": "Hat_Party_T",
+      "image_path": "images/812.png"
     },
     {
       "id": "817",
@@ -922,7 +992,8 @@
       "path": "Hat_Pigeon.Hat_Pigeon",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Pigeon_T"
+      "thumbnail_package": "Hat_Pigeon_T",
+      "image_path": "images/817.png"
     },
     {
       "id": "1028",
@@ -935,7 +1006,8 @@
       "path": "Hat_Worms.Hat_Worms",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Hat_Worms_T"
+      "thumbnail_package": "Hat_Worms_T",
+      "image_path": "images/1028.png"
     },
     {
       "id": "1288",
@@ -948,7 +1020,8 @@
       "path": "hat_futureglasses.hat_futureglasses",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_FutureGlasses_T"
+      "thumbnail_package": "Hat_FutureGlasses_T",
+      "image_path": "images/1288.png"
     },
     {
       "id": "1305",
@@ -961,7 +1034,8 @@
       "path": "Hat_BaseballCap01.Hat_BaseballCap01",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_BaseballCap01_T"
+      "thumbnail_package": "Hat_BaseballCap01_T",
+      "image_path": "images/1305.png"
     },
     {
       "id": "1316",
@@ -974,7 +1048,8 @@
       "path": "Hat_CowboyHat.Hat_CowboyHat",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_CowboyHat_T"
+      "thumbnail_package": "Hat_CowboyHat_T",
+      "image_path": "images/1316.png"
     },
     {
       "id": "1326",
@@ -987,7 +1062,8 @@
       "path": "Hat_GolfHat.Hat_GolfHat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_GolfHat_T"
+      "thumbnail_package": "Hat_GolfHat_T",
+      "image_path": "images/1326.png"
     },
     {
       "id": "1328",
@@ -1000,7 +1076,8 @@
       "path": "Hat_BaseballCap_Back.Hat_BaseballCap_Back",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_BaseballCap_Back_T"
+      "thumbnail_package": "Hat_BaseballCap_Back_T",
+      "image_path": "images/1328.png"
     },
     {
       "id": "1332",
@@ -1013,7 +1090,8 @@
       "path": "Hat_WhiteHat.Hat_WhiteHat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_WhiteHat_T"
+      "thumbnail_package": "Hat_WhiteHat_T",
+      "image_path": "images/1332.png"
     },
     {
       "id": "1338",
@@ -1026,7 +1104,8 @@
       "path": "Hat_TruckerHat.Hat_TruckerHat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_TruckerHat_T"
+      "thumbnail_package": "Hat_TruckerHat_T",
+      "image_path": "images/1338.png"
     },
     {
       "id": "1339",
@@ -1039,7 +1118,8 @@
       "path": "Hat_FlatHat.Hat_FlatHat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_FlatHat_T"
+      "thumbnail_package": "Hat_FlatHat_T",
+      "image_path": "images/1339.png"
     },
     {
       "id": "1342",
@@ -1052,7 +1132,8 @@
       "path": "Hat_Visor.Hat_Visor",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Visor_T"
+      "thumbnail_package": "Hat_Visor_T",
+      "image_path": "images/1342.png"
     },
     {
       "id": "1344",
@@ -1065,7 +1146,8 @@
       "path": "hat_dot.hat_dot",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Hat_DoT_T"
+      "thumbnail_package": "Hat_DoT_T",
+      "image_path": "images/1344.png"
     },
     {
       "id": "1470",
@@ -1078,7 +1160,8 @@
       "path": "Hat_BlackMarketPreview.Hat_BlackMarketPreview",
       "quality_id": 6,
       "paintable": false,
-      "thumbnail_package": "Hat_BlackMarketPreview_T"
+      "thumbnail_package": "Hat_BlackMarketPreview_T",
+      "image_path": "images/1470.png"
     },
     {
       "id": "1497",
@@ -1091,7 +1174,8 @@
       "path": "hat_clam.hat_clam",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Clam_T"
+      "thumbnail_package": "Hat_Clam_T",
+      "image_path": "images/1497.png"
     },
     {
       "id": "1499",
@@ -1104,7 +1188,8 @@
       "path": "hat_boneking.hat_boneking",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_BoneKing_T"
+      "thumbnail_package": "Hat_BoneKing_T",
+      "image_path": "images/1499.png"
     },
     {
       "id": "1518",
@@ -1117,7 +1202,8 @@
       "path": "hat_ghost.hat_ghost",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Ghost_T"
+      "thumbnail_package": "Hat_Ghost_T",
+      "image_path": "images/1518.png"
     },
     {
       "id": "1531",
@@ -1130,7 +1216,8 @@
       "path": "hat_2017glasses.hat_2017glasses",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_2017Glasses_T"
+      "thumbnail_package": "Hat_2017Glasses_T",
+      "image_path": "images/1531.png"
     },
     {
       "id": "1537",
@@ -1143,7 +1230,8 @@
       "path": "hat_fishbowl.hat_fishbowl",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Fishbowl_T"
+      "thumbnail_package": "Hat_Fishbowl_T",
+      "image_path": "images/1537.png"
     },
     {
       "id": "1569",
@@ -1156,7 +1244,8 @@
       "path": "Hat_Elf.Hat_Elf",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Elf_T"
+      "thumbnail_package": "Hat_Elf_T",
+      "image_path": "images/1569.png"
     },
     {
       "id": "1641",
@@ -1169,7 +1258,8 @@
       "path": "Hat_Chomper.Hat_Chomper",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Chomper_T"
+      "thumbnail_package": "Hat_Chomper_T",
+      "image_path": "images/1641.png"
     },
     {
       "id": "1665",
@@ -1182,7 +1272,8 @@
       "path": "Hat_Looper.Hat_Looper_PA",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Hat_Looper_T"
+      "thumbnail_package": "Hat_Looper_T",
+      "image_path": "images/1665.png"
     },
     {
       "id": "1677",
@@ -1195,7 +1286,8 @@
       "path": "hat_bunnyears.hat_bunnyears",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_BunnyEars_T"
+      "thumbnail_package": "Hat_BunnyEars_T",
+      "image_path": "images/1677.png"
     },
     {
       "id": "1678",
@@ -1208,7 +1300,8 @@
       "path": "hat_easterbasket.hat_easterbasket",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "HAT_EasterBasket_T"
+      "thumbnail_package": "HAT_EasterBasket_T",
+      "image_path": "images/1678.png"
     },
     {
       "id": "1725",
@@ -1221,7 +1314,8 @@
       "path": "hat_brows.hat_brows",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Brows_T"
+      "thumbnail_package": "Hat_Brows_T",
+      "image_path": "images/1725.png"
     },
     {
       "id": "1750",
@@ -1234,7 +1328,8 @@
       "path": "hat_grandchampion.hat_grandchampion",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_GrandChampion_T"
+      "thumbnail_package": "Hat_GrandChampion_T",
+      "image_path": "images/1750.png"
     },
     {
       "id": "1973",
@@ -1247,7 +1342,8 @@
       "path": "hat_MrMeeseeks.hat_MrMeeseeks",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_MrMeeseeks_T"
+      "thumbnail_package": "Hat_MrMeeseeks_T",
+      "image_path": "images/1973.png"
     },
     {
       "id": "1977",
@@ -1260,7 +1356,8 @@
       "path": "hat_mrPBH.hat_mrPBH",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_MrPBH_T"
+      "thumbnail_package": "Hat_MrPBH_T",
+      "image_path": "images/1977.png"
     },
     {
       "id": "1984",
@@ -1273,7 +1370,8 @@
       "path": "hat_cromulon.hat_cromulon",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Cromulon_T"
+      "thumbnail_package": "Hat_Cromulon_T",
+      "image_path": "images/1984.png"
     },
     {
       "id": "2028",
@@ -1286,7 +1384,8 @@
       "path": "hat_Latte.hat_Latte",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Latte_T"
+      "thumbnail_package": "Hat_Latte_T",
+      "image_path": "images/2028.png"
     },
     {
       "id": "2032",
@@ -1299,7 +1398,8 @@
       "path": "hat_cowudder.hat_cowudder",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_CowUdder_T"
+      "thumbnail_package": "Hat_CowUdder_T",
+      "image_path": "images/2032.png"
     },
     {
       "id": "2033",
@@ -1312,7 +1412,8 @@
       "path": "hat_Succulents.hat_Succulents",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Succulents_T"
+      "thumbnail_package": "Hat_Succulents_T",
+      "image_path": "images/2033.png"
     },
     {
       "id": "2037",
@@ -1325,7 +1426,8 @@
       "path": "hat_sushi.hat_sushi",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Sushi_T"
+      "thumbnail_package": "Hat_Sushi_T",
+      "image_path": "images/2037.png"
     },
     {
       "id": "2038",
@@ -1338,7 +1440,8 @@
       "path": "hat_UncleSam.hat_UncleSam",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_UncleSam_T"
+      "thumbnail_package": "Hat_UncleSam_T",
+      "image_path": "images/2038.png"
     },
     {
       "id": "2040",
@@ -1351,7 +1454,8 @@
       "path": "hat_butterfly.hat_butterfly",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Butterfly_T"
+      "thumbnail_package": "Hat_Butterfly_T",
+      "image_path": "images/2040.png"
     },
     {
       "id": "2041",
@@ -1364,7 +1468,8 @@
       "path": "hat_heartglasses.hat_heartglasses",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_HeartGlasses_T"
+      "thumbnail_package": "Hat_HeartGlasses_T",
+      "image_path": "images/2041.png"
     },
     {
       "id": "2042",
@@ -1377,7 +1482,8 @@
       "path": "hat_rainbow.hat_rainbow",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Rainbow_T"
+      "thumbnail_package": "Hat_Rainbow_T",
+      "image_path": "images/2042.png"
     },
     {
       "id": "2043",
@@ -1390,7 +1496,8 @@
       "path": "hat_JOS.hat_JOS",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_JOS_T"
+      "thumbnail_package": "Hat_JOS_T",
+      "image_path": "images/2043.png"
     },
     {
       "id": "2046",
@@ -1403,7 +1510,8 @@
       "path": "hat_Surfboard.hat_Surfboard",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Surfboard_T"
+      "thumbnail_package": "Hat_Surfboard_T",
+      "image_path": "images/2046.png"
     },
     {
       "id": "2050",
@@ -1416,7 +1524,8 @@
       "path": "hat_Headphones.hat_Headphones",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "HAT_Headphones_T"
+      "thumbnail_package": "HAT_Headphones_T",
+      "image_path": "images/2050.png"
     },
     {
       "id": "2051",
@@ -1429,7 +1538,8 @@
       "path": "hat_JitB.hat_JitB",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "HAT_JitB_T"
+      "thumbnail_package": "HAT_JitB_T",
+      "image_path": "images/2051.png"
     },
     {
       "id": "2055",
@@ -1442,7 +1552,8 @@
       "path": "hat_avocado.hat_avocado",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Avocado_T"
+      "thumbnail_package": "Hat_Avocado_T",
+      "image_path": "images/2055.png"
     },
     {
       "id": "2056",
@@ -1455,7 +1566,8 @@
       "path": "hat_macaron.hat_macaron",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Macaron_T"
+      "thumbnail_package": "Hat_Macaron_T",
+      "image_path": "images/2056.png"
     },
     {
       "id": "2057",
@@ -1468,7 +1580,8 @@
       "path": "hat_monsterhand.hat_monsterhand",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_MonsterHand_T"
+      "thumbnail_package": "Hat_MonsterHand_T",
+      "image_path": "images/2057.png"
     },
     {
       "id": "2058",
@@ -1481,7 +1594,8 @@
       "path": "hat_SkelGrave.hat_SkelGrave",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_SkelGrave_T"
+      "thumbnail_package": "Hat_SkelGrave_T",
+      "image_path": "images/2058.png"
     },
     {
       "id": "2063",
@@ -1494,7 +1608,8 @@
       "path": "hat_banana.hat_banana",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Banana_T"
+      "thumbnail_package": "Hat_Banana_T",
+      "image_path": "images/2063.png"
     },
     {
       "id": "2064",
@@ -1507,7 +1622,8 @@
       "path": "hat_Stego.hat_Stego",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Stego_T"
+      "thumbnail_package": "Hat_Stego_T",
+      "image_path": "images/2064.png"
     },
     {
       "id": "2065",
@@ -1520,7 +1636,8 @@
       "path": "hat_watermelon.hat_watermelon",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Watermelon_T"
+      "thumbnail_package": "Hat_Watermelon_T",
+      "image_path": "images/2065.png"
     },
     {
       "id": "2069",
@@ -1533,7 +1650,8 @@
       "path": "hat_rooster.hat_rooster",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Rooster_T"
+      "thumbnail_package": "Hat_Rooster_T",
+      "image_path": "images/2069.png"
     },
     {
       "id": "2071",
@@ -1546,7 +1664,8 @@
       "path": "hat_SlidingPenguin.hat_SlidingPenguin",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_SlidingPenguin_T"
+      "thumbnail_package": "Hat_SlidingPenguin_T",
+      "image_path": "images/2071.png"
     },
     {
       "id": "2072",
@@ -1559,7 +1678,8 @@
       "path": "hat_Archer.hat_Archer",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "HAT_Archer_T"
+      "thumbnail_package": "HAT_Archer_T",
+      "image_path": "images/2072.png"
     },
     {
       "id": "2073",
@@ -1572,7 +1692,8 @@
       "path": "hat_dragonwings.hat_dragonwings",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_DragonWings_T"
+      "thumbnail_package": "Hat_DragonWings_T",
+      "image_path": "images/2073.png"
     },
     {
       "id": "2076",
@@ -1585,7 +1706,8 @@
       "path": "hat_Catfish.hat_Catfish",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Catfish_T"
+      "thumbnail_package": "Hat_Catfish_T",
+      "image_path": "images/2076.png"
     },
     {
       "id": "2077",
@@ -1598,7 +1720,8 @@
       "path": "hat_Lei.hat_Lei",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Lei_T"
+      "thumbnail_package": "Hat_Lei_T",
+      "image_path": "images/2077.png"
     },
     {
       "id": "2078",
@@ -1611,7 +1734,8 @@
       "path": "hat_strawberry.hat_strawberry",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Strawberry_T"
+      "thumbnail_package": "Hat_Strawberry_T",
+      "image_path": "images/2078.png"
     },
     {
       "id": "2084",
@@ -1624,7 +1748,8 @@
       "path": "hat_jalapeno.hat_jalapeno",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Jalapeno_T"
+      "thumbnail_package": "Hat_Jalapeno_T",
+      "image_path": "images/2084.png"
     },
     {
       "id": "2154",
@@ -1637,7 +1762,8 @@
       "path": "hat_bearheart.hat_bearheart",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_BearHeart_T"
+      "thumbnail_package": "Hat_BearHeart_T",
+      "image_path": "images/2154.png"
     },
     {
       "id": "2247",
@@ -1650,7 +1776,8 @@
       "path": "hat_cherry.hat_cherry",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Cherry_T"
+      "thumbnail_package": "Hat_Cherry_T",
+      "image_path": "images/2247.png"
     },
     {
       "id": "2248",
@@ -1663,7 +1790,8 @@
       "path": "hat_hotdog.hat_hotdog",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Hotdog_T"
+      "thumbnail_package": "Hat_Hotdog_T",
+      "image_path": "images/2248.png"
     },
     {
       "id": "2249",
@@ -1676,7 +1804,8 @@
       "path": "hat_octopus.hat_octopus",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Octopus_T"
+      "thumbnail_package": "Hat_Octopus_T",
+      "image_path": "images/2249.png"
     },
     {
       "id": "2271",
@@ -1689,7 +1818,8 @@
       "path": "hat_pancakestack.hat_pancakestack",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_PancakeStack_T"
+      "thumbnail_package": "Hat_PancakeStack_T",
+      "image_path": "images/2271.png"
     },
     {
       "id": "2272",
@@ -1702,7 +1832,8 @@
       "path": "hat_ranger.hat_ranger",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Ranger_T"
+      "thumbnail_package": "Hat_Ranger_T",
+      "image_path": "images/2272.png"
     },
     {
       "id": "2283",
@@ -1715,7 +1846,8 @@
       "path": "hat_presentbow.hat_presentbow",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_PresentBow_T"
+      "thumbnail_package": "Hat_PresentBow_T",
+      "image_path": "images/2283.png"
     },
     {
       "id": "2318",
@@ -1728,7 +1860,8 @@
       "path": "hat_angelwings.hat_angelwings",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_AngelWings_T"
+      "thumbnail_package": "Hat_AngelWings_T",
+      "image_path": "images/2318.png"
     },
     {
       "id": "2319",
@@ -1741,7 +1874,8 @@
       "path": "hat_christmas_tree.hat_christmas_tree",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Christmas_Tree_T"
+      "thumbnail_package": "Hat_Christmas_Tree_T",
+      "image_path": "images/2319.png"
     },
     {
       "id": "2351",
@@ -1754,7 +1888,8 @@
       "path": "hat_snowboard_rack.hat_snowboard_rack",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Snowboard_Rack_T"
+      "thumbnail_package": "Hat_Snowboard_Rack_T",
+      "image_path": "images/2351.png"
     },
     {
       "id": "2377",
@@ -1767,7 +1902,8 @@
       "path": "hat_cargoyle.hat_cargoyle",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Cargoyle_T"
+      "thumbnail_package": "Hat_Cargoyle_T",
+      "image_path": "images/2377.png"
     },
     {
       "id": "2395",
@@ -1780,7 +1916,8 @@
       "path": "hat_babyelephant.hat_babyelephant",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_BabyElephant_T"
+      "thumbnail_package": "Hat_BabyElephant_T",
+      "image_path": "images/2395.png"
     },
     {
       "id": "2443",
@@ -1793,7 +1930,8 @@
       "path": "hat_babysloth.hat_babysloth",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_BabySloth_T"
+      "thumbnail_package": "Hat_BabySloth_T",
+      "image_path": "images/2443.png"
     },
     {
       "id": "2464",
@@ -1806,7 +1944,8 @@
       "path": "hat_babyowl.hat_babyowl",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_BabyOwl_T"
+      "thumbnail_package": "Hat_BabyOwl_T",
+      "image_path": "images/2464.png"
     },
     {
       "id": "2467",
@@ -1819,7 +1958,8 @@
       "path": "hat_babycow.hat_babycow",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_BabyCow_T"
+      "thumbnail_package": "Hat_BabyCow_T",
+      "image_path": "images/2467.png"
     },
     {
       "id": "2468",
@@ -1832,7 +1972,8 @@
       "path": "hat_babyrabbit.hat_babyrabbit",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_BabyRabbit_T"
+      "thumbnail_package": "Hat_BabyRabbit_T",
+      "image_path": "images/2468.png"
     },
     {
       "id": "2473",
@@ -1845,7 +1986,8 @@
       "path": "hat_babydog.hat_babydog",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_BabyDog_T"
+      "thumbnail_package": "Hat_BabyDog_T",
+      "image_path": "images/2473.png"
     },
     {
       "id": "2516",
@@ -1858,7 +2000,8 @@
       "path": "hat_battleaxe.hat_battleaxe",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Battleaxe_T"
+      "thumbnail_package": "Hat_Battleaxe_T",
+      "image_path": "images/2516.png"
     },
     {
       "id": "2559",
@@ -1871,7 +2014,8 @@
       "path": "hat_pineapple.hat_pineapple",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Pineapple_T"
+      "thumbnail_package": "Hat_Pineapple_T",
+      "image_path": "images/2559.png"
     },
     {
       "id": "2577",
@@ -1884,7 +2028,8 @@
       "path": "hat_luckycat.hat_luckycat",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Luckycat_T"
+      "thumbnail_package": "Hat_Luckycat_T",
+      "image_path": "images/2577.png"
     },
     {
       "id": "2584",
@@ -1897,7 +2042,8 @@
       "path": "hat_camera.hat_camera",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Camera_T"
+      "thumbnail_package": "Hat_Camera_T",
+      "image_path": "images/2584.png"
     },
     {
       "id": "2587",
@@ -1910,7 +2056,8 @@
       "path": "hat_alarmclock.hat_alarmclock",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_AlarmClock_T"
+      "thumbnail_package": "Hat_AlarmClock_T",
+      "image_path": "images/2587.png"
     },
     {
       "id": "2608",
@@ -1923,7 +2070,8 @@
       "path": "Hat_goldfish.Hat_goldfish",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Goldfish_T"
+      "thumbnail_package": "Hat_Goldfish_T",
+      "image_path": "images/2608.png"
     },
     {
       "id": "2615",
@@ -1936,7 +2084,8 @@
       "path": "Hat_TurtleShell.Hat_TurtleShell",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_TurtleShell_T"
+      "thumbnail_package": "Hat_TurtleShell_T",
+      "image_path": "images/2615.png"
     },
     {
       "id": "2648",
@@ -1949,7 +2098,8 @@
       "path": "hat_cutlass.hat_cutlass",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_cutlass_T"
+      "thumbnail_package": "hat_cutlass_T",
+      "image_path": "images/2648.png"
     },
     {
       "id": "2692",
@@ -1962,7 +2112,8 @@
       "path": "hat_planet_jupiter.hat_planet_jupiter",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Planet_Jupiter_T"
+      "thumbnail_package": "Hat_Planet_Jupiter_T",
+      "image_path": "images/2692.png"
     },
     {
       "id": "2728",
@@ -1975,7 +2126,8 @@
       "path": "hat_happyaccident.Hat_HappyAccident_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_HappyAccident_T"
+      "thumbnail_package": "Hat_HappyAccident_T",
+      "image_path": "images/2728.png"
     },
     {
       "id": "2739",
@@ -1988,7 +2140,8 @@
       "path": "hat_muffin.hat_muffin",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Muffin_T"
+      "thumbnail_package": "Hat_Muffin_T",
+      "image_path": "images/2739.png"
     },
     {
       "id": "2740",
@@ -2001,7 +2154,8 @@
       "path": "hat_nuttrophy.hat_nuttrophy",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_NutTrophy_T"
+      "thumbnail_package": "Hat_NutTrophy_T",
+      "image_path": "images/2740.png"
     },
     {
       "id": "2749",
@@ -2014,7 +2168,8 @@
       "path": "hat_dizzybirds.hat_dizzybirds",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_DizzyBirds_T"
+      "thumbnail_package": "Hat_DizzyBirds_T",
+      "image_path": "images/2749.png"
     },
     {
       "id": "2786",
@@ -2027,7 +2182,8 @@
       "path": "hat_raft.hat_raft",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Raft_T"
+      "thumbnail_package": "Hat_Raft_T",
+      "image_path": "images/2786.png"
     },
     {
       "id": "2787",
@@ -2040,7 +2196,8 @@
       "path": "hat_coconuttree.hat_coconuttree",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_CoconutTree_T"
+      "thumbnail_package": "Hat_CoconutTree_T",
+      "image_path": "images/2787.png"
     },
     {
       "id": "2792",
@@ -2053,7 +2210,8 @@
       "path": "hat_kingdom.hat_kingdom",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Kingdom_T"
+      "thumbnail_package": "Hat_Kingdom_T",
+      "image_path": "images/2792.png"
     },
     {
       "id": "2804",
@@ -2066,7 +2224,8 @@
       "path": "hat_crystalball.hat_crystalball",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_CrystalBall_T"
+      "thumbnail_package": "Hat_CrystalBall_T",
+      "image_path": "images/2804.png"
     },
     {
       "id": "2809",
@@ -2079,7 +2238,8 @@
       "path": "Hat_sickreads.Hat_sickreads",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_SickReads_T"
+      "thumbnail_package": "Hat_SickReads_T",
+      "image_path": "images/2809.png"
     },
     {
       "id": "2813",
@@ -2092,7 +2252,8 @@
       "path": "hat_kayak.hat_kayak",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Kayak_T"
+      "thumbnail_package": "Hat_Kayak_T",
+      "image_path": "images/2813.png"
     },
     {
       "id": "2814",
@@ -2105,7 +2266,8 @@
       "path": "Hat_Stuffed_Panda.Hat_Stuffed_Panda",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Stuffed_Panda_T"
+      "thumbnail_package": "Hat_Stuffed_Panda_T",
+      "image_path": "images/2814.png"
     },
     {
       "id": "2815",
@@ -2118,7 +2280,8 @@
       "path": "hat_whaleplush.hat_whaleplush",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_WhalePlush_T"
+      "thumbnail_package": "Hat_WhalePlush_T",
+      "image_path": "images/2815.png"
     },
     {
       "id": "2816",
@@ -2131,7 +2294,8 @@
       "path": "hat_bumblebee.hat_bumblebee",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Bumblebee_T"
+      "thumbnail_package": "Hat_Bumblebee_T",
+      "image_path": "images/2816.png"
     },
     {
       "id": "2823",
@@ -2144,7 +2308,8 @@
       "path": "hat_circlet.hat_circlet",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Circlet_T"
+      "thumbnail_package": "Hat_Circlet_T",
+      "image_path": "images/2823.png"
     },
     {
       "id": "2824",
@@ -2157,7 +2322,8 @@
       "path": "hat_greatwhiteshark.hat_greatwhiteshark",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_GreatWhiteShark_T"
+      "thumbnail_package": "Hat_GreatWhiteShark_T",
+      "image_path": "images/2824.png"
     },
     {
       "id": "2826",
@@ -2170,7 +2336,8 @@
       "path": "hat_boxofchocolates.hat_boxofchocolates",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_BoxOfChocolates_T"
+      "thumbnail_package": "Hat_BoxOfChocolates_T",
+      "image_path": "images/2826.png"
     },
     {
       "id": "2829",
@@ -2183,7 +2350,8 @@
       "path": "hat_hammerheadshark.hat_hammerheadshark",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_HammerheadShark_T"
+      "thumbnail_package": "Hat_HammerheadShark_T",
+      "image_path": "images/2829.png"
     },
     {
       "id": "2830",
@@ -2196,7 +2364,8 @@
       "path": "hat_cat_in_cup.hat_cat_in_cup",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Cat_in_cup_T"
+      "thumbnail_package": "Hat_Cat_in_cup_T",
+      "image_path": "images/2830.png"
     },
     {
       "id": "2838",
@@ -2209,7 +2378,8 @@
       "path": "hat_sandcastle.hat_sandcastle",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Sandcastle_T"
+      "thumbnail_package": "Hat_Sandcastle_T",
+      "image_path": "images/2838.png"
     },
     {
       "id": "2881",
@@ -2222,7 +2392,8 @@
       "path": "hat_cutecrab.hat_cutecrab",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_CuteCrab_T"
+      "thumbnail_package": "Hat_CuteCrab_T",
+      "image_path": "images/2881.png"
     },
     {
       "id": "2882",
@@ -2235,7 +2406,8 @@
       "path": "hat_manta_ray.hat_manta_ray",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Manta_Ray_T"
+      "thumbnail_package": "Hat_Manta_Ray_T",
+      "image_path": "images/2882.png"
     },
     {
       "id": "2883",
@@ -2248,7 +2420,8 @@
       "path": "hat_snail.hat_snail",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Snail_T"
+      "thumbnail_package": "Hat_Snail_T",
+      "image_path": "images/2883.png"
     },
     {
       "id": "2913",
@@ -2261,7 +2434,8 @@
       "path": "hat_seaturtleegg.hat_seaturtleegg",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_SeaTurtleEgg_T"
+      "thumbnail_package": "Hat_SeaTurtleEgg_T",
+      "image_path": "images/2913.png"
     },
     {
       "id": "2929",
@@ -2274,7 +2448,8 @@
       "path": "hat_seaturtle.hat_seaturtle",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_seaturtle_T"
+      "thumbnail_package": "hat_seaturtle_T",
+      "image_path": "images/2929.png"
     },
     {
       "id": "2941",
@@ -2287,7 +2462,8 @@
       "path": "Hat_unicorn.Hat_unicorn",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_unicorn_T"
+      "thumbnail_package": "hat_unicorn_T",
+      "image_path": "images/2941.png"
     },
     {
       "id": "2959",
@@ -2300,7 +2476,8 @@
       "path": "hat_10yr_anniversary_cake.hat_10yr_anniversary_cake",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_10yr_Anniversary_Cake_T"
+      "thumbnail_package": "Hat_10yr_Anniversary_Cake_T",
+      "image_path": "images/2959.png"
     },
     {
       "id": "2960",
@@ -2313,7 +2490,8 @@
       "path": "hat_10yr_birthday_hat.hat_10yr_birthday_hat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_10yr_Birthday_Hat_T"
+      "thumbnail_package": "Hat_10yr_Birthday_Hat_T",
+      "image_path": "images/2960.png"
     },
     {
       "id": "2976",
@@ -2326,7 +2504,8 @@
       "path": "Hat_Hardhat_Wood.Hat_Hardhat_Wood",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Hardhat_Wood_T"
+      "thumbnail_package": "Hat_Hardhat_Wood_T",
+      "image_path": "images/2976.png"
     },
     {
       "id": "2981",
@@ -2339,7 +2518,8 @@
       "path": "hat_safari_wood.hat_safari_wood",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Safari_Wood_T"
+      "thumbnail_package": "Hat_Safari_Wood_T",
+      "image_path": "images/2981.png"
     },
     {
       "id": "3095",
@@ -2352,7 +2532,8 @@
       "path": "hat_LFT.hat_LFT",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_LFT_T"
+      "thumbnail_package": "Hat_LFT_T",
+      "image_path": "images/3095.png"
     },
     {
       "id": "3096",
@@ -2365,7 +2546,8 @@
       "path": "hat_drippy.hat_drippy",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_drippy_T"
+      "thumbnail_package": "hat_drippy_T",
+      "image_path": "images/3096.png"
     },
     {
       "id": "3132",
@@ -2378,7 +2560,8 @@
       "path": "hat_electring_Tier1.hat_electring_Tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Electring_Tier1_T"
+      "thumbnail_package": "Hat_Electring_Tier1_T",
+      "image_path": "images/3132.png"
     },
     {
       "id": "3133",
@@ -2391,7 +2574,8 @@
       "path": "hat_electring_Tier2.hat_electring_Tier2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Electring_Tier2_T"
+      "thumbnail_package": "Hat_Electring_Tier2_T",
+      "image_path": "images/3133.png"
     },
     {
       "id": "3134",
@@ -2404,7 +2588,8 @@
       "path": "hat_electring_Tier3.hat_electring_Tier3",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Electring_Tier3_T"
+      "thumbnail_package": "Hat_Electring_Tier3_T",
+      "image_path": "images/3134.png"
     },
     {
       "id": "3135",
@@ -2417,7 +2602,8 @@
       "path": "hat_PhoenixWings_Tier1.hat_PhoenixWings_Tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_PhoenixWings_Tier1_T"
+      "thumbnail_package": "Hat_PhoenixWings_Tier1_T",
+      "image_path": "images/3135.png"
     },
     {
       "id": "3136",
@@ -2430,7 +2616,8 @@
       "path": "hat_PhoenixWings_Tier2.hat_PhoenixWings_Tier2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_PhoenixWings_Tier2_T"
+      "thumbnail_package": "Hat_PhoenixWings_Tier2_T",
+      "image_path": "images/3136.png"
     },
     {
       "id": "3137",
@@ -2443,7 +2630,8 @@
       "path": "hat_PhoenixWings_Tier3.hat_PhoenixWings_Tier3",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_PhoenixWings_Tier3_T"
+      "thumbnail_package": "Hat_PhoenixWings_Tier3_T",
+      "image_path": "images/3137.png"
     },
     {
       "id": "3308",
@@ -2456,7 +2644,8 @@
       "path": "hat_Onem.hat_Onem",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_Onem_T"
+      "thumbnail_package": "Hat_Onem_T",
+      "image_path": "images/3308.png"
     },
     {
       "id": "3309",
@@ -2469,7 +2658,8 @@
       "path": "hat_Snem.hat_Snem",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_Snem_T"
+      "thumbnail_package": "Hat_Snem_T",
+      "image_path": "images/3309.png"
     },
     {
       "id": "3364",
@@ -2482,7 +2672,8 @@
       "path": "hat_Gnem.hat_Gnem",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_Gnem_T"
+      "thumbnail_package": "Hat_Gnem_T",
+      "image_path": "images/3364.png"
     },
     {
       "id": "3374",
@@ -2495,7 +2686,8 @@
       "path": "hat_juicebox.hat_juicebox",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_JuiceBox_T"
+      "thumbnail_package": "hat_JuiceBox_T",
+      "image_path": "images/3374.png"
     },
     {
       "id": "3375",
@@ -2508,7 +2700,8 @@
       "path": "hat_pset.hat_pset",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Pset_T"
+      "thumbnail_package": "Hat_Pset_T",
+      "image_path": "images/3375.png"
     },
     {
       "id": "3376",
@@ -2521,7 +2714,8 @@
       "path": "hat_saltshaker.hat_saltshaker",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_SaltShaker_T"
+      "thumbnail_package": "hat_SaltShaker_T",
+      "image_path": "images/3376.png"
     },
     {
       "id": "3379",
@@ -2534,7 +2728,8 @@
       "path": "hat_snare.hat_snare",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Snare_T"
+      "thumbnail_package": "hat_Snare_T",
+      "image_path": "images/3379.png"
     },
     {
       "id": "3396",
@@ -2547,7 +2742,8 @@
       "path": "hat_mc.hat_mc",
       "quality_id": 9,
       "paintable": false,
-      "thumbnail_package": "Hat_MC_T"
+      "thumbnail_package": "Hat_MC_T",
+      "image_path": "images/3396.png"
     },
     {
       "id": "3420",
@@ -2560,7 +2756,8 @@
       "path": "hat_rocket.hat_rocket",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Rocket_T"
+      "thumbnail_package": "Hat_Rocket_T",
+      "image_path": "images/3420.png"
     },
     {
       "id": "3440",
@@ -2573,7 +2770,8 @@
       "path": "hat_pail.hat_pail",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Pail_T"
+      "thumbnail_package": "Hat_Pail_T",
+      "image_path": "images/3440.png"
     },
     {
       "id": "3446",
@@ -2586,7 +2784,8 @@
       "path": "hat_hauntedhouse.hat_hauntedhouse",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_HauntedHouse_T"
+      "thumbnail_package": "Hat_HauntedHouse_T",
+      "image_path": "images/3446.png"
     },
     {
       "id": "3466",
@@ -2599,7 +2798,8 @@
       "path": "hat_voodooskull.hat_voodooskull",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_VooDooSkull_T"
+      "thumbnail_package": "Hat_VooDooSkull_T",
+      "image_path": "images/3466.png"
     },
     {
       "id": "3486",
@@ -2612,7 +2812,8 @@
       "path": "hat_christmas_mug.hat_christmas_mug",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Christmas_Mug_T"
+      "thumbnail_package": "hat_Christmas_Mug_T",
+      "image_path": "images/3486.png"
     },
     {
       "id": "3494",
@@ -2625,7 +2826,8 @@
       "path": "hat_arrows.hat_arrows",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Arrows_T"
+      "thumbnail_package": "Hat_Arrows_T",
+      "image_path": "images/3494.png"
     },
     {
       "id": "3498",
@@ -2638,7 +2840,8 @@
       "path": "hat_gingerbreadhouse.hat_gingerbreadhouse",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_GingerbreadHouse_T"
+      "thumbnail_package": "hat_GingerbreadHouse_T",
+      "image_path": "images/3498.png"
     },
     {
       "id": "3508",
@@ -2651,7 +2854,8 @@
       "path": "hat_happynewyear.hat_happynewyear",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_HappyNewYear_T"
+      "thumbnail_package": "hat_HappyNewYear_T",
+      "image_path": "images/3508.png"
     },
     {
       "id": "3514",
@@ -2664,7 +2868,8 @@
       "path": "hat_sled.hat_sled",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Sled_T"
+      "thumbnail_package": "hat_Sled_T",
+      "image_path": "images/3514.png"
     },
     {
       "id": "3547",
@@ -2677,7 +2882,8 @@
       "path": "hat_tophat_metal.hat_tophat_metal",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_TopHat_Metal_T"
+      "thumbnail_package": "Hat_TopHat_Metal_T",
+      "image_path": "images/3547.png"
     },
     {
       "id": "3567",
@@ -2690,7 +2896,8 @@
       "path": "hat_lava.hat_lava",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Lava_T"
+      "thumbnail_package": "Hat_Lava_T",
+      "image_path": "images/3567.png"
     },
     {
       "id": "3568",
@@ -2703,7 +2910,8 @@
       "path": "hat_lava.Hat_Lava_Tier2",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Lava_T"
+      "thumbnail_package": "Hat_Lava_T",
+      "image_path": "images/3568.png"
     },
     {
       "id": "3590",
@@ -2716,7 +2924,8 @@
       "path": "Hat_Drone_Tier01.Hat_Drone_Tier01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Drone_Tier01_T"
+      "thumbnail_package": "Hat_Drone_Tier01_T",
+      "image_path": "images/3590.png"
     },
     {
       "id": "3591",
@@ -2729,7 +2938,8 @@
       "path": "Hat_Drone_Tier02.Hat_Drone_Tier02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Drone_Tier02_T"
+      "thumbnail_package": "Hat_Drone_Tier02_T",
+      "image_path": "images/3591.png"
     },
     {
       "id": "3592",
@@ -2742,7 +2952,8 @@
       "path": "Hat_Drone_Tier03.Hat_Drone_Tier03",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Drone_Tier03_T"
+      "thumbnail_package": "Hat_Drone_Tier03_T",
+      "image_path": "images/3592.png"
     },
     {
       "id": "3621",
@@ -2755,7 +2966,8 @@
       "path": "hat_paperdragon.hat_paperdragon",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_PaperDragon_T"
+      "thumbnail_package": "Hat_PaperDragon_T",
+      "image_path": "images/3621.png"
     },
     {
       "id": "3688",
@@ -2768,7 +2980,8 @@
       "path": "hat_flyingcarpet.hat_flyingcarpet",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_FlyingCarpet_T"
+      "thumbnail_package": "Hat_FlyingCarpet_T",
+      "image_path": "images/3688.png"
     },
     {
       "id": "3697",
@@ -2781,7 +2994,8 @@
       "path": "hat_lunchbox.hat_lunchbox",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Lunchbox_T"
+      "thumbnail_package": "hat_Lunchbox_T",
+      "image_path": "images/3697.png"
     },
     {
       "id": "3705",
@@ -2794,7 +3008,8 @@
       "path": "hat_tangerine.hat_tangerine",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Tangerine_T"
+      "thumbnail_package": "hat_Tangerine_T",
+      "image_path": "images/3705.png"
     },
     {
       "id": "3712",
@@ -2807,7 +3022,8 @@
       "path": "hat_arz.hat_arz",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_ARZ_T"
+      "thumbnail_package": "Hat_ARZ_T",
+      "image_path": "images/3712.png"
     },
     {
       "id": "3713",
@@ -2820,7 +3036,8 @@
       "path": "hat_atl.hat_atl",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_ATL_T"
+      "thumbnail_package": "Hat_ATL_T",
+      "image_path": "images/3713.png"
     },
     {
       "id": "3714",
@@ -2833,7 +3050,8 @@
       "path": "hat_bal.hat_bal",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_BAL_T"
+      "thumbnail_package": "Hat_BAL_T",
+      "image_path": "images/3714.png"
     },
     {
       "id": "3715",
@@ -2846,7 +3064,8 @@
       "path": "hat_bos.hat_bos",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_BOS_T"
+      "thumbnail_package": "Hat_BOS_T",
+      "image_path": "images/3715.png"
     },
     {
       "id": "3717",
@@ -2859,7 +3078,8 @@
       "path": "hat_cin.hat_cin",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_CIN_T"
+      "thumbnail_package": "Hat_CIN_T",
+      "image_path": "images/3717.png"
     },
     {
       "id": "3718",
@@ -2872,7 +3092,8 @@
       "path": "hat_cle.hat_cle",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_CLE_T"
+      "thumbnail_package": "Hat_CLE_T",
+      "image_path": "images/3718.png"
     },
     {
       "id": "3719",
@@ -2885,7 +3106,8 @@
       "path": "hat_col.hat_col",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_COL_T"
+      "thumbnail_package": "Hat_COL_T",
+      "image_path": "images/3719.png"
     },
     {
       "id": "3721",
@@ -2898,7 +3120,8 @@
       "path": "hat_det.hat_det",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_DET_T"
+      "thumbnail_package": "Hat_DET_T",
+      "image_path": "images/3721.png"
     },
     {
       "id": "3722",
@@ -2911,7 +3134,8 @@
       "path": "hat_fla.hat_fla",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_FLA_T"
+      "thumbnail_package": "Hat_FLA_T",
+      "image_path": "images/3722.png"
     },
     {
       "id": "3723",
@@ -2924,7 +3148,8 @@
       "path": "hat_hou.hat_hou",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_HOU_T"
+      "thumbnail_package": "Hat_HOU_T",
+      "image_path": "images/3723.png"
     },
     {
       "id": "3724",
@@ -2937,7 +3162,8 @@
       "path": "hat_kc.hat_kc",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_KC_T"
+      "thumbnail_package": "Hat_KC_T",
+      "image_path": "images/3724.png"
     },
     {
       "id": "3727",
@@ -2950,7 +3176,8 @@
       "path": "hat_mil.hat_mil",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_MIL_T"
+      "thumbnail_package": "Hat_MIL_T",
+      "image_path": "images/3727.png"
     },
     {
       "id": "3728",
@@ -2963,7 +3190,8 @@
       "path": "hat_min.hat_min",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_MIN_T"
+      "thumbnail_package": "Hat_MIN_T",
+      "image_path": "images/3728.png"
     },
     {
       "id": "3731",
@@ -2976,7 +3204,8 @@
       "path": "hat_oak.hat_oak",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_OAK_T"
+      "thumbnail_package": "Hat_OAK_T",
+      "image_path": "images/3731.png"
     },
     {
       "id": "3732",
@@ -2989,7 +3218,8 @@
       "path": "hat_phil.hat_phil",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_PHIL_T"
+      "thumbnail_package": "Hat_PHIL_T",
+      "image_path": "images/3732.png"
     },
     {
       "id": "3733",
@@ -3002,7 +3232,8 @@
       "path": "hat_pit.hat_pit",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_PIT_T"
+      "thumbnail_package": "Hat_PIT_T",
+      "image_path": "images/3733.png"
     },
     {
       "id": "3734",
@@ -3015,7 +3246,8 @@
       "path": "hat_sd.hat_sd",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_SD_T"
+      "thumbnail_package": "Hat_SD_T",
+      "image_path": "images/3734.png"
     },
     {
       "id": "3735",
@@ -3028,7 +3260,8 @@
       "path": "hat_sea.hat_sea",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_SEA_T"
+      "thumbnail_package": "Hat_SEA_T",
+      "image_path": "images/3735.png"
     },
     {
       "id": "3736",
@@ -3041,7 +3274,8 @@
       "path": "hat_sf.hat_sf",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_SF_T"
+      "thumbnail_package": "Hat_SF_T",
+      "image_path": "images/3736.png"
     },
     {
       "id": "3737",
@@ -3054,7 +3288,8 @@
       "path": "hat_stl.hat_stl",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_STL_T"
+      "thumbnail_package": "Hat_STL_T",
+      "image_path": "images/3737.png"
     },
     {
       "id": "3738",
@@ -3067,7 +3302,8 @@
       "path": "hat_tb.hat_tb",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_TB_T"
+      "thumbnail_package": "Hat_TB_T",
+      "image_path": "images/3738.png"
     },
     {
       "id": "3739",
@@ -3080,7 +3316,8 @@
       "path": "hat_tex.hat_tex",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_TEX_T"
+      "thumbnail_package": "Hat_TEX_T",
+      "image_path": "images/3739.png"
     },
     {
       "id": "3740",
@@ -3093,7 +3330,8 @@
       "path": "hat_tor.hat_tor",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_TOR_T"
+      "thumbnail_package": "Hat_TOR_T",
+      "image_path": "images/3740.png"
     },
     {
       "id": "3741",
@@ -3106,7 +3344,8 @@
       "path": "hat_smore.hat_smore",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Smore_T"
+      "thumbnail_package": "Hat_Smore_T",
+      "image_path": "images/3741.png"
     },
     {
       "id": "3745",
@@ -3119,7 +3358,8 @@
       "path": "hat_was.hat_was",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_WAS_T"
+      "thumbnail_package": "Hat_WAS_T",
+      "image_path": "images/3745.png"
     },
     {
       "id": "3750",
@@ -3132,7 +3372,8 @@
       "path": "hat_golfbag.hat_golfbag",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_GolfBag_T"
+      "thumbnail_package": "Hat_GolfBag_T",
+      "image_path": "images/3750.png"
     },
     {
       "id": "3754",
@@ -3145,7 +3386,8 @@
       "path": "hat_checkers.hat_checkers",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_checkers_T"
+      "thumbnail_package": "hat_checkers_T",
+      "image_path": "images/3754.png"
     },
     {
       "id": "3755",
@@ -3158,7 +3400,8 @@
       "path": "hat_chess.hat_chess",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_chess_T"
+      "thumbnail_package": "hat_chess_T",
+      "image_path": "images/3755.png"
     },
     {
       "id": "3756",
@@ -3171,7 +3414,8 @@
       "path": "hat_lanterns.hat_lanterns",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Lanterns_T"
+      "thumbnail_package": "Hat_Lanterns_T",
+      "image_path": "images/3756.png"
     },
     {
       "id": "3757",
@@ -3184,7 +3428,8 @@
       "path": "hat_periscope.hat_periscope",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Periscope_T"
+      "thumbnail_package": "hat_Periscope_T",
+      "image_path": "images/3757.png"
     },
     {
       "id": "3805",
@@ -3197,7 +3442,8 @@
       "path": "hat_shamrock.hat_shamrock",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Shamrock_T"
+      "thumbnail_package": "hat_Shamrock_T",
+      "image_path": "images/3805.png"
     },
     {
       "id": "3807",
@@ -3210,7 +3456,8 @@
       "path": "hat_lotus.hat_lotus",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Lotus_T"
+      "thumbnail_package": "hat_Lotus_T",
+      "image_path": "images/3807.png"
     },
     {
       "id": "3810",
@@ -3223,7 +3470,8 @@
       "path": "hat_starfish.hat_starfish",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Starfish_T"
+      "thumbnail_package": "hat_Starfish_T",
+      "image_path": "images/3810.png"
     },
     {
       "id": "3811",
@@ -3236,7 +3484,8 @@
       "path": "hat_taxibanner.hat_taxibanner",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_TaxiBanner_T"
+      "thumbnail_package": "hat_TaxiBanner_T",
+      "image_path": "images/3811.png"
     },
     {
       "id": "3813",
@@ -3249,7 +3498,8 @@
       "path": "hat_obelisk.hat_obelisk",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Obelisk_T"
+      "thumbnail_package": "hat_Obelisk_T",
+      "image_path": "images/3813.png"
     },
     {
       "id": "3835",
@@ -3262,7 +3512,8 @@
       "path": "hat_kettle.hat_kettle",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Kettle_T"
+      "thumbnail_package": "hat_Kettle_T",
+      "image_path": "images/3835.png"
     },
     {
       "id": "3838",
@@ -3275,7 +3526,8 @@
       "path": "hat_trihorn.hat_trihorn",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Trihorn_T"
+      "thumbnail_package": "hat_Trihorn_T",
+      "image_path": "images/3838.png"
     },
     {
       "id": "3839",
@@ -3288,7 +3540,8 @@
       "path": "hat_tuuk.hat_tuuk",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "hat_Tuuk_T"
+      "thumbnail_package": "hat_Tuuk_T",
+      "image_path": "images/3839.png"
     },
     {
       "id": "3840",
@@ -3301,7 +3554,8 @@
       "path": "hat_gemstone.hat_gemstone",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Gemstone_T"
+      "thumbnail_package": "hat_Gemstone_T",
+      "image_path": "images/3840.png"
     },
     {
       "id": "3845",
@@ -3314,7 +3568,8 @@
       "path": "hat_paddyhat.hat_paddyhat",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Paddyhat_T"
+      "thumbnail_package": "hat_Paddyhat_T",
+      "image_path": "images/3845.png"
     },
     {
       "id": "3851",
@@ -3327,7 +3582,8 @@
       "path": "hat_perriot.hat_perriot",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "hat_Perriot_T"
+      "thumbnail_package": "hat_Perriot_T",
+      "image_path": "images/3851.png"
     },
     {
       "id": "3893",
@@ -3340,7 +3596,8 @@
       "path": "hat_buckethat.hat_buckethat",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_BucketHat_T"
+      "thumbnail_package": "hat_BucketHat_T",
+      "image_path": "images/3893.png"
     },
     {
       "id": "3894",
@@ -3353,7 +3610,8 @@
       "path": "hat_kepi.hat_kepi",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Kepi_T"
+      "thumbnail_package": "hat_Kepi_T",
+      "image_path": "images/3894.png"
     },
     {
       "id": "3895",
@@ -3366,7 +3624,8 @@
       "path": "hat_knitcap.hat_knitcap",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_KnitCap_T"
+      "thumbnail_package": "hat_KnitCap_T",
+      "image_path": "images/3895.png"
     },
     {
       "id": "3903",
@@ -3379,7 +3638,8 @@
       "path": "hat_fishinghat.hat_fishinghat",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_FishingHat_T"
+      "thumbnail_package": "hat_FishingHat_T",
+      "image_path": "images/3903.png"
     },
     {
       "id": "3904",
@@ -3392,7 +3652,8 @@
       "path": "hat_mountainhat.hat_mountainhat",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_MountainHat_T"
+      "thumbnail_package": "hat_MountainHat_T",
+      "image_path": "images/3904.png"
     },
     {
       "id": "3905",
@@ -3405,7 +3666,8 @@
       "path": "hat_sailorhat.hat_sailorhat",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "hat_SailorHat_T"
+      "thumbnail_package": "hat_SailorHat_T",
+      "image_path": "images/3905.png"
     },
     {
       "id": "3907",
@@ -3418,7 +3680,8 @@
       "path": "hat_ufo_tier01.hat_ufo_tier01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_UFO_Tier01_T"
+      "thumbnail_package": "hat_UFO_Tier01_T",
+      "image_path": "images/3907.png"
     },
     {
       "id": "3908",
@@ -3431,7 +3694,8 @@
       "path": "hat_ufo_tier2.hat_ufo_tier2",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_UFO_Tier2_T"
+      "thumbnail_package": "hat_UFO_Tier2_T",
+      "image_path": "images/3908.png"
     },
     {
       "id": "3909",
@@ -3444,7 +3708,8 @@
       "path": "hat_retrophone.hat_retrophone",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_RetroPhone_T"
+      "thumbnail_package": "hat_RetroPhone_T",
+      "image_path": "images/3909.png"
     },
     {
       "id": "3913",
@@ -3457,7 +3722,8 @@
       "path": "hat_cassette.hat_cassette",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Cassette_T"
+      "thumbnail_package": "hat_Cassette_T",
+      "image_path": "images/3913.png"
     },
     {
       "id": "3927",
@@ -3470,7 +3736,8 @@
       "path": "hat_vcr.hat_vcr",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_VCR_T"
+      "thumbnail_package": "hat_VCR_T",
+      "image_path": "images/3927.png"
     },
     {
       "id": "3935",
@@ -3483,7 +3750,8 @@
       "path": "hat_chi1.hat_chi1",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "hat_chi1_T"
+      "thumbnail_package": "hat_chi1_T",
+      "image_path": "images/3935.png"
     },
     {
       "id": "3936",
@@ -3496,7 +3764,8 @@
       "path": "hat_chi2.hat_chi2",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "hat_chi2_T"
+      "thumbnail_package": "hat_chi2_T",
+      "image_path": "images/3936.png"
     },
     {
       "id": "3937",
@@ -3509,7 +3778,8 @@
       "path": "hat_la1.hat_la1",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "hat_la1_T"
+      "thumbnail_package": "hat_la1_T",
+      "image_path": "images/3937.png"
     },
     {
       "id": "3938",
@@ -3522,7 +3792,8 @@
       "path": "hat_la2.hat_la2",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "hat_la2_T"
+      "thumbnail_package": "hat_la2_T",
+      "image_path": "images/3938.png"
     },
     {
       "id": "3939",
@@ -3535,7 +3806,8 @@
       "path": "hat_ny1.hat_ny1",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "hat_ny1_T"
+      "thumbnail_package": "hat_ny1_T",
+      "image_path": "images/3939.png"
     },
     {
       "id": "3940",
@@ -3548,7 +3820,8 @@
       "path": "hat_ny2.hat_ny2",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "hat_ny2_T"
+      "thumbnail_package": "hat_ny2_T",
+      "image_path": "images/3940.png"
     },
     {
       "id": "3941",
@@ -3561,7 +3834,8 @@
       "path": "hat_pixel_pizza.hat_pixel_pizza",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Pixel_Pizza_T"
+      "thumbnail_package": "hat_Pixel_Pizza_T",
+      "image_path": "images/3941.png"
     },
     {
       "id": "3942",
@@ -3574,7 +3848,8 @@
       "path": "pack_bb_hats.pack_bb_hats",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "pack_bb_hats_T"
+      "thumbnail_package": "pack_bb_hats_T",
+      "image_path": "images/3942.png"
     },
     {
       "id": "3950",
@@ -3587,7 +3862,8 @@
       "path": "hat_helmet.hat_helmet",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "hat_Helmet_T"
+      "thumbnail_package": "hat_Helmet_T",
+      "image_path": "images/3950.png"
     },
     {
       "id": "4059",
@@ -3600,7 +3876,8 @@
       "path": "Hat_Daynecake.Hat_Daynecake",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "hat_DayneCake_T"
+      "thumbnail_package": "hat_DayneCake_T",
+      "image_path": "images/4059.png"
     },
     {
       "id": "4069",
@@ -3613,7 +3890,8 @@
       "path": "hat_gullwing.hat_gullwing",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_Gullwing_T"
+      "thumbnail_package": "Hat_Gullwing_T",
+      "image_path": "images/4069.png"
     },
     {
       "id": "4077",
@@ -3626,7 +3904,8 @@
       "path": "hat_october.hat_october",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_October_T"
+      "thumbnail_package": "Hat_October_T",
+      "image_path": "images/4077.png"
     },
     {
       "id": "4168",
@@ -3639,7 +3918,8 @@
       "path": "hat_hboard.hat_hboard",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_HBoard_T"
+      "thumbnail_package": "Hat_HBoard_T",
+      "image_path": "images/4168.png"
     },
     {
       "id": "4178",
@@ -3652,7 +3932,8 @@
       "path": "hat_bfm.hat_bfm",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_BFM_T"
+      "thumbnail_package": "Hat_BFM_T",
+      "image_path": "images/4178.png"
     },
     {
       "id": "4231",
@@ -3665,7 +3946,8 @@
       "path": "hat_kkdh.hat_kkdh",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_KKDH_T"
+      "thumbnail_package": "Hat_KKDH_T",
+      "image_path": "images/4231.png"
     },
     {
       "id": "4243",
@@ -3678,7 +3960,8 @@
       "path": "hat_gsph.hat_gsph",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_gsph_T"
+      "thumbnail_package": "Hat_gsph_T",
+      "image_path": "images/4243.png"
     },
     {
       "id": "4247",
@@ -3691,7 +3974,8 @@
       "path": "hat_icecreamcone.hat_icecreamcone",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_IceCreamCone_T"
+      "thumbnail_package": "Hat_IceCreamCone_T",
+      "image_path": "images/4247.png"
     },
     {
       "id": "4270",
@@ -3704,7 +3988,8 @@
       "path": "hat_al.hat_al",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_AL_T"
+      "thumbnail_package": "Hat_AL_T",
+      "image_path": "images/4270.png"
     },
     {
       "id": "4271",
@@ -3717,7 +4002,8 @@
       "path": "hat_allstar.hat_allstar",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "Hat_Allstar_T"
+      "thumbnail_package": "Hat_Allstar_T",
+      "image_path": "images/4271.png"
     },
     {
       "id": "4272",
@@ -3730,7 +4016,8 @@
       "path": "hat_nl.hat_nl",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NL_T"
+      "thumbnail_package": "Hat_NL_T",
+      "image_path": "images/4272.png"
     },
     {
       "id": "4304",
@@ -3743,7 +4030,8 @@
       "path": "hat_mmg.hat_mmg",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_MMG_T"
+      "thumbnail_package": "Hat_MMG_T",
+      "image_path": "images/4304.png"
     },
     {
       "id": "4308",
@@ -3756,7 +4044,8 @@
       "path": "hat_vt.hat_vt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_VT_T"
+      "thumbnail_package": "Hat_VT_T",
+      "image_path": "images/4308.png"
     },
     {
       "id": "4343",
@@ -3769,7 +4058,8 @@
       "path": "hat_dragonhorns.hat_dragonhorns_tier2",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_DragonHorns_T"
+      "thumbnail_package": "Hat_DragonHorns_T",
+      "image_path": "images/4343.png"
     },
     {
       "id": "4355",
@@ -3782,7 +4072,8 @@
       "path": "hat_camping_roofrack.hat_camping_roofrack",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Camping_RoofRack_T"
+      "thumbnail_package": "hat_Camping_RoofRack_T",
+      "image_path": "images/4355.png"
     },
     {
       "id": "4380",
@@ -3795,7 +4086,8 @@
       "path": "hat_webcam.hat_webcam",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_WebCam_T"
+      "thumbnail_package": "hat_WebCam_T",
+      "image_path": "images/4380.png"
     },
     {
       "id": "4397",
@@ -3808,7 +4100,8 @@
       "path": "hat_lunchbox_01.hat_lunchbox_01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_lunchbox_01_T"
+      "thumbnail_package": "hat_lunchbox_01_T",
+      "image_path": "images/4397.png"
     },
     {
       "id": "4398",
@@ -3821,7 +4114,8 @@
       "path": "hat_lunchbox_02.hat_lunchbox_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_lunchbox_02_T"
+      "thumbnail_package": "hat_lunchbox_02_T",
+      "image_path": "images/4398.png"
     },
     {
       "id": "4399",
@@ -3834,7 +4128,8 @@
       "path": "hat_lunchbox_03.hat_lunchbox_03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_lunchbox_03_T"
+      "thumbnail_package": "hat_lunchbox_03_T",
+      "image_path": "images/4399.png"
     },
     {
       "id": "4400",
@@ -3847,7 +4142,8 @@
       "path": "hat_peanut.hat_peanut",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Peanut_T"
+      "thumbnail_package": "hat_Peanut_T",
+      "image_path": "images/4400.png"
     },
     {
       "id": "4411",
@@ -3860,7 +4156,8 @@
       "path": "hat_tinfoilhat.hat_tinfoilhat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_TinFoilHat_T"
+      "thumbnail_package": "hat_TinFoilHat_T",
+      "image_path": "images/4411.png"
     },
     {
       "id": "4415",
@@ -3873,7 +4170,8 @@
       "path": "hat_gavel.hat_gavel",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Gavel_T"
+      "thumbnail_package": "hat_Gavel_T",
+      "image_path": "images/4415.png"
     },
     {
       "id": "4425",
@@ -3886,7 +4184,8 @@
       "path": "hat_gamepiece.hat_gamepiece",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_GamePiece_T"
+      "thumbnail_package": "hat_GamePiece_T",
+      "image_path": "images/4425.png"
     },
     {
       "id": "4432",
@@ -3899,7 +4198,8 @@
       "path": "hat_cactus_01.hat_cactus_01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_cactus_01_T"
+      "thumbnail_package": "hat_cactus_01_T",
+      "image_path": "images/4432.png"
     },
     {
       "id": "4436",
@@ -3912,7 +4212,8 @@
       "path": "hat_autumn.hat_autumn",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Autumn_T"
+      "thumbnail_package": "Hat_Autumn_T",
+      "image_path": "images/4436.png"
     },
     {
       "id": "4453",
@@ -3925,7 +4226,8 @@
       "path": "hat_dragonhorns.hat_dragonhorns_tier1",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_DragonHorns_T"
+      "thumbnail_package": "Hat_DragonHorns_T",
+      "image_path": "images/4453.png"
     },
     {
       "id": "4466",
@@ -3938,7 +4240,8 @@
       "path": "hat_erlenmeyerflask.hat_erlenmeyerflask",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_ErlenmeyerFlask_T"
+      "thumbnail_package": "Hat_ErlenmeyerFlask_T",
+      "image_path": "images/4466.png"
     },
     {
       "id": "4468",
@@ -3951,7 +4254,8 @@
       "path": "hat_popcorn.hat_popcorn",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_popcorn_T"
+      "thumbnail_package": "Hat_popcorn_T",
+      "image_path": "images/4468.png"
     },
     {
       "id": "4476",
@@ -3964,7 +4268,8 @@
       "path": "hat_toothpaste.hat_toothpaste",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "hat_toothpaste_T"
+      "thumbnail_package": "hat_toothpaste_T",
+      "image_path": "images/4476.png"
     },
     {
       "id": "4504",
@@ -3977,7 +4282,8 @@
       "path": "Hat_Frenchfries.Hat_Frenchfries",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Frenchfries_T"
+      "thumbnail_package": "Hat_Frenchfries_T",
+      "image_path": "images/4504.png"
     },
     {
       "id": "4540",
@@ -3990,7 +4296,8 @@
       "path": "hat_nst_ckw.hat_nst_ckw",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_nst_ckw_T"
+      "thumbnail_package": "hat_nst_ckw_T",
+      "image_path": "images/4540.png"
     },
     {
       "id": "4557",
@@ -4003,7 +4310,8 @@
       "path": "hat_beat.hat_beat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Beat_T"
+      "thumbnail_package": "Hat_Beat_T",
+      "image_path": "images/4557.png"
     },
     {
       "id": "4583",
@@ -4016,7 +4324,8 @@
       "path": "Hat_Bikerack.Hat_Bikerack",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Bikerack_T"
+      "thumbnail_package": "Hat_Bikerack_T",
+      "image_path": "images/4583.png"
     },
     {
       "id": "4595",
@@ -4029,7 +4338,8 @@
       "path": "hat_yotrat.hat_yotrat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_YotRat_T"
+      "thumbnail_package": "Hat_YotRat_T",
+      "image_path": "images/4595.png"
     },
     {
       "id": "4664",
@@ -4042,7 +4352,8 @@
       "path": "hat_package.hat_package",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Package_T"
+      "thumbnail_package": "Hat_Package_T",
+      "image_path": "images/4664.png"
     },
     {
       "id": "4699",
@@ -4055,7 +4366,8 @@
       "path": "hat_recordcrate.hat_recordcrate",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_RecordCrate_T"
+      "thumbnail_package": "Hat_RecordCrate_T",
+      "image_path": "images/4699.png"
     },
     {
       "id": "4727",
@@ -4068,7 +4380,8 @@
       "path": "hat_accordion.hat_accordion",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Accordion_T"
+      "thumbnail_package": "hat_Accordion_T",
+      "image_path": "images/4727.png"
     },
     {
       "id": "4734",
@@ -4081,7 +4394,8 @@
       "path": "hat_djset.hat_djset",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_DjSet_T"
+      "thumbnail_package": "hat_DjSet_T",
+      "image_path": "images/4734.png"
     },
     {
       "id": "4769",
@@ -4094,7 +4408,8 @@
       "path": "hat_eggcarton.hat_eggcarton",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_EggCarton_T"
+      "thumbnail_package": "Hat_EggCarton_T",
+      "image_path": "images/4769.png"
     },
     {
       "id": "4772",
@@ -4107,7 +4422,8 @@
       "path": "hat_fnlp.hat_fnlp",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_FNLP_T"
+      "thumbnail_package": "Hat_FNLP_T",
+      "image_path": "images/4772.png"
     },
     {
       "id": "4775",
@@ -4120,7 +4436,8 @@
       "path": "Hat_DWI.Hat_DWI",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_DWI_T"
+      "thumbnail_package": "Hat_DWI_T",
+      "image_path": "images/4775.png"
     },
     {
       "id": "4776",
@@ -4133,7 +4450,8 @@
       "path": "Hat_Mohawk.Hat_Mohawk",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Mohawk_T"
+      "thumbnail_package": "Hat_Mohawk_T",
+      "image_path": "images/4776.png"
     },
     {
       "id": "4804",
@@ -4146,7 +4464,8 @@
       "path": "hat_bouncingbasketball.hat_bouncingbasketball",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_bouncingBasketball_T"
+      "thumbnail_package": "hat_bouncingBasketball_T",
+      "image_path": "images/4804.png"
     },
     {
       "id": "4854",
@@ -4159,7 +4478,8 @@
       "path": "Hat_Paintbucket.Hat_Paintbucket",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Paintbucket_T"
+      "thumbnail_package": "Hat_Paintbucket_T",
+      "image_path": "images/4854.png"
     },
     {
       "id": "4866",
@@ -4172,7 +4492,8 @@
       "path": "hat_TreadmillEgg.hat_TreadmillEgg",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_TreadmillEgg_T"
+      "thumbnail_package": "Hat_TreadmillEgg_T",
+      "image_path": "images/4866.png"
     },
     {
       "id": "4877",
@@ -4185,7 +4506,8 @@
       "path": "hat_halfpipe.hat_halfpipe",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_halfpipe_T"
+      "thumbnail_package": "hat_halfpipe_T",
+      "image_path": "images/4877.png"
     },
     {
       "id": "4969",
@@ -4198,7 +4520,8 @@
       "path": "hat_MPC.hat_MPC",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_MPC_T"
+      "thumbnail_package": "hat_MPC_T",
+      "image_path": "images/4969.png"
     },
     {
       "id": "5060",
@@ -4211,7 +4534,8 @@
       "path": "hat_buoy.hat_buoy",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Buoy_T"
+      "thumbnail_package": "Hat_Buoy_T",
+      "image_path": "images/5060.png"
     },
     {
       "id": "5111",
@@ -4224,7 +4548,8 @@
       "path": "hat_sarpboost.hat_sarpboost",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_sarpboost_T"
+      "thumbnail_package": "hat_sarpboost_T",
+      "image_path": "images/5111.png"
     },
     {
       "id": "5117",
@@ -4237,7 +4562,8 @@
       "path": "hat_skateboardpunk.hat_skateboardpunk",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_SkateboardPunk_T"
+      "thumbnail_package": "Hat_SkateboardPunk_T",
+      "image_path": "images/5117.png"
     },
     {
       "id": "5244",
@@ -4250,7 +4576,8 @@
       "path": "hat_buckethat_anni.hat_buckethat_anni",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_BucketHat_anni_T"
+      "thumbnail_package": "hat_BucketHat_anni_T",
+      "image_path": "images/5244.png"
     },
     {
       "id": "5245",
@@ -4263,7 +4590,8 @@
       "path": "hat_pixel_pizza_anni.hat_pixel_pizza_anni",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Pixel_Pizza_anni_T"
+      "thumbnail_package": "hat_Pixel_Pizza_anni_T",
+      "image_path": "images/5245.png"
     },
     {
       "id": "5522",
@@ -4276,7 +4604,8 @@
       "path": "hat_keyboard.hat_keyboard",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_keyboard_T"
+      "thumbnail_package": "hat_keyboard_T",
+      "image_path": "images/5522.png"
     },
     {
       "id": "5532",
@@ -4289,7 +4618,8 @@
       "path": "hat_stp.hat_stp",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_STP_T"
+      "thumbnail_package": "Hat_STP_T",
+      "image_path": "images/5532.png"
     },
     {
       "id": "5544",
@@ -4302,7 +4632,8 @@
       "path": "hat_gtrap.hat_gtrap",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_gtrap_T"
+      "thumbnail_package": "hat_gtrap_T",
+      "image_path": "images/5544.png"
     },
     {
       "id": "5654",
@@ -4315,7 +4646,8 @@
       "path": "hat_ghosty.hat_ghosty",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "hat_ghosty_T"
+      "thumbnail_package": "hat_ghosty_T",
+      "image_path": "images/5654.png"
     },
     {
       "id": "5668",
@@ -4328,7 +4660,8 @@
       "path": "hat_clint.hat_clint",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Clint_T"
+      "thumbnail_package": "Hat_Clint_T",
+      "image_path": "images/5668.png"
     },
     {
       "id": "5736",
@@ -4341,7 +4674,8 @@
       "path": "hat_ox.hat_ox",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_ox_T"
+      "thumbnail_package": "hat_ox_T",
+      "image_path": "images/5736.png"
     },
     {
       "id": "5738",
@@ -4354,7 +4688,8 @@
       "path": "hat_oxhorns.hat_oxhorns",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_oxhorns_T"
+      "thumbnail_package": "hat_oxhorns_T",
+      "image_path": "images/5738.png"
     },
     {
       "id": "5748",
@@ -4367,7 +4702,8 @@
       "path": "hat_ski_goggles.hat_ski_goggles",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "hat_ski_goggles_T"
+      "thumbnail_package": "hat_ski_goggles_T",
+      "image_path": "images/5748.png"
     },
     {
       "id": "5813",
@@ -4380,7 +4716,8 @@
       "path": "hat_football.hat_football",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_Football_T"
+      "thumbnail_package": "Hat_Football_T",
+      "image_path": "images/5813.png"
     },
     {
       "id": "5829",
@@ -4393,7 +4730,8 @@
       "path": "hat_snowboard_rack_xg.hat_snowboard_rack_xg",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Snowboard_Rack_XG_T"
+      "thumbnail_package": "Hat_Snowboard_Rack_XG_T",
+      "image_path": "images/5829.png"
     },
     {
       "id": "5830",
@@ -4406,7 +4744,8 @@
       "path": "hat_ski_rack_XG.hat_ski_rack_XG",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Ski_Rack_XG_T"
+      "thumbnail_package": "Hat_Ski_Rack_XG_T",
+      "image_path": "images/5830.png"
     },
     {
       "id": "5842",
@@ -4419,7 +4758,8 @@
       "path": "hat_dwi_psplus.hat_dwi_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Hat_DWI_psplus_T"
+      "thumbnail_package": "Hat_DWI_psplus_T",
+      "image_path": "images/5842.png"
     },
     {
       "id": "5872",
@@ -4432,7 +4772,8 @@
       "path": "hat_racinghelmet.hat_racinghelmet",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Racinghelmet_T"
+      "thumbnail_package": "hat_Racinghelmet_T",
+      "image_path": "images/5872.png"
     },
     {
       "id": "5883",
@@ -4445,7 +4786,8 @@
       "path": "hat_racingvintage.hat_racingvintage",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_racingvintage_T"
+      "thumbnail_package": "hat_racingvintage_T",
+      "image_path": "images/5883.png"
     },
     {
       "id": "5918",
@@ -4458,7 +4800,8 @@
       "path": "hat_hardhat_psplus.hat_hardhat_psplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "Hat_Hardhat_psplus_T"
+      "thumbnail_package": "Hat_Hardhat_psplus_T",
+      "image_path": "images/5918.png"
     },
     {
       "id": "5926",
@@ -4471,7 +4814,8 @@
       "path": "hat_dj.hat_dj",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_DJ_T"
+      "thumbnail_package": "hat_DJ_T",
+      "image_path": "images/5926.png"
     },
     {
       "id": "5932",
@@ -4484,7 +4828,8 @@
       "path": "Hat_fnlpB.Hat_fnlpB",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "hat_fnlpB_T"
+      "thumbnail_package": "hat_fnlpB_T",
+      "image_path": "images/5932.png"
     },
     {
       "id": "6011",
@@ -4497,7 +4842,8 @@
       "path": "hat_th.hat_th",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "hat_th_T"
+      "thumbnail_package": "hat_th_T",
+      "image_path": "images/6011.png"
     },
     {
       "id": "6028",
@@ -4510,7 +4856,8 @@
       "path": "hat_nchat.hat_nchat",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NcHat_T"
+      "thumbnail_package": "Hat_NcHat_T",
+      "image_path": "images/6028.png"
     },
     {
       "id": "6036",
@@ -4523,7 +4870,8 @@
       "path": "hat_stars_psplus.hat_stars_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "hat_stars_psplus_T"
+      "thumbnail_package": "hat_stars_psplus_T",
+      "image_path": "images/6036.png"
     },
     {
       "id": "6164",
@@ -4536,7 +4884,8 @@
       "path": "hat_cactus_tall_00.hat_cactus_tall_00",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Cactus_Tall_00_T"
+      "thumbnail_package": "hat_Cactus_Tall_00_T",
+      "image_path": "images/6164.png"
     },
     {
       "id": "6172",
@@ -4549,7 +4898,8 @@
       "path": "hat_hardhat_xbg.hat_hardhat_xbg",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "hat_hardhat_xbg_T"
+      "thumbnail_package": "hat_hardhat_xbg_T",
+      "image_path": "images/6172.png"
     },
     {
       "id": "6179",
@@ -4562,7 +4912,8 @@
       "path": "hat_horseshoe.hat_horseshoe",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_horseshoe_T"
+      "thumbnail_package": "hat_horseshoe_T",
+      "image_path": "images/6179.png"
     },
     {
       "id": "6216",
@@ -4575,7 +4926,8 @@
       "path": "hat_threedee_papercut.hat_threedee_papercut",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "hat_threedee_papercut_T"
+      "thumbnail_package": "hat_threedee_papercut_T",
+      "image_path": "images/6216.png"
     },
     {
       "id": "6233",
@@ -4588,7 +4940,8 @@
       "path": "hat_campfire.hat_campfire",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_campfire_T"
+      "thumbnail_package": "hat_campfire_T",
+      "image_path": "images/6233.png"
     },
     {
       "id": "6282",
@@ -4601,7 +4954,8 @@
       "path": "hat_sixty.hat_sixty",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Sixty_T"
+      "thumbnail_package": "Hat_Sixty_T",
+      "image_path": "images/6282.png"
     },
     {
       "id": "6414",
@@ -4614,7 +4968,8 @@
       "path": "hat_nfl_atl.hat_nfl_atl",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "hat_nfl_atl_T"
+      "thumbnail_package": "hat_nfl_atl_T",
+      "image_path": "images/6414.png"
     },
     {
       "id": "6423",
@@ -4627,7 +4982,8 @@
       "path": "hat_nfl_bal.hat_nfl_bal",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_BAL_T"
+      "thumbnail_package": "Hat_NFL_BAL_T",
+      "image_path": "images/6423.png"
     },
     {
       "id": "6556",
@@ -4640,7 +4996,8 @@
       "path": "hat_nfl_arz.hat_nfl_arz",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_ARZ_T"
+      "thumbnail_package": "Hat_NFL_ARZ_T",
+      "image_path": "images/6556.png"
     },
     {
       "id": "6619",
@@ -4653,7 +5010,8 @@
       "path": "hat_nfl_buf.hat_nfl_buf",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_BUF_T"
+      "thumbnail_package": "Hat_NFL_BUF_T",
+      "image_path": "images/6619.png"
     },
     {
       "id": "6620",
@@ -4666,7 +5024,8 @@
       "path": "hat_nfl_chi.hat_nfl_chi",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_CHI_T"
+      "thumbnail_package": "Hat_NFL_CHI_T",
+      "image_path": "images/6620.png"
     },
     {
       "id": "6621",
@@ -4679,7 +5038,8 @@
       "path": "hat_nfl_cle.hat_nfl_cle",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_CLE_T"
+      "thumbnail_package": "Hat_NFL_CLE_T",
+      "image_path": "images/6621.png"
     },
     {
       "id": "6622",
@@ -4692,7 +5052,8 @@
       "path": "hat_nfl_dal.hat_nfl_dal",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_DAL_T"
+      "thumbnail_package": "Hat_NFL_DAL_T",
+      "image_path": "images/6622.png"
     },
     {
       "id": "6623",
@@ -4705,7 +5066,8 @@
       "path": "hat_nfl_det.hat_nfl_det",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_DET_T"
+      "thumbnail_package": "Hat_NFL_DET_T",
+      "image_path": "images/6623.png"
     },
     {
       "id": "6624",
@@ -4718,7 +5080,8 @@
       "path": "hat_nfl_gb.hat_nfl_gb",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_GB_T"
+      "thumbnail_package": "Hat_NFL_GB_T",
+      "image_path": "images/6624.png"
     },
     {
       "id": "6625",
@@ -4731,7 +5094,8 @@
       "path": "hat_nfl_hou.hat_nfl_hou",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_HOU_T"
+      "thumbnail_package": "Hat_NFL_HOU_T",
+      "image_path": "images/6625.png"
     },
     {
       "id": "6626",
@@ -4744,7 +5108,8 @@
       "path": "hat_nfl_ind.hat_nfl_ind",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_IND_T"
+      "thumbnail_package": "Hat_NFL_IND_T",
+      "image_path": "images/6626.png"
     },
     {
       "id": "6655",
@@ -4757,7 +5122,8 @@
       "path": "hat_nfl_jax.hat_nfl_jax",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_JAX_T"
+      "thumbnail_package": "Hat_NFL_JAX_T",
+      "image_path": "images/6655.png"
     },
     {
       "id": "6656",
@@ -4770,7 +5136,8 @@
       "path": "hat_nfl_kc.hat_nfl_kc",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_KC_T"
+      "thumbnail_package": "Hat_NFL_KC_T",
+      "image_path": "images/6656.png"
     },
     {
       "id": "6657",
@@ -4783,7 +5150,8 @@
       "path": "hat_nfl_lac.hat_nfl_lac",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_LAC_T"
+      "thumbnail_package": "Hat_NFL_LAC_T",
+      "image_path": "images/6657.png"
     },
     {
       "id": "6658",
@@ -4796,7 +5164,8 @@
       "path": "hat_nfl_lar.hat_nfl_lar",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_LAR_T"
+      "thumbnail_package": "Hat_NFL_LAR_T",
+      "image_path": "images/6658.png"
     },
     {
       "id": "6703",
@@ -4809,7 +5178,8 @@
       "path": "hat_nfl_las.hat_nfl_las",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_LAS_T"
+      "thumbnail_package": "Hat_NFL_LAS_T",
+      "image_path": "images/6703.png"
     },
     {
       "id": "6716",
@@ -4822,7 +5192,8 @@
       "path": "hat_nfl_car.hat_nfl_car",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_CAR_T"
+      "thumbnail_package": "Hat_NFL_CAR_T",
+      "image_path": "images/6716.png"
     },
     {
       "id": "6717",
@@ -4835,7 +5206,8 @@
       "path": "hat_nfl_cin.hat_nfl_cin",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_CIN_T"
+      "thumbnail_package": "Hat_NFL_CIN_T",
+      "image_path": "images/6717.png"
     },
     {
       "id": "6718",
@@ -4848,7 +5220,8 @@
       "path": "hat_nfl_den.hat_nfl_den",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_DEN_T"
+      "thumbnail_package": "Hat_NFL_DEN_T",
+      "image_path": "images/6718.png"
     },
     {
       "id": "6719",
@@ -4861,7 +5234,8 @@
       "path": "hat_nfl_mia.hat_nfl_mia",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_MIA_T"
+      "thumbnail_package": "Hat_NFL_MIA_T",
+      "image_path": "images/6719.png"
     },
     {
       "id": "6720",
@@ -4874,7 +5248,8 @@
       "path": "hat_nfl_min.hat_nfl_min",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_MIN_T"
+      "thumbnail_package": "Hat_NFL_MIN_T",
+      "image_path": "images/6720.png"
     },
     {
       "id": "6721",
@@ -4887,7 +5262,8 @@
       "path": "hat_nfl_ne.hat_nfl_ne",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_NE_T"
+      "thumbnail_package": "Hat_NFL_NE_T",
+      "image_path": "images/6721.png"
     },
     {
       "id": "6722",
@@ -4900,7 +5276,8 @@
       "path": "hat_nfl_no.hat_nfl_no",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_NO_T"
+      "thumbnail_package": "Hat_NFL_NO_T",
+      "image_path": "images/6722.png"
     },
     {
       "id": "6723",
@@ -4913,7 +5290,8 @@
       "path": "hat_nfl_nyg.hat_nfl_nyg",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_NYG_T"
+      "thumbnail_package": "Hat_NFL_NYG_T",
+      "image_path": "images/6723.png"
     },
     {
       "id": "6724",
@@ -4926,7 +5304,8 @@
       "path": "hat_nfl_nyj.hat_nfl_nyj",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_NYJ_T"
+      "thumbnail_package": "Hat_NFL_NYJ_T",
+      "image_path": "images/6724.png"
     },
     {
       "id": "6725",
@@ -4939,7 +5318,8 @@
       "path": "hat_nfl_phi.hat_nfl_phi",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_PHI_T"
+      "thumbnail_package": "Hat_NFL_PHI_T",
+      "image_path": "images/6725.png"
     },
     {
       "id": "6726",
@@ -4952,7 +5332,8 @@
       "path": "hat_nfl_pit.hat_nfl_pit",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_PIT_T"
+      "thumbnail_package": "Hat_NFL_PIT_T",
+      "image_path": "images/6726.png"
     },
     {
       "id": "6727",
@@ -4965,7 +5346,8 @@
       "path": "hat_nfl_sea.hat_nfl_sea",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_SEA_T"
+      "thumbnail_package": "Hat_NFL_SEA_T",
+      "image_path": "images/6727.png"
     },
     {
       "id": "6729",
@@ -4978,7 +5360,8 @@
       "path": "hat_nfl_tb.hat_nfl_tb",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_TB_T"
+      "thumbnail_package": "Hat_NFL_TB_T",
+      "image_path": "images/6729.png"
     },
     {
       "id": "6730",
@@ -4991,7 +5374,8 @@
       "path": "hat_nfl_ten.hat_nfl_ten",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_TEN_T"
+      "thumbnail_package": "Hat_NFL_TEN_T",
+      "image_path": "images/6730.png"
     },
     {
       "id": "6731",
@@ -5004,7 +5388,8 @@
       "path": "hat_nfl_was.hat_nfl_was",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_WAS_T"
+      "thumbnail_package": "Hat_NFL_WAS_T",
+      "image_path": "images/6731.png"
     },
     {
       "id": "6829",
@@ -5017,7 +5402,8 @@
       "path": "hat_hqc.hat_hqc",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_HQC_T"
+      "thumbnail_package": "hat_HQC_T",
+      "image_path": "images/6829.png"
     },
     {
       "id": "6834",
@@ -5030,7 +5416,8 @@
       "path": "hat_nfl_san.hat_nfl_san",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_NFL_SAN_T"
+      "thumbnail_package": "Hat_NFL_SAN_T",
+      "image_path": "images/6834.png"
     },
     {
       "id": "6985",
@@ -5043,7 +5430,8 @@
       "path": "hat_comet.hat_comet",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Comet_T"
+      "thumbnail_package": "Hat_Comet_T",
+      "image_path": "images/6985.png"
     },
     {
       "id": "7051",
@@ -5056,7 +5444,8 @@
       "path": "hat_core.hat_core",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_core_T"
+      "thumbnail_package": "hat_core_T",
+      "image_path": "images/7051.png"
     },
     {
       "id": "7069",
@@ -5069,7 +5458,8 @@
       "path": "pack_nflhelmets.pack_nflhelmets",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "pack_nflhelmets_T"
+      "thumbnail_package": "pack_nflhelmets_T",
+      "image_path": "images/7069.png"
     },
     {
       "id": "7074",
@@ -5082,7 +5472,8 @@
       "path": "hat_astrohelmet.hat_astrohelmet",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Astrohelmet_T"
+      "thumbnail_package": "Hat_Astrohelmet_T",
+      "image_path": "images/7074.png"
     },
     {
       "id": "7127",
@@ -5095,7 +5486,8 @@
       "path": "hat_dumbbell.hat_dumbbell",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Dumbbell_T"
+      "thumbnail_package": "Hat_Dumbbell_T",
+      "image_path": "images/7127.png"
     },
     {
       "id": "7214",
@@ -5108,7 +5500,8 @@
       "path": "hat_halo_se.hat_halo_se",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Hat_Halo_SE_T"
+      "thumbnail_package": "Hat_Halo_SE_T",
+      "image_path": "images/7214.png"
     },
     {
       "id": "7340",
@@ -5121,7 +5514,8 @@
       "path": "hat_tiger.hat_tiger",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_tiger_T"
+      "thumbnail_package": "hat_tiger_T",
+      "image_path": "images/7340.png"
     },
     {
       "id": "7342",
@@ -5134,7 +5528,8 @@
       "path": "hat_fluffy.hat_fluffy",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Fluffy_T"
+      "thumbnail_package": "Hat_Fluffy_T",
+      "image_path": "images/7342.png"
     },
     {
       "id": "7353",
@@ -5147,7 +5542,8 @@
       "path": "hat_sog.hat_sog",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_sog_T"
+      "thumbnail_package": "hat_sog_T",
+      "image_path": "images/7353.png"
     },
     {
       "id": "7358",
@@ -5160,7 +5556,8 @@
       "path": "hat_sogb.hat_sogb",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_sogb_T"
+      "thumbnail_package": "hat_sogb_T",
+      "image_path": "images/7358.png"
     },
     {
       "id": "7362",
@@ -5173,7 +5570,8 @@
       "path": "hat_chomps.hat_chomps",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "hat_chomps_T"
+      "thumbnail_package": "hat_chomps_T",
+      "image_path": "images/7362.png"
     },
     {
       "id": "7402",
@@ -5186,7 +5584,8 @@
       "path": "hat_dwi_infinite.hat_dwi_infinite",
       "quality_id": 5,
       "paintable": true,
-      "thumbnail_package": "hat_DWI_infinite_T"
+      "thumbnail_package": "hat_DWI_infinite_T",
+      "image_path": "images/7402.png"
     },
     {
       "id": "7473",
@@ -5199,7 +5598,8 @@
       "path": "hat_elvesb.hat_elvesb",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_elvesb_T"
+      "thumbnail_package": "Hat_elvesb_T",
+      "image_path": "images/7473.png"
     },
     {
       "id": "7475",
@@ -5212,7 +5612,8 @@
       "path": "hat_anvil.hat_anvil",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_anvil_T"
+      "thumbnail_package": "hat_anvil_T",
+      "image_path": "images/7475.png"
     },
     {
       "id": "7538",
@@ -5225,7 +5626,8 @@
       "path": "Hat_racinghelmet_fronds.Hat_racinghelmet_fronds",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "hat_Racinghelmet_Fronds_T"
+      "thumbnail_package": "hat_Racinghelmet_Fronds_T",
+      "image_path": "images/7538.png"
     },
     {
       "id": "7543",
@@ -5238,7 +5640,8 @@
       "path": "hat_satdish.hat_satdish",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_SatDish_T"
+      "thumbnail_package": "Hat_SatDish_T",
+      "image_path": "images/7543.png"
     },
     {
       "id": "7546",
@@ -5251,7 +5654,8 @@
       "path": "hat_futureglasses_psplus.hat_futureglasses_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "hat_futureglasses_psplus_T"
+      "thumbnail_package": "hat_futureglasses_psplus_T",
+      "image_path": "images/7546.png"
     },
     {
       "id": "7564",
@@ -5264,7 +5668,8 @@
       "path": "hat_chomps_fg.hat_chomps_fg",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_chomps_fg_T"
+      "thumbnail_package": "hat_chomps_fg_T",
+      "image_path": "images/7564.png"
     },
     {
       "id": "7582",
@@ -5277,7 +5682,8 @@
       "path": "hat_springy.hat_springy",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Springy_T"
+      "thumbnail_package": "Hat_Springy_T",
+      "image_path": "images/7582.png"
     },
     {
       "id": "7670",
@@ -5290,7 +5696,8 @@
       "path": "hat_wallet.hat_wallet",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_wallet_T"
+      "thumbnail_package": "Hat_wallet_T",
+      "image_path": "images/7670.png"
     },
     {
       "id": "7675",
@@ -5303,7 +5710,8 @@
       "path": "hat_tophat_metal_fancy.hat_tophat_metal_fancy",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "hat_tophat_metal_fancy_T"
+      "thumbnail_package": "hat_tophat_metal_fancy_T",
+      "image_path": "images/7675.png"
     },
     {
       "id": "7676",
@@ -5316,7 +5724,8 @@
       "path": "Hat_WizardHat_PSPlus.Hat_WizardHat_PSPlus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Hat_WizardHat_PSPlus_T"
+      "thumbnail_package": "Hat_WizardHat_PSPlus_T",
+      "image_path": "images/7676.png"
     },
     {
       "id": "7699",
@@ -5329,7 +5738,8 @@
       "path": "hat_fancyglasses.hat_fancyglasses",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_FancyGlasses_T"
+      "thumbnail_package": "Hat_FancyGlasses_T",
+      "image_path": "images/7699.png"
     },
     {
       "id": "7725",
@@ -5342,7 +5752,8 @@
       "path": "Hat_excavator.Hat_excavator",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_excavator_T"
+      "thumbnail_package": "hat_excavator_T",
+      "image_path": "images/7725.png"
     },
     {
       "id": "7730",
@@ -5355,7 +5766,8 @@
       "path": "hat_jellyfish.hat_jellyfish",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Jellyfish_T"
+      "thumbnail_package": "Hat_Jellyfish_T",
+      "image_path": "images/7730.png"
     },
     {
       "id": "7735",
@@ -5368,7 +5780,8 @@
       "path": "hat_tiara_rainbow.hat_tiara_rainbow",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_Tiara_rainbow_T"
+      "thumbnail_package": "Hat_Tiara_rainbow_T",
+      "image_path": "images/7735.png"
     },
     {
       "id": "7765",
@@ -5381,7 +5794,8 @@
       "path": "hat_weenerz.hat_weenerz",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Weenerz_T"
+      "thumbnail_package": "Hat_Weenerz_T",
+      "image_path": "images/7765.png"
     },
     {
       "id": "7771",
@@ -5394,7 +5808,8 @@
       "path": "hat_nerdyglasses.hat_nerdyglasses",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_NerdyGlasses_T"
+      "thumbnail_package": "Hat_NerdyGlasses_T",
+      "image_path": "images/7771.png"
     },
     {
       "id": "7784",
@@ -5407,7 +5822,8 @@
       "path": "Hat_SharkFin_FR22.Hat_SharkFin_FR22",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_SharkFin_FR22_T"
+      "thumbnail_package": "Hat_SharkFin_FR22_T",
+      "image_path": "images/7784.png"
     },
     {
       "id": "7824",
@@ -5420,7 +5836,8 @@
       "path": "hat_gato.hat_gato",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Gato_T"
+      "thumbnail_package": "Hat_Gato_T",
+      "image_path": "images/7824.png"
     },
     {
       "id": "7843",
@@ -5433,7 +5850,8 @@
       "path": "hat_burrrga.hat_burrrga",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Burrrga_T"
+      "thumbnail_package": "Hat_Burrrga_T",
+      "image_path": "images/7843.png"
     },
     {
       "id": "7848",
@@ -5446,7 +5864,8 @@
       "path": "hat_krylo.hat_krylo",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Krylo_T"
+      "thumbnail_package": "hat_Krylo_T",
+      "image_path": "images/7848.png"
     },
     {
       "id": "7872",
@@ -5459,7 +5878,8 @@
       "path": "hat_nfl_was22.hat_nfl_was22",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "hat_nfl_was22_T"
+      "thumbnail_package": "hat_nfl_was22_T",
+      "image_path": "images/7872.png"
     },
     {
       "id": "7874",
@@ -5472,7 +5892,8 @@
       "path": "hat_headphones_psplus.hat_headphones_psplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "hat_Headphones_psplus_T"
+      "thumbnail_package": "hat_Headphones_psplus_T",
+      "image_path": "images/7874.png"
     },
     {
       "id": "7880",
@@ -5485,7 +5906,8 @@
       "path": "hat_xo.hat_xo",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_XO_T"
+      "thumbnail_package": "Hat_XO_T",
+      "image_path": "images/7880.png"
     },
     {
       "id": "7882",
@@ -5498,7 +5920,8 @@
       "path": "hat_tom.hat_tom",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Tom_T"
+      "thumbnail_package": "Hat_Tom_T",
+      "image_path": "images/7882.png"
     },
     {
       "id": "7895",
@@ -5511,7 +5934,8 @@
       "path": "hat_shoes.hat_shoes",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Shoes_T"
+      "thumbnail_package": "Hat_Shoes_T",
+      "image_path": "images/7895.png"
     },
     {
       "id": "7898",
@@ -5524,7 +5948,8 @@
       "path": "hat_phatcap.hat_phatcap",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_PhatCap_T"
+      "thumbnail_package": "Hat_PhatCap_T",
+      "image_path": "images/7898.png"
     },
     {
       "id": "7946",
@@ -5537,7 +5962,8 @@
       "path": "hat_birdsnest.hat_birdsnest",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_birdsnest_T"
+      "thumbnail_package": "hat_birdsnest_T",
+      "image_path": "images/7946.png"
     },
     {
       "id": "7984",
@@ -5550,7 +5976,8 @@
       "path": "hat_elin.hat_elin",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "hat_Elin_T"
+      "thumbnail_package": "hat_Elin_T",
+      "image_path": "images/7984.png"
     },
     {
       "id": "7996",
@@ -5563,7 +5990,8 @@
       "path": "hat_crikey.hat_crikey",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Crikey_T"
+      "thumbnail_package": "Hat_Crikey_T",
+      "image_path": "images/7996.png"
     },
     {
       "id": "8357",
@@ -5576,7 +6004,8 @@
       "path": "hat_kolder.hat_kolder",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_kolder_T"
+      "thumbnail_package": "hat_kolder_T",
+      "image_path": "images/8357.png"
     },
     {
       "id": "8411",
@@ -5589,7 +6018,8 @@
       "path": "hat_skullfire.hat_skullfire",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Skullfire_T"
+      "thumbnail_package": "Hat_Skullfire_T",
+      "image_path": "images/8411.png"
     },
     {
       "id": "8439",
@@ -5602,7 +6032,8 @@
       "path": "hat_burntkey.hat_burntkey",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Burntkey_T"
+      "thumbnail_package": "Hat_Burntkey_T",
+      "image_path": "images/8439.png"
     },
     {
       "id": "8456",
@@ -5615,7 +6046,8 @@
       "path": "hat_fyre.hat_fyre",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Fyre_T"
+      "thumbnail_package": "Hat_Fyre_T",
+      "image_path": "images/8456.png"
     },
     {
       "id": "8472",
@@ -5628,7 +6060,8 @@
       "path": "hat_cherry_psplus.hat_cherry_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "hat_cherry_psplus_T"
+      "thumbnail_package": "hat_cherry_psplus_T",
+      "image_path": "images/8472.png"
     },
     {
       "id": "8486",
@@ -5641,7 +6074,8 @@
       "path": "Hat_Igloo.Hat_Igloo",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Igloo_T"
+      "thumbnail_package": "Hat_Igloo_T",
+      "image_path": "images/8486.png"
     },
     {
       "id": "8489",
@@ -5654,7 +6088,8 @@
       "path": "hat_dragonwings_fni.hat_dragonwings_f",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "hat_dragonwings_fni_T"
+      "thumbnail_package": "hat_dragonwings_fni_T",
+      "image_path": "images/8489.png"
     },
     {
       "id": "8490",
@@ -5667,7 +6102,8 @@
       "path": "hat_dragonwings_fni.hat_dragonwings_i",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "hat_dragonwings_fni_T"
+      "thumbnail_package": "hat_dragonwings_fni_T",
+      "image_path": "images/8490.png"
     },
     {
       "id": "8491",
@@ -5680,7 +6116,8 @@
       "path": "hat_chillbeat.hat_chillbeat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_chillbeat_T"
+      "thumbnail_package": "Hat_chillbeat_T",
+      "image_path": "images/8491.png"
     },
     {
       "id": "8497",
@@ -5693,7 +6130,8 @@
       "path": "hat_crown_fire.hat_crown_fire",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "hat_crown_fire_T"
+      "thumbnail_package": "hat_crown_fire_T",
+      "image_path": "images/8497.png"
     },
     {
       "id": "8498",
@@ -5706,7 +6144,8 @@
       "path": "hat_crown_ice.hat_crown_ice",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "Hat_Crown_Ice_T"
+      "thumbnail_package": "Hat_Crown_Ice_T",
+      "image_path": "images/8498.png"
     },
     {
       "id": "8500",
@@ -5719,7 +6158,8 @@
       "path": "Hat_Pigeon.hat_pigeon_anodized",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Hat_Pigeon_T"
+      "thumbnail_package": "Hat_Pigeon_T",
+      "image_path": "images/8500.png"
     },
     {
       "id": "8556",
@@ -5732,7 +6172,8 @@
       "path": "hat_burner.hat_burner",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Burner_T"
+      "thumbnail_package": "Hat_Burner_T",
+      "image_path": "images/8556.png"
     },
     {
       "id": "8559",
@@ -5745,7 +6186,8 @@
       "path": "hat_chillcat.hat_chillcat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Chillcat_T"
+      "thumbnail_package": "hat_Chillcat_T",
+      "image_path": "images/8559.png"
     },
     {
       "id": "8589",
@@ -5758,7 +6200,8 @@
       "path": "hat_yarnball.hat_yarnball",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_YarnBall_T"
+      "thumbnail_package": "Hat_YarnBall_T",
+      "image_path": "images/8589.png"
     },
     {
       "id": "8674",
@@ -5771,7 +6214,8 @@
       "path": "hat_ramen.hat_ramen",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Ramen_T"
+      "thumbnail_package": "Hat_Ramen_T",
+      "image_path": "images/8674.png"
     },
     {
       "id": "8724",
@@ -5784,7 +6228,8 @@
       "path": "hat_jetsetblaster.hat_jetsetblaster",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_JetsetBlaster_T"
+      "thumbnail_package": "hat_JetsetBlaster_T",
+      "image_path": "images/8724.png"
     },
     {
       "id": "8726",
@@ -5797,7 +6242,8 @@
       "path": "hat_desklamp.hat_desklamp",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_DeskLamp_T"
+      "thumbnail_package": "Hat_DeskLamp_T",
+      "image_path": "images/8726.png"
     },
     {
       "id": "8730",
@@ -5810,7 +6256,8 @@
       "path": "hat_mole.hat_mole",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Mole_T"
+      "thumbnail_package": "Hat_Mole_T",
+      "image_path": "images/8730.png"
     },
     {
       "id": "8732",
@@ -5823,7 +6270,8 @@
       "path": "hat_jetsetmg.hat_jetsetmg",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_JetsetMG_T"
+      "thumbnail_package": "Hat_JetsetMG_T",
+      "image_path": "images/8732.png"
     },
     {
       "id": "8771",
@@ -5836,7 +6284,8 @@
       "path": "hat_hammer.hat_hammer",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Hammer_T"
+      "thumbnail_package": "Hat_Hammer_T",
+      "image_path": "images/8771.png"
     },
     {
       "id": "8778",
@@ -5849,7 +6298,8 @@
       "path": "hat_bolthead.hat_bolthead",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_BoltHead_T"
+      "thumbnail_package": "Hat_BoltHead_T",
+      "image_path": "images/8778.png"
     },
     {
       "id": "8788",
@@ -5862,7 +6312,8 @@
       "path": "hat_toopher.hat_toopher",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Toopher_T"
+      "thumbnail_package": "Hat_Toopher_T",
+      "image_path": "images/8788.png"
     },
     {
       "id": "8793",
@@ -5875,7 +6326,8 @@
       "path": "hat_cakeslice.hat_cakeslice",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_CakeSlice_T"
+      "thumbnail_package": "Hat_CakeSlice_T",
+      "image_path": "images/8793.png"
     },
     {
       "id": "8796",
@@ -5888,7 +6340,8 @@
       "path": "hat_bowlinglane.hat_bowlinglane",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_BowlingLane_T"
+      "thumbnail_package": "hat_BowlingLane_T",
+      "image_path": "images/8796.png"
     },
     {
       "id": "8819",
@@ -5901,7 +6354,8 @@
       "path": "hat_laserlotus.hat_laserlotus",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "hat_laserlotus_T"
+      "thumbnail_package": "hat_laserlotus_T",
+      "image_path": "images/8819.png"
     },
     {
       "id": "8820",
@@ -5914,7 +6368,8 @@
       "path": "hat_laserlotus.hat_laserlotusHolographic",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "hat_laserlotus_T"
+      "thumbnail_package": "hat_laserlotus_T",
+      "image_path": "images/8820.png"
     },
     {
       "id": "8824",
@@ -5927,7 +6382,8 @@
       "path": "Hat_Shuriken_psp.Hat_Shuriken_psp",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Hat_Shuriken_PSP_T"
+      "thumbnail_package": "Hat_Shuriken_PSP_T",
+      "image_path": "images/8824.png"
     },
     {
       "id": "8869",
@@ -5940,7 +6396,8 @@
       "path": "hat_palms.hat_palms",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Palms_T"
+      "thumbnail_package": "Hat_Palms_T",
+      "image_path": "images/8869.png"
     },
     {
       "id": "8898",
@@ -5953,7 +6410,8 @@
       "path": "hat_spaceship.hat_spaceship",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Spaceship_T"
+      "thumbnail_package": "Hat_Spaceship_T",
+      "image_path": "images/8898.png"
     },
     {
       "id": "8903",
@@ -5966,7 +6424,8 @@
       "path": "hat_coconutdrink.hat_coconutdrink",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_CoconutDrink_T"
+      "thumbnail_package": "Hat_CoconutDrink_T",
+      "image_path": "images/8903.png"
     },
     {
       "id": "8916",
@@ -5979,7 +6438,8 @@
       "path": "hat_recordcabinet.hat_recordcabinet",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_RecordCabinet_T"
+      "thumbnail_package": "Hat_RecordCabinet_T",
+      "image_path": "images/8916.png"
     },
     {
       "id": "8921",
@@ -5992,7 +6452,8 @@
       "path": "hat_oldpc.hat_oldpc",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_OldPC_T"
+      "thumbnail_package": "Hat_OldPC_T",
+      "image_path": "images/8921.png"
     },
     {
       "id": "8927",
@@ -6005,7 +6466,8 @@
       "path": "hat_pizza_box.hat_pizza_box",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Hat_Pizza_Box_T"
+      "thumbnail_package": "Hat_Pizza_Box_T",
+      "image_path": "images/8927.png"
     },
     {
       "id": "8942",
@@ -6018,7 +6480,8 @@
       "path": "hat_vampirecoffin.hat_vampirecoffin",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_VampireCoffin_T"
+      "thumbnail_package": "Hat_VampireCoffin_T",
+      "image_path": "images/8942.png"
     },
     {
       "id": "8962",
@@ -6031,7 +6494,8 @@
       "path": "hat_newtonball.hat_newtonball",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "hat_newtonball_T"
+      "thumbnail_package": "hat_newtonball_T",
+      "image_path": "images/8962.png"
     },
     {
       "id": "8973",
@@ -6044,7 +6508,8 @@
       "path": "hat_beep.hat_beep",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Hat_Beep_T"
+      "thumbnail_package": "Hat_Beep_T",
+      "image_path": "images/8973.png"
     },
     {
       "id": "9046",
@@ -6057,7 +6522,8 @@
       "path": "hat_angelwings.hat_angelwings_multichrome",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_AngelWings_T"
+      "thumbnail_package": "Hat_AngelWings_T",
+      "image_path": "images/9046.png"
     },
     {
       "id": "9112",
@@ -6070,7 +6536,8 @@
       "path": "hat_babysloth_psplus.hat_babysloth_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Hat_BabySloth_PSplus_T"
+      "thumbnail_package": "Hat_BabySloth_PSplus_T",
+      "image_path": "images/9112.png"
     },
     {
       "id": "9118",
@@ -6083,7 +6550,8 @@
       "path": "hat_maracas.hat_maracas",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Maracas_T"
+      "thumbnail_package": "Hat_Maracas_T",
+      "image_path": "images/9118.png"
     },
     {
       "id": "9125",
@@ -6096,7 +6564,8 @@
       "path": "hat_pixelsr.hat_pixel_02_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_PixelSR_T"
+      "thumbnail_package": "Hat_PixelSR_T",
+      "image_path": "images/9125.png"
     },
     {
       "id": "9126",
@@ -6109,7 +6578,8 @@
       "path": "hat_pixelsr.hat_pixel_03_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_PixelSR_T"
+      "thumbnail_package": "Hat_PixelSR_T",
+      "image_path": "images/9126.png"
     },
     {
       "id": "9127",
@@ -6122,7 +6592,8 @@
       "path": "hat_pixelsr.hat_pixel_04_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_PixelSR_T"
+      "thumbnail_package": "Hat_PixelSR_T",
+      "image_path": "images/9127.png"
     },
     {
       "id": "9128",
@@ -6135,7 +6606,8 @@
       "path": "hat_pixelsr.hat_pixel_05_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_PixelSR_T"
+      "thumbnail_package": "Hat_PixelSR_T",
+      "image_path": "images/9128.png"
     },
     {
       "id": "9129",
@@ -6148,7 +6620,8 @@
       "path": "hat_pixelsr.hat_pixel_06_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_PixelSR_T"
+      "thumbnail_package": "Hat_PixelSR_T",
+      "image_path": "images/9129.png"
     },
     {
       "id": "9130",
@@ -6161,7 +6634,8 @@
       "path": "hat_pixelsr.hat_pixelsr",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_PixelSR_T"
+      "thumbnail_package": "Hat_PixelSR_T",
+      "image_path": "images/9130.png"
     },
     {
       "id": "9156",
@@ -6174,7 +6648,8 @@
       "path": "hat_subb.hat_subb",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_subb_T"
+      "thumbnail_package": "hat_subb_T",
+      "image_path": "images/9156.png"
     },
     {
       "id": "9179",
@@ -6187,7 +6662,8 @@
       "path": "Hat_Anniversary_Cake_BW.Hat_Anniversary_Cake_BW",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Hat_Anniversary_Cake_BW_T"
+      "thumbnail_package": "Hat_Anniversary_Cake_BW_T",
+      "image_path": "images/9179.png"
     },
     {
       "id": "9183",
@@ -6200,7 +6676,8 @@
       "path": "hat_partymask.hat_partymask",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_PartyMask_T"
+      "thumbnail_package": "Hat_PartyMask_T",
+      "image_path": "images/9183.png"
     },
     {
       "id": "9214",
@@ -6213,7 +6690,8 @@
       "path": "hat_pixelsr.hat_pixel_07_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_PixelSR_T"
+      "thumbnail_package": "Hat_PixelSR_T",
+      "image_path": "images/9214.png"
     },
     {
       "id": "9215",
@@ -6226,7 +6704,8 @@
       "path": "hat_pixelsr.hat_pixel_08_SR",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_PixelSR_T"
+      "thumbnail_package": "Hat_PixelSR_T",
+      "image_path": "images/9215.png"
     },
     {
       "id": "9242",
@@ -6239,7 +6718,8 @@
       "path": "Hat_Genie_Lamp.Hat_Genie_Lamp",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Genie_Lamp_T"
+      "thumbnail_package": "Hat_Genie_Lamp_T",
+      "image_path": "images/9242.png"
     },
     {
       "id": "9243",
@@ -6252,7 +6732,8 @@
       "path": "hat_d20_blue.hat_d20_blue",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Hat_D20_Blue_T"
+      "thumbnail_package": "Hat_D20_Blue_T",
+      "image_path": "images/9243.png"
     },
     {
       "id": "9245",
@@ -6265,7 +6746,8 @@
       "path": "hat_smokemaskk.hat_smokemaskk",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_SmokeMaskk_T"
+      "thumbnail_package": "Hat_SmokeMaskk_T",
+      "image_path": "images/9245.png"
     },
     {
       "id": "9254",
@@ -6278,7 +6760,8 @@
       "path": "hat_curseddarkknight.hat_curseddarkknight",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Hat_CursedDarkKnight_T"
+      "thumbnail_package": "Hat_CursedDarkKnight_T",
+      "image_path": "images/9254.png"
     },
     {
       "id": "9257",
@@ -6291,7 +6774,8 @@
       "path": "hat_duck_target.hat_duck_target",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Duck_Target_T"
+      "thumbnail_package": "Hat_Duck_Target_T",
+      "image_path": "images/9257.png"
     },
     {
       "id": "9264",
@@ -6304,7 +6788,8 @@
       "path": "hat_coil.hat_coil",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Coil_T"
+      "thumbnail_package": "Hat_Coil_T",
+      "image_path": "images/9264.png"
     },
     {
       "id": "9282",
@@ -6317,7 +6802,8 @@
       "path": "hat_game_piece_kit.hat_game_piece_kit",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "Hat_Game_Piece_Kit_T"
+      "thumbnail_package": "Hat_Game_Piece_Kit_T",
+      "image_path": "images/9282.png"
     },
     {
       "id": "9361",
@@ -6330,7 +6816,8 @@
       "path": "hat_uno.hat_uno",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_Uno_T"
+      "thumbnail_package": "hat_Uno_T",
+      "image_path": "images/9361.png"
     },
     {
       "id": "9392",
@@ -6343,7 +6830,8 @@
       "path": "hat_unihorn_psplus.hat_unihorn_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Hat_Unihorn_psplus_T"
+      "thumbnail_package": "Hat_Unihorn_psplus_T",
+      "image_path": "images/9392.png"
     },
     {
       "id": "9399",
@@ -6356,7 +6844,8 @@
       "path": "Hat_Broom.Hat_Broom",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_broom_T"
+      "thumbnail_package": "hat_broom_T",
+      "image_path": "images/9399.png"
     },
     {
       "id": "9404",
@@ -6369,7 +6858,8 @@
       "path": "hat_badbeats.hat_badbeats",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Badbeats_T"
+      "thumbnail_package": "Hat_Badbeats_T",
+      "image_path": "images/9404.png"
     },
     {
       "id": "9436",
@@ -6382,7 +6872,8 @@
       "path": "hat_hackedhalo.hat_hackedhalo",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_HackedHalo_T"
+      "thumbnail_package": "Hat_HackedHalo_T",
+      "image_path": "images/9436.png"
     },
     {
       "id": "9464",
@@ -6395,7 +6886,8 @@
       "path": "hat_ht_nodog.hat_ht_nodog",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Hat_HT_NoDog_T"
+      "thumbnail_package": "Hat_HT_NoDog_T",
+      "image_path": "images/9464.png"
     },
     {
       "id": "9511",
@@ -6408,7 +6900,8 @@
       "path": "hat_ht_a2.hat_ht_a2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_ht_a2_T"
+      "thumbnail_package": "hat_ht_a2_T",
+      "image_path": "images/9511.png"
     },
     {
       "id": "9537",
@@ -6421,7 +6914,8 @@
       "path": "hat_ht_b.hat_ht_b",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_ht_b_T"
+      "thumbnail_package": "Hat_ht_b_T",
+      "image_path": "images/9537.png"
     },
     {
       "id": "9548",
@@ -6434,7 +6928,8 @@
       "path": "hat_ht_houhoh.hat_ht_houhoh",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Hat_HT_HoUhOh_T"
+      "thumbnail_package": "Hat_HT_HoUhOh_T",
+      "image_path": "images/9548.png"
     },
     {
       "id": "9596",
@@ -6447,7 +6942,8 @@
       "path": "hat_fireeye.hat_fireeye",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_FireEye_T"
+      "thumbnail_package": "Hat_FireEye_T",
+      "image_path": "images/9596.png"
     },
     {
       "id": "9659",
@@ -6460,7 +6956,8 @@
       "path": "hat_eyebat.hat_eyebat",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "hat_eyebat_T"
+      "thumbnail_package": "hat_eyebat_T",
+      "image_path": "images/9659.png"
     },
     {
       "id": "9697",
@@ -6473,7 +6970,8 @@
       "path": "hat_crown_psplus.hat_crown_psplus",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "Hat_Crown_PSplus_T"
+      "thumbnail_package": "Hat_Crown_PSplus_T",
+      "image_path": "images/9697.png"
     },
     {
       "id": "9791",
@@ -6486,7 +6984,8 @@
       "path": "Hat_Pager.Hat_Pager",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Pager_T"
+      "thumbnail_package": "Hat_Pager_T",
+      "image_path": "images/9791.png"
     },
     {
       "id": "9792",
@@ -6499,7 +6998,8 @@
       "path": "Hat_CRT_TV.Hat_CRT_TV",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_CRT_TV_T"
+      "thumbnail_package": "Hat_CRT_TV_T",
+      "image_path": "images/9792.png"
     },
     {
       "id": "9795",
@@ -6512,7 +7012,8 @@
       "path": "Hat_CD_Case.Hat_CD_Case",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_CD_Case_T"
+      "thumbnail_package": "Hat_CD_Case_T",
+      "image_path": "images/9795.png"
     },
     {
       "id": "9803",
@@ -6525,7 +7026,8 @@
       "path": "hat_curling_stone.hat_curling_stone",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Curling_Stone_T"
+      "thumbnail_package": "Hat_Curling_Stone_T",
+      "image_path": "images/9803.png"
     },
     {
       "id": "9810",
@@ -6538,7 +7040,8 @@
       "path": "Hat_ScreenPet.Hat_ScreenPet",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Screenpet_T"
+      "thumbnail_package": "Hat_Screenpet_T",
+      "image_path": "images/9810.png"
     },
     {
       "id": "9838",
@@ -6551,7 +7054,8 @@
       "path": "hat_falling_snowman.hat_falling_snowman",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_falling_snowman_T"
+      "thumbnail_package": "hat_falling_snowman_T",
+      "image_path": "images/9838.png"
     },
     {
       "id": "9918",
@@ -6564,7 +7068,8 @@
       "path": "hat_spartan_c.hat_spartan_c",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Spartan_C_T"
+      "thumbnail_package": "Hat_Spartan_C_T",
+      "image_path": "images/9918.png"
     },
     {
       "id": "9993",
@@ -6577,7 +7082,8 @@
       "path": "hat_spartan_a.hat_spartan_a",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_spartan_a_T"
+      "thumbnail_package": "hat_spartan_a_T",
+      "image_path": "images/9993.png"
     },
     {
       "id": "10100",
@@ -6590,7 +7096,8 @@
       "path": "hat_snorkelmask.hat_snorkelmask",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_snorkelmask_T"
+      "thumbnail_package": "hat_snorkelmask_T",
+      "image_path": "images/10100.png"
     },
     {
       "id": "10108",
@@ -6603,7 +7110,8 @@
       "path": "hat_lightbulb_psplus.hat_lightbulb_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Hat_LightBulb_PsPlus_T"
+      "thumbnail_package": "Hat_LightBulb_PsPlus_T",
+      "image_path": "images/10108.png"
     },
     {
       "id": "10164",
@@ -6616,7 +7124,8 @@
       "path": "hat_spartan_b.hat_spartan_b",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_spartan_b_T"
+      "thumbnail_package": "hat_spartan_b_T",
+      "image_path": "images/10164.png"
     },
     {
       "id": "10202",
@@ -6629,7 +7138,8 @@
       "path": "hat_octo.hat_octo",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_octo_T"
+      "thumbnail_package": "hat_octo_T",
+      "image_path": "images/10202.png"
     },
     {
       "id": "10327",
@@ -6642,7 +7152,8 @@
       "path": "hat_beachchair.hat_beachchair",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_beachchair_T"
+      "thumbnail_package": "hat_beachchair_T",
+      "image_path": "images/10327.png"
     },
     {
       "id": "10334",
@@ -6655,7 +7166,8 @@
       "path": "hat_flipflop.hat_flipflop",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Flipflop_T"
+      "thumbnail_package": "Hat_Flipflop_T",
+      "image_path": "images/10334.png"
     },
     {
       "id": "10341",
@@ -6668,7 +7180,8 @@
       "path": "hat_punkboot.hat_punkboot",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_PunkBoot_T"
+      "thumbnail_package": "Hat_PunkBoot_T",
+      "image_path": "images/10341.png"
     },
     {
       "id": "10360",
@@ -6681,7 +7194,8 @@
       "path": "hat_nessy.hat_nessy",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_nessy_T"
+      "thumbnail_package": "Hat_nessy_T",
+      "image_path": "images/10360.png"
     },
     {
       "id": "10371",
@@ -6694,7 +7208,8 @@
       "path": "hat_ringer_b.hat_ringer_b",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_Ringer_B_T"
+      "thumbnail_package": "Hat_Ringer_B_T",
+      "image_path": "images/10371.png"
     },
     {
       "id": "10372",
@@ -6707,7 +7222,8 @@
       "path": "hat_ringer_a.hat_ringer_a",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_Ringer_A_T"
+      "thumbnail_package": "Hat_Ringer_A_T",
+      "image_path": "images/10372.png"
     },
     {
       "id": "10375",
@@ -6720,7 +7236,8 @@
       "path": "hat_nighttent.hat_nighttent",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_NightTent_T"
+      "thumbnail_package": "Hat_NightTent_T",
+      "image_path": "images/10375.png"
     },
     {
       "id": "10376",
@@ -6733,7 +7250,8 @@
       "path": "hat_ringer_c.hat_ringer_c",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "hat_ringer_C_T"
+      "thumbnail_package": "hat_ringer_C_T",
+      "image_path": "images/10376.png"
     },
     {
       "id": "10407",
@@ -6746,7 +7264,8 @@
       "path": "hat_raft_psp.hat_raft_psp",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "hat_raft_PSP_T"
+      "thumbnail_package": "hat_raft_PSP_T",
+      "image_path": "images/10407.png"
     },
     {
       "id": "10443",
@@ -6759,7 +7278,8 @@
       "path": "hat_chupacabra.hat_chupacabra",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_chupacabra_T"
+      "thumbnail_package": "Hat_chupacabra_T",
+      "image_path": "images/10443.png"
     },
     {
       "id": "10486",
@@ -6772,7 +7292,8 @@
       "path": "Hat_Law.Hat_Law",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Hat_Law_T"
+      "thumbnail_package": "Hat_Law_T",
+      "image_path": "images/10486.png"
     },
     {
       "id": "10488",
@@ -6785,7 +7306,8 @@
       "path": "hat_awmask.hat_awmask",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_AWmask_T"
+      "thumbnail_package": "hat_AWmask_T",
+      "image_path": "images/10488.png"
     },
     {
       "id": "10500",
@@ -6798,7 +7320,8 @@
       "path": "hat_awbasic.hat_awbasic",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_AWbasic_T"
+      "thumbnail_package": "hat_AWbasic_T",
+      "image_path": "images/10500.png"
     },
     {
       "id": "10510",
@@ -6811,7 +7334,8 @@
       "path": "hat_sunhatglasses.hat_sunhatglasses",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_SunHatGlasses_T"
+      "thumbnail_package": "Hat_SunHatGlasses_T",
+      "image_path": "images/10510.png"
     },
     {
       "id": "10577",
@@ -6824,7 +7348,8 @@
       "path": "hat_murk.hat_murk",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Hat_murk_T"
+      "thumbnail_package": "Hat_murk_T",
+      "image_path": "images/10577.png"
     },
     {
       "id": "10651",
@@ -6837,7 +7362,11 @@
       "thumbnail_package": "Hat_HeadInBowl_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 2,
+      "paintable": true,
+      "path": "hat_headinbowl.hat_headinbowl",
+      "image_path": "images/10651.png"
     },
     {
       "id": "10674",
@@ -6850,7 +7379,8 @@
       "path": "hat_future_baja.hat_future_baja",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "Hat_Future_baja_T"
+      "thumbnail_package": "Hat_Future_baja_T",
+      "image_path": "images/10674.png"
     },
     {
       "id": "10732",
@@ -6863,7 +7393,8 @@
       "path": "hat_kitty.hat_kitty",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Kitty_T"
+      "thumbnail_package": "Hat_Kitty_T",
+      "image_path": "images/10732.png"
     },
     {
       "id": "10781",
@@ -6876,7 +7407,8 @@
       "path": "hat_sticky_03.hat_sticky_03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Sticky_03_T"
+      "thumbnail_package": "Hat_Sticky_03_T",
+      "image_path": "images/10781.png"
     },
     {
       "id": "10784",
@@ -6889,7 +7421,8 @@
       "path": "hat_sticky_02.hat_sticky_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_sticky_02_T"
+      "thumbnail_package": "hat_sticky_02_T",
+      "image_path": "images/10784.png"
     },
     {
       "id": "10791",
@@ -6902,7 +7435,8 @@
       "path": "hat_sticky_01.hat_sticky_01",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "hat_sticky_01_T"
+      "thumbnail_package": "hat_sticky_01_T",
+      "image_path": "images/10791.png"
     },
     {
       "id": "10824",
@@ -6915,7 +7449,8 @@
       "path": "hat_sticky_04.hat_sticky_04",
       "quality_id": 4,
       "paintable": true,
-      "thumbnail_package": "hat_sticky_04_T"
+      "thumbnail_package": "hat_sticky_04_T",
+      "image_path": "images/10824.png"
     },
     {
       "id": "10829",
@@ -6928,7 +7463,8 @@
       "path": "hat_flashlight.hat_flashlight",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Flashlight_T"
+      "thumbnail_package": "Hat_Flashlight_T",
+      "image_path": "images/10829.png"
     },
     {
       "id": "10885",
@@ -6941,7 +7477,8 @@
       "path": "hat_comet_psplus.hat_comet_psplus",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "hat_comet_psplus_T"
+      "thumbnail_package": "hat_comet_psplus_T",
+      "image_path": "images/10885.png"
     },
     {
       "id": "10902",
@@ -6954,7 +7491,8 @@
       "path": "hat_heartbeating_rainbow.hat_heartbeating_rainbow",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_heartbeating_rainbow_T"
+      "thumbnail_package": "hat_heartbeating_rainbow_T",
+      "image_path": "images/10902.png"
     },
     {
       "id": "10907",
@@ -6967,7 +7505,8 @@
       "path": "hat_hero.hat_hero",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "hat_hero_T"
+      "thumbnail_package": "hat_hero_T",
+      "image_path": "images/10907.png"
     },
     {
       "id": "10945",
@@ -6980,7 +7519,8 @@
       "path": "hat_volleyball.hat_volleyball",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Volleyball_T"
+      "thumbnail_package": "Hat_Volleyball_T",
+      "image_path": "images/10945.png"
     },
     {
       "id": "10948",
@@ -6993,7 +7533,8 @@
       "path": "hat_pixelpigeon.hat_pixelpigeon",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_pixelpigeon_T"
+      "thumbnail_package": "hat_pixelpigeon_T",
+      "image_path": "images/10948.png"
     },
     {
       "id": "10950",
@@ -7006,7 +7547,8 @@
       "path": "hat_joystick.hat_joystick",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Joystick_T"
+      "thumbnail_package": "Hat_Joystick_T",
+      "image_path": "images/10950.png"
     },
     {
       "id": "10953",
@@ -7019,7 +7561,8 @@
       "path": "hat_gumballmachine.hat_gumballmachine",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_GumballMachine_T"
+      "thumbnail_package": "hat_GumballMachine_T",
+      "image_path": "images/10953.png"
     },
     {
       "id": "10973",
@@ -7032,7 +7575,8 @@
       "path": "hat_golftee.hat_golftee",
       "quality_id": 1,
       "paintable": true,
-      "thumbnail_package": "hat_GolfTee_T"
+      "thumbnail_package": "hat_GolfTee_T",
+      "image_path": "images/10973.png"
     },
     {
       "id": "10978",
@@ -7045,7 +7589,8 @@
       "path": "hat_duckiesoapsurfer.hat_duckiesoapsurfer",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Hat_DuckieSoapSurfer_T"
+      "thumbnail_package": "Hat_DuckieSoapSurfer_T",
+      "image_path": "images/10978.png"
     },
     {
       "id": "10991",
@@ -7058,7 +7603,8 @@
       "path": "hat_dart.hat_dart",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_dart_T"
+      "thumbnail_package": "hat_dart_T",
+      "image_path": "images/10991.png"
     },
     {
       "id": "11001",
@@ -7071,7 +7617,8 @@
       "path": "hat_circuscannon.hat_circuscannon",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "hat_circuscannon_T"
+      "thumbnail_package": "hat_circuscannon_T",
+      "image_path": "images/11001.png"
     },
     {
       "id": "11015",
@@ -7084,7 +7631,8 @@
       "path": "hat_gamecartridge.hat_gamecartridge",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_GameCartridge_T"
+      "thumbnail_package": "Hat_GameCartridge_T",
+      "image_path": "images/11015.png"
     },
     {
       "id": "11053",
@@ -7097,7 +7645,8 @@
       "path": "hat_yarnball_psp.hat_yarnball_psp",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "hat_yarnball_PSP_T"
+      "thumbnail_package": "hat_yarnball_PSP_T",
+      "image_path": "images/11053.png"
     },
     {
       "id": "11135",
@@ -7110,7 +7659,8 @@
       "path": "hat_toywinder.hat_toywinder",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_ToyWinder_T"
+      "thumbnail_package": "hat_ToyWinder_T",
+      "image_path": "images/11135.png"
     },
     {
       "id": "11205",
@@ -7123,7 +7673,8 @@
       "path": "hat_dwi_frosted.hat_dwi_frosted",
       "quality_id": 5,
       "paintable": false,
-      "thumbnail_package": "Hat_DWI_Frosted_T"
+      "thumbnail_package": "Hat_DWI_Frosted_T",
+      "image_path": "images/11205.png"
     },
     {
       "id": "11223",
@@ -7136,7 +7687,8 @@
       "path": "hat_aventurine.hat_aventurine",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_Aventurine_T"
+      "thumbnail_package": "Hat_Aventurine_T",
+      "image_path": "images/11223.png"
     },
     {
       "id": "11230",
@@ -7149,7 +7701,8 @@
       "path": "hat_daikon2.hat_daikon2",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "Hat_Daikon2_T"
+      "thumbnail_package": "Hat_Daikon2_T",
+      "image_path": "images/11230.png"
     },
     {
       "id": "11329",
@@ -7162,7 +7715,8 @@
       "path": "hat_explosionsign.hat_explosionsign",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_explosionsign_T"
+      "thumbnail_package": "hat_explosionsign_T",
+      "image_path": "images/11329.png"
     },
     {
       "id": "11365",
@@ -7175,7 +7729,8 @@
       "path": "hat_froglte.hat_froglte",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_froglte_T"
+      "thumbnail_package": "hat_froglte_T",
+      "image_path": "images/11365.png"
     },
     {
       "id": "11381",
@@ -7188,7 +7743,8 @@
       "path": "hat_threedee_papercut_psp.hat_threedee_papercut_psp",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "hat_threedee_papercut_psp_T"
+      "thumbnail_package": "hat_threedee_papercut_psp_T",
+      "image_path": "images/11381.png"
     },
     {
       "id": "11401",
@@ -7201,7 +7757,8 @@
       "path": "hat_futurepigeon.hat_futurepigeon",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_FuturePigeon_T"
+      "thumbnail_package": "Hat_FuturePigeon_T",
+      "image_path": "images/11401.png"
     },
     {
       "id": "11488",
@@ -7214,7 +7771,8 @@
       "path": "hat_papercrane.hat_papercrane",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Hat_Papercrane_T"
+      "thumbnail_package": "Hat_Papercrane_T",
+      "image_path": "images/11488.png"
     },
     {
       "id": "11490",
@@ -7227,7 +7785,8 @@
       "path": "hat_bonsai.hat_bonsai",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "Hat_Bonsai_T"
+      "thumbnail_package": "Hat_Bonsai_T",
+      "image_path": "images/11490.png"
     },
     {
       "id": "11544",
@@ -7240,7 +7799,8 @@
       "path": "hat_bobsramen.hat_bobsramen",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_bobsramen_T"
+      "thumbnail_package": "hat_bobsramen_T",
+      "image_path": "images/11544.png"
     },
     {
       "id": "11564",
@@ -7253,7 +7813,8 @@
       "path": "hat_pixelhalo.hat_pixelhalo",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_PixelHalo_T"
+      "thumbnail_package": "Hat_PixelHalo_T",
+      "image_path": "images/11564.png"
     },
     {
       "id": "11658",
@@ -7266,7 +7827,8 @@
       "path": "hat_mohawk_psp.hat_mohawk_psp",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "Hat_Mohawk_PSP_T"
+      "thumbnail_package": "Hat_Mohawk_PSP_T",
+      "image_path": "images/11658.png"
     },
     {
       "id": "11694",
@@ -7279,7 +7841,8 @@
       "path": "hat_evilornament02.hat_evilornament02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_EvilOrnament02_T"
+      "thumbnail_package": "Hat_EvilOrnament02_T",
+      "image_path": "images/11694.png"
     },
     {
       "id": "11702",
@@ -7292,7 +7855,8 @@
       "path": "hat_evilornament01.hat_evilornament01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_EvilOrnament01_T"
+      "thumbnail_package": "Hat_EvilOrnament01_T",
+      "image_path": "images/11702.png"
     },
     {
       "id": "11711",
@@ -7305,7 +7869,8 @@
       "path": "hat_takoocto.hat_takoocto",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "hat_TakoOcto_T"
+      "thumbnail_package": "hat_TakoOcto_T",
+      "image_path": "images/11711.png"
     },
     {
       "id": "11763",
@@ -7318,7 +7883,8 @@
       "path": "hat_oldpc_psp.hat_oldpc_psp",
       "quality_id": 7,
       "paintable": true,
-      "thumbnail_package": "hat_oldpc_psp_T"
+      "thumbnail_package": "hat_oldpc_psp_T",
+      "image_path": "images/11763.png"
     },
     {
       "id": "11801",
@@ -7331,7 +7897,8 @@
       "path": "hat_phonograph.hat_phonograph",
       "quality_id": 3,
       "paintable": true,
-      "thumbnail_package": "Hat_Phonograph_T"
+      "thumbnail_package": "Hat_Phonograph_T",
+      "image_path": "images/11801.png"
     },
     {
       "id": "11840",
@@ -7344,7 +7911,8 @@
       "path": "hat_magic_carpet.hat_magic_carpet",
       "quality_id": 2,
       "paintable": true,
-      "thumbnail_package": "hat_magic_carpet_T"
+      "thumbnail_package": "hat_magic_carpet_T",
+      "image_path": "images/11840.png"
     },
     {
       "id": "11884",
@@ -7357,7 +7925,8 @@
       "path": "hat_tourneywinner_cr.hat_tourneywinner_cr",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_TourneyWinner_CR_T"
+      "thumbnail_package": "Hat_TourneyWinner_CR_T",
+      "image_path": "images/11884.png"
     },
     {
       "id": "11927",
@@ -7370,7 +7939,8 @@
       "path": "hat_dragoncat.hat_dragoncat",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_DragonCat_T"
+      "thumbnail_package": "hat_DragonCat_T",
+      "image_path": "images/11927.png"
     },
     {
       "id": "11951",
@@ -7383,7 +7953,8 @@
       "path": "hat_goldenlycheelte02.hat_goldenlycheelte02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_GoldenLycheeLTE02_T"
+      "thumbnail_package": "Hat_GoldenLycheeLTE02_T",
+      "image_path": "images/11951.png"
     },
     {
       "id": "11964",
@@ -7396,7 +7967,8 @@
       "path": "hat_rpgoldenlychee02.hat_rpgoldenlychee02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_RPGoldenLychee02_T"
+      "thumbnail_package": "Hat_RPGoldenLychee02_T",
+      "image_path": "images/11964.png"
     },
     {
       "id": "11994",
@@ -7409,7 +7981,8 @@
       "path": "hat_nugget.hat_nugget",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_nugget_T"
+      "thumbnail_package": "hat_nugget_T",
+      "image_path": "images/11994.png"
     },
     {
       "id": "12018",
@@ -7422,7 +7995,8 @@
       "path": "hat_hhbanjolte01.hat_hhbanjolte01",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_HHBanjoLTE01_T"
+      "thumbnail_package": "Hat_HHBanjoLTE01_T",
+      "image_path": "images/12018.png"
     },
     {
       "id": "12063",
@@ -7435,7 +8009,8 @@
       "path": "hat_footballhelmet.hat_footballhelmet",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_FootballHelmet_T"
+      "thumbnail_package": "Hat_FootballHelmet_T",
+      "image_path": "images/12063.png"
     },
     {
       "id": "12091",
@@ -7448,7 +8023,8 @@
       "path": "hat_sprinklelte03.hat_sprinklelte03",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_SprinkleLTE03_T"
+      "thumbnail_package": "Hat_SprinkleLTE03_T",
+      "image_path": "images/12091.png"
     },
     {
       "id": "12092",
@@ -7461,7 +8037,8 @@
       "path": "hat_walkietalkie.hat_walkietalkie",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_WalkieTalkie_T"
+      "thumbnail_package": "Hat_WalkieTalkie_T",
+      "image_path": "images/12092.png"
     },
     {
       "id": "12094",
@@ -7474,7 +8051,8 @@
       "path": "hat_fruitclock.hat_fruitclock",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_FruitClock_T"
+      "thumbnail_package": "Hat_FruitClock_T",
+      "image_path": "images/12094.png"
     },
     {
       "id": "12112",
@@ -7487,7 +8065,8 @@
       "path": "hat_snowmancling.hat_snowmancling",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_SnowManCling_T"
+      "thumbnail_package": "hat_SnowManCling_T",
+      "image_path": "images/12112.png"
     },
     {
       "id": "12113",
@@ -7500,7 +8079,8 @@
       "path": "hat_sprinklelte02.hat_sprinklelte02",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_sprinklelte02_T"
+      "thumbnail_package": "hat_sprinklelte02_T",
+      "image_path": "images/12113.png"
     },
     {
       "id": "12148",
@@ -7513,7 +8093,8 @@
       "path": "hat_rpchrome01.hat_rpchrome01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_RPChrome01_T"
+      "thumbnail_package": "Hat_RPChrome01_T",
+      "image_path": "images/12148.png"
     },
     {
       "id": "12155",
@@ -7526,7 +8107,8 @@
       "path": "hat_rpchrome02.hat_rpchrome02",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_rpchrome02_T"
+      "thumbnail_package": "hat_rpchrome02_T",
+      "image_path": "images/12155.png"
     },
     {
       "id": "12233",
@@ -7539,7 +8121,8 @@
       "path": "hat_safe.hat_safe",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_Safe_T"
+      "thumbnail_package": "hat_Safe_T",
+      "image_path": "images/12233.png"
     },
     {
       "id": "12255",
@@ -7552,7 +8135,8 @@
       "path": "hat_numblte01.hat_numblte01",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_NumbLTE01_T"
+      "thumbnail_package": "Hat_NumbLTE01_T",
+      "image_path": "images/12255.png"
     },
     {
       "id": "12272",
@@ -7565,7 +8149,8 @@
       "path": "hat_trophy.hat_trophy",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_trophy_T"
+      "thumbnail_package": "hat_trophy_T",
+      "image_path": "images/12272.png"
     },
     {
       "id": "12295",
@@ -7578,7 +8163,8 @@
       "path": "hat_gherkinlte01.hat_gherkinlte01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_GherkinLTE01_T"
+      "thumbnail_package": "Hat_GherkinLTE01_T",
+      "image_path": "images/12295.png"
     },
     {
       "id": "12303",
@@ -7591,7 +8177,8 @@
       "path": "hat_gherkinlte04.hat_gherkinlte04",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_GherkinLTE04_T"
+      "thumbnail_package": "Hat_GherkinLTE04_T",
+      "image_path": "images/12303.png"
     },
     {
       "id": "12307",
@@ -7604,7 +8191,8 @@
       "path": "hat_gherkinlte02.hat_gherkinlte02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_gherkinlte02_T"
+      "thumbnail_package": "hat_gherkinlte02_T",
+      "image_path": "images/12307.png"
     },
     {
       "id": "12308",
@@ -7617,7 +8205,8 @@
       "path": "hat_gherkinlte05.hat_gherkinlte05",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_gherkinlte05_T"
+      "thumbnail_package": "hat_gherkinlte05_T",
+      "image_path": "images/12308.png"
     },
     {
       "id": "12317",
@@ -7630,7 +8219,8 @@
       "path": "hat_gherkinlte03.hat_gherkinlte03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_GherkinLTE03_T"
+      "thumbnail_package": "Hat_GherkinLTE03_T",
+      "image_path": "images/12317.png"
     },
     {
       "id": "12374",
@@ -7643,7 +8233,11 @@
       "thumbnail_package": "hat_chessqueen_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": true,
+      "path": "hat_chessqueen.hat_chessqueen",
+      "image_path": "images/12374.png"
     },
     {
       "id": "12395",
@@ -7656,7 +8250,8 @@
       "path": "hat_courgettelte01.hat_courgettelte01",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_CourgetteLTE01_T"
+      "thumbnail_package": "Hat_CourgetteLTE01_T",
+      "image_path": "images/12395.png"
     },
     {
       "id": "12457",
@@ -7669,7 +8264,8 @@
       "path": "hat_rhino_psp.hat_rhino_psp",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "Hat_Rhino_Psp_T"
+      "thumbnail_package": "Hat_Rhino_Psp_T",
+      "image_path": "images/12457.png"
     },
     {
       "id": "12479",
@@ -7682,7 +8278,8 @@
       "path": "hat_tech.hat_tech",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_tech_T"
+      "thumbnail_package": "hat_tech_T",
+      "image_path": "images/12479.png"
     },
     {
       "id": "12487",
@@ -7695,7 +8292,8 @@
       "path": "hat_dronemoji.hat_dronemoji",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_Dronemoji_T"
+      "thumbnail_package": "Hat_Dronemoji_T",
+      "image_path": "images/12487.png"
     },
     {
       "id": "12543",
@@ -7708,7 +8306,8 @@
       "path": "hat_rpluminousairplane04.hat_rpluminousairplane04",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_RPLuminousAirplane04_T"
+      "thumbnail_package": "Hat_RPLuminousAirplane04_T",
+      "image_path": "images/12543.png"
     },
     {
       "id": "12568",
@@ -7721,7 +8320,8 @@
       "path": "hat_rpluminousairplane03.hat_rpluminousairplane03",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_RPLuminousAirplane03_T"
+      "thumbnail_package": "Hat_RPLuminousAirplane03_T",
+      "image_path": "images/12568.png"
     },
     {
       "id": "12697",
@@ -7734,7 +8334,8 @@
       "path": "hat_cosmickitty.hat_cosmickitty",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "hat_CosmicKitty_T"
+      "thumbnail_package": "hat_CosmicKitty_T",
+      "image_path": "images/12697.png"
     },
     {
       "id": "12700",
@@ -7747,7 +8348,8 @@
       "path": "hat_rooster_psp.hat_rooster_psp",
       "quality_id": 7,
       "paintable": false,
-      "thumbnail_package": "hat_rooster_psp_T"
+      "thumbnail_package": "hat_rooster_psp_T",
+      "image_path": "images/12700.png"
     },
     {
       "id": "12726",
@@ -7760,7 +8362,11 @@
       "thumbnail_package": "hat_storm_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 3,
+      "paintable": true,
+      "path": "hat_storm.hat_storm",
+      "image_path": "images/12726.png"
     },
     {
       "id": "12743",
@@ -7773,7 +8379,11 @@
       "thumbnail_package": "Hat_Moon_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "hat_moon.hat_moon",
+      "image_path": "images/12743.png"
     },
     {
       "id": "12785",
@@ -7786,7 +8396,8 @@
       "path": "hat_3dbenchy.hat_3dbenchy",
       "quality_id": 8,
       "paintable": true,
-      "thumbnail_package": "Hat_3DBenchy_T"
+      "thumbnail_package": "Hat_3DBenchy_T",
+      "image_path": "images/12785.png"
     },
     {
       "id": "12791",
@@ -7799,7 +8410,8 @@
       "path": "hat_ferrofluid.hat_ferrofluid",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Hat_FerroFluid_T"
+      "thumbnail_package": "Hat_FerroFluid_T",
+      "image_path": "images/12791.png"
     },
     {
       "id": "12811",
@@ -7812,7 +8424,11 @@
       "thumbnail_package": "Hat_OpticOrangeLTE01_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "hat_opticorangelte01.hat_opticorangelte01",
+      "image_path": "images/12811.png"
     },
     {
       "id": "12874",
@@ -7825,7 +8441,8 @@
       "path": "hat_benchriver01.hat_benchriver01",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_BenchRiver01_T"
+      "thumbnail_package": "hat_BenchRiver01_T",
+      "image_path": "images/12874.png"
     },
     {
       "id": "12875",
@@ -7838,7 +8455,8 @@
       "path": "hat_benchriver02.hat_benchriver02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "hat_BenchRiver02_T"
+      "thumbnail_package": "hat_BenchRiver02_T",
+      "image_path": "images/12875.png"
     },
     {
       "id": "12970",
@@ -7851,7 +8469,11 @@
       "thumbnail_package": "Hat_S24PSPlus_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 7,
+      "paintable": true,
+      "path": "hat_s24psplus.hat_s24psplus",
+      "image_path": "images/12970.png"
     },
     {
       "id": "13009",
@@ -7864,7 +8486,11 @@
       "thumbnail_package": "Hat_ChibiGrain_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "hat_chibigrain.hat_chibigrain",
+      "image_path": "images/13009.png"
     },
     {
       "id": "13041",
@@ -7877,7 +8503,11 @@
       "thumbnail_package": "hat_speedometer_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "hat_speedometer.hat_speedometer",
+      "image_path": "images/13041.png"
     },
     {
       "id": "13142",
@@ -7890,7 +8520,53 @@
       "thumbnail_package": "Hat_BuffySugo_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "hat_buffysugo.hat_buffysugo",
+      "image_path": "images/13142.png"
+    },
+    {
+      "id": "13052",
+      "internal_name": "hat_honduel01",
+      "name": "?INT?Products.hat_honduel01.Label?",
+      "upk_path": "hat_honduel01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "hat_honduel01",
+      "path": "hat_honduel01.hat_honduel01",
+      "thumbnail": "Hat_HonDuel01_T_SF.upk",
+      "thumbnail_package": "Hat_HonDuel01_T",
+      "image_path": "images/13052.png"
+    },
+    {
+      "id": "13065",
+      "internal_name": "hat_umbragenesislte01",
+      "name": "Joker",
+      "upk_path": "hat_umbragenesislte01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "hat_umbragenesislte01",
+      "path": "hat_umbragenesislte01.hat_umbragenesislte01",
+      "thumbnail": "Hat_UmbraGenesisLTE01_T_SF.upk",
+      "thumbnail_package": "Hat_UmbraGenesisLTE01_T",
+      "image_path": "images/13065.png"
+    },
+    {
+      "id": "13209",
+      "internal_name": "hat_team01",
+      "name": "?INT?Products.hat_team01.Label?",
+      "upk_path": "hat_team01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": true,
+      "package": "hat_team01",
+      "path": "hat_team01.hat_team01",
+      "thumbnail": "Hat_Team01_T_SF.upk",
+      "thumbnail_package": "Hat_Team01_T",
+      "image_path": "images/13209.png"
     }
   ]
 }

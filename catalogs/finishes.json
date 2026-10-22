@@ -12,7 +12,8 @@
       "path": "PaintFinish_BrushedMetal.PaintFinish_BrushedMetal",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_BrushedMetal_T"
+      "thumbnail_package": "PaintFinish_BrushedMetal_T",
+      "image_path": "images/266.png"
     },
     {
       "id": "267",
@@ -25,7 +26,8 @@
       "path": "paintfinish_cheese.paintfinish_cheese",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Cheese_T"
+      "thumbnail_package": "PaintFinish_Cheese_T",
+      "image_path": "images/267.png"
     },
     {
       "id": "268",
@@ -38,7 +40,8 @@
       "path": "PaintFinish_Corroded.PaintFinish_Corroded",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Corroded_T"
+      "thumbnail_package": "PaintFinish_Corroded_T",
+      "image_path": "images/268.png"
     },
     {
       "id": "269",
@@ -51,7 +54,8 @@
       "path": "paintfinish_cushion.paintfinish_cushion",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Cushion_T"
+      "thumbnail_package": "PaintFinish_Cushion_T",
+      "image_path": "images/269.png"
     },
     {
       "id": "270",
@@ -64,7 +68,8 @@
       "path": "PaintFinish_Default.PaintFinish_Default",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Default_T"
+      "thumbnail_package": "PaintFinish_Default_T",
+      "image_path": "images/270.png"
     },
     {
       "id": "271",
@@ -77,7 +82,8 @@
       "path": "PaintFinish_Fur.PaintFinish_Fur",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Fur_T"
+      "thumbnail_package": "PaintFinish_Fur_T",
+      "image_path": "images/271.png"
     },
     {
       "id": "272",
@@ -90,7 +96,8 @@
       "path": "PaintFinish_GlossyCarbonFiber.PaintFinish_GlossyCarbonFiber",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_GlossyCarbonFiber_T"
+      "thumbnail_package": "PaintFinish_GlossyCarbonFiber_T",
+      "image_path": "images/272.png"
     },
     {
       "id": "273",
@@ -103,7 +110,8 @@
       "path": "PaintFinish_Matte.PaintFinish_Matte",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Matte_T"
+      "thumbnail_package": "PaintFinish_Matte_T",
+      "image_path": "images/273.png"
     },
     {
       "id": "274",
@@ -116,7 +124,8 @@
       "path": "PaintFinish_Metallic.PaintFinish_Metallic",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Metallic_T"
+      "thumbnail_package": "PaintFinish_Metallic_T",
+      "image_path": "images/274.png"
     },
     {
       "id": "275",
@@ -129,7 +138,8 @@
       "path": "PaintFinish_MetallicPearl.PaintFinish_MetallicPearl",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_MetallicPearl_T"
+      "thumbnail_package": "PaintFinish_MetallicPearl_T",
+      "image_path": "images/275.png"
     },
     {
       "id": "276",
@@ -142,7 +152,8 @@
       "path": "PaintFinish_Pearlescent.PaintFinish_Pearlescent",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Pearlescent_T"
+      "thumbnail_package": "PaintFinish_Pearlescent_T",
+      "image_path": "images/276.png"
     },
     {
       "id": "277",
@@ -155,7 +166,8 @@
       "path": "PaintFinish_Plastic.PaintFinish_Plastic",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Plastic_T"
+      "thumbnail_package": "PaintFinish_Plastic_T",
+      "image_path": "images/277.png"
     },
     {
       "id": "278",
@@ -168,7 +180,8 @@
       "path": "paintfinish_slime.paintfinish_slime",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Slime_T"
+      "thumbnail_package": "PaintFinish_Slime_T",
+      "image_path": "images/278.png"
     },
     {
       "id": "279",
@@ -181,7 +194,8 @@
       "path": "PaintFinish_ToonGlossy.PaintFinish_ToonGlossy",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_ToonGlossy_T"
+      "thumbnail_package": "PaintFinish_ToonGlossy_T",
+      "image_path": "images/279.png"
     },
     {
       "id": "280",
@@ -194,7 +208,8 @@
       "path": "PaintFinish_ToonGlossyWood.PaintFinish_ToonGlossyWood",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_ToonGlossyWood_T"
+      "thumbnail_package": "PaintFinish_ToonGlossyWood_T",
+      "image_path": "images/280.png"
     },
     {
       "id": "281",
@@ -207,7 +222,8 @@
       "path": "PaintFinish_ToonMatte.PaintFinish_ToonMatte",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_ToonMatte_T"
+      "thumbnail_package": "PaintFinish_ToonMatte_T",
+      "image_path": "images/281.png"
     },
     {
       "id": "282",
@@ -220,7 +236,8 @@
       "path": "paintfinish_turnedmetal.paintfinish_turnedmetal",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_TurnedMetal_T"
+      "thumbnail_package": "PaintFinish_TurnedMetal_T",
+      "image_path": "images/282.png"
     },
     {
       "id": "283",
@@ -233,7 +250,8 @@
       "path": "PaintFinish_Wood.PaintFinish_Wood",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Wood_T"
+      "thumbnail_package": "PaintFinish_Wood_T",
+      "image_path": "images/283.png"
     },
     {
       "id": "541",
@@ -246,7 +264,8 @@
       "path": "PaintFinish_Camo.PaintFinish_Camo",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Camo_T"
+      "thumbnail_package": "PaintFinish_Camo_T",
+      "image_path": "images/541.png"
     },
     {
       "id": "542",
@@ -259,7 +278,8 @@
       "path": "PaintFinish_Cracked.PaintFinish_Cracked",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Cracked_T"
+      "thumbnail_package": "PaintFinish_Cracked_T",
+      "image_path": "images/542.png"
     },
     {
       "id": "623",
@@ -272,7 +292,8 @@
       "path": "PaintFinish_GreyCar.PaintFinish_GreyCar",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_GreyCar_T"
+      "thumbnail_package": "PaintFinish_GreyCar_T",
+      "image_path": "images/623.png"
     },
     {
       "id": "1681",
@@ -285,7 +306,8 @@
       "path": "paintfinish_circuitboard.paintfinish_circuitboard",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_CircuitBoard_T"
+      "thumbnail_package": "PaintFinish_CircuitBoard_T",
+      "image_path": "images/1681.png"
     },
     {
       "id": "1688",
@@ -298,7 +320,8 @@
       "path": "paintfinish_craters.paintfinish_craters",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "paintfinish_craters_T"
+      "thumbnail_package": "paintfinish_craters_T",
+      "image_path": "images/1688.png"
     },
     {
       "id": "1692",
@@ -311,7 +334,8 @@
       "path": "paintfinish_rocky.paintfinish_rocky",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Rocky_T"
+      "thumbnail_package": "PaintFinish_Rocky_T",
+      "image_path": "images/1692.png"
     },
     {
       "id": "1697",
@@ -324,7 +348,8 @@
       "path": "paintfinish_bread.paintfinish_bread",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Bread_T"
+      "thumbnail_package": "PaintFinish_Bread_T",
+      "image_path": "images/1697.png"
     },
     {
       "id": "1698",
@@ -337,7 +362,8 @@
       "path": "paintfinish_buttons.paintfinish_buttons",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Buttons_T"
+      "thumbnail_package": "PaintFinish_Buttons_T",
+      "image_path": "images/1698.png"
     },
     {
       "id": "1700",
@@ -350,7 +376,8 @@
       "path": "paintfinish_cookie.paintfinish_cookie",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Cookie_T"
+      "thumbnail_package": "PaintFinish_Cookie_T",
+      "image_path": "images/1700.png"
     },
     {
       "id": "1701",
@@ -363,7 +390,8 @@
       "path": "paintfinish_corkboard.paintfinish_corkboard",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_CorkBoard_T"
+      "thumbnail_package": "PaintFinish_CorkBoard_T",
+      "image_path": "images/1701.png"
     },
     {
       "id": "1702",
@@ -376,7 +404,8 @@
       "path": "paintfinish_denim.paintfinish_denim",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Denim_T"
+      "thumbnail_package": "PaintFinish_Denim_T",
+      "image_path": "images/1702.png"
     },
     {
       "id": "1703",
@@ -389,7 +418,8 @@
       "path": "paintfinish_diamondplate.paintfinish_diamondplate",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_DiamondPlate_T"
+      "thumbnail_package": "PaintFinish_DiamondPlate_T",
+      "image_path": "images/1703.png"
     },
     {
       "id": "1704",
@@ -402,7 +432,8 @@
       "path": "paintfinish_fiberboard.paintfinish_fiberboard",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_FiberBoard_T"
+      "thumbnail_package": "PaintFinish_FiberBoard_T",
+      "image_path": "images/1704.png"
     },
     {
       "id": "1705",
@@ -415,7 +446,8 @@
       "path": "paintfinish_glossymaze.paintfinish_glossymaze",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_GlossyMaze_T"
+      "thumbnail_package": "PaintFinish_GlossyMaze_T",
+      "image_path": "images/1705.png"
     },
     {
       "id": "1707",
@@ -428,7 +460,8 @@
       "path": "paintfinish_knitted.paintfinish_knitted",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Knitted_T"
+      "thumbnail_package": "PaintFinish_Knitted_T",
+      "image_path": "images/1707.png"
     },
     {
       "id": "1708",
@@ -441,7 +474,8 @@
       "path": "paintfinish_particleboard.paintfinish_particleboard",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_ParticleBoard_T"
+      "thumbnail_package": "PaintFinish_ParticleBoard_T",
+      "image_path": "images/1708.png"
     },
     {
       "id": "1709",
@@ -454,7 +488,8 @@
       "path": "paintfinish_plaster.paintfinish_plaster",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Plaster_T"
+      "thumbnail_package": "PaintFinish_Plaster_T",
+      "image_path": "images/1709.png"
     },
     {
       "id": "1710",
@@ -467,7 +502,8 @@
       "path": "paintfinish_roughweave.paintfinish_roughweave",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_RoughWeave_T"
+      "thumbnail_package": "PaintFinish_RoughWeave_T",
+      "image_path": "images/1710.png"
     },
     {
       "id": "1711",
@@ -480,7 +516,8 @@
       "path": "paintfinish_twill.paintfinish_twill",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Twill_T"
+      "thumbnail_package": "PaintFinish_Twill_T",
+      "image_path": "images/1711.png"
     },
     {
       "id": "1712",
@@ -493,7 +530,8 @@
       "path": "paintfinish_zebra.paintfinish_zebra",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Zebra_T"
+      "thumbnail_package": "PaintFinish_Zebra_T",
+      "image_path": "images/1712.png"
     },
     {
       "id": "1978",
@@ -506,7 +544,8 @@
       "path": "paintfinish_glossyblocks.paintfinish_glossyblocks",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "paintfinish_glossyBlocks_T"
+      "thumbnail_package": "paintfinish_glossyBlocks_T",
+      "image_path": "images/1978.png"
     },
     {
       "id": "1980",
@@ -519,7 +558,8 @@
       "path": "paintfinish_mattepearlescent.paintfinish_mattepearlescent",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_MattePearlescent_T"
+      "thumbnail_package": "PaintFinish_MattePearlescent_T",
+      "image_path": "images/1980.png"
     },
     {
       "id": "2066",
@@ -532,7 +572,8 @@
       "path": "paintfinish_metallicsmooth.paintfinish_metallicsmooth",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_MetallicSmooth_T"
+      "thumbnail_package": "PaintFinish_MetallicSmooth_T",
+      "image_path": "images/2066.png"
     },
     {
       "id": "2067",
@@ -545,7 +586,8 @@
       "path": "paintfinish_metallicsmoothpearl.paintfinish_metallicsmoothpearl",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_MetallicSmoothPearl_T"
+      "thumbnail_package": "PaintFinish_MetallicSmoothPearl_T",
+      "image_path": "images/2067.png"
     },
     {
       "id": "2275",
@@ -558,7 +600,8 @@
       "path": "paintfinish_anodized.paintfinish_anodized",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Anodized_T"
+      "thumbnail_package": "PaintFinish_Anodized_T",
+      "image_path": "images/2275.png"
     },
     {
       "id": "2497",
@@ -571,7 +614,8 @@
       "path": "paintfinish_polygrid.paintfinish_polygrid",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_PolyGrid_T"
+      "thumbnail_package": "PaintFinish_PolyGrid_T",
+      "image_path": "images/2497.png"
     },
     {
       "id": "2748",
@@ -584,7 +628,8 @@
       "path": "paintfinish_eggplant.paintfinish_eggplant",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Eggplant_T"
+      "thumbnail_package": "PaintFinish_Eggplant_T",
+      "image_path": "images/2748.png"
     },
     {
       "id": "2917",
@@ -597,7 +642,8 @@
       "path": "paintfinish_reptile.paintfinish_reptile",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Reptile_T"
+      "thumbnail_package": "PaintFinish_Reptile_T",
+      "image_path": "images/2917.png"
     },
     {
       "id": "2973",
@@ -610,7 +656,8 @@
       "path": "PaintFinish_Fabric_Canvas.PaintFinish_Fabric_Canvas",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Fabric_Canvas_T"
+      "thumbnail_package": "PaintFinish_Fabric_Canvas_T",
+      "image_path": "images/2973.png"
     },
     {
       "id": "2974",
@@ -623,7 +670,8 @@
       "path": "PaintFinish_MetallicRough.PaintFinish_MetallicRough",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_MetallicRough_T"
+      "thumbnail_package": "PaintFinish_MetallicRough_T",
+      "image_path": "images/2974.png"
     },
     {
       "id": "3221",
@@ -636,7 +684,8 @@
       "path": "PaintFinish_MetallicRealistic.PaintFinish_MetallicRealistic",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_MetallicRealistic_T"
+      "thumbnail_package": "PaintFinish_MetallicRealistic_T",
+      "image_path": "images/3221.png"
     },
     {
       "id": "3527",
@@ -649,7 +698,8 @@
       "path": "PaintFinish_Ron_Primary.PaintFinish_Ron_Primary",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Ron_Primary_T"
+      "thumbnail_package": "PaintFinish_Ron_Primary_T",
+      "image_path": "images/3527.png"
     },
     {
       "id": "3630",
@@ -662,7 +712,8 @@
       "path": "paintfinish_artdeco.paintfinish_artdeco",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_ArtDeco_T"
+      "thumbnail_package": "PaintFinish_ArtDeco_T",
+      "image_path": "images/3630.png"
     },
     {
       "id": "3747",
@@ -675,7 +726,8 @@
       "path": "paintfinish_finishlines.paintfinish_finishlines",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_FinishLines_T"
+      "thumbnail_package": "PaintFinish_FinishLines_T",
+      "image_path": "images/3747.png"
     },
     {
       "id": "3748",
@@ -688,7 +740,8 @@
       "path": "paintfinish_galaxy.paintfinish_galaxy",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Galaxy_T"
+      "thumbnail_package": "paintfinish_Galaxy_T",
+      "image_path": "images/3748.png"
     },
     {
       "id": "3749",
@@ -701,7 +754,8 @@
       "path": "paintfinish_glitter.paintfinish_glitter",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Glitter_T"
+      "thumbnail_package": "PaintFinish_Glitter_T",
+      "image_path": "images/3749.png"
     },
     {
       "id": "4127",
@@ -714,7 +768,8 @@
       "path": "paintfinish_anodized_pearl.paintfinish_anodized_pearl",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Anodized_Pearl_T"
+      "thumbnail_package": "PaintFinish_Anodized_Pearl_T",
+      "image_path": "images/4127.png"
     },
     {
       "id": "4391",
@@ -727,7 +782,8 @@
       "path": "paintfinish_shattered.paintfinish_shattered",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Shattered_T"
+      "thumbnail_package": "paintfinish_Shattered_T",
+      "image_path": "images/4391.png"
     },
     {
       "id": "4464",
@@ -740,7 +796,8 @@
       "path": "paintfinish_tris.paintfinish_tris",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Tris_T"
+      "thumbnail_package": "PaintFinish_Tris_T",
+      "image_path": "images/4464.png"
     },
     {
       "id": "4477",
@@ -753,7 +810,8 @@
       "path": "paintfinish_geobrick.paintfinish_geobrick",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Geobrick_T"
+      "thumbnail_package": "paintfinish_Geobrick_T",
+      "image_path": "images/4477.png"
     },
     {
       "id": "4535",
@@ -766,7 +824,8 @@
       "path": "paintfinish_feathered.paintfinish_feathered",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Feathered_T"
+      "thumbnail_package": "PaintFinish_Feathered_T",
+      "image_path": "images/4535.png"
     },
     {
       "id": "4536",
@@ -779,7 +838,8 @@
       "path": "Paintfinish_Hieroglyph.Paintfinish_Hieroglyph",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Hieroglyph_T"
+      "thumbnail_package": "PaintFinish_Hieroglyph_T",
+      "image_path": "images/4536.png"
     },
     {
       "id": "4568",
@@ -792,7 +852,8 @@
       "path": "PaintFinish_Waves.PaintFinish_Waves",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Waves_T"
+      "thumbnail_package": "PaintFinish_Waves_T",
+      "image_path": "images/4568.png"
     },
     {
       "id": "4621",
@@ -805,7 +866,8 @@
       "path": "PaintFinish_MudBug.PaintFinish_MudBug",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Mudbug_T"
+      "thumbnail_package": "PaintFinish_Mudbug_T",
+      "image_path": "images/4621.png"
     },
     {
       "id": "4637",
@@ -818,7 +880,8 @@
       "path": "paintfinish_birdie.paintfinish_birdie",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Birdie_T"
+      "thumbnail_package": "paintfinish_Birdie_T",
+      "image_path": "images/4637.png"
     },
     {
       "id": "4639",
@@ -831,7 +894,8 @@
       "path": "paintfinish_baroque.paintfinish_baroque",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Baroque_T"
+      "thumbnail_package": "paintfinish_Baroque_T",
+      "image_path": "images/4639.png"
     },
     {
       "id": "4665",
@@ -844,7 +908,8 @@
       "path": "paintfinish_patchwork.paintfinish_patchwork",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Patchwork_T"
+      "thumbnail_package": "PaintFinish_Patchwork_T",
+      "image_path": "images/4665.png"
     },
     {
       "id": "4666",
@@ -857,7 +922,8 @@
       "path": "paintfinish_rles.paintfinish_rles",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_RLES_T"
+      "thumbnail_package": "PaintFinish_RLES_T",
+      "image_path": "images/4666.png"
     },
     {
       "id": "4728",
@@ -870,7 +936,8 @@
       "path": "Paintfinish_Jaggie.Paintfinish_Jaggie",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Jaggie_T"
+      "thumbnail_package": "paintfinish_Jaggie_T",
+      "image_path": "images/4728.png"
     },
     {
       "id": "4732",
@@ -883,7 +950,8 @@
       "path": "PaintFinish_ToonGlossySketch.PaintFinish_ToonGlossySketch",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "paintfinish_ToonGlossySketch_T"
+      "thumbnail_package": "paintfinish_ToonGlossySketch_T",
+      "image_path": "images/4732.png"
     },
     {
       "id": "4737",
@@ -896,7 +964,8 @@
       "path": "paintfinish_light.paintfinish_light",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Paintfinish_Light_T"
+      "thumbnail_package": "Paintfinish_Light_T",
+      "image_path": "images/4737.png"
     },
     {
       "id": "4741",
@@ -909,7 +978,8 @@
       "path": "PaintFinish_lawn.PaintFinish_lawn",
       "quality_id": 1,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_lawn_T"
+      "thumbnail_package": "PaintFinish_lawn_T",
+      "image_path": "images/4741.png"
     },
     {
       "id": "4742",
@@ -922,7 +992,8 @@
       "path": "PaintFinish_Scatter.PaintFinish_Scatter",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Scatter_T"
+      "thumbnail_package": "PaintFinish_Scatter_T",
+      "image_path": "images/4742.png"
     },
     {
       "id": "4850",
@@ -935,7 +1006,8 @@
       "path": "paintfinish_straightlace.paintfinish_straightlace",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_StraightLace_T"
+      "thumbnail_package": "PaintFinish_StraightLace_T",
+      "image_path": "images/4850.png"
     },
     {
       "id": "4851",
@@ -948,7 +1020,8 @@
       "path": "paintfinish_studs.paintfinish_studs",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Studs_T"
+      "thumbnail_package": "PaintFinish_Studs_T",
+      "image_path": "images/4851.png"
     },
     {
       "id": "4922",
@@ -961,7 +1034,8 @@
       "path": "paintfinish_rippedjeans.paintfinish_rippedjeans",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_RippedJeans_T"
+      "thumbnail_package": "paintfinish_RippedJeans_T",
+      "image_path": "images/4922.png"
     },
     {
       "id": "4923",
@@ -974,7 +1048,8 @@
       "path": "paintfinish_Sequin.paintfinish_Sequin",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Sequin_T"
+      "thumbnail_package": "paintfinish_Sequin_T",
+      "image_path": "images/4923.png"
     },
     {
       "id": "4931",
@@ -987,7 +1062,8 @@
       "path": "paintfinish_flannel.paintfinish_flannel",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Flannel_T"
+      "thumbnail_package": "PaintFinish_Flannel_T",
+      "image_path": "images/4931.png"
     },
     {
       "id": "4945",
@@ -1000,7 +1076,8 @@
       "path": "paintfinish_leatherjacket.paintfinish_leatherjacket",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_LeatherJacket_T"
+      "thumbnail_package": "PaintFinish_LeatherJacket_T",
+      "image_path": "images/4945.png"
     },
     {
       "id": "5078",
@@ -1013,7 +1090,8 @@
       "path": "PaintFinish_toothpicks.PaintFinish_toothpicks",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "Paintfinish_toothpicks_T"
+      "thumbnail_package": "Paintfinish_toothpicks_T",
+      "image_path": "images/5078.png"
     },
     {
       "id": "5126",
@@ -1026,7 +1104,8 @@
       "path": "paintfinish_marble.paintfinish_marble",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Marble_T"
+      "thumbnail_package": "paintfinish_Marble_T",
+      "image_path": "images/5126.png"
     },
     {
       "id": "5130",
@@ -1039,7 +1118,8 @@
       "path": "paintfinish_chitin.paintfinish_chitin",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Paintfinish_Chitin_T"
+      "thumbnail_package": "Paintfinish_Chitin_T",
+      "image_path": "images/5130.png"
     },
     {
       "id": "5319",
@@ -1052,7 +1132,8 @@
       "path": "paintfinish_nacho.paintfinish_nacho",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Nacho_T"
+      "thumbnail_package": "PaintFinish_Nacho_T",
+      "image_path": "images/5319.png"
     },
     {
       "id": "5320",
@@ -1065,7 +1146,8 @@
       "path": "paintfinish_brain.paintfinish_brain",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_brain_T"
+      "thumbnail_package": "paintfinish_brain_T",
+      "image_path": "images/5320.png"
     },
     {
       "id": "5657",
@@ -1078,7 +1160,8 @@
       "path": "paintfinish_amber.paintfinish_amber",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Amber_T"
+      "thumbnail_package": "PaintFinish_Amber_T",
+      "image_path": "images/5657.png"
     },
     {
       "id": "5990",
@@ -1091,7 +1174,8 @@
       "path": "Paintfinish_brushstrokes.Paintfinish_brushstrokes",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_brushstrokes_T"
+      "thumbnail_package": "paintfinish_brushstrokes_T",
+      "image_path": "images/5990.png"
     },
     {
       "id": "6045",
@@ -1104,7 +1188,8 @@
       "path": "PaintFinish_RonB.PaintFinish_RonB",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_RonB_T"
+      "thumbnail_package": "PaintFinish_RonB_T",
+      "image_path": "images/6045.png"
     },
     {
       "id": "6046",
@@ -1117,7 +1202,8 @@
       "path": "PaintFinish_RonB_Custom.PaintFinish_RonB_Custom",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_RonB_Custom_T"
+      "thumbnail_package": "PaintFinish_RonB_Custom_T",
+      "image_path": "images/6046.png"
     },
     {
       "id": "6127",
@@ -1130,7 +1216,8 @@
       "path": "paintfinish_crocodile.paintfinish_crocodile",
       "quality_id": 2,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Crocodile_T"
+      "thumbnail_package": "paintfinish_Crocodile_T",
+      "image_path": "images/6127.png"
     },
     {
       "id": "6487",
@@ -1143,7 +1230,8 @@
       "path": "paintfinish_football.paintfinish_football",
       "quality_id": 3,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Football_T"
+      "thumbnail_package": "PaintFinish_Football_T",
+      "image_path": "images/6487.png"
     },
     {
       "id": "6706",
@@ -1156,7 +1244,8 @@
       "path": "PaintFinish_Heaven_Carbon.PaintFinish_Heaven_Carbon",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Heaven_Carbon_T"
+      "thumbnail_package": "PaintFinish_Heaven_Carbon_T",
+      "image_path": "images/6706.png"
     },
     {
       "id": "6707",
@@ -1169,7 +1258,8 @@
       "path": "PaintFinish_Heaven_Primary.PaintFinish_Heaven_Primary",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Heaven_Primary_T"
+      "thumbnail_package": "PaintFinish_Heaven_Primary_T",
+      "image_path": "images/6707.png"
     },
     {
       "id": "7346",
@@ -1182,7 +1272,8 @@
       "path": "paintfinish_quartz.paintfinish_quartz",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "paintfinish_quartz_T"
+      "thumbnail_package": "paintfinish_quartz_T",
+      "image_path": "images/7346.png"
     },
     {
       "id": "7416",
@@ -1195,7 +1286,8 @@
       "path": "paintfinish_tomb.paintfinish_tomb",
       "quality_id": 0,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Tomb_T"
+      "thumbnail_package": "PaintFinish_Tomb_T",
+      "image_path": "images/7416.png"
     },
     {
       "id": "7480",
@@ -1208,7 +1300,8 @@
       "path": "paintfinish_drywall.paintfinish_drywall",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Drywall_T"
+      "thumbnail_package": "PaintFinish_Drywall_T",
+      "image_path": "images/7480.png"
     },
     {
       "id": "7494",
@@ -1221,7 +1314,8 @@
       "path": "paintfinish_BlingedOut.paintfinish_BlingedOut",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_BlingedOut_T"
+      "thumbnail_package": "paintfinish_BlingedOut_T",
+      "image_path": "images/7494.png"
     },
     {
       "id": "7574",
@@ -1234,7 +1328,8 @@
       "path": "paintfinish_velvet.paintfinish_velvet",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_velvet_T"
+      "thumbnail_package": "paintfinish_velvet_T",
+      "image_path": "images/7574.png"
     },
     {
       "id": "7609",
@@ -1247,7 +1342,8 @@
       "path": "paintfinish_deco.paintfinish_deco",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Deco_T"
+      "thumbnail_package": "paintfinish_Deco_T",
+      "image_path": "images/7609.png"
     },
     {
       "id": "7610",
@@ -1260,7 +1356,8 @@
       "path": "paintfinish_deco2.paintfinish_deco2",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Deco2_T"
+      "thumbnail_package": "paintfinish_Deco2_T",
+      "image_path": "images/7610.png"
     },
     {
       "id": "7611",
@@ -1273,7 +1370,8 @@
       "path": "paintfinish_deco3.paintfinish_deco3",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Deco3_T"
+      "thumbnail_package": "paintfinish_Deco3_T",
+      "image_path": "images/7611.png"
     },
     {
       "id": "7612",
@@ -1286,7 +1384,8 @@
       "path": "paintfinish_deco4.paintfinish_deco4",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Deco4_T"
+      "thumbnail_package": "paintfinish_Deco4_T",
+      "image_path": "images/7612.png"
     },
     {
       "id": "7613",
@@ -1299,7 +1398,8 @@
       "path": "paintfinish_deco5.paintfinish_deco5",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Deco5_T"
+      "thumbnail_package": "paintfinish_Deco5_T",
+      "image_path": "images/7613.png"
     },
     {
       "id": "7789",
@@ -1312,7 +1412,8 @@
       "path": "paintfinish_bark.paintfinish_bark",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_bark_T"
+      "thumbnail_package": "paintfinish_bark_T",
+      "image_path": "images/7789.png"
     },
     {
       "id": "7852",
@@ -1325,7 +1426,8 @@
       "path": "Paintfinish_Streetfinish.Paintfinish_Streetfinish",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Paintfinish_StreetFinish_T"
+      "thumbnail_package": "Paintfinish_StreetFinish_T",
+      "image_path": "images/7852.png"
     },
     {
       "id": "7853",
@@ -1338,7 +1440,8 @@
       "path": "PaintFinish_StreetFinish_02.PaintFinish_StreetFinish_02",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Paintfinish_StreetFinish_02_T"
+      "thumbnail_package": "Paintfinish_StreetFinish_02_T",
+      "image_path": "images/7853.png"
     },
     {
       "id": "7854",
@@ -1351,7 +1454,8 @@
       "path": "paintfinish_brickwall.paintfinish_brickwall",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_brickwall_T"
+      "thumbnail_package": "paintfinish_brickwall_T",
+      "image_path": "images/7854.png"
     },
     {
       "id": "7858",
@@ -1364,7 +1468,8 @@
       "path": "paintfinish_asphalt.paintfinish_asphalt",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Asphalt_T"
+      "thumbnail_package": "paintfinish_Asphalt_T",
+      "image_path": "images/7858.png"
     },
     {
       "id": "7861",
@@ -1377,7 +1482,8 @@
       "path": "paintfinish_windows.paintfinish_windows",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_windows_T"
+      "thumbnail_package": "paintfinish_windows_T",
+      "image_path": "images/7861.png"
     },
     {
       "id": "7973",
@@ -1390,7 +1496,8 @@
       "path": "paintfinish_PanelY.paintfinish_PanelY",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_PanelY_T"
+      "thumbnail_package": "PaintFinish_PanelY_T",
+      "image_path": "images/7973.png"
     },
     {
       "id": "8342",
@@ -1403,7 +1510,8 @@
       "path": "paintfinish_matches.paintfinish_matches",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Matches_T"
+      "thumbnail_package": "PaintFinish_Matches_T",
+      "image_path": "images/8342.png"
     },
     {
       "id": "8607",
@@ -1416,7 +1524,8 @@
       "path": "paintfinish_crackedice.paintfinish_crackedice",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_CrackedIce_T"
+      "thumbnail_package": "paintfinish_CrackedIce_T",
+      "image_path": "images/8607.png"
     },
     {
       "id": "8608",
@@ -1429,7 +1538,8 @@
       "path": "paintfinish_leopard.paintfinish_leopard",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Leopard_T"
+      "thumbnail_package": "paintfinish_Leopard_T",
+      "image_path": "images/8608.png"
     },
     {
       "id": "8746",
@@ -1442,7 +1552,8 @@
       "path": "paintfinish_rootsonroots.paintfinish_rootsonroots",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Paintfinish_RootsOnRoots_T"
+      "thumbnail_package": "Paintfinish_RootsOnRoots_T",
+      "image_path": "images/8746.png"
     },
     {
       "id": "8779",
@@ -1455,7 +1566,8 @@
       "path": "paintfinish_georings.PaintFinish_GeoRingsA",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_GeoRings_T"
+      "thumbnail_package": "PaintFinish_GeoRings_T",
+      "image_path": "images/8779.png"
     },
     {
       "id": "8782",
@@ -1468,7 +1580,8 @@
       "path": "paintfinish_georings.paintfinish_georingsd",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_GeoRings_T"
+      "thumbnail_package": "PaintFinish_GeoRings_T",
+      "image_path": "images/8782.png"
     },
     {
       "id": "8783",
@@ -1481,7 +1594,8 @@
       "path": "paintfinish_georings.paintfinish_georingse",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_GeoRings_T"
+      "thumbnail_package": "PaintFinish_GeoRings_T",
+      "image_path": "images/8783.png"
     },
     {
       "id": "8831",
@@ -1494,7 +1608,8 @@
       "path": "PaintFinish_DamascusSteel.PaintFinish_DamascusSteel",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_DamascusSteel_T"
+      "thumbnail_package": "PaintFinish_DamascusSteel_T",
+      "image_path": "images/8831.png"
     },
     {
       "id": "9025",
@@ -1507,7 +1622,8 @@
       "path": "paintfinish_wavytileB.paintfinish_wavytileB",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_WavyTileB_T"
+      "thumbnail_package": "PaintFinish_WavyTileB_T",
+      "image_path": "images/9025.png"
     },
     {
       "id": "9026",
@@ -1520,7 +1636,8 @@
       "path": "paintfinish_houndstooth.paintfinish_houndstooth",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Houndstooth_T"
+      "thumbnail_package": "PaintFinish_Houndstooth_T",
+      "image_path": "images/9026.png"
     },
     {
       "id": "9043",
@@ -1533,7 +1650,8 @@
       "path": "paintfinish_fiesta.paintfinish_fiesta",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Fiesta_T"
+      "thumbnail_package": "PaintFinish_Fiesta_T",
+      "image_path": "images/9043.png"
     },
     {
       "id": "9065",
@@ -1546,7 +1664,8 @@
       "path": "paintfinish_bubblewrap.paintfinish_bubblewrap",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Paintfinish_bubblewrap_T"
+      "thumbnail_package": "Paintfinish_bubblewrap_T",
+      "image_path": "images/9065.png"
     },
     {
       "id": "9074",
@@ -1559,7 +1678,8 @@
       "path": "paintfinish_keyboard.paintfinish_keyboard",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Keyboard_T"
+      "thumbnail_package": "PaintFinish_Keyboard_T",
+      "image_path": "images/9074.png"
     },
     {
       "id": "9175",
@@ -1572,7 +1692,8 @@
       "path": "paintfinish_crossword.paintfinish_crossword",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Crossword_T"
+      "thumbnail_package": "paintfinish_Crossword_T",
+      "image_path": "images/9175.png"
     },
     {
       "id": "9217",
@@ -1585,7 +1706,8 @@
       "path": "paintfinish_rings.paintfinish_rings",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Rings_T"
+      "thumbnail_package": "PaintFinish_Rings_T",
+      "image_path": "images/9217.png"
     },
     {
       "id": "9220",
@@ -1598,7 +1720,8 @@
       "path": "paintfinish_pix.paintfinish_pix",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Pix_T"
+      "thumbnail_package": "PaintFinish_Pix_T",
+      "image_path": "images/9220.png"
     },
     {
       "id": "9531",
@@ -1611,7 +1734,8 @@
       "path": "paintfinish_oldpc.paintfinish_oldpc",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_OldPC_T"
+      "thumbnail_package": "PaintFinish_OldPC_T",
+      "image_path": "images/9531.png"
     },
     {
       "id": "9712",
@@ -1624,7 +1748,8 @@
       "path": "paintfinish_noted.paintfinish_noted",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Noted_T"
+      "thumbnail_package": "PaintFinish_Noted_T",
+      "image_path": "images/9712.png"
     },
     {
       "id": "9741",
@@ -1637,7 +1762,8 @@
       "path": "paintfinish_frostyfern.paintfinish_frostyfern",
       "quality_id": 4,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_FrostyFern_T"
+      "thumbnail_package": "PaintFinish_FrostyFern_T",
+      "image_path": "images/9741.png"
     },
     {
       "id": "9742",
@@ -1650,7 +1776,8 @@
       "path": "paintfinish_snowflakes.paintfinish_snowflakes",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Snowflakes_T"
+      "thumbnail_package": "PaintFinish_Snowflakes_T",
+      "image_path": "images/9742.png"
     },
     {
       "id": "9836",
@@ -1663,7 +1790,8 @@
       "path": "paintfinish_spray.paintfinish_spray",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_spray_T"
+      "thumbnail_package": "paintfinish_spray_T",
+      "image_path": "images/9836.png"
     },
     {
       "id": "9914",
@@ -1676,7 +1804,8 @@
       "path": "paintfinish_coral.paintfinish_coral",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Coral_T"
+      "thumbnail_package": "PaintFinish_Coral_T",
+      "image_path": "images/9914.png"
     },
     {
       "id": "10002",
@@ -1689,7 +1818,8 @@
       "path": "paintfinish_fishscale.paintfinish_fishscale",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Fishscale_T"
+      "thumbnail_package": "paintfinish_Fishscale_T",
+      "image_path": "images/10002.png"
     },
     {
       "id": "10021",
@@ -1702,7 +1832,8 @@
       "path": "paintfinish_stormyseas.paintfinish_stormyseas",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_StormySeas_T"
+      "thumbnail_package": "PaintFinish_StormySeas_T",
+      "image_path": "images/10021.png"
     },
     {
       "id": "10677",
@@ -1715,7 +1846,8 @@
       "path": "paintfinish_bigfoot.paintfinish_bigfoot",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Bigfoot_T"
+      "thumbnail_package": "PaintFinish_Bigfoot_T",
+      "image_path": "images/10677.png"
     },
     {
       "id": "10766",
@@ -1728,7 +1860,8 @@
       "path": "paintfinish_monstereyes.paintfinish_monstereyes",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_monstereyes_T"
+      "thumbnail_package": "paintfinish_monstereyes_T",
+      "image_path": "images/10766.png"
     },
     {
       "id": "11017",
@@ -1741,7 +1874,8 @@
       "path": "paintfinish_arcadepanel.paintfinish_arcadepanel",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_ArcadePanel_T"
+      "thumbnail_package": "PaintFinish_ArcadePanel_T",
+      "image_path": "images/11017.png"
     },
     {
       "id": "11027",
@@ -1754,7 +1888,8 @@
       "path": "paintfinish_haftone.paintfinish_haftone",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_haftone_T"
+      "thumbnail_package": "paintfinish_haftone_T",
+      "image_path": "images/11027.png"
     },
     {
       "id": "11066",
@@ -1767,7 +1902,8 @@
       "path": "paintfinish_plaid.paintfinish_plaid",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_plaid_T"
+      "thumbnail_package": "paintfinish_plaid_T",
+      "image_path": "images/11066.png"
     },
     {
       "id": "11242",
@@ -1780,7 +1916,8 @@
       "path": "paintfinish_wise.paintfinish_wise",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Wise_T"
+      "thumbnail_package": "PaintFinish_Wise_T",
+      "image_path": "images/11242.png"
     },
     {
       "id": "11243",
@@ -1793,7 +1930,8 @@
       "path": "paintfinish_wobbleh.paintfinish_wobbleh",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Wobbleh_T"
+      "thumbnail_package": "PaintFinish_Wobbleh_T",
+      "image_path": "images/11243.png"
     },
     {
       "id": "11284",
@@ -1806,7 +1944,8 @@
       "path": "paintfinish_geoweb.paintfinish_geoweb",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Geoweb_T"
+      "thumbnail_package": "PaintFinish_Geoweb_T",
+      "image_path": "images/11284.png"
     },
     {
       "id": "11287",
@@ -1819,7 +1958,8 @@
       "path": "paintfinish_tyell.paintfinish_tyell",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_Tyell_T"
+      "thumbnail_package": "PaintFinish_Tyell_T",
+      "image_path": "images/11287.png"
     },
     {
       "id": "11565",
@@ -1832,7 +1972,8 @@
       "path": "paintfinish_galvanizedangular.paintfinish_galvanizedangular",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_GalvanizedAngular_T"
+      "thumbnail_package": "PaintFinish_GalvanizedAngular_T",
+      "image_path": "images/11565.png"
     },
     {
       "id": "11822",
@@ -1845,7 +1986,8 @@
       "path": "paintfinish_bustedglass.paintfinish_bustedglass",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_BustedGlass_T"
+      "thumbnail_package": "PaintFinish_BustedGlass_T",
+      "image_path": "images/11822.png"
     },
     {
       "id": "11824",
@@ -1858,7 +2000,8 @@
       "path": "PaintFinish_propermetalflake.PaintFinish_propermetalflake",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "PaintFinish_propermetalflake_T"
+      "thumbnail_package": "PaintFinish_propermetalflake_T",
+      "image_path": "images/11824.png"
     },
     {
       "id": "11965",
@@ -1871,7 +2014,8 @@
       "path": "paintfinish_crystalclearwater.paintfinish_crystalclearwater",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_CrystalClearWater_T"
+      "thumbnail_package": "paintfinish_CrystalClearWater_T",
+      "image_path": "images/11965.png"
     },
     {
       "id": "11967",
@@ -1884,7 +2028,8 @@
       "path": "paintfinish_hexagon.paintfinish_hexagon",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Paintfinish_Hexagon_T"
+      "thumbnail_package": "Paintfinish_Hexagon_T",
+      "image_path": "images/11967.png"
     },
     {
       "id": "11982",
@@ -1897,7 +2042,8 @@
       "path": "paintfinish_diamonds.paintfinish_diamonds",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "Paintfinish_diamonds_T"
+      "thumbnail_package": "Paintfinish_diamonds_T",
+      "image_path": "images/11982.png"
     },
     {
       "id": "12021",
@@ -1910,7 +2056,8 @@
       "path": "paintfinish_gothcloth.paintfinish_gothcloth",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_gothcloth_T"
+      "thumbnail_package": "paintfinish_gothcloth_T",
+      "image_path": "images/12021.png"
     },
     {
       "id": "12022",
@@ -1923,7 +2070,11 @@
       "thumbnail_package": "paintfinish_gothcloth_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "paintfinish_gothcloth.paintfinish_gothclothb",
+      "image_path": "images/12022.png"
     },
     {
       "id": "12041",
@@ -1936,7 +2087,8 @@
       "path": "paintfinish_artdecolux.paintfinish_artdecolux",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_ArtDecoLux_T"
+      "thumbnail_package": "paintfinish_ArtDecoLux_T",
+      "image_path": "images/12041.png"
     },
     {
       "id": "12043",
@@ -1949,7 +2101,8 @@
       "path": "paintfinish_circuit.paintfinish_circuit",
       "quality_id": 8,
       "paintable": false,
-      "thumbnail_package": "paintfinish_Circuit_T"
+      "thumbnail_package": "paintfinish_Circuit_T",
+      "image_path": "images/12043.png"
     },
     {
       "id": "12045",
@@ -1962,7 +2115,11 @@
       "thumbnail_package": "paintfinish_cubes_T",
       "asset_present": true,
       "label_resolved": true,
-      "source": "Toga-Files products.csv"
+      "source": "Toga-Files products.csv",
+      "quality_id": 8,
+      "paintable": false,
+      "path": "paintfinish_cubes.paintfinish_cubes",
+      "image_path": "images/12045.png"
     }
   ]
 }
