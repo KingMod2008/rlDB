@@ -1,2 +1,3 @@
-# Catalog plugin checksums describe exact bytes, including line endings.
+# Catalog checksums describe exact bytes, including line endings.
 * -text
+*.kme binary
