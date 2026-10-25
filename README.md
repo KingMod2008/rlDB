@@ -1,6 +1,6 @@
 # KingMod
 
-Latest client: **2026.10.25.0001**. Previous release notes are available in the [changelog](CHANGELOG.md).
+Latest client: **2026.10.25.0002**. Previous release notes are available in the [changelog](CHANGELOG.md).
 
 Download [KingMod Setup](https://raw.githubusercontent.com/KingMod2008/rlDB/main/KingMod-Setup.exe) to install the current client. Setup has separate Reinstall and Update actions. Update is available only for a newer release; new update notices appear inside KingMod.
 
