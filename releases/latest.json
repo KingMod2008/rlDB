@@ -1,11 +1,11 @@
 {
-  "notes": "Fixed some issues with item and title sync.",
-  "version": "2026.10.24.0008",
-  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.24.0008.zip",
-  "sha256": "48cc5e3831b47d8c8b9743641f58b15096c1437e4f51e7703b806c232247134f",
-  "bytes": 36844425,
-  "exe_sha256": "2878a5436288cf90896b1843d8c60808a82aaeb27849f9e2da0ce8e2cde2cc7f",
-  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.24.0008.exe",
+  "notes": "",
+  "version": "2026.10.25.0001",
+  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.25.0001.zip",
+  "sha256": "71e84a4edf8fc96d6d47e82ca08ad58e12ee03c13d3152e361210449562195ef",
+  "bytes": 36848505,
+  "exe_sha256": "869c080ccf00353becf2ad5e030f82a927c3784eb41accca8a00fdb4f2a6801f",
+  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.25.0001.exe",
   "setup_sha256": "37a321013b6af5174c9ee10e9309e3430213311d5be7687826f056b3a66abda9",
   "setup_bytes": 77312
 }
