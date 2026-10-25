@@ -229323,6 +229323,28 @@
       "unlock_method": 1
     },
     {
+      "ascii_label": "Freddy Fazbear",
+      "asset_path": "explosion_sunseteffgy01.explosion_sunseteffgy01",
+      "attributes": [],
+      "equippable": true,
+      "image_path": "images/12965.png",
+      "image_status": "unavailable",
+      "label": "Freddy Fazbear",
+      "licensed": false,
+      "loadout_slot": 15,
+      "long_label": "Freddy Fazbear",
+      "object_path": "Product_TA ProductsDB.Products.explosion_sunseteffgy01",
+      "paintable": false,
+      "product_id": 12965,
+      "quality": "Black Market",
+      "quality_id": 6,
+      "required_product_id": null,
+      "slot": "GoalExplosion",
+      "thumbnail_package": "Explosion_SunsetEffgy01_T_SF",
+      "thumbnail_path": "Explosion_SunsetEffgy01_T.Explosion_SunsetEffgy01_T",
+      "unlock_method": 1
+    },
+    {
       "ascii_label": "Anipop",
       "asset_path": "explosion_vspace.explosion_vspace",
       "attributes": [
@@ -229781,6 +229803,33 @@
       "unlock_method": 0
     },
     {
+      "ascii_label": "Five Nights",
+      "asset_path": "skin_unisunseteffigylte01.skin_unisunseteffigylte01",
+      "attributes": [
+        {
+          "class": "ProductAttribute_AnimatedSkinLabel_TA",
+          "object_path": "ProductAttribute_AnimatedSkinLabel_TA ProductsDB.Products.skin_unisunseteffigylte01.ProductAttribute_AnimatedSkinLabel_TA"
+        }
+      ],
+      "equippable": true,
+      "image_path": "images/12989.png",
+      "image_status": "unavailable",
+      "label": "Five Nights",
+      "licensed": false,
+      "loadout_slot": 1,
+      "long_label": "Five Nights",
+      "object_path": "Product_TA ProductsDB.Products.skin_unisunseteffigylte01",
+      "paintable": false,
+      "product_id": 12989,
+      "quality": "Exotic",
+      "quality_id": 5,
+      "required_product_id": null,
+      "slot": "Skin",
+      "thumbnail_package": "Skin_UniSunsetEffigyLTE01_T_SF",
+      "thumbnail_path": "Skin_UniSunsetEffigyLTE01_T.Skin_UniSunsetEffigyLTE01_T",
+      "unlock_method": 1
+    },
+    {
       "ascii_label": "Anti-Magic",
       "asset_path": "wheel_luckyonyx01.wheel_luckyonyx01",
       "attributes": [],
@@ -230066,6 +230115,28 @@
       "slot": "Skin",
       "thumbnail_package": "Skin_AutoSplitTone_T_SF",
       "thumbnail_path": "Skin_AutoSplitTone_T.Skin_AutoSplitTone_T",
+      "unlock_method": 1
+    },
+    {
+      "ascii_label": "Freddy Fazbear",
+      "asset_path": "hat_sunseteffigylte01.hat_sunseteffigylte01",
+      "attributes": [],
+      "equippable": true,
+      "image_path": "images/13013.png",
+      "image_status": "unavailable",
+      "label": "Freddy Fazbear",
+      "licensed": false,
+      "loadout_slot": 5,
+      "long_label": "Freddy Fazbear",
+      "object_path": "Product_TA ProductsDB.Products.hat_sunseteffigylte01",
+      "paintable": false,
+      "product_id": 13013,
+      "quality": "Limited",
+      "quality_id": 8,
+      "required_product_id": null,
+      "slot": "Hat",
+      "thumbnail_package": "Hat_SunsetEffigyLTE01_T_SF",
+      "thumbnail_path": "Hat_SunsetEffigyLTE01_T.Hat_SunsetEffigyLTE01_T",
       "unlock_method": 1
     },
     {
@@ -230461,6 +230532,33 @@
       "unlock_method": 1
     },
     {
+      "ascii_label": "Octane: Freddy Fazbear",
+      "asset_path": "skin_octane_sunseteffigy01.skin_octane_sunseteffigy01",
+      "attributes": [
+        {
+          "class": "ProductAttribute_AnimatedSkinLabel_TA",
+          "object_path": "ProductAttribute_AnimatedSkinLabel_TA ProductsDB.Products.skin_octane_sunseteffigy01.ProductAttribute_AnimatedSkinLabel_TA"
+        }
+      ],
+      "equippable": true,
+      "image_path": "images/13032.png",
+      "image_status": "unavailable",
+      "label": "Freddy Fazbear",
+      "licensed": false,
+      "loadout_slot": 1,
+      "long_label": "Octane: Freddy Fazbear",
+      "object_path": "Product_TA ProductsDB.Products.skin_octane_sunseteffigy01",
+      "paintable": false,
+      "product_id": 13032,
+      "quality": "Import",
+      "quality_id": 4,
+      "required_product_id": 23,
+      "slot": "Skin",
+      "thumbnail_package": "skin_Octane_SunsetEffigy01_T_SF",
+      "thumbnail_path": "skin_Octane_SunsetEffigy01_T.skin_Octane_SunsetEffigy01_T",
+      "unlock_method": 1
+    },
+    {
       "ascii_label": "Apex Collection",
       "asset_path": "ItemContainer.crateunlocked_luxlow2",
       "attributes": [
@@ -230696,6 +230794,28 @@
       "unlock_method": 1
     },
     {
+      "ascii_label": "Bonnie The Bunny",
+      "asset_path": "hat_sunseteffigylte03.hat_sunseteffigylte03",
+      "attributes": [],
+      "equippable": true,
+      "image_path": "images/13046.png",
+      "image_status": "unavailable",
+      "label": "Bonnie The Bunny",
+      "licensed": false,
+      "loadout_slot": 5,
+      "long_label": "Bonnie The Bunny",
+      "object_path": "Product_TA ProductsDB.Products.hat_sunseteffigylte03",
+      "paintable": false,
+      "product_id": 13046,
+      "quality": "Limited",
+      "quality_id": 8,
+      "required_product_id": null,
+      "slot": "Hat",
+      "thumbnail_package": "hat_sunseteffigylte03_T_SF",
+      "thumbnail_path": "hat_sunseteffigylte03_T.hat_sunseteffigylte03_T",
+      "unlock_method": 1
+    },
+    {
       "ascii_label": "Nissan GT-R Nismo",
       "asset_path": "wheel_revivalline01.wheel_revivalline01",
       "attributes": [
@@ -230835,6 +230955,50 @@
       "slot": "Skin",
       "thumbnail_package": "Skin_RevivalLine_LuckyOnyx_01_T_SF",
       "thumbnail_path": "Skin_RevivalLine_LuckyOnyx_01_T.Skin_RevivalLine_LuckyOnyx_01_T",
+      "unlock_method": 1
+    },
+    {
+      "ascii_label": "Foxy The Pirate Fox",
+      "asset_path": "hat_sunseteffigylte02.hat_sunseteffigylte02",
+      "attributes": [],
+      "equippable": true,
+      "image_path": "images/13054.png",
+      "image_status": "unavailable",
+      "label": "Foxy The Pirate Fox",
+      "licensed": false,
+      "loadout_slot": 5,
+      "long_label": "Foxy The Pirate Fox",
+      "object_path": "Product_TA ProductsDB.Products.hat_sunseteffigylte02",
+      "paintable": false,
+      "product_id": 13054,
+      "quality": "Limited",
+      "quality_id": 8,
+      "required_product_id": null,
+      "slot": "Hat",
+      "thumbnail_package": "Hat_SunsetEffigyLTE02_T_SF",
+      "thumbnail_path": "Hat_SunsetEffigyLTE02_T.Hat_SunsetEffigyLTE02_T",
+      "unlock_method": 1
+    },
+    {
+      "ascii_label": "Chica The Chicken",
+      "asset_path": "hat_sunseteffigylte04.hat_sunseteffigylte04",
+      "attributes": [],
+      "equippable": true,
+      "image_path": "images/13055.png",
+      "image_status": "unavailable",
+      "label": "Chica The Chicken",
+      "licensed": false,
+      "loadout_slot": 5,
+      "long_label": "Chica The Chicken",
+      "object_path": "Product_TA ProductsDB.Products.hat_sunseteffigylte04",
+      "paintable": false,
+      "product_id": 13055,
+      "quality": "Limited",
+      "quality_id": 8,
+      "required_product_id": null,
+      "slot": "Hat",
+      "thumbnail_package": "hat_sunseteffigylte04_T_SF",
+      "thumbnail_path": "hat_sunseteffigylte04_T.hat_sunseteffigylte04_T",
       "unlock_method": 1
     },
     {
@@ -232027,6 +232191,50 @@
       "unlock_method": 1
     },
     {
+      "ascii_label": "Five Nights",
+      "asset_path": "avatarborder_sunseteffigylte01.avatarborder_sunseteffigylte01",
+      "attributes": [],
+      "equippable": true,
+      "image_path": "images/13127.png",
+      "image_status": "unavailable",
+      "label": "Five Nights",
+      "licensed": false,
+      "loadout_slot": 20,
+      "long_label": "Five Nights",
+      "object_path": "Product_TA ProductsDB.Products.avatarborder_sunseteffigylte01",
+      "paintable": false,
+      "product_id": 13127,
+      "quality": "Limited",
+      "quality_id": 8,
+      "required_product_id": null,
+      "slot": "PlayerAvatarBorder",
+      "thumbnail_package": "AvatarBorder_SunsetEffigyLTE01_T_SF",
+      "thumbnail_path": "AvatarBorder_SunsetEffigyLTE01_T.AvatarBorder_SunsetEffigyLTE01_T",
+      "unlock_method": 1
+    },
+    {
+      "ascii_label": "Freddy Fazbear",
+      "asset_path": "playerbanner_sunseteffigylte01.playerbanner_sunseteffigylte01",
+      "attributes": [],
+      "equippable": true,
+      "image_path": "images/13128.png",
+      "image_status": "unavailable",
+      "label": "Freddy Fazbear",
+      "licensed": false,
+      "loadout_slot": 16,
+      "long_label": "Freddy Fazbear",
+      "object_path": "Product_TA ProductsDB.Products.playerbanner_sunseteffigylte01",
+      "paintable": false,
+      "product_id": 13128,
+      "quality": "Limited",
+      "quality_id": 8,
+      "required_product_id": null,
+      "slot": "PlayerBanner",
+      "thumbnail_package": "PlayerBanner_SunsetEffigyLTE01_T_SF",
+      "thumbnail_path": "PlayerBanner_SunsetEffigyLTE01_T.PlayerBanner_SunsetEffigyLTE01_T",
+      "unlock_method": 1
+    },
+    {
       "ascii_label": "Nissan GT-R Nismo: Steel Line",
       "asset_path": "skin_revivalline_livery_01.skin_revivalline_livery_01",
       "attributes": [],
@@ -232068,6 +232276,33 @@
       "slot": "Skin",
       "thumbnail_package": "Skin_Revivalline_Livery_02_T_SF",
       "thumbnail_path": "Skin_Revivalline_Livery_02_T.Skin_Revivalline_Livery_02_T",
+      "unlock_method": 1
+    },
+    {
+      "ascii_label": "Faz-Token",
+      "asset_path": "wheel_sunseteffigylte01.wheel_sunseteffigylte01",
+      "attributes": [
+        {
+          "class": "ProductAttribute_PaintSettingsUpload_TA",
+          "object_path": "ProductAttribute_PaintSettingsUpload_TA ProductsDB.Products.wheel_sunseteffigylte01.ProductAttribute_PaintSettingsUpload_TA"
+        }
+      ],
+      "equippable": true,
+      "image_path": "images/13133.png",
+      "image_status": "unavailable",
+      "label": "Faz-Token",
+      "licensed": false,
+      "loadout_slot": 2,
+      "long_label": "Faz-Token",
+      "object_path": "Product_TA ProductsDB.Products.wheel_sunseteffigylte01",
+      "paintable": true,
+      "product_id": 13133,
+      "quality": "Limited",
+      "quality_id": 8,
+      "required_product_id": null,
+      "slot": "Wheels",
+      "thumbnail_package": "Wheel_SunsetEffigyLTE01_T_SF",
+      "thumbnail_path": "Wheel_SunsetEffigyLTE01_T.Wheel_SunsetEffigyLTE01_T",
       "unlock_method": 1
     },
     {
@@ -232454,6 +232689,33 @@
       "unlock_method": 1
     },
     {
+      "ascii_label": "No. 1 Crate",
+      "asset_path": "CrateUnlocked_SunsetEffigy.CrateUnlocked_SunsetEffigy",
+      "attributes": [
+        {
+          "class": "ProductAttribute_Container_TA",
+          "object_path": "ProductAttribute_Container_TA ProductsDB.Products.CrateUnlocked_SunsetEffigy.ProductAttribute_Container_TA"
+        }
+      ],
+      "equippable": false,
+      "image_path": "images/13163.png",
+      "image_status": "unavailable",
+      "label": "No. 1 Crate",
+      "licensed": false,
+      "loadout_slot": 11,
+      "long_label": "No. 1 Crate",
+      "object_path": "Product_TA ProductsDB.Products.CrateUnlocked_SunsetEffigy",
+      "paintable": false,
+      "product_id": 13163,
+      "quality": "Rare",
+      "quality_id": 2,
+      "required_product_id": null,
+      "slot": "DatabaseRecord",
+      "thumbnail_package": "CrateUnlocked_SunsetEffigy_T_SF",
+      "thumbnail_path": "CrateUnlocked_SunsetEffigy_T.CrateUnlocked_SunsetEffigy_T",
+      "unlock_method": 1
+    },
+    {
       "ascii_label": "?INT?Products.hat_team01.Label?",
       "asset_path": "hat_team01.hat_team01",
       "attributes": [
@@ -232482,6 +232744,6 @@
     }
   ],
   "schema_version": 1,
-  "skipped_products": 3824,
+  "skipped_products": 3813,
   "source": "UProductDatabase_TA.Products_New"
 }

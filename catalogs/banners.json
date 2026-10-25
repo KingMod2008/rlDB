@@ -10313,6 +10313,20 @@
       "thumbnail": "playerbanner_UmbraGenesisLTE01_T_SF.upk",
       "thumbnail_package": "playerbanner_UmbraGenesisLTE01_T",
       "image_path": "images/13038.png"
+    },
+    {
+      "id": "13128",
+      "internal_name": "playerbanner_sunseteffigylte01",
+      "name": "Freddy Fazbear",
+      "upk_path": "playerbanner_sunseteffigylte01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "playerbanner_sunseteffigylte01",
+      "path": "playerbanner_sunseteffigylte01.playerbanner_sunseteffigylte01",
+      "thumbnail": "PlayerBanner_SunsetEffigyLTE01_T_SF.upk",
+      "thumbnail_package": "PlayerBanner_SunsetEffigyLTE01_T",
+      "image_path": "images/13128.png"
     }
   ]
 }

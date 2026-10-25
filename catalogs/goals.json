@@ -5466,6 +5466,20 @@
       "thumbnail": "Explosion_PowerStar_T_SF.upk",
       "thumbnail_package": "Explosion_PowerStar_T",
       "image_path": "images/13077.png"
+    },
+    {
+      "id": "12965",
+      "internal_name": "explosion_sunseteffgy01",
+      "name": "Freddy Fazbear",
+      "upk_path": "explosion_sunseteffgy01_SF.upk",
+      "quality": "Black Market",
+      "quality_id": 6,
+      "paintable": false,
+      "package": "explosion_sunseteffgy01",
+      "path": "explosion_sunseteffgy01.explosion_sunseteffgy01",
+      "thumbnail": "Explosion_SunsetEffgy01_T_SF.upk",
+      "thumbnail_package": "Explosion_SunsetEffgy01_T",
+      "image_path": "images/12965.png"
     }
   ]
 }

@@ -8567,6 +8567,62 @@
       "thumbnail": "Hat_Team01_T_SF.upk",
       "thumbnail_package": "Hat_Team01_T",
       "image_path": "images/13209.png"
+    },
+    {
+      "id": "13013",
+      "internal_name": "hat_sunseteffigylte01",
+      "name": "Freddy Fazbear",
+      "upk_path": "hat_sunseteffigylte01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "hat_sunseteffigylte01",
+      "path": "hat_sunseteffigylte01.hat_sunseteffigylte01",
+      "thumbnail": "Hat_SunsetEffigyLTE01_T_SF.upk",
+      "thumbnail_package": "Hat_SunsetEffigyLTE01_T",
+      "image_path": "images/13013.png"
+    },
+    {
+      "id": "13046",
+      "internal_name": "hat_sunseteffigylte03",
+      "name": "Bonnie The Bunny",
+      "upk_path": "hat_sunseteffigylte03_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "hat_sunseteffigylte03",
+      "path": "hat_sunseteffigylte03.hat_sunseteffigylte03",
+      "thumbnail": "hat_sunseteffigylte03_T_SF.upk",
+      "thumbnail_package": "hat_sunseteffigylte03_T",
+      "image_path": "images/13046.png"
+    },
+    {
+      "id": "13054",
+      "internal_name": "hat_sunseteffigylte02",
+      "name": "Foxy The Pirate Fox",
+      "upk_path": "hat_sunseteffigylte02_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "hat_sunseteffigylte02",
+      "path": "hat_sunseteffigylte02.hat_sunseteffigylte02",
+      "thumbnail": "Hat_SunsetEffigyLTE02_T_SF.upk",
+      "thumbnail_package": "Hat_SunsetEffigyLTE02_T",
+      "image_path": "images/13054.png"
+    },
+    {
+      "id": "13055",
+      "internal_name": "hat_sunseteffigylte04",
+      "name": "Chica The Chicken",
+      "upk_path": "hat_sunseteffigylte04_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "hat_sunseteffigylte04",
+      "path": "hat_sunseteffigylte04.hat_sunseteffigylte04",
+      "thumbnail": "hat_sunseteffigylte04_T_SF.upk",
+      "thumbnail_package": "hat_sunseteffigylte04_T",
+      "image_path": "images/13055.png"
     }
   ]
 }

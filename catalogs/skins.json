@@ -18213,7 +18213,7 @@
     "OCTANE": {
       "base_upk_path": "Skin_Octane_Flames_T_SF.upk",
       "base_upk_paths": "Skin_Octane_Flames_SF.upk",
-      "skin_count": 614,
+      "skin_count": 615,
       "skins": [
         {
           "id": "302",
@@ -27416,6 +27416,22 @@
           "thumbnail": "Skin_Octane_HonDuel01_T_SF.upk",
           "thumbnail_package": "Skin_Octane_HonDuel01_T",
           "image_path": "images/13141.png",
+          "universal": false,
+          "scope": "CAR"
+        },
+        {
+          "id": "13032",
+          "internal_name": "skin_octane_sunseteffigy01",
+          "name": "Freddy Fazbear",
+          "upk_path": "skin_octane_sunseteffigy01_SF.upk",
+          "quality": "Import",
+          "quality_id": 4,
+          "paintable": false,
+          "package": "skin_octane_sunseteffigy01",
+          "path": "skin_octane_sunseteffigy01.skin_octane_sunseteffigy01",
+          "thumbnail": "skin_Octane_SunsetEffigy01_T_SF.upk",
+          "thumbnail_package": "skin_Octane_SunsetEffigy01_T",
+          "image_path": "images/13032.png",
           "universal": false,
           "scope": "CAR"
         }
@@ -42113,7 +42129,7 @@
     "UNIVERSAL": {
       "base_upk_path": "",
       "base_upk_paths": null,
-      "skin_count": 566,
+      "skin_count": 567,
       "skins": [
         {
           "id": "1435",
@@ -50495,6 +50511,22 @@
           "thumbnail": "skin_Gellihaha_T_SF.upk",
           "thumbnail_package": "skin_Gellihaha_T",
           "image_path": "images/13157.png",
+          "universal": true,
+          "scope": "UNIVERSAL"
+        },
+        {
+          "id": "12989",
+          "internal_name": "skin_unisunseteffigylte01",
+          "name": "Five Nights",
+          "upk_path": "skin_unisunseteffigylte01_SF.upk",
+          "quality": "Exotic",
+          "quality_id": 5,
+          "paintable": false,
+          "package": "skin_unisunseteffigylte01",
+          "path": "skin_unisunseteffigylte01.skin_unisunseteffigylte01",
+          "thumbnail": "Skin_UniSunsetEffigyLTE01_T_SF.upk",
+          "thumbnail_package": "Skin_UniSunsetEffigyLTE01_T",
+          "image_path": "images/12989.png",
           "universal": true,
           "scope": "UNIVERSAL"
         }

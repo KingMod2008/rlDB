@@ -18000,6 +18000,20 @@
       "thumbnail": "Wheel_RevivalLine02_T_SF.upk",
       "thumbnail_package": "Wheel_RevivalLine02_T",
       "image_path": "images/13050.png"
+    },
+    {
+      "id": "13133",
+      "internal_name": "wheel_sunseteffigylte01",
+      "name": "Faz-Token",
+      "upk_path": "wheel_sunseteffigylte01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": true,
+      "package": "wheel_sunseteffigylte01",
+      "path": "wheel_sunseteffigylte01.wheel_sunseteffigylte01",
+      "thumbnail": "Wheel_SunsetEffigyLTE01_T_SF.upk",
+      "thumbnail_package": "Wheel_SunsetEffigyLTE01_T",
+      "image_path": "images/13133.png"
     }
   ]
 }

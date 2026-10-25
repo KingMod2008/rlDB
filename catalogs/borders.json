@@ -2470,6 +2470,20 @@
       "thumbnail": "avatarborder_UmbraGenesisLTE01_T_SF.upk",
       "thumbnail_package": "avatarborder_UmbraGenesisLTE01_T",
       "image_path": "images/13037.png"
+    },
+    {
+      "id": "13127",
+      "internal_name": "avatarborder_sunseteffigylte01",
+      "name": "Five Nights",
+      "upk_path": "avatarborder_sunseteffigylte01_SF.upk",
+      "quality": "Limited",
+      "quality_id": 8,
+      "paintable": false,
+      "package": "avatarborder_sunseteffigylte01",
+      "path": "avatarborder_sunseteffigylte01.avatarborder_sunseteffigylte01",
+      "thumbnail": "AvatarBorder_SunsetEffigyLTE01_T_SF.upk",
+      "thumbnail_package": "AvatarBorder_SunsetEffigyLTE01_T",
+      "image_path": "images/13127.png"
     }
   ]
 }
