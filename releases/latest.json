@@ -1,11 +1,11 @@
 {
-  "notes": "KingMod 2026.10.26.0008\n\n- Added more primary and accent colours.\n- Fixed underglow with independent blue and orange team controls in the Garage.\n- Improved the Off / Neon selector and top icon spacing.\n- Fixed Garage navigation and Customize Car buttons.\n- Added an option to hide goal explosions.\n- Improved preparation notices and paused Start / Restart while changes are applying.\n- Added automatic verified backups and recovery tools for game packages changed by KingMod.",
-  "version": "2026.10.26.0008",
-  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.26.0008.zip",
-  "sha256": "34d792ebcf803f616eca4a1a0d5cef1950038d8487da7ec534d25720b3aaebde",
-  "bytes": 39661131,
-  "exe_sha256": "71c7342817857c201bb087584bab96140319dfc874ff0bbde2cf395c00db74cd",
-  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.26.0008.exe",
+  "notes": "Added Custom UI Changer.\n\n- Choose from 24 UI options, including KingMod Signature with KM icons.\n- New menu artwork, themed icons and button styles.\n- Added 10 new packs: Carbon Circuit, Blueprint Lab, Arcade 84, Chalk Workshop, Desert Rally, Sakura Night, Cosmic Orbit, Pixel Terminal, Luxe Noir and KingMod Signature.\n- Fixed stretched buttons, tabs and the friends-panel layout.\n- Preview each pack, apply it or restore the default game interface.\n- Improved setup progress and saved-change handling.",
+  "version": "2026.10.26.0012",
+  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.26.0012.zip",
+  "sha256": "1227fd4d36e5d62381020f495d10070e7f05ec065765afc0ddc2f09c60d715c9",
+  "bytes": 56298146,
+  "exe_sha256": "b840bed6cb502ef6bd7a284c82659a69ca9028431992ec1b3eae29ee441fad4f",
+  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.26.0012.exe",
   "setup_sha256": "37a321013b6af5174c9ee10e9309e3430213311d5be7687826f056b3a66abda9",
   "setup_bytes": 77312
 }

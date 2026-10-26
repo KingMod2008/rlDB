@@ -1,9 +1,8 @@
-KingMod 2026.10.26.0008
+Added Custom UI Changer.
 
-- Added more primary and accent colours.
-- Fixed underglow with independent blue and orange team controls in the Garage.
-- Improved the Off / Neon selector and top icon spacing.
-- Fixed Garage navigation and Customize Car buttons.
-- Added an option to hide goal explosions.
-- Improved preparation notices and paused Start / Restart while changes are applying.
-- Added automatic verified backups and recovery tools for game packages changed by KingMod.
+- Choose from 24 UI options, including KingMod Signature with KM icons.
+- New menu artwork, themed icons and button styles.
+- Added 10 new packs: Carbon Circuit, Blueprint Lab, Arcade 84, Chalk Workshop, Desert Rally, Sakura Night, Cosmic Orbit, Pixel Terminal, Luxe Noir and KingMod Signature.
+- Fixed stretched buttons, tabs and the friends-panel layout.
+- Preview each pack, apply it or restore the default game interface.
+- Improved setup progress and saved-change handling.

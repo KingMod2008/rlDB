@@ -1,0 +1,397 @@
+{
+  "schema": 1,
+  "themes": [
+    {
+      "id": "default",
+      "name": "Default",
+      "description": "Restore the original game interface.",
+      "author": "rlsdk",
+      "restore": true,
+      "asset_count": 507,
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/default.zip",
+      "sha256": "f15dad8138a436b5583f97b42fb0220813f1430a87f7d4bd7880f964a8f76220",
+      "bytes": 3707855,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/default.png",
+      "preview_sha256": "1574323101ee46ac9699900fe7709026156781823c828f055abe9343a1153077"
+    },
+    {
+      "id": "kingmod-signature",
+      "name": "KingMod Signature",
+      "description": "KM crest icons, precise red racing graphics and dark native controls.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/kingmod-signature.zip",
+      "sha256": "058d4b98d6e4326afac8bef66ea8a9ff1b55ef4b3abce53a2cfc8ba09a5f37f7",
+      "bytes": 332897,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/kingmod-signature.png",
+      "preview_sha256": "5e326fba3d387be7c87dfe3386d5c1183933ccf8415736568fab294d2b9b8624"
+    },
+    {
+      "id": "carbon-circuit",
+      "name": "Carbon Circuit",
+      "description": "Carbon weave, circuit diagrams and clean technical icons.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/carbon-circuit.zip",
+      "sha256": "4e8178cf466cd276c523fcb8c180918004a334afcd102b1cef5d4771192c8d9d",
+      "bytes": 330231,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/carbon-circuit.png",
+      "preview_sha256": "9f5a5c020c74d934ad5308f43d8ca8ecfcb72fb7ec2dad99c573caecf07c5de2"
+    },
+    {
+      "id": "blueprint-lab",
+      "name": "Blueprint Lab",
+      "description": "Editable engineering graphics, wireframe car plans and line icons.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/blueprint-lab.zip",
+      "sha256": "351ca5ebacf69ae69e4464fe318034ea9e228e3cf9580f34ea92b714cde8d219",
+      "bytes": 327560,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/blueprint-lab.png",
+      "preview_sha256": "53e64927413b74284d416d15f09cbd65dd6d9233790cc1f05adfeab489a97342"
+    },
+    {
+      "id": "arcade-84",
+      "name": "Arcade 84",
+      "description": "Retro vector horizon, dithered panels and chunky arcade icons.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/arcade-84.zip",
+      "sha256": "6c85fc16046c4e1764f6f9b4e63ceb4eeb9d8c489fe3cc40f139bad38d6f9862",
+      "bytes": 297554,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/arcade-84.png",
+      "preview_sha256": "c47c2bdc5c4fb167ba43f0b3cb1a1ecdc2f15c75a483450975211e458c96d855"
+    },
+    {
+      "id": "chalk-workshop",
+      "name": "Chalk Workshop",
+      "description": "Chalk diagrams, subtle slate grain and sketch-style icons.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/chalk-workshop.zip",
+      "sha256": "c04ceaf685b2a4506927602f38e7bf6a2d1030cb7bc5814bdcac61eeac3d0854",
+      "bytes": 340062,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/chalk-workshop.png",
+      "preview_sha256": "548987aeeaf46bb88409886272a55a0c7023ab4512d6a902eff69d3f60d6ff9c"
+    },
+    {
+      "id": "desert-rally",
+      "name": "Desert Rally",
+      "description": "Topographic rally maps, route markers and rally-inspired graphics.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/desert-rally.zip",
+      "sha256": "14ef757c993e3a558096287c3ef5eb1d661db81e14b6193a7050b05f85ab1b6e",
+      "bytes": 348847,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/desert-rally.png",
+      "preview_sha256": "3a15cc7e925fa8b3075aaa89fb1ba9c8168b053f16ac669cf5cad17f258957a7"
+    },
+    {
+      "id": "sakura-night",
+      "name": "Sakura Night",
+      "description": "Simple blossom graphics, flowing lines and soft brush-like icons.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/sakura-night.zip",
+      "sha256": "793f2a55e2bc27fd05d66e288ec72100487cfa6f690716a209307db3a8c78bbe",
+      "bytes": 330280,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/sakura-night.png",
+      "preview_sha256": "fe2adf726f248994ea0b1625fbf89318b634d204d031d6e254a93e33a796609c"
+    },
+    {
+      "id": "cosmic-orbit",
+      "name": "Cosmic Orbit",
+      "description": "Orbital diagrams, fine star maps and clean space-themed icons.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/cosmic-orbit.zip",
+      "sha256": "fbb38c904a1c16a294a0c676c94a4275298fd6f25c45c1420ca1f22e4b3ac405",
+      "bytes": 335484,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/cosmic-orbit.png",
+      "preview_sha256": "629566258dbae3f4f78513156bb45c564c88440e5a6cb973a35af42a796e7394"
+    },
+    {
+      "id": "pixel-terminal",
+      "name": "Pixel Terminal",
+      "description": "Terminal-grid graphics, phosphor details and crisp pixel icons.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/pixel-terminal.zip",
+      "sha256": "70ce906a8f2dd3269d0237a736551273fe604c15aebc5060d1f247df360b3d16",
+      "bytes": 289887,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/pixel-terminal.png",
+      "preview_sha256": "5053b720414d84b33c8188496e3bc80e80f8488a2764720f25a629147e0e5046"
+    },
+    {
+      "id": "luxe-noir",
+      "name": "Luxe Noir",
+      "description": "Art-deco linework, stepped geometry and fine gold icon details.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/luxe-noir.zip",
+      "sha256": "84f34e5f2f4de9e296ebcfb9e6361a3a46ea7a64c96e72d533f5c5febc787454",
+      "bytes": 334640,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/luxe-noir.png",
+      "preview_sha256": "367fce0c8576676f25e77627e410c2f8370410e85530c2c8115397e8a2bb89ac"
+    },
+    {
+      "id": "kingmod-arena",
+      "name": "KingMod Arena",
+      "description": "Arena artwork, hex frames and a new icon set.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/kingmod-arena.zip",
+      "sha256": "d937e886418f965d91ff661b107d2c4f2f0501a2962a0a5b2b096130c1ba7376",
+      "bytes": 501020,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/kingmod-arena.png",
+      "preview_sha256": "9e76f954642b6554fd727ca61ec0a9b3d0d9d58ff28219dca46539e098a2692c"
+    },
+    {
+      "id": "neon-city",
+      "name": "Neon City",
+      "description": "Cyberpunk-inspired city art, angular controls and glyphs.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/neon-city.zip",
+      "sha256": "5852ac78529b295b6e53cf9824eede56e29a48bb793c21e19ded57e615bc55e2",
+      "bytes": 550154,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/neon-city.png",
+      "preview_sha256": "27900a085fa052f3c8992d4d07a8e2605329897b162f441ac87bab2ba279a95d"
+    },
+    {
+      "id": "battle-island",
+      "name": "Battle Island",
+      "description": "Fortnite-inspired island art, rounded controls and bold icons.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/battle-island.zip",
+      "sha256": "6b65880fd6b0f7f3e55f4ccce5b8f7527a201f790a8cbfa035ed4a430547c8cf",
+      "bytes": 557809,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/battle-island.png",
+      "preview_sha256": "cccda76d13b5f9afa38e8b6644da5bd99f630febae9ea50863cc26d1c9d11872"
+    },
+    {
+      "id": "tactical-ops",
+      "name": "Tactical Ops",
+      "description": "Counter-Strike-inspired facility art, stencilled controls and icons.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/tactical-ops.zip",
+      "sha256": "59d51117bc6953fb97e682849de3a3513e260cfd6bce19d61fe5e8a32f7cb56e",
+      "bytes": 655647,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/tactical-ops.png",
+      "preview_sha256": "2d1c73e0a3318241384630d94f7bfb5b0af292cade92303336c7f30a1b3680c3"
+    },
+    {
+      "id": "pixel-quest",
+      "name": "Pixel Quest",
+      "description": "Minecraft/Terraria-inspired scenery, stone controls and pixel icons.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/pixel-quest.zip",
+      "sha256": "12938cced485c5f6d1d65d18b4cb8fbaf9cf48010810c4061cf7e30aa8f45629",
+      "bytes": 543303,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/pixel-quest.png",
+      "preview_sha256": "8fa040e5364419c427dcf12068b049cc267e2db451819810007c823e80276278"
+    },
+    {
+      "id": "night-drive",
+      "name": "Night Drive",
+      "description": "Need for Speed-inspired street art, carbon panels and speed-line controls.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 124,
+      "components": [
+        "artwork",
+        "icons",
+        "controls"
+      ],
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/night-drive.zip",
+      "sha256": "3dff6e2bb64225a7eabffea331e386451736e08040e9556d58e22dcdba06446a",
+      "bytes": 725209,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/night-drive.png",
+      "preview_sha256": "1771d2cc9ae86f0a32f3bf719d4c8d99838222cbe13eca481c35524652285961"
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft",
+      "description": "Block textures for menus, panels and buttons.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 54,
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/minecraft.zip",
+      "sha256": "4f34927c10ade8b9f2d1939caa110c82340a268ddb25e6f9340fb1281d35dde1",
+      "bytes": 348942,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/minecraft.png",
+      "preview_sha256": "bf46a1c9103f166be27630d5dbe8c8eebc8f7ff84437872811d60ea9c1d8f280"
+    },
+    {
+      "id": "classic-2019",
+      "name": "Classic 2019",
+      "description": "Classic panels, tabs, buttons and interface artwork.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 362,
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/classic-2019.zip",
+      "sha256": "e0956cb26b4e7035bdbb5cd8711debb3cbb66d0209cc30fdaa019f62adf61f42",
+      "bytes": 1488309,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/classic-2019.png",
+      "preview_sha256": "8b81b7a578e9bdf61f47f9edc692c7a04146d23b3e94eb4299e5e3bada578f68"
+    },
+    {
+      "id": "kingmod",
+      "name": "KingMod Red",
+      "description": "KingMod red panels, bright highlights and dark controls.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 84,
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/kingmod.zip",
+      "sha256": "a5a0b1ebd821865d4cc912dce6084b76f27aebc7b114f54fd7d126362f32826e",
+      "bytes": 346378,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/kingmod.png",
+      "preview_sha256": "2f886f4a98f88f5e38c8b5f2fb1f80d76dc37c28f6c76d1c39bd0ce8bd0b98c7"
+    },
+    {
+      "id": "midnight",
+      "name": "Midnight",
+      "description": "Violet and blue highlights on dark menu panels.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 84,
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/midnight.zip",
+      "sha256": "20f30ddb4a49cc63adab57449b2c8a2535e14657dd9b04713f529e7a628edfb3",
+      "bytes": 352882,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/midnight.png",
+      "preview_sha256": "60a48b8652d5df8807e52ae45efe83bc166e1293a8254da21d631c04da208e20"
+    },
+    {
+      "id": "emerald",
+      "name": "Emerald",
+      "description": "Emerald controls with soft mint highlights.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 84,
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/emerald.zip",
+      "sha256": "796e861d6b4f3cb5a6cfbe898436a95bc777af34b3a9f206b9fe966eeb8da415",
+      "bytes": 351444,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/emerald.png",
+      "preview_sha256": "431a84ede1bfaebb3c21b034bdc018b489e0679eef870d53d126a32a063c767c"
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "description": "Dark panels with warm gold controls and borders.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 84,
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/gold.zip",
+      "sha256": "cacd0de5d04c446043e99838850ae3ed2c5942c1675afb074d98eefbd0051d9a",
+      "bytes": 355497,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/gold.png",
+      "preview_sha256": "ebda0cef9ae8c2219d5cfff30da535a3424c0b3a910aeecf920787a9e72d66eb"
+    },
+    {
+      "id": "ice",
+      "name": "Ice",
+      "description": "Cool blue controls and pale ice highlights.",
+      "author": "rlsdk",
+      "restore": false,
+      "asset_count": 84,
+      "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/ice.zip",
+      "sha256": "2db6fdbb495f986e429f67ea60aaaeb130f407e872b89cf402f49c00daaae364",
+      "bytes": 355365,
+      "preview_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/patches/ui-themes/ice.png",
+      "preview_sha256": "46177498a420e8db79844c7e8345fd90d7c8cf16213c8664bd2b583154e9c34b"
+    }
+  ]
+}
