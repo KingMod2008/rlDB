@@ -1,0 +1,11 @@
+{
+  "notes": "Opponent boost nameplates.\n\n- Added built-in boost meters for opponents alongside teammate meters.\n- Open Account > Match Visuals and enable Show boost for both teams.\n- Close Rocket League before applying the setting, then launch the game again.",
+  "version": "2026.10.27.0008",
+  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.27.0008.zip",
+  "sha256": "736024a2b9dc62b318ef762fa186da4be2ce89ebc6de98e38de36cc52ec5c4ee",
+  "bytes": 61047820,
+  "exe_sha256": "857dea7af386eb0568bf3e1ada4834edaa9daea80b61fa06b0c1351aee00fc9e",
+  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.27.0008.exe",
+  "setup_sha256": "1c5756dd629c6a2f5493a6594c7098142acc1dc6b12c3995c8c965b254f42e25",
+  "setup_bytes": 77312
+}

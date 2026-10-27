@@ -1,8 +1,5 @@
-Custom UI updates.
+Opponent boost nameplates.
 
-- Download and delete UI packs from the Game UI page.
-- Removing an active theme restores the default interface first.
-- Restored Pixel Quest's original pixel-shaped panels, tabs and buttons.
-- Sharper 2K loading-screen artwork.
-- Added 17 UI packs, including Galaxy, anime, voxel, fantasy and racing themes.
-- 40 custom packs plus the default interface.
+- Added built-in boost meters for opponents alongside teammate meters.
+- Open Account > Match Visuals and enable Show boost for both teams.
+- Close Rocket League before applying the setting, then launch the game again.

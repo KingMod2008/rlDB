@@ -1,11 +1,11 @@
 {
-  "notes": "Custom UI updates.\n\n- Download and delete UI packs from the Game UI page.\n- Removing an active theme restores the default interface first.\n- Restored Pixel Quest's original pixel-shaped panels, tabs and buttons.\n- Sharper 2K loading-screen artwork.\n- Added 17 UI packs, including Galaxy, anime, voxel, fantasy and racing themes.\n- 40 custom packs plus the default interface.",
-  "version": "2026.10.27.0004",
-  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.27.0004.zip",
-  "sha256": "14ac76e34a3b58b3fa6f5b35052c45822fd2393012ccdcfae35f7fce2f0c293a",
-  "bytes": 60981333,
-  "exe_sha256": "36ee71308dec59f482958f518103101813bdc540309538fcdd65cfeb04040761",
-  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.27.0004.exe",
+  "notes": "Opponent boost nameplates.\n\n- Added built-in boost meters for opponents alongside teammate meters.\n- Open Account > Match Visuals and enable Show boost for both teams.\n- Close Rocket League before applying the setting, then launch the game again.",
+  "version": "2026.10.27.0008",
+  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.27.0008.zip",
+  "sha256": "736024a2b9dc62b318ef762fa186da4be2ce89ebc6de98e38de36cc52ec5c4ee",
+  "bytes": 61047820,
+  "exe_sha256": "857dea7af386eb0568bf3e1ada4834edaa9daea80b61fa06b0c1351aee00fc9e",
+  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.27.0008.exe",
   "setup_sha256": "1c5756dd629c6a2f5493a6594c7098142acc1dc6b12c3995c8c965b254f42e25",
   "setup_bytes": 77312
 }
