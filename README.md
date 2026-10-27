@@ -14,6 +14,8 @@ Original texture authors, descriptions and license terms are preserved inside ea
 
 ## Custom UI Changer
 
-Open **Textures → Game UI** in KingMod to preview and apply a pack. The collection contains 23 custom packs and the default interface, with menu artwork, themed icons and native control styles. KingMod Signature includes a KM crest and red racing graphics.
+Open **Textures → Game UI** in KingMod to preview and apply a pack. The collection contains 40 custom packs and the default interface, including Galaxy, Voxel Kingdom, Manga Midnight, Dungeon Forge, Candy Circuit, Holo Station and KingMod Carbon.
 
-Packs are available in [the UI catalogue](patches/ui-themes-github.json). Close Rocket League before applying a theme. You can restore the original interface from the same page.
+The current [UI catalogue](patches/ui-themes-github.json) uses UI format 2 for high-resolution backgrounds and pixel-shaped controls. Use a compatible KingMod client. Older clients keep their bundled themes.
+
+Close Rocket League before applying a theme. You can restore the original interface from the same page.
