@@ -1,11 +1,11 @@
 {
-  "notes": "Added Custom UI Changer.\n\n- Choose from 24 UI options, including KingMod Signature with KM icons.\n- New menu artwork, themed icons and button styles.\n- Added 10 new packs: Carbon Circuit, Blueprint Lab, Arcade 84, Chalk Workshop, Desert Rally, Sakura Night, Cosmic Orbit, Pixel Terminal, Luxe Noir and KingMod Signature.\n- Fixed stretched buttons, tabs and the friends-panel layout.\n- Preview each pack, apply it or restore the default game interface.\n- Improved setup progress and saved-change handling.",
-  "version": "2026.10.26.0012",
-  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.26.0012.zip",
-  "sha256": "1227fd4d36e5d62381020f495d10070e7f05ec065765afc0ddc2f09c60d715c9",
-  "bytes": 56298146,
-  "exe_sha256": "b840bed6cb502ef6bd7a284c82659a69ca9028431992ec1b3eae29ee441fad4f",
-  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.26.0012.exe",
-  "setup_sha256": "37a321013b6af5174c9ee10e9309e3430213311d5be7687826f056b3a66abda9",
+  "notes": "Custom UI updates.\n\n- Download and delete UI packs from the Game UI page.\n- Removing an active theme restores the default interface first.\n- Restored Pixel Quest's original pixel-shaped panels, tabs and buttons.\n- Sharper 2K loading-screen artwork.\n- Added 17 UI packs, including Galaxy, anime, voxel, fantasy and racing themes.\n- 40 custom packs plus the default interface.",
+  "version": "2026.10.27.0004",
+  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.27.0004.zip",
+  "sha256": "14ac76e34a3b58b3fa6f5b35052c45822fd2393012ccdcfae35f7fce2f0c293a",
+  "bytes": 60981333,
+  "exe_sha256": "36ee71308dec59f482958f518103101813bdc540309538fcdd65cfeb04040761",
+  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.27.0004.exe",
+  "setup_sha256": "1c5756dd629c6a2f5493a6594c7098142acc1dc6b12c3995c8c965b254f42e25",
   "setup_bytes": 77312
 }

@@ -1,8 +1,8 @@
-Added Custom UI Changer.
+Custom UI updates.
 
-- Choose from 24 UI options, including KingMod Signature with KM icons.
-- New menu artwork, themed icons and button styles.
-- Added 10 new packs: Carbon Circuit, Blueprint Lab, Arcade 84, Chalk Workshop, Desert Rally, Sakura Night, Cosmic Orbit, Pixel Terminal, Luxe Noir and KingMod Signature.
-- Fixed stretched buttons, tabs and the friends-panel layout.
-- Preview each pack, apply it or restore the default game interface.
-- Improved setup progress and saved-change handling.
+- Download and delete UI packs from the Game UI page.
+- Removing an active theme restores the default interface first.
+- Restored Pixel Quest's original pixel-shaped panels, tabs and buttons.
+- Sharper 2K loading-screen artwork.
+- Added 17 UI packs, including Galaxy, anime, voxel, fantasy and racing themes.
+- 40 custom packs plus the default interface.
