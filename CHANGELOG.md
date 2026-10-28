@@ -1,10 +1,12 @@
-KingMod 2026.10.28.0002 - Free mode and Premium controls
+KingMod 2026.10.28.0003 - Free mode and automatic Premium reset
 
 KingMod now opens without a key. Free mode includes local item spawning, your own local item customizations, and the Garage title collection. Activate Premium in Settings > Free & Premium.
 
+- Added a clear Free-mode notice to the desktop and in-game item/title menus: spawned items show locally in matches; spawned and custom titles need Premium for match display.
 - Refreshed interface with animated KingMod branding, a skippable startup animation, and an optional announcement chime.
 - Paid controls are visibly locked in Free mode. Premium covers match titles and shared Premium cosmetics, ping customization, opponent boost, Rocket Pass display overrides, KingMod drop spawning/opening, rank and season-reward display changes, and hiding goal explosions or demolition smoke.
-- Saved Premium settings stay inactive in Free mode. Sync Inventory and restoration remain available, and genuine Rocket League inventory and drops continue to work normally.
+- Expired or revoked Premium access now resets paid settings automatically. Queued paid drops are cancelled, old requests cannot reapply them, and paid options stay off after renewal until you enable them again.
+- The reset survives restarting KingMod and retries settings that could not be saved. Free item/title collections, genuine Rocket League inventory and drops, Sync Inventory, and restoration remain available.
 - Fixed the drop selector closing when clicking or typing in its search field.
 - Removed the old Profile title spoofer. The Garage title collection remains available.
 - Fixed Open KingMod in original-game mode so an incomplete reset no longer blocks access to the normal app. Reset reports and backups are retained.
