@@ -1,11 +1,11 @@
 {
-  "notes": "Opponent boost nameplates.\n\n- Added built-in boost meters for opponents alongside teammate meters.\n- Open Account > Match Visuals and enable Show boost for both teams.\n- Close Rocket League before applying the setting, then launch the game again.",
-  "version": "2026.10.27.0008",
-  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.27.0008.zip",
-  "sha256": "736024a2b9dc62b318ef762fa186da4be2ce89ebc6de98e38de36cc52ec5c4ee",
-  "bytes": 61047820,
-  "exe_sha256": "857dea7af386eb0568bf3e1ada4834edaa9daea80b61fa06b0c1351aee00fc9e",
-  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.27.0008.exe",
+  "notes": "KingMod 2026.10.28.0002 - Free mode and Premium controls\n\nKingMod now opens without a key. Free mode includes local item spawning, your own local item customizations, and the Garage title collection. Activate Premium in Settings > Free & Premium.\n\n- Refreshed interface with animated KingMod branding, a skippable startup animation, and an optional announcement chime.\n- Paid controls are visibly locked in Free mode. Premium covers match titles and shared Premium cosmetics, ping customization, opponent boost, Rocket Pass display overrides, KingMod drop spawning/opening, rank and season-reward display changes, and hiding goal explosions or demolition smoke.\n- Saved Premium settings stay inactive in Free mode. Sync Inventory and restoration remain available, and genuine Rocket League inventory and drops continue to work normally.\n- Fixed the drop selector closing when clicking or typing in its search field.\n- Removed the old Profile title spoofer. The Garage title collection remains available.\n- Fixed Open KingMod in original-game mode so an incomplete reset no longer blocks access to the normal app. Reset reports and backups are retained.\n\nClose Rocket League before updating or changing tiers so previously loaded native changes can be restored or rebuilt.",
+  "version": "2026.10.28.0002",
+  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.28.0002.zip",
+  "sha256": "c4b9032d745246a3e44297a178dba7f7cc111b47b6219e1dd23ec2a7a33e09e8",
+  "bytes": 60020299,
+  "exe_sha256": "ac306b60e306c79d4ae1a06efb81fbe492253077f63023dee20d286b02240bfe",
+  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.28.0002.exe",
   "setup_sha256": "1c5756dd629c6a2f5493a6594c7098142acc1dc6b12c3995c8c965b254f42e25",
   "setup_bytes": 77312
 }
