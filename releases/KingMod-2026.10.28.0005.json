@@ -1,0 +1,11 @@
+{
+  "notes": "KingMod 2026.10.28.0005 - Fixed menu flickering and typing\n\n- Fixed the menu shaking or refreshing while Rocket League is running.\n- Fixed custom-title and search fields losing focus while typing. You can keep typing without clicking the field again.\n- Fixed in-game menu input being interrupted by background inventory updates.\n\nClose Rocket League before updating, then reopen KingMod to load the fix. Your existing settings are preserved.",
+  "version": "2026.10.28.0005",
+  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.10.28.0005.zip",
+  "sha256": "cfc3915f2aeef2526ec19828c3056e2c9b5735b5428915bb15a5e947a485cf95",
+  "bytes": 60075252,
+  "exe_sha256": "d1b3e74c61c9fa5f028c80849f5db8ca45b074eced978ffcb4c887c1534bae71",
+  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.10.28.0005.exe",
+  "setup_sha256": "1c5756dd629c6a2f5493a6594c7098142acc1dc6b12c3995c8c965b254f42e25",
+  "setup_bytes": 77312
+}

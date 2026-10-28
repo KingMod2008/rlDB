@@ -1,3 +1,13 @@
+KingMod 2026.10.28.0005 - Fixed menu flickering and typing
+
+- Fixed the menu shaking or refreshing while Rocket League is running.
+- Fixed custom-title and search fields losing focus while typing. You can keep typing without clicking the field again.
+- Fixed in-game menu input being interrupted by background inventory updates.
+
+Close Rocket League before updating, then reopen KingMod to load the fix. Your existing settings are preserved.
+
+---
+
 KingMod 2026.10.28.0004 - Premium player names and clearer title guidance
 
 KingMod now opens without a key. Free mode includes local item spawning, your own local item customizations, and the Garage title collection. Activate Premium in Settings > Free & Premium.
