@@ -1,6 +1,6 @@
 # KingMod
 
-Latest client: **2026.10.28.0003**. Release news is available in the [changelog](CHANGELOG.md).
+Latest client: **2026.10.28.0004**. Release news is available in the [changelog](CHANGELOG.md).
 
 Download [KingMod Setup](https://raw.githubusercontent.com/KingMod2008/rlDB/main/KingMod-Setup.exe) to install the current client. Setup has separate Reinstall and Update actions. Update is available only for a newer release; new update notices appear inside KingMod.
 
@@ -24,7 +24,7 @@ Close Rocket League before applying a theme. You can restore the original interf
 
 KingMod opens in Free mode without a key. Spawn ordinary items and titles into your local collection, use your own local item customizations, and access Sync Inventory and restoration. Activate a key in **Settings > Free & Premium**.
 
-Premium includes match-title display, shared Premium cosmetics, ping customization, opponent boost, Rocket Pass display overrides, KingMod-created drop spawning/opening, rank and season-reward display overrides, and hiding goal explosions or demolition smoke. Paid controls are disabled in Free mode. Genuine Rocket League inventory, drops and progression remain available.
+Premium includes match-title display, shared Premium cosmetics, ping customization, opponent boost, Original player names, Rocket Pass display overrides, KingMod-created drop spawning/opening, rank and season-reward display overrides, and hiding goal explosions or demolition smoke. Paid controls are disabled in Free mode. Genuine Rocket League inventory, drops and progression remain available.
 
 Expired or revoked Premium access automatically resets paid settings and cancels queued paid drops. Free item and title collections remain available.
 
