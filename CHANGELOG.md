@@ -1,3 +1,20 @@
+KingMod 2026.11.06.0011 - Faster setup, progress and BakkesPlugins maps
+
+- Preparation and verification now show a 0-100% progress bar, the current step, elapsed time and estimated time remaining.
+- Current profile checks decode the game package once. Verified unchanged packages reuse checks after restart, and unchanged options avoid rebuilding the profile.
+- Fixed previous-build profile records blocking setup. KingMod preserves old recovery records and reapplies saved options against verified current item support.
+- Compatibility checks refresh the reviewed catalog automatically, with cached support offline. Supported Steam/Epic package compression changes can be recognized without launcher verification. Compatible changes prepare after Rocket League closes; temporary failures retry.
+- Browse maps from BakkesPlugins with creator credit, map links and background thumbnail loading. Removed Import Map and the Multiplayer page from Maps.
+- Added letters jumping into KingMod in order and a final whole-word shake. Telegram notification and Rizz intro sounds are embedded, with mute, volume and reduced-motion controls.
+- Saved Premium preferences survive temporary service outages and can reapply when verified access returns.
+- The database updater lists numbered dump folders for selection and fixes staging failures while retaining the checkout. The call inspector exports function and PsyNet method diagnostics.
+
+47 targeted checks passed and three previews were checked. Repeat read-only verification measured about 0.33 seconds versus about 2 seconds uncached on an isolated release fixture; this does not measure first installation or game launch. In-game behavior, production atomic recovery and a real Epic installation still need testing. Unknown future script changes may require a reviewed compatibility catalog or a new client.
+
+Close Rocket League before updating. Existing settings and original-game reset state are preserved. To play a loaded map, select the same replacement arena in Training > Free Play.
+
+---
+
 KingMod 2026.10.28.0005 - Fixed menu flickering and typing
 
 - Fixed the menu shaking or refreshing while Rocket League is running.

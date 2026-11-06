@@ -1,6 +1,6 @@
 # KingMod
 
-Latest client: **2026.10.28.0005**. Release news is available in the [changelog](CHANGELOG.md).
+Latest client: **2026.11.06.0011**. Release news is available in the [changelog](CHANGELOG.md).
 
 Download [KingMod Setup](https://raw.githubusercontent.com/KingMod2008/rlDB/main/KingMod-Setup.exe) to install the current client. Setup has separate Reinstall and Update actions. Update is available only for a newer release; new update notices appear inside KingMod.
 
@@ -29,3 +29,5 @@ Premium includes match-title display, shared Premium cosmetics, ping customizati
 Expired or revoked Premium access automatically resets paid settings and cancels queued paid drops. Free item and title collections remain available.
 
 Close Rocket League before updating or changing tiers so previously loaded native changes can be restored or rebuilt.
+
+Database dump picker for 2026.11.06.0011: [Download updater](https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Database-Updater-2026.11.06.0011.zip).
