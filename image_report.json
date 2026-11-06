@@ -1,0 +1,1118 @@
+{
+  "processed": 9456,
+  "exported": 9178,
+  "missing": [
+    {
+      "product_id": 70,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 71,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 72,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 73,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 74,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 75,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 76,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 77,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 78,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 79,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 80,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 81,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 82,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 83,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 84,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 85,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 86,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 87,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 88,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 89,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 90,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 91,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 92,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 93,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 94,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 95,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 96,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 97,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 98,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 99,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 100,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 101,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 102,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 103,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 104,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 105,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 106,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 107,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 108,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 109,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 110,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 111,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 112,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 113,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 114,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 115,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 116,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 117,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 118,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 119,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 120,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 121,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 122,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 123,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Bots_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 1470,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Hat_BlackMarketPreview_T_SF.upk: "
+    },
+    {
+      "product_id": 2223,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2224,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2225,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2226,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2227,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2228,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2229,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2230,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2231,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2232,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2233,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2234,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2235,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2236,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2237,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2238,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2239,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2240,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2241,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2242,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 2243,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SeasonLogos_T_SF.upk: "
+    },
+    {
+      "product_id": 3036,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\title_generic_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4049,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\RocketPass_Premium_T_SF.upk: "
+    },
+    {
+      "product_id": 4097,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Cloud9_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4098,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Dignitas_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4099,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_EvilGeniuses_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4102,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_G2_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4103,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_GhostGaming_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4104,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Mousesports_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4105,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_NRG_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4106,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_PSG_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4108,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\EsportsTeam_RenaultVitality_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4110,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\EsportsTeam_Splyce_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4114,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Rogue_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4115,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_TSM_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4500,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Complexity_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4502,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_SpacestationGaming_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4566,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\EngineAudio_Durian_T_SF.upk: "
+    },
+    {
+      "product_id": 4601,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_mitty_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4692,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\EngineAudio_Kusanagi_T_SF.upk: "
+    },
+    {
+      "product_id": 4796,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_raddish_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4843,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_pittsburghknights_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4844,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_reciprocity_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4862,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_veloce_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4867,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_eunited_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 4875,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_nrg_season8_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5009,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_CarCar_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5103,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\EngineAudio_Fuego_T_SF.upk: "
+    },
+    {
+      "product_id": 5431,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_unicorn_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5434,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_Endo_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5435,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_Flatbread_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5436,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_Mitty_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5437,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_MuscleCar_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5438,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_MuscleCar2_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5439,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_O2_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5440,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_Pumpernickel_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5441,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_Rhino2_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5442,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_Sourdough_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5443,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_Takumi_II_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5444,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_Torch2_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5445,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_Twinzer_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5446,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ShopItem_Body_Wheatbread_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5511,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_alpine_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5512,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_endpoint_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5513,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_guild_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5514,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_oxygen_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5515,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_solary_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5516,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_susquehannasoniqs_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5517,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_teambds_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5518,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_teamenvy_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5519,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\esportsteam_teamliquid_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5635,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\EngineAudio_Amber_T_SF.upk: "
+    },
+    {
+      "product_id": 5848,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\EngineAudio_Brick_T_SF.upk: "
+    },
+    {
+      "product_id": 5933,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\EngineAudio_Rev_Drof_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 5980,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_oblong_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6046,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\PaintFinish_RonB_Custom_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6053,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_fracture_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6797,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_sixty_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6850,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Giants_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6851,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_KarmineCorp_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6852,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_RixGG_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6853,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_SemperEsports_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6854,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_SKGaming_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6855,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_TeamQueso_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6856,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_TeamSingularity_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6857,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_FazeClan_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6858,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_PWR_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6859,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Rebellion_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6860,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Torrent_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6861,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_TrueNeutral_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6862,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Version1_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6863,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_XSET_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6865,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Furia_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6866,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_GroundZeroGaming_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6867,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Renegades_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6919,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_heaven_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 6980,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\EngineAudio_Norton_T_SF.upk: "
+    },
+    {
+      "product_id": 7176,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_ran_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 7400,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Misfits_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 7831,
+      "reason": "No readable thumbnail in \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\EngineAudio_Quartz_T_SF.upk: "
+    },
+    {
+      "product_id": 8345,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_pete_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8445,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_KansasCityPioneers_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8446,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Luminosity_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8447,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_MoistEsports_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8448,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_OpticGaming_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8449,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_TeamFalcons_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8450,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_TeamSecret_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8558,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_ten_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8569,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_beak_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8624,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_beak_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8625,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_beak_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8736,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_EndGame_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8738,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_GenG_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8739,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Quadrant_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8740,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Tundra_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8801,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\EsportsTeam_Resolve_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8935,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_dub_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 8936,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_dub_t2_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 9715,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_pixie_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 9929,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\engineaudio_ghost_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 10193,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Elevate_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 10195,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_GentleMates_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 10196,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_KRU_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 10197,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_M80_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 10198,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_NIP_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 10199,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_OG_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 10200,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_RuleOne_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 10201,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_VirtusPro_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 10208,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\ESportsTeam_Limitless_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 11116,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12124,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12405,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Esportsteam_FUT_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 12406,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Esportsteam_Geekay_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 12408,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Esportsteam_TwistedMinds_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 12409,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Esportsteam_Wildcard_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 12410,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Esportsteam_ManchesterCity_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 12524,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12629,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Esportsteam_MIBR_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 12681,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12803,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12822,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12837,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12884,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12916,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\crateunlocked_RoutineBarley_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 12917,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12961,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12965,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Explosion_SunsetEffgy01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 12967,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12973,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12981,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12983,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12986,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12989,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_UniSunsetEffigyLTE01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 12990,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Boost_RoutineBarley01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 12991,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Explosion_RoutineBarley01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 12992,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 12997,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Antenna_RoutineBarley01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13000,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13004,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\PlayerBanner_RoutineBarleyLTE01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13005,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\PlayerBanner_RoutineBarleyLTE02_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13006,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\hat_RoutineBarley01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13010,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13013,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Hat_SunsetEffigyLTE01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13015,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13028,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Explosion_S24RLCSWinner_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13032,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\skin_Octane_SunsetEffigy01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13037,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13038,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13042,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13043,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13045,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13046,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\hat_sunseteffigylte03_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13047,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\SS_RoutineBarley01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13048,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13049,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Body_SandTote_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13050,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13051,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13053,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13054,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Hat_SunsetEffigyLTE02_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13055,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\hat_sunseteffigylte04_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13056,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13058,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13060,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13061,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13065,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13066,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_ScarA_Ramuh01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13067,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_ScarA_Ramuh02_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13068,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_ScarA_Ramuh03_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13069,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_ScarA_Ramuh04_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13072,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13073,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13076,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\skin_scar_a_default_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13077,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13078,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\skin_octane_RoutineBarley01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13079,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\skin_octane_RoutineBarley02_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13096,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13097,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13098,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_SandToteLivery01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13099,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_SandToteRoutineBarley01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13103,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13127,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\AvatarBorder_SunsetEffigyLTE01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13128,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\PlayerBanner_SunsetEffigyLTE01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13129,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_Grain_RoutineBarley01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13130,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_Grain_RoutineBarley02_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13131,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13132,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13133,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Wheel_SunsetEffigyLTE01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13143,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Wheel_SandTote01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13145,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13146,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13150,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\skin_SandToteLivery03_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13151,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_SandToteRoutineBarley03_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13154,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_SandToteRoutineBarley02_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13161,
+      "reason": "No embedded key can decrypt this UPK"
+    },
+    {
+      "product_id": 13163,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\CrateUnlocked_SunsetEffigy_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13164,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\skin_SandToteTreasureHunt02_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13170,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Wheel_RoutineBarley01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13171,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_SandToteLivery02_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13178,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_BurnishedRaven_TreasureHunt01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13179,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\EngineAudio_SandTote_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13219,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_Wurst_TreasureHunt01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13220,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\skin_Eagle_treasurehunt01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    },
+    {
+      "product_id": 13223,
+      "reason": "Could not read \\\\?\\D:\\SteamLibrary\\steamapps\\common\\rocketleague\\TAGame\\CookedPCConsole\\Skin_SandTote_TreasureHunt01_T_SF.upk: The system cannot find the file specified. (os error 2)"
+    }
+  ]
+}

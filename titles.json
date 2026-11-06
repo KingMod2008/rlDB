@@ -27856,6 +27856,44 @@
       "text": "S24 Wins: {StatValue}"
     },
     {
+      "category": "StatTitleThreshold0",
+      "color": {
+        "a": 255,
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "glow_color": {
+        "a": 255,
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "icon_texture": "",
+      "id": "S24_SHOTSONTARGET_TRACKER",
+      "sort_priority": 0,
+      "text": "Shots on Target: {StatValue}"
+    },
+    {
+      "category": "StatTitleThreshold0",
+      "color": {
+        "a": 255,
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "glow_color": {
+        "a": 255,
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "icon_texture": "",
+      "id": "S24_SHOTSALMOSTONTARGET_TRACKER",
+      "sort_priority": 0,
+      "text": "Shots Almost on Target: {StatValue}"
+    },
+    {
       "category": "None",
       "color": {
         "a": 255,
