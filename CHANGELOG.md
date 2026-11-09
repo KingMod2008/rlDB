@@ -1,3 +1,17 @@
+KingMod 2026.11.09.0015 - Item spawning, Free events and workshop maps
+
+- Added Spawn All for the current item or title search and filters, with one of each result and default attributes. Notify controls whether new items show an in-game popup or arrive quietly.
+- Improved queued item delivery, inventory refresh handling and redelivery after starting a new game session. Genuine inventory and progression stay intact; KingMod-created local drops have been removed.
+- Free mode opens without a key or server connection. Added support for signed, timed owner Free events that enable Premium while active and return event users to Free when they end. Paid keys keep their own access and expiry.
+- Free clients can receive signed announcements. Temporary service outages preserve remembered keys and saved Premium preferences while access is rechecked.
+- Browse and download BakkesPlugins workshop maps with creator links, progress, retry, favorites and a downloaded library. Load maps while Rocket League is closed and restore the original arena when finished.
+- Added prepared workshop map entries to Join LAN Match and map checks/sharing for friends on the same LAN or an existing private VPN. Internet play requires a shared Tailscale or ZeroTier connection. Live local hosting and a real two-PC match still need in-game verification.
+- Faster setup verification, progress with elapsed/remaining time, automatic reviewed compatibility checks and recovery for previous-build profile records. The original-game reset barrier remains in place.
+
+Close Rocket League before updating. Existing settings and recovery data are preserved. Free-event and continuous announcement support also require the matching license-server update; publishing this client does not deploy that server update.
+
+---
+
 KingMod 2026.11.06.0011 - Faster setup, progress and BakkesPlugins maps
 
 - Preparation and verification now show a 0-100% progress bar, the current step, elapsed time and estimated time remaining.
