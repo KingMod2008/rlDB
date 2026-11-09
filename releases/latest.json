@@ -1,11 +1,11 @@
 {
-  "version": "2026.11.09.0015",
-  "notes": "KingMod 2026.11.09.0015 - Item spawning, Free events and workshop maps\n\n- Added Spawn All for the current item or title search and filters, with one of each result and default attributes. Notify controls whether new items show an in-game popup or arrive quietly.\n- Improved queued item delivery, inventory refresh handling and redelivery after starting a new game session. Genuine inventory and progression stay intact; KingMod-created local drops have been removed.\n- Free mode opens without a key or server connection. Added support for signed, timed owner Free events that enable Premium while active and return event users to Free when they end. Paid keys keep their own access and expiry.\n- Free clients can receive signed announcements. Temporary service outages preserve remembered keys and saved Premium preferences while access is rechecked.\n- Browse and download BakkesPlugins workshop maps with creator links, progress, retry, favorites and a downloaded library. Load maps while Rocket League is closed and restore the original arena when finished.\n- Added prepared workshop map entries to Join LAN Match and map checks/sharing for friends on the same LAN or an existing private VPN. Internet play requires a shared Tailscale or ZeroTier connection. Live local hosting and a real two-PC match still need in-game verification.\n- Faster setup verification, progress with elapsed/remaining time, automatic reviewed compatibility checks and recovery for previous-build profile records. The original-game reset barrier remains in place.\n\nClose Rocket League before updating. Existing settings and recovery data are preserved. Free-event and continuous announcement support also require the matching license-server update; publishing this client does not deploy that server update.",
-  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.11.09.0015.zip",
-  "sha256": "ef808641992a80cbb191726338dab77a37a415f6b6a065317f494d1ad8546ccc",
-  "bytes": 61432049,
-  "exe_sha256": "c793dc5e39d7cef7e7d730af60cb1d1e9c6235939871a2ea7f83a3b56a5e5f24",
-  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.11.09.0015.exe",
+  "version": "2026.11.09.0016",
+  "notes": "",
+  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.11.09.0016.zip",
+  "sha256": "7594766dd77f9499e4610d0d307221ab8744b127f91c6b3fffa73ea73fb987bd",
+  "bytes": 61451985,
+  "exe_sha256": "e6eccf1b7b740a9b5642bfb721cdc7539c1e8ef971523d60898d059ea2a0262c",
+  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.11.09.0016.exe",
   "setup_sha256": "1c5756dd629c6a2f5493a6594c7098142acc1dc6b12c3995c8c965b254f42e25",
   "setup_bytes": 77312
 }
