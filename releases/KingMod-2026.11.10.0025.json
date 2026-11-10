@@ -1,0 +1,11 @@
+{
+  "version": "2026.11.10.0025",
+  "notes": "Garage colors and player-name refresh\n\n- Added a distinct color-wheel tab in Customize Car for the in-game color effects page.\n- Kept primary and accent effects, underglow, car-light tints, HUD colors and stadium colors together in the Garage controls.\n- Included the Customize Car entry repair and the corrected appearance handler for the earlier loading crash.\n- Fixed nameplates keeping a cached name when a newer display name has been received. The scoreboard continues to use received names. Missing or empty player data keeps the original fallback.\n\nOriginal Player Name is a local Premium option. Names that the server never sends cannot be recovered.\n\nRestart KingMod and Rocket League after updating. Build, package and regression checks passed; the latest color-tab artwork and nameplate refresh still need in-game validation.",
+  "url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.11.10.0025.zip",
+  "sha256": "a36d53cab3af100dc222257fdc8f8933ac6348d50a7b0cb629b815d8c5d0c170",
+  "bytes": 62011029,
+  "exe_sha256": "1a7a67a970ed681d0b15ee4a1f9d7e7a29e00f18064ad618cc52bc252986ca13",
+  "setup_url": "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.11.10.0025.exe",
+  "setup_sha256": "1c5756dd629c6a2f5493a6594c7098142acc1dc6b12c3995c8c965b254f42e25",
+  "setup_bytes": 77312
+}
