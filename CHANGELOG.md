@@ -1,3 +1,9 @@
+## KingMod 2026.11.23.0007
+
+edited the ui , fixed error issue for epicgame players
+
+---
+
 ## KingMod 2026.11.21.0013
 
 Your Garage, your style
