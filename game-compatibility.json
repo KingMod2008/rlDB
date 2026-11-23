@@ -2,6 +2,21 @@
   "schema_version": 1,
   "game_build": "Rocket League 261013.63066.530866",
   "fingerprints": {
+    "alpha_color.clean_content": {
+      "sha256": "b12600642f67121bc925dd5471f8d10e65feca39877063e45c903f2782134e2b",
+      "description": "Original Alpha Boost decoded names, imports, export metadata and all payloads; Steam and Epic compression independent",
+      "legacy": false
+    },
+    "retired_image.clean_content": {
+      "sha256": "edd51b4e9740afab636d3af11bc99efce45606737b50031f038bb6295d57e95e",
+      "description": "Original GFxShell decoded names, imports, export metadata and all payloads",
+      "legacy": false
+    },
+    "retired_image.epic_clean_content": {
+      "sha256": "15f347b726a24e7047ccefda1bb23b0f1650a80719aa6bfebc90f06eb672c872",
+      "description": "Epic GFxShell stock metadata variant; all 273 decoded payloads and 66 imports match the verified original",
+      "legacy": false
+    },
     "match_cosmetics.functions.PRI_TA.SetPlayerHistoryKey": {
       "sha256": "70692589f6c136b88dcb9e68d81483e9235793b728bd809e772ecb6cccb084d9",
       "description": "match cosmetics.functions.PRI TA.SetPlayerHistoryKey",
