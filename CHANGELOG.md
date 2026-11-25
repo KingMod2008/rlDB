@@ -1,3 +1,9 @@
+## KingMod 2026.11.24.0001
+
+- fixed applying issues for epic games players (premuim issue)
+
+---
+
 ## KingMod 2026.11.23.0007
 
 edited the ui , fixed error issue for epicgame players
