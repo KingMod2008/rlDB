@@ -1,11 +1,11 @@
 {
-    "version":  "2026.11.23.0009",
+    "version":  "2026.11.24.0001",
     "notes":  "",
-    "url":  "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.11.23.0009.zip",
-    "sha256":  "bce90250711ecb3befccb33f91c076175bfa134f7c237029be7d4863166f8fc1",
-    "bytes":  64247409,
-    "exe_sha256":  "8ae50e3b881d80b851df42ac5c6d4075cf5856d6a5d34adbf2736715268290f4",
-    "setup_url":  "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.11.23.0009.exe",
+    "url":  "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-2026.11.24.0001.zip",
+    "sha256":  "5546838e23b04ce4a0145e41e50d7a86574dd45efdb827dc35f33ee1f1cdf1dd",
+    "bytes":  64216914,
+    "exe_sha256":  "d9bda9475c4e028645a6031db98d6c1a33fff875264abfb10ede30f0ef5d5a51",
+    "setup_url":  "https://raw.githubusercontent.com/KingMod2008/rlDB/main/releases/KingMod-Setup-2026.11.24.0001.exe",
     "setup_sha256":  "1c5756dd629c6a2f5493a6594c7098142acc1dc6b12c3995c8c965b254f42e25",
     "setup_bytes":  77312
 }
